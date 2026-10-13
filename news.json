@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-13T11:58:07.740928+00:00",
+  "updated": "2026-10-13T12:28:28.208980+00:00",
   "news": [
+    {
+      "h": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+      "es": "Mientras crecen las protestas de las 'Cucarachas' por un presunto fraude electoral, Modi defiende a la India como 'madre de la democracia'",
+      "d": "Se han intensificado las protestas en India exigiendo la destitución del comisionado jefe electoral por presunto fraude electoral.",
+      "u": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:19:37+00:00"
+    },
+    {
+      "h": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
+      "es": "BlackRock y Baillie Gifford apuestan fuerte por las casas Icon impresas en 3D",
+      "d": "Icon, uno de los mayores actores del sector inmobiliario impreso en 3D, anuncia su financiación Serie D de 200 millones de dólares codirigida por Baillie Gifford y fondos gestionados por BlackRock, entre otros.",
+      "u": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:18:44+00:00"
+    },
+    {
+      "h": "Poundland in rescue talks as owners seek buyer",
+      "es": "Poundland en conversaciones de rescate mientras los propietarios buscan un comprador",
+      "d": "El equipo directivo está intentando realizar una compra, pero un sindicato ha advertido que el minorista podría caer en la administración.",
+      "u": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "2026-10-13T12:17:17+00:00"
+    },
+    {
+      "h": "Cipher Digital stock drops 12% following $850 million debt offering",
+      "es": "Las acciones de Cipher Digital caen un 12% tras una oferta de deuda de 850 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cipher-digital-stock-drops-12-following-850-million-debt-offering-4946519",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6R1S0_L.jpg",
+      "published": "2026-10-13T12:14:31+00:00"
+    },
+    {
+      "h": "TSX futures rise amid easing bond yields, higher gold prices",
+      "es": "Los futuros del TSX suben en medio de la flexibilización de los rendimientos de los bonos y el aumento de los precios del oro",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-easing-bond-yields-higher-gold-prices-4946515",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "published": "2026-10-13T12:12:09+00:00"
+    },
+    {
+      "h": "Barclays boosts Viking Holdings target to $102, citing strong entry point",
+      "es": "Barclays eleva el objetivo de Viking Holdings a 102 dólares, citando un fuerte punto de entrada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-boosts-viking-holdings-target-to-102-citing-strong-entry-point-4946468",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-13T12:07:20+00:00"
+    },
+    {
+      "h": "Exclusive-LSEG considers bid for Octus financial data group, sources say",
+      "es": "Exclusiva-LSEG considera oferta por el grupo de datos financieros Octus, dicen fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivelseg-considers-bid-for-octus-financial-data-group-sources-say-4946485",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C12V_L.jpg",
+      "published": "2026-10-13T12:06:34+00:00"
+    },
+    {
+      "h": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
+      "es": "Por qué el gestor de fondos número uno del mundo acaba de cambiar de opinión sobre los bonos por primera vez en seis años",
+      "d": "Después de seis años, BlackRock encuentra oportunidades en los bonos gubernamentales.",
+      "u": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-75446828",
+      "published": "2026-10-13T12:04:00+00:00"
+    },
+    {
+      "h": "UnitedHealth raises profit forecast again as turnaround efforts gather pace",
+      "es": "UnitedHealth eleva nuevamente su pronóstico de ganancias a medida que se aceleran los esfuerzos de recuperación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/unitedhealth-group-raises-profit-forecast-on-thirdquarter-earnings-beat-4945967",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0RF_L.jpg",
+      "published": "2026-10-13T12:01:16+00:00"
+    },
+    {
+      "h": "BetMGM Q3 revenue rises, maintains annual outlook",
+      "es": "Los ingresos de BetMGM en el tercer trimestre aumentan y mantienen la perspectiva anual",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/betmgm-q3-revenue-rises-maintains-annual-outlook-4946435",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C124_L.jpg",
+      "published": "2026-10-13T12:01:03+00:00"
+    },
+    {
+      "h": "Three things we've learnt about the UK economy from the IMF",
+      "es": "Tres cosas que hemos aprendido del FMI sobre la economía del Reino Unido",
+      "d": "El influyente organismo económico ha mejorado su pronóstico de crecimiento del Reino Unido para este año, pero los riesgos persisten.",
+      "u": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
+      "published": "2026-10-13T11:58:43+00:00"
+    },
+    {
+      "h": "Telenor placed on negative catalyst watch at JPM ahead of Q3 results",
+      "es": "Telenor colocado bajo vigilancia negativa sobre catalizadores en JPM antes de los resultados del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/telenor-placed-on-negative-catalyst-watch-at-jpm-ahead-of-q3-results-4946427",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI8J05T_L.jpg",
+      "published": "2026-10-13T11:58:36+00:00"
+    },
+    {
+      "h": "HSBC cautious on Adobe, flags headline risk from free software clone",
+      "es": "HSBC se muestra cauteloso con Adobe y señala el riesgo de clonación de software libre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hsbc-cautious-on-adobe-flags-headline-risk-from-free-software-clone-4946425",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J10M_1200_L.jpg",
+      "published": "2026-10-13T11:57:45+00:00"
+    },
+    {
+      "h": "Top Human Capital Management Stocks to Watch, According to TD Cowen",
+      "es": "Principales acciones de gestión de capital humano a tener en cuenta, según TD Cowen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-human-capital-management-stocks-to-watch-according-to-td-cowen-4946424",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-13T11:57:40+00:00"
+    },
     {
       "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
       "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
@@ -27,6 +153,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/BioNTech_800x533_L_1602254029.jpg",
       "published": "2026-10-13T11:49:46+00:00"
+    },
+    {
+      "h": "BA flight forced to turn back over cracked window",
+      "es": "Un vuelo de BA se vio obligado a dar marcha atrás por una ventana rota",
+      "d": "British Airways dijo que el avión aterrizó de manera segura en Gatwick y que los pasajeros debían reanudar su viaje.",
+      "u": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9603/live/3d98fa50-c6fc-11f1-b4dd-e786ec6f11b1.jpg",
+      "published": "2026-10-13T11:48:07+00:00"
     },
     {
       "h": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
       "published": "2026-10-13T11:28:00+00:00"
-    },
-    {
-      "h": "Piper says Nike continues to lose teen market share as On Running gains",
-      "es": "Piper dice que Nike continúa perdiendo participación en el mercado adolescente a medida que On Running gana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/piper-says-nike-continues-to-lose-teen-market-share-as-on-running-gains-93CH-4946334",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB2J0BM_M.jpg",
-      "published": "2026-10-13T11:26:58+00:00"
-    },
-    {
-      "h": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-      "es": "Los frigoríficos de los supermercados franceses son pirateados, se calientan a 50 °C y provocan incendios",
-      "d": "Los piratas informáticos atacaron cientos de supermercados franceses en un ciberataque a gran escala, provocando que los refrigeradores se sobrecalentaran, estropearan los alimentos y provocaran incendios.",
-      "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T11:26:07+00:00"
-    },
-    {
-      "h": "Why is Wells Fargo stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Wells Fargo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-wells-fargo-stock-sliding-today-93CH-4946328",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC8C0PB_M.jpg",
-      "published": "2026-10-13T11:25:33+00:00"
-    },
-    {
-      "h": "S&P futures turn negative following bank earnings slate",
-      "es": "Los futuros del S&P se vuelven negativos tras la publicación de resultados bancarios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-13T11:21:18+00:00"
-    },
-    {
-      "h": "Premarket movers:  UnitedHealth jumps, chip stocks slide",
-      "es": "Motrices previas a la comercialización: UnitedHealth salta, las acciones de chips caen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/premarket-movers--unitedhealth-jumps-chip-stocks-slide-4946293",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-13T11:16:23+00:00"
-    },
-    {
-      "h": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "es": "“La casa vale $925,000”: Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-13T11:15:00+00:00"
-    },
-    {
-      "h": "Why is Western Digital stock sliding today?",
-      "es": "¿Por qué las acciones de Western Digital están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-sliding-today-93CH-4946284",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB0R00Z_M.jpg",
-      "published": "2026-10-13T11:12:05+00:00"
-    },
-    {
-      "h": "Bernstein cuts AT&T rating, says SpaceX will fuel prolonged investor debate",
-      "es": "Bernstein recorta la calificación de AT&T y dice que SpaceX alimentará un prolongado debate entre inversores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bernstein-cuts-att-says-spacex-pressure-will-fuel-prolonged-investor-debate-4946281",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA5N0R8_M.jpg",
-      "published": "2026-10-13T11:11:33+00:00"
-    },
-    {
-      "h": "Why is Visa stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Visa hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-visa-stock-surging-today-93CH-4946260",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAG0D5_L.jpg",
-      "published": "2026-10-13T11:07:32+00:00"
-    },
-    {
-      "h": "Exclusive-Mexico to approve Viva-Volaris airline merger by end of 2026, sources say",
-      "es": "Exclusiva-México aprobará fusión de aerolíneas Viva-Volaris a finales de 2026, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivemexico-to-approve-vivavolaris-airline-merger-by-end-of-2026-sources-say-4946257",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0WT_L.jpg",
-      "published": "2026-10-13T11:06:58+00:00"
-    },
-    {
-      "h": "A SpaceX launch shortage is fueling a $100 billion investing spree",
-      "es": "La escasez de lanzamientos de SpaceX está impulsando una ola de inversiones de 100.000 millones de dólares",
-      "d": "Un cuello de botella en el lanzamiento comercial ha estimulado una ola sin precedentes de inversión en infraestructura y aplicaciones espaciales.",
-      "u": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-45279101",
-      "published": "2026-10-13T11:06:00+00:00"
-    },
-    {
-      "h": "SentinelOne shares fall 7% following $1.25 billion convertible debt offering",
-      "es": "Las acciones de SentinelOne caen un 7% tras la oferta de deuda convertible por 1.250 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sentinelone-shares-fall-7-following-125-billion-convertible-debt-offering-4946215",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
-      "published": "2026-10-13T11:03:03+00:00"
-    },
-    {
-      "h": "BofA poll shows tech overweight hits highest since August 2020",
-      "es": "La encuesta de BofA muestra que la sobreponderación tecnológica alcanza su nivel más alto desde agosto de 2020",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bofa-poll-shows-tech-overweight-hits-highest-since-august-2020-4946224",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-13T11:02:49+00:00"
-    },
-    {
-      "h": "Scaleway to build AMD-powered AI supercomputer in Sweden",
-      "es": "Scaleway construirá una supercomputadora de inteligencia artificial con tecnología AMD en Suecia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/scaleway-to-build-amdpowered-ai-supercomputer-in-sweden-4946205",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0W9_L.jpg",
-      "published": "2026-10-13T11:01:02+00:00"
-    },
-    {
-      "h": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
-      "es": "Los operadores de opciones esperan cambios bruscos en el mercado de valores a partir de finales de este mes. Aquí hay 4 cosas para observar.",
-      "d": "Después de un verano lleno de acontecimientos, las acciones estadounidenses parecen haber llegado a un momento de calma. En las últimas sesiones, el volumen de operaciones ha disminuido, mientras que los principales índices se han desviado en su mayoría de forma lateral.",
-      "u": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04491989",
-      "published": "2026-10-13T11:00:00+00:00"
     }
   ],
   "sources": [
