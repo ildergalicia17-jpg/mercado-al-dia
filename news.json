@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-13T13:32:14.674334+00:00",
+  "updated": "2026-10-13T13:59:25.599430+00:00",
   "news": [
+    {
+      "h": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "es": "Millones de estadounidenses tendrán menos opciones durante la inscripción abierta de Medicare este año",
+      "d": "No habrá planes Medicare Advantage en 181 condados en 2027, frente a 67 en 2026.",
+      "u": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-95277204",
+      "published": "2026-10-13T13:53:00+00:00"
+    },
+    {
+      "h": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+      "es": "UnitedHealth mantiene los costos médicos bajo control y vuelve a elevar sus perspectivas",
+      "d": "El gigante de los seguros médicos dijo que su ratio de costos médicos fue del 88,4% en el tercer trimestre de este año, mientras la compañía intenta controlar el gasto en atención médica.",
+      "u": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-87355184",
+      "published": "2026-10-13T13:49:00+00:00"
+    },
+    {
+      "h": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "es": "Apple lanza el centro de hogar inteligente HomeView con pantalla como escaparate para Siri AI",
+      "d": "El fabricante de iPhone también anunció los nuevos Apple TV 4K y HomePod Mini.",
+      "u": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T13:40:00+00:00"
+    },
+    {
+      "h": "S&P 500 opens lower after bank earnings; chips weigh",
+      "es": "S&P 500 abre a la baja tras resultados bancarios; las patatas fritas pesan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-opens-lower-after-bank-earnings-chips-weigh-4946952",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1A4_L.jpg",
+      "published": "2026-10-13T13:36:31+00:00"
+    },
+    {
+      "h": "This one move will save $20,000 on our wedding",
+      "es": "Este único movimiento ahorrará $20,000 en nuestra boda.",
+      "d": "Además: dónde estamos recortando para liberar espacio en el presupuesto de nuestra boda para las cosas que realmente queremos en nuestro gran día.",
+      "u": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09229830",
+      "published": "2026-10-13T13:35:00+00:00"
+    },
+    {
+      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
+      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
+      "published": "2026-10-13T13:30:44+00:00"
+    },
     {
       "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
       "es": "Los precios del petróleo caen mientras los comerciantes evalúan las perspectivas del suministro de diésel ruso y el conflicto entre Arabia Saudita y los hutíes",
@@ -20,6 +74,24 @@
       "published": "2026-10-13T13:29:06+00:00"
     },
     {
+      "h": "Why is TIM Participacoes ADR stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de TIM Participacoes ADR hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-tim-participacoes-adr-stock-climbing-today-93CH-4946905",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-13T13:26:02+00:00"
+    },
+    {
+      "h": "European luxury’s $350 billion blowout",
+      "es": "La explosión de 350.000 millones de dólares del lujo europeo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-luxurys-350-billion-blowout-4946865",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C18O_L.jpg",
+      "published": "2026-10-13T13:24:29+00:00"
+    },
+    {
       "h": "Micron’s stock extends declines as China competition heats up",
       "es": "Las acciones de Micron amplían sus caídas a medida que se intensifica la competencia en China",
       "d": "Incluso Elon Musk dice que los fabricantes chinos de chips de memoria se están poniendo al día.",
@@ -27,6 +99,51 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-00348993",
       "published": "2026-10-13T13:21:00+00:00"
+    },
+    {
+      "h": "Chemours falls as RBC downgrades stock on persistent TiO2 weakness",
+      "es": "Chemours cae mientras RBC rebaja sus acciones debido a la persistente debilidad del TiO2",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chemours-falls-as-rbc-downgrades-stock-on-persistent-tio2-weakness-4946866",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18R_L.jpg",
+      "published": "2026-10-13T13:19:11+00:00"
+    },
+    {
+      "h": "Meta challenges UK regulator over fine calculations",
+      "es": "Meta desafía al regulador del Reino Unido por cálculos finos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-challenges-uk-regulator-over-fine-calculations-93CH-4946862",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE2P0BD_M.jpg",
+      "published": "2026-10-13T13:18:09+00:00"
+    },
+    {
+      "h": "Netflix secures broadcast rights for 2030 World Cup in Spain",
+      "es": "Netflix se asegura los derechos de retransmisión del Mundial 2030 en España",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netflix-secures-broadcast-rights-for-2030-world-cup-in-spain-93CH-4946848",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/2af302cbecff10d63ab1791c6d04f3de_M.jpg",
+      "published": "2026-10-13T13:16:48+00:00"
+    },
+    {
+      "h": "BioNTech cancer drug fails to meet trial goal",
+      "es": "El medicamento contra el cáncer de BioNTech no logra el objetivo del ensayo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/biontech-cancer-drug-fails-to-meet-trial-goal-93CH-4946827",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-13T13:15:43+00:00"
+    },
+    {
+      "h": "Why is AST SpaceMobile stock sliding today?",
+      "es": "¿Por qué las acciones de AST SpaceMobile están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-sliding-today-93CH-4946821",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-13T13:14:12+00:00"
     },
     {
       "h": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
@@ -153,123 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T12:45:08+00:00"
-    },
-    {
-      "h": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.33%",
-      "es": "Las bolsas de Arabia Saudí cierran al alza; Tadawul All Share sube un 0,33%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-033-4946671",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC470BW_M.jpg",
-      "published": "2026-10-13T12:45:03+00:00"
-    },
-    {
-      "h": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
-      "es": "La riqueza estadounidense se ha desplazado de las viviendas a las acciones. Hay grandes motivos para preocuparse.",
-      "d": "El mercado alcista de cuatro años en las acciones está en pleno apogeo debido al auge de la IA. Pero también está aumentando el costo del dinero.",
-      "u": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15411137",
-      "published": "2026-10-13T12:44:00+00:00"
-    },
-    {
-      "h": "Bumble to go private in $1.3 billion deal",
-      "es": "Bumble se hará privada en un acuerdo de 1.300 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bumble-to-go-private-in-13-billion-deal-4946661",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C15Y_L.jpg",
-      "published": "2026-10-13T12:42:36+00:00"
-    },
-    {
-      "h": "Why this little known Chinese chipmaker has caused a global stock rout",
-      "es": "Por qué este poco conocido fabricante chino de chips ha provocado una caída bursátil mundial",
-      "d": "Según se informa, CXMT, el principal fabricante de chips de memoria de China, ha logrado avances en nuevos diseños.",
-      "u": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T12:41:56+00:00"
-    },
-    {
-      "h": "Why is Syndax Pharmaceuticals stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Syndax Pharmaceuticals hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-syndax-pharmaceuticals-stock-sliding-today-93CH-4946660",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-13T12:41:50+00:00"
-    },
-    {
-      "h": "Canadian bond yields fall as markets weigh economic outlook and rate path",
-      "es": "Los rendimientos de los bonos canadienses caen mientras los mercados sopesan las perspectivas económicas y la trayectoria de las tasas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-fall-as-markets-weigh-economic-outlook-and-rate-path-4946656",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
-      "published": "2026-10-13T12:40:09+00:00"
-    },
-    {
-      "h": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
-      "es": "Los gestores de fondos mantienen un sorprendente optimismo ante el estancamiento del mercado de valores y el tumultuoso mercado de bonos",
-      "d": "Muchos asignadores de activos están esperando que los rendimientos de los bonos alcancen el 6% antes de pasar de las acciones a la renta fija, pero una parte importante ya está haciendo la transición.",
-      "u": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40003083",
-      "published": "2026-10-13T12:40:00+00:00"
-    },
-    {
-      "h": "Here’s how much extra money could be in your monthly Social Security check next year",
-      "es": "Esto es cuánto dinero extra podría haber en su cheque mensual del Seguro Social el próximo año",
-      "d": "El ajuste por costo de vida del Seguro Social aumentará los presupuestos mensuales de los jubilados. ¿Pero será suficiente?",
-      "u": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-64159512",
-      "published": "2026-10-13T12:37:00+00:00"
-    },
-    {
-      "h": "S&P futures little changed, Nasdaq 100 and Dow futures mixed after bank earnings",
-      "es": "Los futuros del S&P cambiaron poco, los futuros del Nasdaq 100 y el Dow se mezclaron después de las ganancias bancarias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-13T12:36:05+00:00"
-    },
-    {
-      "h": "Citi lifts Galaxy and Gemini, downgrades Securitize as crypto fundamentals improve",
-      "es": "Citi eleva Galaxy y Gemini, rebaja Securitize a medida que mejoran los fundamentos criptográficos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-lifts-galaxy-and-gemini-downgrades-securitize-as-crypto-fundamentals-improve-4946635",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAM117_L.jpg",
-      "published": "2026-10-13T12:33:33+00:00"
-    },
-    {
-      "h": "Why is Pinnacle Food stock surging today?",
-      "es": "¿Por qué están aumentando las acciones de Pinnacle Food hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-pinnacle-food-stock-surging-today-93CH-4946621",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T12:31:23+00:00"
-    },
-    {
-      "h": "European stocks buck tech-led global rout; bank earnings roll in",
-      "es": "Las acciones europeas se resisten a la caída global liderada por la tecnología; Las ganancias bancarias llegan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buck-techled-global-rout-bank-earnings-in-focus-4945488",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1608128944.jpg",
-      "published": "2026-10-13T12:30:10+00:00"
-    },
-    {
-      "h": "Car finance compensation payments delayed until next year",
-      "es": "Los pagos de compensación por financiación de automóviles se retrasan hasta el próximo año",
-      "d": "Millones de personas podrían tener derecho a una compensación como resultado de los acuerdos de comisiones entre prestamistas y comerciantes.",
-      "u": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
-      "published": "2026-10-13T12:27:36+00:00"
     }
   ],
   "sources": [
