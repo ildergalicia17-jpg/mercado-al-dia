@@ -26,10 +26,10 @@ NS_CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 
 def clean_html(value):
     value = html.unescape(value or "")
-    value = re.sub(r"(?is)<(script|style).*?>.*?</\\1>", " ", value)
-    value = re.sub(r"(?i)<br\\s*/?>|</p>|</div>|</li>", " ", value)
+    value = re.sub(r"(?is)<(script|style).*?>.*?</\1>", " ", value)
+    value = re.sub(r"(?i)<br\s*/?>|</p>|</div>|</li>", " ", value)
     value = re.sub(r"<[^>]+>", " ", value)
-    return re.sub(r"\\s+", " ", value).strip()
+    return re.sub(r"\s+", " ", value).strip()
 
 def node_text(node, path):
     found = node.find(path)
