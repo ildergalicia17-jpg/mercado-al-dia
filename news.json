@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-13T17:14:00.937427+00:00",
+  "updated": "2026-10-13T17:37:56.390584+00:00",
   "news": [
+    {
+      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
+      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
+      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86790018",
+      "published": "2026-10-13T17:30:00+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67299659",
+      "published": "2026-10-13T17:30:00+00:00"
+    },
+    {
+      "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+      "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
+      "d": "El anuncio de Guilfoyle se produjo después de que la nueva secretaria de prensa de la Casa Blanca, Katie Zacharia, dijera en su primera sesión informativa que se había pedido al embajador que renunciara.",
+      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T17:29:59+00:00"
+    },
+    {
+      "h": "Why is Molina Healthcare stock up 3.5% today?",
+      "es": "¿Por qué las acciones de Molina Healthcare han subido un 3,5% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-molina-healthcare-stock-up-35-today-93CH-4947331",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-13T17:25:56+00:00"
+    },
+    {
+      "h": "Wall St edges lower as chips fall; markets assess big bank earnings",
+      "es": "Los bordes de Wall St bajan a medida que caen las virutas; Los mercados evalúan las ganancias de los grandes bancos.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
+      "published": "2026-10-13T17:24:49+00:00"
+    },
+    {
+      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say",
+      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/martin-shkreli-violated-lifetime-pharma-industry-ban-ftc-and-states-say-4947222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1HZ_L.jpg",
+      "published": "2026-10-13T17:24:20+00:00"
+    },
+    {
+      "h": "Why is First Solar stock gaining 3.5% today?",
+      "es": "¿Por qué las acciones de First Solar están ganando un 3,5% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-first-solar-stock-gaining-35-today-93CH-4947329",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-13T17:23:20+00:00"
+    },
+    {
+      "h": "Why is International Flavors & Fragrances stock up 4% today?",
+      "es": "¿Por qué el stock de International Flavors & Fragrances ha aumentado un 4% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-international-flavors--fragrances-stock-up-4-today-93CH-4947328",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-13T17:22:56+00:00"
+    },
+    {
+      "h": "Why is Erie Indemnity stock rallying 3% today?",
+      "es": "¿Por qué las acciones de Erie Indemnity están subiendo un 3% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-erie-indemnity-stock-rallying-3-today-93CH-4947327",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-13T17:22:23+00:00"
+    },
+    {
+      "h": "How to read your body’s warning signs years before you get sick",
+      "es": "Cómo leer las señales de advertencia de tu cuerpo años antes de enfermarte",
+      "d": "La mayoría de nosotros no sólo queremos vivir una vida más larga. Queremos vivir vidas más largas y saludables.",
+      "u": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-80410179",
+      "published": "2026-10-13T17:22:00+00:00"
+    },
+    {
+      "h": "Why is Garmin stock rallying 3% today?",
+      "es": "¿Por qué las acciones de Garmin están subiendo un 3% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-garmin-stock-rallying-3-today-93CH-4947326",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-13T17:20:20+00:00"
+    },
+    {
+      "h": "Why is Keysight Technologies stock sliding today?",
+      "es": "¿Por qué las acciones de Keysight Technologies están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-keysight-technologies-stock-sliding-today-93CH-4947325",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-13T17:19:54+00:00"
+    },
+    {
+      "h": "Why is Charter Communications stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Charter Communications hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-charter-communications-stock-rallying-today-93CH-4947324",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-13T17:19:49+00:00"
+    },
+    {
+      "h": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "es": "Las acciones de AST SpaceMobile están sintiendo la presión de los planes inalámbricos de SpaceX",
+      "d": "El lanzamiento comercial de AST podría sufrir retrasos debido a los desafíos del lanzamiento de satélites y las crecientes ambiciones de SpaceX, advierte un analista.",
+      "u": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94248093",
+      "published": "2026-10-13T17:18:00+00:00"
+    },
+    {
+      "h": "Who should pay for my birthday dinner — me, or my guests?",
+      "es": "¿Quién debería pagar mi cena de cumpleaños: yo o mis invitados?",
+      "d": "“Termino pagando mucho las cenas de cumpleaños de otras personas, además de las mías, lo cual es un desequilibrio”.",
+      "u": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-45030136",
+      "published": "2026-10-13T17:14:00+00:00"
+    },
+    {
+      "h": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+      "es": "Walmart cubrirá algunos GLP-1, inhaladores e insulina para los empleados sin costo a medida que amplía los beneficios",
+      "d": "Walmart ofrecerá Ozempic de Novo y Mounjaro de Lilly sin costo para personas con diabetes tipo 2 luego de una nueva autorización previa.",
+      "u": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T17:07:19+00:00"
+    },
     {
       "h": "Jefferies examines HealthEquity stock short interest rise",
       "es": "Jefferies examina el aumento de los intereses a corto plazo de las acciones de HealthEquity",
@@ -36,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1FK_L.jpg",
       "published": "2026-10-13T16:54:21+00:00"
+    },
+    {
+      "h": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "es": "El acuerdo de Trump sobre diésel con Rusia equivale a menos de dos semanas de demanda de EE.UU.",
+      "d": "El acuerdo sobre diésel del presidente Donald Trump con Rusia se produce cuando está bajo presión para reducir los precios del combustible a menos de un mes de las elecciones de mitad de período en Estados Unidos.",
+      "u": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T16:53:43+00:00"
     },
     {
       "h": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg",
       "published": "2026-10-13T16:33:46+00:00"
-    },
-    {
-      "h": "Why is MongoDB stock rallying today?",
-      "es": "¿Por qué las acciones de MongoDB están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4947270",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-13T16:32:22+00:00"
-    },
-    {
-      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
-      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
-      "published": "2026-10-13T16:30:33+00:00"
-    },
-    {
-      "h": "Why this little known Chinese chipmaker has caused a global stock rout",
-      "es": "Por qué este poco conocido fabricante chino de chips ha provocado una caída bursátil mundial",
-      "d": "Según se informa, CXMT, el principal fabricante de chips de memoria de China, ha logrado avances en nuevos diseños.",
-      "u": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T16:28:25+00:00"
-    },
-    {
-      "h": "European stocks fall as U.S. bank earnings roll in",
-      "es": "Las bolsas europeas caen a medida que aumentan las ganancias de los bancos estadounidenses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buck-techled-global-rout-bank-earnings-in-focus-4945488",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1608128944.jpg",
-      "published": "2026-10-13T16:27:33+00:00"
-    },
-    {
-      "h": "ZenaTech revenue soars 316%, but 84% stock rout exposes investor doubts",
-      "es": "Los ingresos de ZenaTech se disparan un 316%, pero la caída de las acciones del 84% expone las dudas de los inversores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/zenatech-revenue-soars-316-but-84-stock-rout-exposes-investor-doubts-93CH-4947262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Bearish_M_1440047651.jpg",
-      "published": "2026-10-13T16:26:06+00:00"
-    },
-    {
-      "h": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
-      "es": "Los organismos de control de la banca exclusiva intensifican el escrutinio de la IA a medida que aumentan los temores sobre la estabilidad, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivebanking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-4945440",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0BQ_L.jpg",
-      "published": "2026-10-13T16:21:07+00:00"
-    },
-    {
-      "h": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
-      "es": "La “superinteligencia” tal vez nunca llegue, dice el Deutsche Bank. Lo que eso podría significar para la economía estadounidense.",
-      "d": "Jim Reid, del Deutsche Bank, dijo que considera que las ganancias de productividad derivadas de la adopción de la inteligencia artificial tienen el potencial de crear nuevos empleos.",
-      "u": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76720229",
-      "published": "2026-10-13T16:21:00+00:00"
-    },
-    {
-      "h": "U.S. stocks slip slightly on tech weakness; Dow turns negative amid bank earnings",
-      "es": "Las acciones estadounidenses caen ligeramente por la debilidad tecnológica; Dow se vuelve negativo en medio de ganancias bancarias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-13T16:20:16+00:00"
-    },
-    {
-      "h": "Euro zone bond yields fall as tech stock selloff drives safety flows",
-      "es": "Los rendimientos de los bonos de la zona euro caen a medida que la venta masiva de acciones tecnológicas impulsa los flujos de seguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-fall-as-tech-stock-selloff-drives-safety-flows-93CH-4947260",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-13T16:20:12+00:00"
-    },
-    {
-      "h": "Tencent draws strong demand for $4.5 billion debt sale, defying AI scrutiny",
-      "es": "Tencent atrae una fuerte demanda de venta de deuda por 4.500 millones de dólares, desafiando el escrutinio de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C031_L.jpg",
-      "published": "2026-10-13T16:19:19+00:00"
-    },
-    {
-      "h": "LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion",
-      "es": "LSEG en conversaciones para comprar el grupo de datos Octus, propiedad de Permira, por unos 3.500 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivelseg-considers-bid-for-octus-financial-data-group-sources-say-4946485",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C12V_L.jpg",
-      "published": "2026-10-13T16:19:05+00:00"
-    },
-    {
-      "h": "MongoDB gains as BofA highlights long-term AI strategy potential",
-      "es": "MongoDB gana mientras BofA destaca el potencial de la estrategia de IA a largo plazo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mongodb-gains-as-bofa-highlights-longterm-ai-strategy-potential-4947252",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MongoDB_800x533_L_1778622861.jpg",
-      "published": "2026-10-13T16:13:08+00:00"
-    },
-    {
-      "h": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
-      "es": "Google lanza el modelo insignia de IA Gemini 4 Argon para desarrolladores y empresas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses-4947240",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1J1_L.jpg",
-      "published": "2026-10-13T16:13:00+00:00"
-    },
-    {
-      "h": "London’s FTSE 100 closes lower after U.S. bank earnings",
-      "es": "El FTSE 100 de Londres cierra a la baja tras las ganancias de los bancos estadounidenses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/londons-ftse-100-outperforms-peers-as-commodity-rally-ticks-support-4945616",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T16:12:41+00:00"
-    },
-    {
-      "h": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-      "es": "Apple lanza el centro de hogar inteligente HomeView con pantalla como escaparate para Siri AI",
-      "d": "El fabricante de iPhone también anunció los nuevos Apple TV 4K y HomePod Mini.",
-      "u": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T16:10:14+00:00"
-    },
-    {
-      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.08%",
-      "es": "Las bolsas del Reino Unido cierran a la baja; El Investing.com Reino Unido 100 baja un 0,08%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-008-4947249",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB790CI_M.jpg",
-      "published": "2026-10-13T16:09:42+00:00"
-    },
-    {
-      "h": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.21%",
-      "es": "Las bolsas de Suecia cierran al alza; OMX Estocolmo 30 sube un 0,21%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-021-4947248",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201315.jpg",
-      "published": "2026-10-13T16:09:09+00:00"
     }
   ],
   "sources": [
