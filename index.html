@@ -36,6 +36,12 @@ th{color:var(--mut);font-weight:400;font-size:.85rem}
 .news a{color:var(--ink);text-decoration:none;font-weight:600}
 .news a:hover,.news a:focus-visible{text-decoration:underline}
 .news p{margin:0;padding:10px 0;border-bottom:1px solid var(--line)}
+.pred{cursor:pointer}.pred:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+.det{grid-column:1/-1;padding-top:8px;cursor:default}
+.rg{display:flex;gap:6px;margin-bottom:8px}
+.rg button{font:inherit;font-size:.9rem;padding:6px 14px;border:1px solid var(--line);background:none;color:var(--ink);border-radius:4px;cursor:pointer}
+.rg button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.big{display:block}.ax{display:flex;justify-content:space-between;color:var(--mut);font-size:.85rem;margin-top:4px}
 footer{margin-top:40px;color:var(--mut);font-size:.82rem}
 </style>
 </head>
@@ -49,7 +55,7 @@ footer{margin-top:40px;color:var(--mut);font-size:.82rem}
 
 <section>
 <h2>Predicciones: mayor potencial de rendimiento</h2>
-<p class="sub">Ranking de 0 a 100 que combina el potencial hasta el precio objetivo de analistas, la tendencia de 3 meses y la recomendación de consenso.</p>
+<p class="sub">Ranking de 0 a 100 que combina el potencial hasta el precio objetivo de analistas, la tendencia de 3 meses y la recomendación de consenso. Toca una empresa para ver su gráfica grande.</p>
 <div id="pred"></div>
 </section>
 
@@ -77,17 +83,29 @@ const $=id=>document.getElementById(id);
 function line(h,w,hh){if(!h||h.length<2)return"";const mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;
  const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-2-(v-mn)/r*(hh-4)).toFixed(1)).join("");
  const c=h[h.length-1]>=h[0]?"--up":"--dn";
- return `<svg viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio, últimos 90 días"><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`}
+ return `<svg viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio, últimos 3 meses"><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`}
 function tabla(el,rows){el.innerHTML="<tr><th>Empresa</th><th>Precio</th><th>Cambio</th></tr>"+rows.map(r=>`<tr><td>${r.t}</td><td>$${f(r.p)}</td><td>${pc(r.c)}</td></tr>`).join("")}
-function render(d){
+function render(d){window.D=d;
  $("act").textContent=d.updated?"Actualizado: "+new Date(d.updated).toLocaleString("es-GT",{dateStyle:"long",timeStyle:"short"}):"Sin actualización todavía";
  if(d.sample)$("av").innerHTML='<div class="aviso">Estás viendo datos de ejemplo. Publica el proyecto con la actualización diaria para ver datos reales.</div>';
- $("idx").innerHTML=d.indices.map(i=>`<div>${i.n}<b>${f(i.p)}</b>${pc(i.c)}${line(i.h,160,36)}</div>`).join("");
- $("pred").innerHTML=d.predictions.map(p=>`<div class="pred"><div class="n">${p.t} <small>${p.n}</small></div><div class="s">${p.score}</div>
- <div><div class="bar"><i style="width:${p.score}%"></i></div><div style="margin:8px 0">${line(p.h,400,64)}</div><div class="meta">Precio $${f(p.px)} · Objetivo analistas $${f(p.tp)} (${p.up>=0?"+":""}${f(p.up,1)}%) · 3 meses ${p.mom>=0?"+":""}${f(p.mom,1)}% · Consenso: ${p.rec}</div></div></div>`).join("");
+ $("idx").innerHTML=d.indices.map(i=>`<div>${i.n}<b>${f(i.p)}</b>${pc(i.c)}${line((i.h||[]).slice(-63),160,36)}</div>`).join("");
+ $("pred").innerHTML=d.predictions.map((p,k)=>`<div class="pred" data-i="${k}" tabindex="0" role="button" aria-expanded="false"><div class="n">${p.t} <small>${p.n}</small></div><div class="s">${p.score}</div>
+ <div><div class="bar"><i style="width:${p.score}%"></i></div><div style="margin:8px 0">${line((p.h||[]).slice(-63),400,64)}</div><div class="meta">Precio $${f(p.px)} · Objetivo analistas $${f(p.tp)} (${p.up>=0?"+":""}${f(p.up,1)}%) · 3 meses ${p.mom>=0?"+":""}${f(p.mom,1)}% · Consenso: ${p.rec}</div></div><div class="det" hidden></div></div>`).join("");
  tabla($("up"),d.movers.up);tabla($("dn"),d.movers.dn);
  $("news").innerHTML=d.news.length?d.news.map(n=>`<p><a href="${n.u}" target="_blank" rel="noopener">${n.h}</a><br><span class="meta">${n.s||""}</span></p>`).join(""):'<p class="meta">Sin noticias por ahora.</p>';
 }
+function grande(h,n){const w=400,hh=180,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;
+ const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-6-(v-mn)/r*(hh-12)).toFixed(1)).join("");
+ const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;
+ return `<svg class="big" viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio de ${n}"><path d="${d} L${w} ${hh} L0 ${hh}Z" fill="var(${c})" opacity=".12"/><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín $${f(mn)}</span><span>${pc(ch)} en el período</span><span>Máx $${f(mx)}</span></div>`}
+function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".det");
+ const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>`<button data-d="${n}" aria-pressed="${n==dias}">${t}</button>`).join("");
+ det.innerHTML=`<div class="rg">${bt}</div>`+grande(p.h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
+$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el||!D.predictions[el.dataset.i].h)return;
+ const b=e.target.closest("button");if(b){abrir(el,+b.dataset.d);return}
+ const det=el.querySelector(".det");if(!det.hidden&&e.target.closest(".det"))return;
+ if(det.hidden)abrir(el,63);else{det.hidden=true;el.setAttribute("aria-expanded","false")}});
+$("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
 fetch("data.json?"+Date.now()).then(r=>r.ok?r.json():Promise.reject()).catch(()=>SAMPLE).then(render);
 </script>
 </body>
