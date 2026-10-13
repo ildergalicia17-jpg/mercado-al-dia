@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-13T14:26:23.612113+00:00",
+  "updated": "2026-10-13T14:53:28.572803+00:00",
   "news": [
+    {
+      "h": "Six Flags shares decline following deadly roller coaster incident",
+      "es": "Las acciones de Six Flags caen tras el mortal incidente en la montaña rusa",
+      "d": "Según los informes, una persona murió y varias más resultaron heridas en un incidente relacionado con la montaña rusa Goliath en Six Flags Over Georgia.",
+      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T14:49:32+00:00"
+    },
+    {
+      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
+      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
+      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86790018",
+      "published": "2026-10-13T14:45:00+00:00"
+    },
+    {
+      "h": "S&P upgrades Kioxia to BBB on strong AI-driven growth and upbeat outlook",
+      "es": "S&P eleva Kioxia a BBB gracias a un fuerte crecimiento impulsado por la IA y perspectivas optimistas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-upgrades-kioxia-to-bbb-on-strong-aidriven-growth-and-upbeat-outlook-4947147",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-13T14:37:35+00:00"
+    },
+    {
+      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
+      "es": "Mientras la UE debate las normas de contenido local, los fabricantes de automóviles chinos ya se están adaptando",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
+      "published": "2026-10-13T14:36:47+00:00"
+    },
+    {
+      "h": "SpaceX and SanDisk among market cap stock movers on Tuesday",
+      "es": "SpaceX y SanDisk entre los impulsores de la capitalización de mercado el martes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-and-sandisk-among-market-cap-stock-movers-on-tuesday-93CH-4947144",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-13T14:35:50+00:00"
+    },
+    {
+      "h": "Eli Lilly leads large-cap pharma on growth, but valuation is a trade-off",
+      "es": "Eli Lilly lidera el crecimiento de las empresas farmacéuticas de gran capitalización, pero la valoración es una compensación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/eli-lilly-leads-largecap-pharma-on-growth-but-valuation-is-a-tradeoff-93CH-4947143",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEF150TG_M.jpg",
+      "published": "2026-10-13T14:35:03+00:00"
+    },
+    {
+      "h": "Wizz Air in talks for airport slots as European airlines face pressure",
+      "es": "Wizz Air en conversaciones para franjas horarias en los aeropuertos mientras las aerolíneas europeas enfrentan presión",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wizz-air-in-talks-for-airport-slots-as-european-airlines-face-pressure-93CH-4947130",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDA21BA_M.jpg",
+      "published": "2026-10-13T14:31:54+00:00"
+    },
+    {
+      "h": "Uber autonomous head Maredia to depart as leadership shifts continue - Bloomberg",
+      "es": "El jefe autónomo de Uber, Maredia, se marchará mientras continúan los cambios de liderazgo - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uber-autonomous-head-maredia-to-depart-as-leadership-shifts-continue--bloomberg-4947129",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEI480BS_L.jpg",
+      "published": "2026-10-13T14:31:18+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67299659",
+      "published": "2026-10-13T14:31:00+00:00"
+    },
+    {
+      "h": "SK Hynix near-term bull and bear case",
+      "es": "Caso alcista y bajista a corto plazo de SK Hynix",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-nearterm-bull-and-bear-case-93CH-4947120",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM650O0_1200_L.jpg",
+      "published": "2026-10-13T14:29:08+00:00"
+    },
+    {
+      "h": "Ally Financial stock may move 6.4% on Oct. 20 earnings",
+      "es": "Las acciones de Ally Financial pueden moverse un 6,4% en las ganancias del 20 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ally-financial-stock-may-move-64-on-oct-20-earnings-93CH-4947119",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-13T14:28:23+00:00"
+    },
+    {
+      "h": "Synchrony Financial stock may move 5.5% on Oct. 20 earnings",
+      "es": "Las acciones de Synchrony Financial pueden moverse un 5,5% en las ganancias del 20 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/synchrony-financial-stock-may-move-55-on-oct-20-earnings-93CH-4947118",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-13T14:27:26+00:00"
+    },
     {
       "h": "White House has asked Ambassador Kimberly Guilfoyle to resign, new Trump press secretary says",
       "es": "La Casa Blanca ha pedido la dimisión de la embajadora Kimberly Guilfoyle, dice la nueva secretaria de prensa de Trump",
@@ -146,6 +254,15 @@
       "published": "2026-10-13T13:40:00+00:00"
     },
     {
+      "h": "U.S. Treasury yields fall as energy prices pull back",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen a medida que los precios de la energía retroceden",
+      "d": "Los rendimientos de los bonos cayeron el martes mientras los inversores esperan más publicaciones de datos económicos esta semana.",
+      "u": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T13:38:51+00:00"
+    },
+    {
       "h": "S&P 500 opens lower after bank earnings; chips weigh",
       "es": "S&P 500 abre a la baja tras resultados bancarios; las patatas fritas pesan",
       "d": "",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1A4_L.jpg",
       "published": "2026-10-13T13:36:31+00:00"
-    },
-    {
-      "h": "This one move will save $20,000 on our wedding",
-      "es": "Este único movimiento ahorrará $20,000 en nuestra boda.",
-      "d": "Además: dónde estamos recortando para liberar espacio en el presupuesto de nuestra boda para las cosas que realmente queremos en nuestro gran día.",
-      "u": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-09229830",
-      "published": "2026-10-13T13:35:00+00:00"
-    },
-    {
-      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
-      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
-      "published": "2026-10-13T13:30:44+00:00"
-    },
-    {
-      "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-      "es": "Los precios del petróleo caen mientras los comerciantes evalúan las perspectivas del suministro de diésel ruso y el conflicto entre Arabia Saudita y los hutíes",
-      "d": "Los precios del petróleo cayeron mientras los inversores evalúan posibles interrupciones en el suministro frente a las perspectivas de que ingrese más diésel ruso a los mercados globales.",
-      "u": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T13:29:11+00:00"
-    },
-    {
-      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
-      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
-      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T13:29:06+00:00"
-    },
-    {
-      "h": "Why is TIM Participacoes ADR stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de TIM Participacoes ADR hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-tim-participacoes-adr-stock-climbing-today-93CH-4946905",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T13:26:02+00:00"
-    },
-    {
-      "h": "European luxury’s $350 billion blowout",
-      "es": "La explosión de 350.000 millones de dólares del lujo europeo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-luxurys-350-billion-blowout-4946865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C18O_L.jpg",
-      "published": "2026-10-13T13:24:29+00:00"
-    },
-    {
-      "h": "Micron’s stock extends declines as China competition heats up",
-      "es": "Las acciones de Micron amplían sus caídas a medida que se intensifica la competencia en China",
-      "d": "Incluso Elon Musk dice que los fabricantes chinos de chips de memoria se están poniendo al día.",
-      "u": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00348993",
-      "published": "2026-10-13T13:21:00+00:00"
-    },
-    {
-      "h": "Chemours falls as RBC downgrades stock on persistent TiO2 weakness",
-      "es": "Chemours cae mientras RBC rebaja sus acciones debido a la persistente debilidad del TiO2",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chemours-falls-as-rbc-downgrades-stock-on-persistent-tio2-weakness-4946866",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18R_L.jpg",
-      "published": "2026-10-13T13:19:11+00:00"
-    },
-    {
-      "h": "Meta challenges UK regulator over fine calculations",
-      "es": "Meta desafía al regulador del Reino Unido por cálculos finos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-challenges-uk-regulator-over-fine-calculations-93CH-4946862",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE2P0BD_M.jpg",
-      "published": "2026-10-13T13:18:09+00:00"
-    },
-    {
-      "h": "Netflix secures broadcast rights for 2030 World Cup in Spain",
-      "es": "Netflix se asegura los derechos de retransmisión del Mundial 2030 en España",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netflix-secures-broadcast-rights-for-2030-world-cup-in-spain-93CH-4946848",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/2af302cbecff10d63ab1791c6d04f3de_M.jpg",
-      "published": "2026-10-13T13:16:48+00:00"
-    },
-    {
-      "h": "BioNTech cancer drug fails to meet trial goal",
-      "es": "El medicamento contra el cáncer de BioNTech no logra el objetivo del ensayo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/biontech-cancer-drug-fails-to-meet-trial-goal-93CH-4946827",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-13T13:15:43+00:00"
-    },
-    {
-      "h": "Why is AST SpaceMobile stock sliding today?",
-      "es": "¿Por qué las acciones de AST SpaceMobile están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-sliding-today-93CH-4946821",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T13:14:12+00:00"
-    },
-    {
-      "h": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
-      "es": "Micron cae un 5% debido a que las acciones tecnológicas se ven sacudidas por las afirmaciones de avance de los chips de China",
-      "d": "Las acciones de tecnología se desplomaron el martes cuando una venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
-      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T13:13:57+00:00"
     }
   ],
   "sources": [
