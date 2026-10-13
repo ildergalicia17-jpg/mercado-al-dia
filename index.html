@@ -75,10 +75,24 @@ function loadNews(){
   fetch("news.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(n=>renderNews(n.news||[],n.updated)).catch(()=>{const stamp=$("newsStamp");if(stamp)stamp.textContent="Noticias temporalmente no disponibles";});
 }
 
-function cryptoPrice(value){const n=Number(value)||0;const decimals=n>=1000?2:n>=1?4:6;return n.toLocaleString("es-GT",{minimumFractionDigits:2,maximumFractionDigits:decimals})}
+function escapeHtml(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function cryptoPrice(value){
+ const n=Number(value);
+ if(!Number.isFinite(n))return "—";
+ const decimals=n>=1000?2:n>=1?2:n>=0.01?4:6;
+ return "$"+n.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:decimals});
+}
 function renderCrypto(data){
- const items=data.coins||[];
- $("cryptoGrid").innerHTML=items.length?items.map(c=>{const change=Number(c.change24h)||0;const cls=change>=0?"up":"dn";const sign=change>=0?"+":"";return '<article class="crypto-card"><div class="crypto-top"><div class="crypto-icon">'+escapeHtml(c.symbol||"₿")+'</div><div class="crypto-name">'+escapeHtml(c.name||c.symbol||"Cripto")+'<span class="crypto-symbol">'+escapeHtml(c.symbol||"")+'</span></div></div><div class="crypto-price">return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+ const items=Array.isArray(data.coins)?data.coins:[];
+ $("cryptoGrid").innerHTML=items.length?items.map(c=>{
+  const change=Number(c.change24h)||0;
+  const cls=change>=0?"up":"dn";
+  const sign=change>0?"+":"";
+  return '<article class="crypto-card"><div class="crypto-top"><div class="crypto-icon">'+escapeHtml(c.symbol||"₿")+'</div><div class="crypto-name">'+escapeHtml(c.name||c.symbol||"Cripto")+'<span class="crypto-symbol">'+escapeHtml(c.symbol||"")+'</span></div></div><div class="crypto-price">'+cryptoPrice(c.price)+'</div><div class="crypto-change '+cls+'">'+sign+change.toLocaleString("es-GT",{minimumFractionDigits:2,maximumFractionDigits:2})+'% <span style="color:var(--mut);font-weight:500">24 h</span></div><div class="crypto-meta"><span>Máx. 24 h: '+cryptoPrice(c.high24h)+'</span><span>Mín. 24 h: '+cryptoPrice(c.low24h)+'</span></div></article>';
+ }).join(""):'<p class="empty">No hay cotizaciones disponibles por ahora.</p>';
+ const stamp=$("cryptoStamp");
+ if(stamp)stamp.textContent=(data.updated?"Actualizado: "+new Date(data.updated).toLocaleString("es-GT",{dateStyle:"short",timeStyle:"short",timeZone:"America/Guatemala"}):"Cotizaciones actualizadas")+" · "+(data.provider||"Fuente de mercado");
+}
 function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
 function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial suficiente para graficar.</p>';const w=700,hh=160,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-8-(v-mn)/r*(hh-16)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;return '<svg class="big" viewBox="0 0 '+w+" "+hh+'" preserveAspectRatio="none" role="img" aria-label="Historial de precio de '+escapeHtml(n)+'"><path d="'+d+' L'+w+" "+hh+" L0 "+hh+'Z" fill="var('+c+')" opacity=".12"/><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín. $'+f(mn)+'</span><span>'+pc(ch)+' en el período</span><span>Máx. $'+f(mx)+'</span></div>'}
 function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
