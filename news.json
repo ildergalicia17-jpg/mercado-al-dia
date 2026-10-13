@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-13T18:26:20.174220+00:00",
+  "updated": "2026-10-13T19:00:40.530024+00:00",
   "news": [
+    {
+      "h": "Meta shares rise for a second straight day as new AI model family impresses",
+      "es": "Las acciones de Meta suben por segundo día consecutivo a medida que impresiona la nueva familia de modelos de IA",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/13/meta-shares-rise-for-a-second-straight-day-as-new-ai-model-family-impresses.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:55:33+00:00"
+    },
+    {
+      "h": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+      "es": "Walmart cubrirá algunos GLP-1, inhaladores e insulina para los empleados sin costo a medida que amplía los beneficios",
+      "d": "Walmart ofrecerá Ozempic de Novo y Mounjaro de Lilly sin costo para personas con diabetes tipo 2 luego de una nueva autorización previa.",
+      "u": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:48:59+00:00"
+    },
+    {
+      "h": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "es": "JPMorgan Chase impide que agentes externos de IA como Muse e Instinct accedan directamente a las cuentas",
+      "d": "El director ejecutivo de JPMorgan Chase, Jamie Dimon, advirtió sobre agentes deshonestos que operan a gran escala y dijo que el banco está creando herramientas defensivas.",
+      "u": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:46:27+00:00"
+    },
+    {
+      "h": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "es": "Compras falsas y “seguros de felicidad”: las últimas aplicaciones fintech revelan nuestras ansiedades financieras",
+      "d": "Las empresas de tecnología financiera se están dando cuenta de cómo los estadounidenses están alterando sus hábitos financieros y han creado nuevos productos para intentar adaptarse al momento.",
+      "u": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-60506026",
+      "published": "2026-10-13T18:44:00+00:00"
+    },
+    {
+      "h": "CVS settles US Justice Department case over opioid prescriptions for $315 million",
+      "es": "CVS resuelve caso del Departamento de Justicia de EE. UU. sobre recetas de opioides por 315 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cvs-settles-us-justice-department-case-over-opioid-prescriptions-for-315-million-4947383",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1OS_L.jpg",
+      "published": "2026-10-13T18:42:47+00:00"
+    },
+    {
+      "h": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+      "es": "Los ataques a aeropuertos ponen a la aviación en el punto de mira de los conflictos geopolíticos",
+      "d": "Los ataques mortales en el principal aeropuerto de Riad están perturbando a las aerolíneas, cerrando el espacio aéreo y planteando nuevas cuestiones de seguridad para la aviación comercial.",
+      "u": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:33:42+00:00"
+    },
+    {
+      "h": "Apple bets on new screen gadget, Siri AI in home device push",
+      "es": "Apple apuesta por un nuevo dispositivo de pantalla y Siri AI en el impulso de los dispositivos domésticos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
+      "published": "2026-10-13T18:31:34+00:00"
+    },
+    {
+      "h": "More Republicans come out against Trump's diesel deal with Putin",
+      "es": "Más republicanos se manifiestan en contra del acuerdo de diésel de Trump con Putin",
+      "d": "Los senadores dijeron a Trump que el acuerdo con el presidente ruso Vladimir Putin \"no logrará fines justos ni beneficiará a los estadounidenses\".",
+      "u": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:19:42+00:00"
+    },
+    {
+      "h": "Tencent raises $5.7 billion in debt sale as demand defies AI scrutiny",
+      "es": "Tencent recauda 5.700 millones de dólares en venta de deuda mientras la demanda desafía el escrutinio de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C031_L.jpg",
+      "published": "2026-10-13T18:18:24+00:00"
+    },
     {
       "h": "We're upgrading our Goldman Sachs rating after a strong quarter bodes well for the future",
       "es": "Estamos mejorando nuestra calificación de Goldman Sachs después de un buen trimestre que es un buen augurio para el futuro.",
@@ -18,6 +99,24 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-31295352",
       "published": "2026-10-13T18:11:00+00:00"
+    },
+    {
+      "h": "Lawmakers ask FAA to pause use of new AI tool in DC-area flight management",
+      "es": "Los legisladores piden a la FAA que suspenda el uso de una nueva herramienta de inteligencia artificial en la gestión de vuelos en el área de DC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lawmakers-ask-faa-to-pause-use-of-new-ai-tool-in-dcarea-flight-management-4947371",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1P1_L.jpg",
+      "published": "2026-10-13T18:06:51+00:00"
+    },
+    {
+      "h": "KLA-Tencor, Caterpillar among market cap stock movers on Tuesday",
+      "es": "KLA-Tencor y Caterpillar entre los impulsores de la capitalización de mercado el martes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/klatencor-caterpillar-among-market-cap-stock-movers-on-tuesday-93CH-4947369",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE0O10K_M.jpg",
+      "published": "2026-10-13T18:06:17+00:00"
     },
     {
       "h": "The latest inflation data is expected to show price increases are accelerating",
@@ -171,105 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-67299659",
       "published": "2026-10-13T17:30:00+00:00"
-    },
-    {
-      "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-      "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
-      "d": "El anuncio de Guilfoyle se produjo después de que la nueva secretaria de prensa de la Casa Blanca, Katie Zacharia, dijera en su primera sesión informativa que se había pedido al embajador que renunciara.",
-      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T17:29:59+00:00"
-    },
-    {
-      "h": "Why is Vertex Pharmaceuticals stock sliding 4% today?",
-      "es": "¿Por qué las acciones de Vertex Pharmaceuticals están cayendo un 4% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-4-today-93CH-4947334",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-13T17:28:47+00:00"
-    },
-    {
-      "h": "Why is Molina Healthcare stock up 3.5% today?",
-      "es": "¿Por qué las acciones de Molina Healthcare han subido un 3,5% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-molina-healthcare-stock-up-35-today-93CH-4947331",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-13T17:25:56+00:00"
-    },
-    {
-      "h": "Wall St edges lower as chips fall; markets assess big bank earnings",
-      "es": "Los bordes de Wall St bajan a medida que caen las virutas; Los mercados evalúan las ganancias de los grandes bancos.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
-      "published": "2026-10-13T17:24:49+00:00"
-    },
-    {
-      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say",
-      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/martin-shkreli-violated-lifetime-pharma-industry-ban-ftc-and-states-say-4947222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1HZ_L.jpg",
-      "published": "2026-10-13T17:24:20+00:00"
-    },
-    {
-      "h": "Why is First Solar stock gaining 3.5% today?",
-      "es": "¿Por qué las acciones de First Solar están ganando un 3,5% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-first-solar-stock-gaining-35-today-93CH-4947329",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-13T17:23:20+00:00"
-    },
-    {
-      "h": "Why is International Flavors & Fragrances stock up 4% today?",
-      "es": "¿Por qué el stock de International Flavors & Fragrances ha aumentado un 4% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-international-flavors--fragrances-stock-up-4-today-93CH-4947328",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T17:22:56+00:00"
-    },
-    {
-      "h": "Why is Erie Indemnity stock rallying 3% today?",
-      "es": "¿Por qué las acciones de Erie Indemnity están subiendo un 3% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-erie-indemnity-stock-rallying-3-today-93CH-4947327",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-13T17:22:23+00:00"
-    },
-    {
-      "h": "How to read your body’s warning signs years before you get sick",
-      "es": "Cómo leer las señales de advertencia de tu cuerpo años antes de enfermarte",
-      "d": "La mayoría de nosotros no sólo queremos vivir una vida más larga. Queremos vivir vidas más largas y saludables.",
-      "u": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80410179",
-      "published": "2026-10-13T17:22:00+00:00"
-    },
-    {
-      "h": "Why is Garmin stock rallying 3% today?",
-      "es": "¿Por qué las acciones de Garmin están subiendo un 3% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-garmin-stock-rallying-3-today-93CH-4947326",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-13T17:20:20+00:00"
-    },
-    {
-      "h": "Why is Keysight Technologies stock sliding today?",
-      "es": "¿Por qué las acciones de Keysight Technologies están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-keysight-technologies-stock-sliding-today-93CH-4947325",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-13T17:19:54+00:00"
     }
   ],
   "sources": [
