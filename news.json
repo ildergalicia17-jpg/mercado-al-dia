@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-13T20:03:51.512808+00:00",
+  "updated": "2026-10-13T20:38:27.431808+00:00",
   "news": [
+    {
+      "h": "Bank of America fined $1.2 billion over money-laundering violations",
+      "es": "Bank of America multado con 1.200 millones de dólares por infracciones de blanqueo de dinero",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T20:34:28+00:00"
+    },
+    {
+      "h": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "es": "Las acciones de AST SpaceMobile están sintiendo la presión de los planes inalámbricos de SpaceX",
+      "d": "El lanzamiento comercial de AST podría sufrir retrasos debido a los desafíos del lanzamiento de satélites y las crecientes ambiciones de SpaceX, advierte un analista.",
+      "u": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94248093",
+      "published": "2026-10-13T20:32:00+00:00"
+    },
+    {
+      "h": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+      "es": "Juez dice que Musk participó en la intimidación de la ex directora financiera de FEMA, Mary Comans, limpia su nombre",
+      "d": "El nombre de la ex directora financiera de FEMA, Mary Comans, fue limpiado por un juez federal después de que Elon Musk y otros funcionarios del gobierno la acusaran falsamente de acciones criminales en 2025.",
+      "u": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T20:30:08+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67299659",
+      "published": "2026-10-13T20:30:00+00:00"
+    },
+    {
+      "h": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+      "es": "UnitedHealth mantiene los costos médicos bajo control y vuelve a elevar sus perspectivas",
+      "d": "El gigante de los seguros médicos dijo que su ratio de costos médicos fue del 88,4% en el tercer trimestre de este año, mientras la compañía intenta controlar el gasto en atención médica.",
+      "u": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-87355184",
+      "published": "2026-10-13T20:29:00+00:00"
+    },
+    {
+      "h": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+      "es": "¿El CEO de Broadcom fue optimista o bajista con respecto a la IA? El comentario de los \"jugadores\" genera tormenta.",
+      "d": "Los comentarios hechos por el director ejecutivo de Broadcom en una conferencia en Singapur han sido citados como una razón para las caídas de las acciones de microchips tanto el lunes como el martes.",
+      "u": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81933204",
+      "published": "2026-10-13T20:27:00+00:00"
+    },
+    {
+      "h": "Micron’s stock extends declines as China competition heats up",
+      "es": "Las acciones de Micron amplían sus caídas a medida que se intensifica la competencia en China",
+      "d": "Incluso Elon Musk dice que los fabricantes chinos de chips de memoria se están poniendo al día.",
+      "u": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00348993",
+      "published": "2026-10-13T20:25:00+00:00"
+    },
+    {
+      "h": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
+      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y ahora dice que merece la casa familiar de $925,000. ¿Tiene razón?",
+      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
+      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58890018",
+      "published": "2026-10-13T20:16:00+00:00"
+    },
+    {
+      "h": "How you can prepare for 6% bond yields",
+      "es": "Cómo prepararse para unos rendimientos de los bonos del 6%",
+      "d": "Los ahorradores e inversores con los rendimientos actuales se beneficiarán, pero aumentan los temores sobre el resto de la economía fuera del auge de la IA.",
+      "u": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-75446828",
+      "published": "2026-10-13T20:15:00+00:00"
+    },
+    {
+      "h": "Micron sinks, other memory-linked names dip for a second day",
+      "es": "Micron se hunde, otros nombres vinculados a la memoria caen por segundo día",
+      "d": "La venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
+      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T20:12:36+00:00"
+    },
+    {
+      "h": "Why this little known Chinese chipmaker has caused a global stock rout",
+      "es": "Por qué este poco conocido fabricante chino de chips ha provocado una caída bursátil mundial",
+      "d": "Según se informa, CXMT, el principal fabricante de chips de memoria de China, ha logrado avances en nuevos diseños.",
+      "u": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T20:05:58+00:00"
+    },
     {
       "h": "Midterm voters haven’t seen this many housing proposals on the ballot in 20 years",
       "es": "Los votantes de mitad de período no habían visto tantas propuestas de vivienda en la boleta en 20 años",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED16063_M.jpg",
       "published": "2026-10-13T19:17:47+00:00"
-    },
-    {
-      "h": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
-      "es": "Michael Dell dice que la IA necesita salvaguardias y controles, y el gobierno tiene un papel que desempeñar",
-      "d": "El director ejecutivo de Dell, Michael Dell, dice que los modelos de IA necesitan salvaguardias y controles, y que tanto las empresas como el gobierno desempeñan un papel en la seguridad.",
-      "u": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T19:08:28+00:00"
-    },
-    {
-      "h": "Meta shares rise for a second straight day as new AI model family impresses",
-      "es": "Las acciones de Meta suben por segundo día consecutivo a medida que impresiona la nueva familia de modelos de IA",
-      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/13/meta-shares-rise-for-a-second-straight-day-as-new-ai-model-family-impresses.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:55:33+00:00"
-    },
-    {
-      "h": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
-      "es": "El ajuste del costo de vida del Seguro Social para 2027 puede estar por encima del promedio. Algunos dicen que no es suficiente",
-      "d": "Se espera que la Administración de la Seguridad Social anuncie el ajuste por costo de vida para 2027. Las proyecciones apuntan a un aumento superior al promedio.",
-      "u": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:51:08+00:00"
-    },
-    {
-      "h": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-      "es": "Walmart cubrirá algunos GLP-1, inhaladores e insulina para los empleados sin costo a medida que amplía los beneficios",
-      "d": "Walmart ofrecerá Ozempic de Novo y Mounjaro de Lilly sin costo para personas con diabetes tipo 2 luego de una nueva autorización previa.",
-      "u": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:48:59+00:00"
-    },
-    {
-      "h": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "es": "JPMorgan Chase impide que agentes externos de IA como Muse e Instinct accedan directamente a las cuentas",
-      "d": "El director ejecutivo de JPMorgan Chase, Jamie Dimon, advirtió sobre agentes deshonestos que operan a gran escala y dijo que el banco está creando herramientas defensivas.",
-      "u": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:46:27+00:00"
-    },
-    {
-      "h": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-      "es": "Compras falsas y “seguros de felicidad”: las últimas aplicaciones fintech revelan nuestras ansiedades financieras",
-      "d": "Las empresas de tecnología financiera se están dando cuenta de cómo los estadounidenses están alterando sus hábitos financieros y han creado nuevos productos para intentar adaptarse al momento.",
-      "u": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-60506026",
-      "published": "2026-10-13T18:44:00+00:00"
-    },
-    {
-      "h": "CVS settles US Justice Department case over opioid prescriptions for $315 million",
-      "es": "CVS resuelve caso del Departamento de Justicia de EE. UU. sobre recetas de opioides por 315 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cvs-settles-us-justice-department-case-over-opioid-prescriptions-for-315-million-4947383",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1OS_L.jpg",
-      "published": "2026-10-13T18:42:47+00:00"
-    },
-    {
-      "h": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-      "es": "Los ataques a aeropuertos ponen a la aviación en el punto de mira de los conflictos geopolíticos",
-      "d": "Los ataques mortales en el principal aeropuerto de Riad están perturbando a las aerolíneas, cerrando el espacio aéreo y planteando nuevas cuestiones de seguridad para la aviación comercial.",
-      "u": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:33:42+00:00"
-    },
-    {
-      "h": "Apple bets on new screen gadget, Siri AI in home device push",
-      "es": "Apple apuesta por un nuevo dispositivo de pantalla y Siri AI en el impulso de los dispositivos domésticos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
-      "published": "2026-10-13T18:31:34+00:00"
-    },
-    {
-      "h": "More Republicans come out against Trump's diesel deal with Putin",
-      "es": "Más republicanos se manifiestan en contra del acuerdo de diésel de Trump con Putin",
-      "d": "Los senadores dijeron a Trump que el acuerdo con el presidente ruso Vladimir Putin \"no logrará fines justos ni beneficiará a los estadounidenses\".",
-      "u": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T18:19:42+00:00"
-    },
-    {
-      "h": "Tencent raises $5.7 billion in debt sale as demand defies AI scrutiny",
-      "es": "Tencent recauda 5.700 millones de dólares en venta de deuda mientras la demanda desafía el escrutinio de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C031_L.jpg",
-      "published": "2026-10-13T18:18:24+00:00"
     }
   ],
   "sources": [
