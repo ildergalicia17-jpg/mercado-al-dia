@@ -1,0 +1,28 @@
+name: Actualizar cotizaciones cripto
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cotizaciones-cripto
+  cancel-in-progress: true
+jobs:
+  cotizaciones:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Consultar cotizaciones públicas
+        run: python crypto_feed.py
+      - name: Publicar cotizaciones
+        run: |
+          git config user.name "bot-mercado"
+          git config user.email "bot@users.noreply.github.com"
+          git add crypto.json
+          git diff --staged --quiet || git commit -m "Actualizar cotizaciones cripto"
+          git push
