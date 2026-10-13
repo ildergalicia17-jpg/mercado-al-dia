@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-13T13:01:06.627003+00:00",
+  "updated": "2026-10-13T13:32:14.674334+00:00",
   "news": [
+    {
+      "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "es": "Los precios del petróleo caen mientras los comerciantes evalúan las perspectivas del suministro de diésel ruso y el conflicto entre Arabia Saudita y los hutíes",
+      "d": "Los precios del petróleo cayeron mientras los inversores evalúan posibles interrupciones en el suministro frente a las perspectivas de que ingrese más diésel ruso a los mercados globales.",
+      "u": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T13:29:11+00:00"
+    },
+    {
+      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
+      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
+      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T13:29:06+00:00"
+    },
+    {
+      "h": "Micron’s stock extends declines as China competition heats up",
+      "es": "Las acciones de Micron amplían sus caídas a medida que se intensifica la competencia en China",
+      "d": "Incluso Elon Musk dice que los fabricantes chinos de chips de memoria se están poniendo al día.",
+      "u": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00348993",
+      "published": "2026-10-13T13:21:00+00:00"
+    },
+    {
+      "h": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
+      "es": "Micron cae un 5% debido a que las acciones tecnológicas se ven sacudidas por las afirmaciones de avance de los chips de China",
+      "d": "Las acciones de tecnología se desplomaron el martes cuando una venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
+      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T13:13:57+00:00"
+    },
+    {
+      "h": "SpaceX D2C aggression triggers Piper Sandler downgrade of AST SpaceMobile",
+      "es": "La agresión de SpaceX D2C provoca la degradación de Piper Sandler de AST SpaceMobile",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-d2c-aggression-triggers-piper-sandler-downgrade-of-ast-spacemobile-4946804",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg",
+      "published": "2026-10-13T13:10:48+00:00"
+    },
+    {
+      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
+      "es": "Mientras la UE debate las normas de contenido local, los fabricantes de automóviles chinos ya se están adaptando",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
+      "published": "2026-10-13T13:06:36+00:00"
+    },
+    {
+      "h": "Why did investors react so negatively to Schneider-PTC deal? M&A expert weighs in",
+      "es": "¿Por qué los inversores reaccionaron tan negativamente al acuerdo entre Schneider y PTC? Experto en fusiones y adquisiciones opina",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-did-investors-react-so-negatively-to-schneiderptc-deal-ma-expert-weighs-in-4946782",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI8C0GV_L.jpg",
+      "published": "2026-10-13T13:06:12+00:00"
+    },
+    {
+      "h": "Top insider buys and sells disclosed for Monday",
+      "es": "Principales compras y ventas de información privilegiada reveladas para el lunes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-for-monday-93CH-4946740",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-13T13:01:42+00:00"
+    },
+    {
+      "h": "Influential Hindu group urges India to block Starlink amid Musk-Ambani feud",
+      "es": "Influyente grupo hindú insta a India a bloquear Starlink en medio de la disputa entre Musk y Ambani",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/influential-hindu-group-urges-india-to-block-starlink-amid-muskambani-feud-4946735",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C17O_L.jpg",
+      "published": "2026-10-13T13:00:43+00:00"
+    },
+    {
+      "h": "Goldman highlights two U.S. auto stocks to buy into earnings",
+      "es": "Goldman destaca dos acciones de automóviles estadounidenses para comprar en sus resultados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-highlights-two-us-auto-stocks-to-buy-into-earnings-93CH-4946734",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA919L_L.jpg",
+      "published": "2026-10-13T13:00:40+00:00"
+    },
     {
       "h": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
       "es": "Paul Tudor Jones dice que 2027 podría ser un año realmente desafiante para el mercado de valores",
@@ -9,6 +99,33 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T12:59:59+00:00"
+    },
+    {
+      "h": "Analyst lists 7 reasons why China CXMT’s claims don’t threaten Micron and Sandisk",
+      "es": "Un analista enumera 7 razones por las que las afirmaciones de China CXMT no amenazan a Micron y Sandisk",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analyst-lists-7-reasons-why-china-cxmts-claims-dont-threaten-micron-and-sandisk-4946719",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
+      "published": "2026-10-13T12:59:09+00:00"
+    },
+    {
+      "h": "Why is Enerflex stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Enerflex hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-enerflex-stock-surging-today-93CH-4946717",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-13T12:59:08+00:00"
+    },
+    {
+      "h": "Why is Fermi stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Fermi hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-fermi-stock-surging-today-93CH-4946714",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-13T12:58:52+00:00"
     },
     {
       "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
@@ -45,6 +162,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC470BW_M.jpg",
       "published": "2026-10-13T12:45:03+00:00"
+    },
+    {
+      "h": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+      "es": "La riqueza estadounidense se ha desplazado de las viviendas a las acciones. Hay grandes motivos para preocuparse.",
+      "d": "El mercado alcista de cuatro años en las acciones está en pleno apogeo debido al auge de la IA. Pero también está aumentando el costo del dinero.",
+      "u": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-15411137",
+      "published": "2026-10-13T12:44:00+00:00"
     },
     {
       "h": "Bumble to go private in $1.3 billion deal",
@@ -144,132 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
       "published": "2026-10-13T12:27:36+00:00"
-    },
-    {
-      "h": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
-      "es": "Character.AI se declara en quiebra y acuerda vender algunos activos por 20 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/characterai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million-4945401",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C09R_L.jpg",
-      "published": "2026-10-13T12:24:43+00:00"
-    },
-    {
-      "h": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-      "es": "Los frigoríficos de los supermercados franceses son pirateados, se calientan a 50 °C y provocan incendios",
-      "d": "Los piratas informáticos atacaron cientos de supermercados franceses en un ciberataque a gran escala, provocando que los refrigeradores se sobrecalentaran, estropearan los alimentos y provocaran incendios.",
-      "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T12:22:59+00:00"
-    },
-    {
-      "h": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
-      "es": "Mientras crecen las protestas de las 'Cucarachas' por un presunto fraude electoral, Modi defiende a la India como 'madre de la democracia'",
-      "d": "Se han intensificado las protestas en India exigiendo la destitución del comisionado jefe electoral por presunto fraude electoral.",
-      "u": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T12:19:37+00:00"
-    },
-    {
-      "h": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
-      "es": "BlackRock y Baillie Gifford apuestan fuerte por las casas Icon impresas en 3D",
-      "d": "Icon, uno de los mayores actores del sector inmobiliario impreso en 3D, anuncia su financiación Serie D de 200 millones de dólares codirigida por Baillie Gifford y fondos gestionados por BlackRock, entre otros.",
-      "u": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T12:18:44+00:00"
-    },
-    {
-      "h": "Poundland in rescue talks as owners seek buyer",
-      "es": "Poundland en conversaciones de rescate mientras los propietarios buscan un comprador",
-      "d": "El equipo directivo está intentando realizar una compra, pero un sindicato ha advertido que el minorista podría caer en la administración.",
-      "u": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
-      "published": "2026-10-13T12:17:17+00:00"
-    },
-    {
-      "h": "Cipher Digital stock drops 12% following $850 million debt offering",
-      "es": "Las acciones de Cipher Digital caen un 12% tras una oferta de deuda de 850 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cipher-digital-stock-drops-12-following-850-million-debt-offering-4946519",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6R1S0_L.jpg",
-      "published": "2026-10-13T12:14:31+00:00"
-    },
-    {
-      "h": "TSX futures rise amid easing bond yields, higher gold prices",
-      "es": "Los futuros del TSX suben en medio de la flexibilización de los rendimientos de los bonos y el aumento de los precios del oro",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-easing-bond-yields-higher-gold-prices-4946515",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "published": "2026-10-13T12:12:09+00:00"
-    },
-    {
-      "h": "Barclays boosts Viking Holdings target to $102, citing strong entry point",
-      "es": "Barclays eleva el objetivo de Viking Holdings a 102 dólares, citando un fuerte punto de entrada",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/barclays-boosts-viking-holdings-target-to-102-citing-strong-entry-point-4946468",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-13T12:07:20+00:00"
-    },
-    {
-      "h": "Exclusive-LSEG considers bid for Octus financial data group, sources say",
-      "es": "Exclusiva-LSEG considera oferta por el grupo de datos financieros Octus, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivelseg-considers-bid-for-octus-financial-data-group-sources-say-4946485",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C12V_L.jpg",
-      "published": "2026-10-13T12:06:34+00:00"
-    },
-    {
-      "h": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
-      "es": "Por qué el gestor de fondos número uno del mundo acaba de cambiar de opinión sobre los bonos por primera vez en seis años",
-      "d": "Después de seis años, BlackRock encuentra oportunidades en los bonos gubernamentales.",
-      "u": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75446828",
-      "published": "2026-10-13T12:04:00+00:00"
-    },
-    {
-      "h": "UnitedHealth raises profit forecast again as turnaround efforts gather pace",
-      "es": "UnitedHealth eleva nuevamente su pronóstico de ganancias a medida que se aceleran los esfuerzos de recuperación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/unitedhealth-group-raises-profit-forecast-on-thirdquarter-earnings-beat-4945967",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0RF_L.jpg",
-      "published": "2026-10-13T12:01:16+00:00"
-    },
-    {
-      "h": "BetMGM Q3 revenue rises, maintains annual outlook",
-      "es": "Los ingresos de BetMGM en el tercer trimestre aumentan y mantienen la perspectiva anual",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/betmgm-q3-revenue-rises-maintains-annual-outlook-4946435",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C124_L.jpg",
-      "published": "2026-10-13T12:01:03+00:00"
-    },
-    {
-      "h": "Three things we've learnt about the UK economy from the IMF",
-      "es": "Tres cosas que hemos aprendido del FMI sobre la economía del Reino Unido",
-      "d": "El influyente organismo económico ha mejorado su pronóstico de crecimiento del Reino Unido para este año, pero los riesgos persisten.",
-      "u": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
-      "published": "2026-10-13T11:58:43+00:00"
-    },
-    {
-      "h": "Telenor placed on negative catalyst watch at JPM ahead of Q3 results",
-      "es": "Telenor colocado bajo vigilancia negativa sobre catalizadores en JPM antes de los resultados del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/telenor-placed-on-negative-catalyst-watch-at-jpm-ahead-of-q3-results-4946427",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI8J05T_L.jpg",
-      "published": "2026-10-13T11:58:36+00:00"
     }
   ],
   "sources": [
