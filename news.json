@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:08:36.168769+00:00",
+  "updated": "2026-10-13T23:38:23.125432+00:00",
   "news": [
     {
       "h": "How long will humans be needed for translation?",
@@ -9,6 +9,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
       "published": "2026-10-13T23:05:29+00:00"
+    },
+    {
+      "h": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "es": "Goldman dice que los inversores buscan un crecimiento \"rentable\" de las empresas chinas en el extranjero",
+      "d": "La lenta demanda de los consumidores en China ha empujado a muchas empresas, como las marcas de automóviles eléctricos, a acelerar los planes para ingresar a otros países.",
+      "u": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T23:05:12+00:00"
     },
     {
       "h": "Is it OK for jobseekers or employers to use AI?",
@@ -29,6 +38,24 @@
       "published": "2026-10-13T23:03:59+00:00"
     },
     {
+      "h": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "es": "Anthropic insta a un tribunal de Washington, D.C. a volver a escuchar la apelación de la inclusión en la lista negra del Pentágono",
+      "d": "Anthropic está solicitando a un tribunal federal en Washington, D.C. que vuelva a escuchar su apelación en un caso relacionado con la inclusión por parte del Pentágono de los modelos de IA de la compañía.",
+      "u": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T22:54:21+00:00"
+    },
+    {
+      "h": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "es": "Aquí es donde se encuentra Jim Cramer en este nuevo stock público de infraestructura de IA",
+      "d": "Jim Cramer, de CNBC, dijo que los inversores deberían posponer la compra de la nueva empresa pública de infraestructura de inteligencia artificial Acceleration Holdings.",
+      "u": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T22:47:07+00:00"
+    },
+    {
       "h": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
       "es": "BofA multa con 1.200 millones de dólares por parte del gobierno de EE. UU. por no controlar actividades sospechosas",
       "d": "",
@@ -45,6 +72,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1Z7_L.jpg",
       "published": "2026-10-13T22:24:35+00:00"
+    },
+    {
+      "h": "AT&T sells Mexico unit to Televisa, Fintech for $2 billion",
+      "es": "AT&T vende unidad mexicana a Televisa y Fintech por 2 mil millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1UW_L.jpg",
+      "published": "2026-10-13T22:12:22+00:00"
     },
     {
       "h": "Why is Grupo Televisa stock surging today?",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEI1603V_L.jpg",
       "published": "2026-10-13T21:02:17+00:00"
-    },
-    {
-      "h": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-      "es": "Las acciones de chips sufren la peor racha en 16 meses mientras la fatiga de la IA se apodera del mercado",
-      "d": "Crece la anticipación para el día del inversor de Anthropic, a medida que Wall Street se vuelve menos paciente con el fuerte gasto en IA.",
-      "u": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19968872",
-      "published": "2026-10-13T21:02:00+00:00"
-    },
-    {
-      "h": "OpenAI employee arrested by FBI over hidden listening device, company says",
-      "es": "Empleado de OpenAI arrestado por el FBI por dispositivo de escucha oculto, dice la compañía",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1TF_L.jpg",
-      "published": "2026-10-13T21:01:04+00:00"
-    },
-    {
-      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
-      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
-      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86790018",
-      "published": "2026-10-13T21:01:00+00:00"
-    },
-    {
-      "h": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement",
-      "es": "Un jurado de Delaware concede a Qualcomm 2 dólares por daños y considera que Arm violó el acuerdo de licencia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qualcomm-says-jury-found-arm-breached-license-agreement-4947346",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1NR_L.jpg",
-      "published": "2026-10-13T21:00:47+00:00"
     }
   ],
   "sources": [
