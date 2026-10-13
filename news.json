@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-13T09:17:15.862132+00:00",
+  "updated": "2026-10-13T09:41:38.535578+00:00",
   "news": [
+    {
+      "h": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+      "es": "Se mejoró la previsión de crecimiento del Reino Unido, pero el aumento de los precios de la energía afectará a la economía el próximo año",
+      "d": "La predicción del FMI se produce cuando se están realizando los preparativos finales para el primer presupuesto del primer ministro Andy Burnham.",
+      "u": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-13T09:38:54+00:00"
+    },
+    {
+      "h": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+      "es": "El propietario de Phase Eight y Hobbs se ve afectado por un ciberataque, mientras H&M investiga un reclamo de piratería por separado",
+      "d": "TFG London se disculpó con los clientes por la interrupción después de identificar un \"incidente de ciberseguridad\" el domingo.",
+      "u": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "2026-10-13T09:34:43+00:00"
+    },
+    {
+      "h": "What to expect from Europe’s most valuable company before it kicks off tech earnings",
+      "es": "Qué esperar de la empresa más valiosa de Europa antes de que inicie sus ganancias tecnológicas",
+      "d": "ASML informará sus resultados financieros del tercer trimestre antes de la campana de apertura en Ámsterdam, Países Bajos, el miércoles.",
+      "u": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24836984",
+      "published": "2026-10-13T09:33:00+00:00"
+    },
+    {
+      "h": "BofA reiterates bullish view on Nokia stock amid AI order strength",
+      "es": "BofA reitera su visión alcista sobre las acciones de Nokia en medio de la fortaleza de los pedidos de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bofa-reiterates-bullish-view-on-nokia-stock-amid-ai-order-strength-93CH-4945894",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1P0LR_L.jpg",
+      "published": "2026-10-13T09:24:39+00:00"
+    },
+    {
+      "h": "Factbox-Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+      "es": "Cuadro informativo: aerolíneas cancelan vuelos a Arabia Saudita después de los ataques al aeropuerto de Riad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-to-saudi-arabia-after-riyadh-airport-attacks-4944340",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B10E_L.jpg",
+      "published": "2026-10-13T09:24:22+00:00"
+    },
+    {
+      "h": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+      "es": "Trump \"no está contento\" con Kimberly Guilfoyle y considera despedirla como embajadora en Grecia",
+      "d": "La ex personalidad de Fox News, Guilfoyle, estuvo previamente comprometida con el hijo del presidente, Donald Trump Jr.",
+      "u": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T09:23:53+00:00"
+    },
+    {
+      "h": "Melrose Industries shares rise as GKN civil probe nears end",
+      "es": "Las acciones de Melrose Industries suben a medida que la investigación civil de GKN se acerca al final",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/melrose-industries-shares-rise-as-gkn-civil-probe-nears-end-93CH-4945889",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-13T09:21:07+00:00"
+    },
+    {
+      "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "es": "Los precios del petróleo caen mientras los comerciantes evalúan las perspectivas del suministro de diésel ruso y el conflicto entre Arabia Saudita y los hutíes",
+      "d": "Los precios del petróleo cayeron mientras los inversores evalúan posibles interrupciones en el suministro frente a las perspectivas de que ingrese más diésel ruso a los mercados globales.",
+      "u": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T09:20:00+00:00"
+    },
+    {
+      "h": "BMW reports 6.3% drop in Q3 deliveries amid China slowdown",
+      "es": "BMW informa una caída del 6,3% en las entregas del tercer trimestre en medio de la desaceleración de China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bmw-reports-63-drop-in-q3-deliveries-amid-china-slowdown-93CH-4945882",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7C063_M.jpg",
+      "published": "2026-10-13T09:19:39+00:00"
+    },
+    {
+      "h": "Why is Western Digital stock falling today?",
+      "es": "¿Por qué están cayendo las acciones de Western Digital hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-falling-today-93CH-4945879",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0R00Z_M.jpg",
+      "published": "2026-10-13T09:18:57+00:00"
+    },
+    {
+      "h": "European stocks hit one-week high on easing oil, yields; LVMH drags luxury stocks",
+      "es": "Las acciones europeas alcanzaron máximos de una semana por la flexibilización del petróleo y los rendimientos; LVMH arrastra las acciones de lujo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-lower-oil-prices-lift-sentiment-4945672",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0JS_L.jpg",
+      "published": "2026-10-13T09:18:21+00:00"
+    },
+    {
+      "h": "LVMH stock analysis after earnings: Decade-low valuation",
+      "es": "Análisis de acciones de LVMH después de las ganancias: valoración mínima de la década",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lvmh-stock-analysis-after-earnings-decadelow-valuation-93CH-4945878",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL401X0_L.jpg",
+      "published": "2026-10-13T09:17:10+00:00"
+    },
+    {
+      "h": "Why is ASML stock sliding today?",
+      "es": "¿Por qué las acciones de ASML están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-asml-stock-sliding-today-93CH-4945877",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-13T09:17:07+00:00"
+    },
+    {
+      "h": "BofA poll shows European stock optimism amid falling outlook",
+      "es": "La encuesta de BofA muestra optimismo sobre las acciones europeas en medio de perspectivas a la baja",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bofa-poll-shows-european-stock-optimism-amid-falling-outlook-93CH-4945876",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI160EU_L.jpg",
+      "published": "2026-10-13T09:16:53+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire. We have $4 million. Do I just keep working?",
+      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "“Ella quería hacer un viaje de 8.000 dólares a Italia para nuestro 30 aniversario, y le dije que no”.",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67299659",
+      "published": "2026-10-13T09:15:00+00:00"
+    },
+    {
+      "h": "BMW deliveries fall 6.3% in third quarter as China sales slump",
+      "es": "Las entregas de BMW caen un 6,3% en el tercer trimestre debido a la caída de las ventas en China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bmw-deliveries-fall-63-in-third-quarter-as-china-sales-slump-4945851",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0NX_L.jpg",
+      "published": "2026-10-13T09:12:49+00:00"
+    },
     {
       "h": "‘Breaking Bad’ star Aaron Paul sells L.A. home for $7.5 million; he now lives in Paris",
       "es": "La estrella de 'Breaking Bad', Aaron Paul, vende su casa en Los Ángeles por 7,5 millones de dólares; ahora vive en paris",
@@ -27,6 +171,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-29221819",
       "published": "2026-10-13T09:01:00+00:00"
+    },
+    {
+      "h": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+      "es": "SpaceX acepta testificar ante el Consejo de la Ciudad de Nueva York sobre la seguridad de la IA después de recibir una citación",
+      "d": "SpaceX acordó testificar ante el Ayuntamiento de Nueva York como parte de una investigación sobre los riesgos de seguridad de la IA.",
+      "u": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T09:00:01+00:00"
     },
     {
       "h": "This one chart from the IMF tells the entire story of the world economy this year",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
       "published": "2026-10-13T08:26:57+00:00"
-    },
-    {
-      "h": "Why is LVMH Moet Hennessy Louis Vuitton stock sliding today?",
-      "es": "¿Por qué las acciones de LVMH Moët Hennessy Louis Vuitton están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-lvmh-moet-hennessy-louis-vuitton-stock-sliding-today-93CH-4945714",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-13T08:11:37+00:00"
-    },
-    {
-      "h": "Why is Bellway stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Bellway hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bellway-stock-rallying-today-93CH-4945712",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-13T08:07:26+00:00"
-    },
-    {
-      "h": "DAX near Upper Bollinger Band at 25,546: Live levels",
-      "es": "DAX cerca de Upper Bollinger Band en 25,546: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dax-at-25359-faces-bull-trap-risk-near-2548125589-live-93CH-4943422",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-13T08:06:46+00:00"
-    },
-    {
-      "h": "Why is Bytes Technology stock sliding today?",
-      "es": "¿Por qué las acciones de Bytes Technology están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bytes-technology-stock-sliding-today-93CH-4945709",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-13T08:03:22+00:00"
-    },
-    {
-      "h": "LVMH stock dips as fashion sales fall on China weakness",
-      "es": "Las acciones de LVMH caen mientras las ventas de moda caen por la debilidad de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lvmh-edges-past-q3-revenue-estimates-as-fashion-sales-slip-on-china-weakness-4944941",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL401X0_L.jpg",
-      "published": "2026-10-13T08:02:18+00:00"
-    },
-    {
-      "h": "Why is Publicis Groupe stock gaining today?",
-      "es": "¿Por qué las acciones de Publicis Groupe están ganando hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-publicis-groupe-stock-gaining-today-93CH-4945698",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-13T07:58:44+00:00"
-    },
-    {
-      "h": "Why is Poste Italiane stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Poste Italiane hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-poste-italiane-stock-climbing-today-93CH-4945696",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-13T07:58:22+00:00"
-    },
-    {
-      "h": "U.S. Treasury yields fall as energy prices pull back",
-      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen a medida que los precios de la energía retroceden",
-      "d": "Los rendimientos de los bonos cayeron el martes mientras los inversores esperan más publicaciones de datos económicos esta semana.",
-      "u": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T07:58:17+00:00"
-    },
-    {
-      "h": "Why is Plus500 stock rallying today?",
-      "es": "¿Por qué las acciones de Plus500 están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-plus500-stock-rallying-today-93CH-4945695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Plus500_800x533_L_1653801629.jpg",
-      "published": "2026-10-13T07:57:07+00:00"
-    },
-    {
-      "h": "Why is Givaudan stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Givaudan hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-givaudan-stock-surging-today-93CH-4945694",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-13T07:57:00+00:00"
-    },
-    {
-      "h": "Why is Nokia stock sliding today?",
-      "es": "¿Por qué las acciones de Nokia están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-sliding-today-93CH-4945691",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ1Q095_L.jpg",
-      "published": "2026-10-13T07:53:12+00:00"
-    },
-    {
-      "h": "Broadcom CEO sees capital hurdle to AI growth, ’casino’ in AI investing",
-      "es": "El director ejecutivo de Broadcom ve un obstáculo de capital para el crecimiento de la IA y un 'casino' en la inversión en IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/broadcom-ceo-sees-capital-hurdle-to-ai-growth-casino-in-ai-investing-4945686",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B0E0_L.jpg",
-      "published": "2026-10-13T07:48:23+00:00"
-    },
-    {
-      "h": "Why is BP stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de BP hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bp-stock-climbing-today-93CH-4945685",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
-      "published": "2026-10-13T07:48:22+00:00"
-    },
-    {
-      "h": "Why is Marston’s stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Marston hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-marstons-stock-surging-today-93CH-4945681",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-13T07:46:45+00:00"
-    },
-    {
-      "h": "Nokia shares fall on agreement to sell Campus Edge to Aurelius",
-      "es": "Las acciones de Nokia caen tras el acuerdo para vender Campus Edge a Aurelius",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nokia-shares-fall-on-agreement-to-sell-campus-edge-to-aurelius-4945674",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL7L0P4_L.jpg",
-      "published": "2026-10-13T07:43:26+00:00"
-    },
-    {
-      "h": "Tencent experiences strong demand for $4.5 billion debt sale, defying AI scrutiny",
-      "es": "Tencent experimenta una fuerte demanda de venta de deuda por 4.500 millones de dólares, desafiando el escrutinio de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C031_L.jpg",
-      "published": "2026-10-13T07:42:49+00:00"
-    },
-    {
-      "h": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
-      "es": "Los organismos de control de la banca exclusiva intensifican el escrutinio de la IA a medida que aumentan los temores sobre la estabilidad, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivebanking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-4945440",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0BQ_L.jpg",
-      "published": "2026-10-13T07:36:42+00:00"
     }
   ],
   "sources": [
