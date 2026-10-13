@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-13T15:41:27.885591+00:00",
+  "updated": "2026-10-13T16:05:13.080887+00:00",
   "news": [
+    {
+      "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+      "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
+      "d": "La Casa Blanca había pedido la dimisión de la embajadora de Estados Unidos en Grecia, Kimberly Guilfoyle, dijo el martes la secretaria de prensa Katie Zacharia en su primera sesión informativa.",
+      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:54:34+00:00"
+    },
+    {
+      "h": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "es": "Paul Tudor Jones dice que 2027 podría ser un año realmente desafiante para el mercado de valores",
+      "d": "El inversionista multimillonario dijo que las recompras corporativas, junto con las fusiones y adquisiciones, que han sido un viento de cola para el mercado alcista, están a punto de cambiar.",
+      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:52:44+00:00"
+    },
+    {
+      "h": "In charts: How one of the world's biggest economies got trapped by debt",
+      "es": "En gráficos: cómo una de las economías más grandes del mundo quedó atrapada por la deuda",
+      "d": "Francia abre el debate sobre su presupuesto para 2027 mientras los altos déficits, el aumento de la deuda y las protestas estudiantiles intensifican la presión sobre los legisladores.",
+      "u": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:52:24+00:00"
+    },
+    {
+      "h": "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict",
+      "es": "Paul Tudor Jones es optimista sobre el petróleo y dice que podría recuperar otros 20-25 dólares debido al conflicto con Irán.",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-oil-iran.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:52:09+00:00"
+    },
+    {
+      "h": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "es": "El acuerdo de Trump sobre diésel con Rusia equivale a menos de dos semanas de demanda de EE.UU.",
+      "d": "El acuerdo sobre diésel del presidente Donald Trump con Rusia se produce cuando está bajo presión para reducir los precios del combustible a menos de un mes de las elecciones de mitad de período en Estados Unidos.",
+      "u": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:50:09+00:00"
+    },
+    {
+      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say",
+      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/martin-shkreli-violated-lifetime-pharma-industry-ban-ftc-and-states-say-4947222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1HZ_L.jpg",
+      "published": "2026-10-13T15:48:50+00:00"
+    },
+    {
+      "h": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts",
+      "es": "El tendero estadounidense Albertsons retira sus perspectivas anuales y acelera los esfuerzos de recuperación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-grocer-albertsons-suspends-fullyear-forecasts-amid-business-review-4946692",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C10M_L.jpg",
+      "published": "2026-10-13T15:48:35+00:00"
+    },
+    {
+      "h": "NI company in talks to save Poundland from administration",
+      "es": "Compañía NI en conversaciones para salvar a Poundland de la administración",
+      "d": "Poundland dice que Martin Property Group de Londonderry es el \"socio preferido\" del equipo directivo",
+      "u": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/d8f3bce0-c71c-11f1-a64c-550be9e3c66b.jpg",
+      "published": "2026-10-13T15:44:45+00:00"
+    },
+    {
+      "h": "Software stocks: Box and Navan lead after Citi investor meetings",
+      "es": "Acciones de software: Box y Navan lideran después de las reuniones de inversores de Citi",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/software-stocks-box-and-navan-lead-after-citi-investor-meetings-4947218",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
+      "published": "2026-10-13T15:42:52+00:00"
+    },
+    {
+      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
+      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
+      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:42:45+00:00"
+    },
+    {
+      "h": "We're adding to a consumer staples stock in advance of a big catalyst",
+      "es": "Estamos aumentando las existencias de productos básicos de consumo antes de un gran catalizador.",
+      "d": "Vemos la fusión pendiente de esta empresa como un potencial para ahorrar costos, sinergias de ingresos incrementales y una mayor escala.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/13/were-adding-to-a-consumer-staples-stock-in-advance-of-a-big-catalyst.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:40:28+00:00"
+    },
     {
       "h": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
       "es": "'Pharma Bro' Martin Shkreli vuelve a tener problemas con los reguladores, esta vez por influir en las acciones biofarmacéuticas",
@@ -9,6 +108,51 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-243939",
       "published": "2026-10-13T15:37:00+00:00"
+    },
+    {
+      "h": "Factbox-Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
+      "es": "Cuadro informativo: Aerolíneas cancelan vuelos a Arabia Saudita después de los ataques al aeropuerto de Riad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-to-saudi-arabia-after-riyadh-airport-attacks-4944340",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B10E_L.jpg",
+      "published": "2026-10-13T15:36:50+00:00"
+    },
+    {
+      "h": "Poland stocks higher at close of trade; WIG30 up 0.49%",
+      "es": "Las bolsas de Polonia cierran al alza; WIG30 sube un 0,49%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-049-4947215",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC4K03N_M.jpg",
+      "published": "2026-10-13T15:35:04+00:00"
+    },
+    {
+      "h": "Turkey stocks higher at close of trade; BIST 100 up 0.82%",
+      "es": "Las bolsas de Turquía cierran al alza; BIST 100 subió un 0,82%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-082-4947211",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEG650A4_L.jpg",
+      "published": "2026-10-13T15:30:32+00:00"
+    },
+    {
+      "h": "Goldman CEO watching for election-driven volatility around data centers",
+      "es": "El CEO de Goldman observa la volatilidad impulsada por las elecciones en torno a los centros de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-ceo-watching-for-electiondriven-volatility-around-data-centers-4947209",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1H3_L.jpg",
+      "published": "2026-10-13T15:30:21+00:00"
+    },
+    {
+      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.13%",
+      "es": "Las bolsas de Dinamarca cierran al alza; OMX Copenhague 20 sube un 0,13%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-013-4947208",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEIAL0UC_L.jpg",
+      "published": "2026-10-13T15:30:04+00:00"
     },
     {
       "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
@@ -126,150 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-13T15:04:35+00:00"
-    },
-    {
-      "h": "FTC targets Martin Shkreli over pharma stock trading and market commentary",
-      "es": "La FTC apunta a Martin Shkreli por el comercio de acciones farmacéuticas y los comentarios de mercado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ftc-targets-martin-shkreli-over-pharma-stock-trading-and-market-commentary-4947179",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/USFederalTradeCommissionHeadquarters_800x533_L_1615385764.jpg",
-      "published": "2026-10-13T15:01:45+00:00"
-    },
-    {
-      "h": "Wall St subdued in choppy trade after big bank earnings, chips slide",
-      "es": "Wall St, debilitado tras unas operaciones agitadas tras las ganancias de los grandes bancos y la caída de las fichas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
-      "published": "2026-10-13T15:00:37+00:00"
-    },
-    {
-      "h": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "es": "“La casa vale $925,000”: Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "h": "Dating app Bumble bought for $1.3bn",
-      "es": "La aplicación de citas Bumble comprada por 1.300 millones de dólares",
-      "d": "La aplicación de citas que recientemente abandonó su regla de chat \"las mujeres primero\" ha sido comprada por una empresa de inversión.",
-      "u": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-10-13T14:57:21+00:00"
-    },
-    {
-      "h": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-      "es": "Anthropic revelará nuevas cifras de ingresos a medida que las finanzas del laboratorio de IA se vuelven fundamentales para el comercio tecnológico",
-      "d": "Anthropic publicará estados financieros actualizados a un grupo de inversores reunidos en su sede esta semana, según personas familiarizadas con el asunto.",
-      "u": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T14:55:51+00:00"
-    },
-    {
-      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
-      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
-      "published": "2026-10-13T14:55:47+00:00"
-    },
-    {
-      "h": "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued hiring",
-      "es": "Exclusivo: Bank of America pierde banqueros, informa a su personal sobre su gran ambición y continúa contratando",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivebank-of-america-loses-bankers-tells-staff-of-big-ambition-continued-hiring-4945993",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S1_L.jpg",
-      "published": "2026-10-13T14:55:31+00:00"
-    },
-    {
-      "h": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
-      "es": "Las bolsas de Noruega cierran al alza; El OBX de Oslo sube un 0,71%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-071-4947168",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL510UZ_L.jpg",
-      "published": "2026-10-13T14:55:30+00:00"
-    },
-    {
-      "h": "Exclusive-Mexico to approve Viva-Volaris airline merger by end of 2026, sources say",
-      "es": "Exclusiva-México aprobará fusión de aerolíneas Viva-Volaris a finales de 2026, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivemexico-to-approve-vivavolaris-airline-merger-by-end-of-2026-sources-say-4946257",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0WT_L.jpg",
-      "published": "2026-10-13T14:55:04+00:00"
-    },
-    {
-      "h": "Israel stocks higher at close of trade; TA 35 up 1.67%",
-      "es": "Las bolsas de valores de Israel cierran al alza; TA 35 sube un 1,67%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-167-4947167",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF510AP_M.jpg",
-      "published": "2026-10-13T14:55:03+00:00"
-    },
-    {
-      "h": "Greece stocks higher at close of trade; Athens General Composite up 0.16%",
-      "es": "Las bolsas de Grecia cierran al alza; El Compuesto General de Atenas sube un 0,16%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-016-4947163",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6S0BG_M.jpg",
-      "published": "2026-10-13T14:50:03+00:00"
-    },
-    {
-      "h": "Why is Whitecap Resources stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Whitecap Resources hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-whitecap-resources-stock-climbing-today-93CH-4947162",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-13T14:49:51+00:00"
-    },
-    {
-      "h": "Six Flags shares decline following deadly roller coaster incident",
-      "es": "Las acciones de Six Flags caen tras el mortal incidente en la montaña rusa",
-      "d": "Según los informes, una persona murió y varias más resultaron heridas en un incidente relacionado con la montaña rusa Goliath en Six Flags Over Georgia.",
-      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T14:49:32+00:00"
-    },
-    {
-      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
-      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
-      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86790018",
-      "published": "2026-10-13T14:45:00+00:00"
-    },
-    {
-      "h": "S&P upgrades Kioxia to BBB on strong AI-driven growth and upbeat outlook",
-      "es": "S&P eleva Kioxia a BBB gracias a un fuerte crecimiento impulsado por la IA y perspectivas optimistas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-upgrades-kioxia-to-bbb-on-strong-aidriven-growth-and-upbeat-outlook-4947147",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-13T14:37:35+00:00"
-    },
-    {
-      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
-      "es": "Mientras la UE debate las normas de contenido local, los fabricantes de automóviles chinos ya se están adaptando",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
-      "published": "2026-10-13T14:36:47+00:00"
     }
   ],
   "sources": [
