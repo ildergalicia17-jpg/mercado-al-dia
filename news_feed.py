@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Recopila titulares financieros de RSS públicos y guarda news.json.
-Publica titulares, fuente, fecha y enlace; no copia el cuerpo de los artículos.
-"""
+"""Recopila titulares y resúmenes RSS, traduce al español e intenta obtener imágenes."""
 import datetime as dt
 import email.utils
+import html
 import json
 import os
+import re
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -20,10 +21,21 @@ FEEDS = [
 OUT = "news.json"
 MAX_ITEMS = 30
 TIMEOUT = 18
+NS_MEDIA = "{http://search.yahoo.com/mrss/}"
+NS_CONTENT = "{http://purl.org/rss/1.0/modules/content/}"
 
-def text(node, path):
+def clean_html(value):
+    value = html.unescape(value or "")
+    value = re.sub(r"(?is)<(script|style).*?>.*?</\\1>", " ", value)
+    value = re.sub(r"(?i)<br\\s*/?>|</p>|</div>|</li>", " ", value)
+    value = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\\s+", " ", value).strip()
+
+def node_text(node, path):
     found = node.find(path)
-    return (found.text or "").strip() if found is not None else ""
+    if found is None:
+        return ""
+    return "".join(found.itertext()).strip()
 
 def parse_date(value):
     if not value:
@@ -34,47 +46,90 @@ def parse_date(value):
             parsed = parsed.replace(tzinfo=dt.timezone.utc)
         return parsed.astimezone(dt.timezone.utc).isoformat()
     except Exception:
+        try:
+            return dt.datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(dt.timezone.utc).isoformat()
+        except Exception:
+            return ""
+
+def image_for(item, description=""):
+    for path in (NS_MEDIA + "thumbnail", NS_MEDIA + "content", "image", "enclosure"):
+        for el in item.findall(path):
+            url = el.get("url") or el.get("href")
+            mime = el.get("type", "")
+            if url and (path != "enclosure" or mime.startswith("image/") or re.search(r"\\.(jpg|jpeg|png|webp)(?:[?#]|$)", url, re.I)):
+                if url.startswith("https://") or url.startswith("http://"):
+                    return url
+    for el in item.findall(".//" + NS_CONTENT + "encoded"):
+        description += " " + (el.text or "")
+    match = re.search(r'<img[^>]+src=[\'"]([^\'"]+)', description, re.I)
+    if match and match.group(1).startswith(("https://", "http://")):
+        return match.group(1)
+    return ""
+
+def translate_es(value):
+    value = (value or "").strip()
+    if not value:
         return ""
+    # Google Translate endpoint is used only for short RSS-provided snippets.
+    try:
+        query = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "es", "dt": "t", "q": value[:1200]})
+        req = urllib.request.Request("https://translate.googleapis.com/translate_a/single?" + query,
+            headers={"User-Agent": "Mozilla/5.0 MercadoAlDia/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read(500_000).decode("utf-8"))
+        translated = "".join(part[0] for part in data[0] if part and part[0])
+        return translated or value
+    except Exception as exc:
+        print("WARN traducción:", exc)
+        return value
 
 def get_items(name, url):
     req = urllib.request.Request(url, headers={
-        "User-Agent": "MercadoAlDiaNewsBot/1.0 (financial headlines; RSS reader)",
+        "User-Agent": "Mozilla/5.0 (compatible; MercadoAlDiaNewsBot/1.0)",
         "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"
     })
     with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
         raw = response.read(2_000_000)
     root = ET.fromstring(raw)
     items = root.findall(".//item")
-    if not items:
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
-        items = root.findall(".//atom:entry", ns)
-        result = []
-        for item in items:
-            title = text(item, "{http://www.w3.org/2005/Atom}title")
-            link_el = item.find("{http://www.w3.org/2005/Atom}link")
-            link = link_el.get("href", "") if link_el is not None else ""
-            published = text(item, "{http://www.w3.org/2005/Atom}published") or text(item, "{http://www.w3.org/2005/Atom}updated")
-            if title and link.startswith("http"):
-                result.append({"h": title, "u": link, "s": name, "published": parse_date(published)})
-        return result
     result = []
-    for item in items:
-        title = text(item, "title")
-        link = text(item, "link")
-        published = text(item, "pubDate") or text(item, "published") or text(item, "date")
-        if title and link.startswith("http"):
-            result.append({"h": title, "u": link, "s": name, "published": parse_date(published)})
+    if items:
+        for item in items:
+            title = node_text(item, "title")
+            link = node_text(item, "link")
+            raw_desc = node_text(item, "description") or node_text(item, NS_CONTENT + "encoded")
+            summary = clean_html(raw_desc)
+            published = node_text(item, "pubDate") or node_text(item, "published") or node_text(item, "date")
+            if title and link.startswith("http"):
+                result.append({"h": title, "es": translate_es(title), "d": translate_es(summary[:900]),
+                    "u": link, "s": name, "img": image_for(item, raw_desc), "published": parse_date(published)})
+    else:
+        ns = "{http://www.w3.org/2005/Atom}"
+        for item in root.findall(".//" + ns + "entry"):
+            title = node_text(item, ns + "title")
+            link_el = item.find(ns + "link")
+            link = link_el.get("href", "") if link_el is not None else ""
+            summary = clean_html(node_text(item, ns + "summary") or node_text(item, ns + "content"))
+            published = node_text(item, ns + "published") or node_text(item, ns + "updated")
+            image = ""
+            for el in item.findall(ns + "link"):
+                if "image" in el.get("type", ""):
+                    image = el.get("href", "")
+                    break
+            if title and link.startswith("http"):
+                result.append({"h": title, "es": translate_es(title), "d": translate_es(summary[:900]),
+                    "u": link, "s": name, "img": image, "published": parse_date(published)})
     return result
 
 def main():
     collected = []
     for name, url in FEEDS:
         try:
-            collected.extend(get_items(name, url))
-            print(f"OK: {name}")
+            items = get_items(name, url)
+            collected.extend(items)
+            print(f"OK: {name} ({len(items)} titulares)")
         except Exception as exc:
             print(f"WARN: {name}: {exc}")
-    # Si un feed falla, conservamos noticias previas para no vaciar el panel.
     previous = []
     if os.path.exists(OUT):
         try:
@@ -85,16 +140,20 @@ def main():
     by_url = {}
     for item in collected + previous:
         if item.get("u") and item.get("h"):
-            by_url.setdefault(item["u"], item)
+            # RSS actual tiene prioridad sobre los datos guardados anteriormente.
+            by_url[item["u"]] = {**by_url.get(item["u"], {}), **item}
     items = list(by_url.values())
+    for item in items:
+        if not item.get("es"):
+            item["es"] = translate_es(item.get("h", ""))
+        if not item.get("d"):
+            item["d"] = translate_es(clean_html(item.get("description", ""))[:900])
     items.sort(key=lambda x: x.get("published") or "", reverse=True)
     items = items[:MAX_ITEMS]
     if not items:
         raise RuntimeError("No se pudo obtener ninguna noticia; se conserva el archivo anterior.")
-    old_items = previous[:MAX_ITEMS]
-    old_urls = [x.get("u") for x in old_items]
+    old_urls = [x.get("u") for x in previous[:MAX_ITEMS]]
     new_urls = [x.get("u") for x in items]
-    # La marca de actualización cambia solo si llegaron titulares nuevos o cambió el listado.
     old_updated = ""
     if os.path.exists(OUT):
         try:
