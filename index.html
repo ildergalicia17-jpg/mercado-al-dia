@@ -1,112 +1,63 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Mercado al Día</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0b1220">
+<meta name="description" content="Mercado al Día: seguimiento de índices bursátiles, acciones destacadas, estimaciones y noticias financieras.">
+<title>Mercado al Día | Inteligencia de mercado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#F4F6F8;--ink:#0E1B2B;--mut:#5B6B7B;--line:#D5DCE3;--up:#0A7D4F;--dn:#C0392B;--ac:#12408A}
-@media(prefers-color-scheme:dark){:root{--bg:#0D1620;--ink:#E7EDF3;--mut:#93A3B3;--line:#25323F;--up:#3FCB8E;--dn:#FF7A6B;--ac:#7FA8F0}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "IBM Plex Sans",system-ui,sans-serif;font-variant-numeric:tabular-nums}
-main{max-width:880px;margin:0 auto;padding:24px 18px 64px}
-h1,h2{font-family:Newsreader,Georgia,serif;margin:0}
-h1{font-size:2rem}
-h2{font-size:1.4rem;margin-bottom:4px}
-.sub{color:var(--mut);font-size:.9rem;margin:2px 0 0}
-section{margin-top:40px;border-top:2px solid var(--ink);padding-top:14px}
-.up{color:var(--up)}.dn{color:var(--dn)}
-.aviso{background:var(--ac);color:#fff;padding:8px 12px;border-radius:4px;font-size:.9rem;margin-top:14px}
-.idx{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:0;margin-top:12px}
-.idx div{padding:10px 12px 10px 0;border-bottom:1px solid var(--line)}
-.idx b{display:block;font-size:1.25rem}
-.pred{display:grid;grid-template-columns:1fr auto;gap:2px 14px;padding:14px 0;border-bottom:1px solid var(--line)}
-.pred .n{font-weight:600}.pred .n small{color:var(--mut);font-weight:400}
-.pred .s{font-family:Newsreader,serif;font-size:1.8rem;font-weight:700;color:var(--ac);grid-row:span 2;align-self:center}
-.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:6px 0}
-.bar i{display:block;height:100%;background:var(--ac)}
-.meta{color:var(--mut);font-size:.85rem}
-table{width:100%;border-collapse:collapse;font-size:.95rem}
-td,th{padding:8px 4px;border-bottom:1px solid var(--line);text-align:right}
-td:first-child,th:first-child{text-align:left}
-th{color:var(--mut);font-weight:400;font-size:.85rem}
-.cols{display:grid;grid-template-columns:1fr 1fr;gap:28px}
-@media(max-width:640px){.cols{grid-template-columns:1fr}}
-.news a{color:var(--ink);text-decoration:none;font-weight:600}
-.news a:hover,.news a:focus-visible{text-decoration:underline}
-.news p{margin:0;padding:10px 0;border-bottom:1px solid var(--line)}
-.pred{cursor:pointer}.pred:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
-.det{grid-column:1/-1;padding-top:8px;cursor:default}
-.rg{display:flex;gap:6px;margin-bottom:8px}
-.rg button{font:inherit;font-size:.9rem;padding:6px 14px;border:1px solid var(--line);background:none;color:var(--ink);border-radius:4px;cursor:pointer}
-.rg button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
-.big{display:block}.ax{display:flex;justify-content:space-between;color:var(--mut);font-size:.85rem;margin-top:4px}
-footer{margin-top:40px;color:var(--mut);font-size:.82rem}
+:root{color-scheme:dark;--bg:#080e19;--panel:#101a2a;--panel2:#142136;--line:#26354a;--ink:#eef4ff;--mut:#93a4bb;--up:#35d39a;--dn:#ff7185;--blue:#78a9ff;--gold:#e8c879;--shadow:0 14px 38px #0003}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 12% -10%,#1b3761 0,transparent 35%),var(--bg);color:var(--ink);font:15px/1.55 "DM Sans",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+a{color:inherit}button{font:inherit}.wrap{max-width:1240px;margin:auto;padding:26px 24px 56px}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:8px 0 24px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:12px}.logo{width:44px;height:44px;display:grid;place-items:center;border-radius:14px;background:linear-gradient(145deg,#80b1ff,#416ee9);color:#071326;font-size:23px;font-weight:800;box-shadow:0 8px 24px #4e83ff35}
+h1,h2,h3,p{margin:0}h1{font:800 1.2rem/1.2 Manrope,sans-serif;letter-spacing:-.04em}.tagline{color:var(--mut);font-size:.8rem;margin-top:4px}
+.topright{display:flex;align-items:center;gap:10px;color:var(--mut);font-size:.82rem}.live{display:inline-flex;align-items:center;gap:7px;padding:7px 11px;border:1px solid #28684f;border-radius:999px;color:#9ce9c9;background:#103125}.dot{width:7px;height:7px;border-radius:50%;background:var(--up);box-shadow:0 0 10px var(--up)}
+.hero{display:flex;justify-content:space-between;align-items:end;gap:24px;padding:32px 0 22px}.eyebrow{color:var(--blue);font-weight:700;text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;margin-bottom:8px}.hero h2{font:700 clamp(1.7rem,3vw,2.45rem)/1.15 Manrope,sans-serif;letter-spacing:-.055em}.hero p{color:var(--mut);margin-top:9px;max-width:620px}.updated{text-align:right;color:var(--mut);font-size:.8rem;min-width:160px}.updated strong{display:block;color:var(--ink);font-weight:600;margin-top:4px}
+.section-title{display:flex;justify-content:space-between;align-items:end;gap:16px;margin-bottom:14px}.section-title h2{font:700 1.05rem Manrope,sans-serif;letter-spacing:-.025em}.section-title p{color:var(--mut);font-size:.82rem;margin-top:4px}.grid{display:grid;gap:14px}.indices{grid-template-columns:repeat(4,minmax(0,1fr))}.card{background:linear-gradient(145deg,#142137ed,#0e1726f2);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:var(--shadow);min-width:0}.index-name{font-size:.82rem;color:var(--mut);display:flex;justify-content:space-between;gap:8px;align-items:center}.index-icon{display:grid;place-items:center;width:30px;height:30px;border-radius:10px;background:#263c5c;color:var(--blue);font-weight:800}.index-price{font:700 clamp(1.3rem,2vw,1.75rem) Manrope,sans-serif;letter-spacing:-.045em;margin-top:13px;white-space:nowrap}.change{font-size:.83rem;font-weight:700;margin-top:5px}.up{color:var(--up)}.dn{color:var(--dn)}.spark{height:38px;margin-top:12px;opacity:.95}.spark svg{height:38px}
+main section{margin-top:32px}.columns{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:16px;align-items:start}.pred-list{display:grid;gap:10px}.pred{display:grid;grid-template-columns:42px minmax(0,1fr) auto;align-items:center;gap:12px;padding:14px;border:1px solid var(--line);background:#0d1726;border-radius:14px;cursor:pointer;transition:border-color .2s,transform .2s}.pred:hover{border-color:#557ab5;transform:translateY(-1px)}.pred:focus-visible{outline:2px solid var(--blue);outline-offset:3px}.rank{width:38px;height:38px;display:grid;place-items:center;border-radius:12px;background:#1c2d47;color:var(--blue);font-weight:800}.company{font-weight:700}.company small{display:block;color:var(--mut);font-weight:400;font-size:.78rem;margin-top:2px}.bar{height:5px;background:#27364b;border-radius:9px;overflow:hidden;margin-top:9px}.bar i{display:block;height:100%;border-radius:9px;background:linear-gradient(90deg,#568bff,#62d8c2)}.score{text-align:right;font:800 1.4rem Manrope,sans-serif}.score small{display:block;font:500 .68rem "DM Sans",sans-serif;color:var(--mut)}.detail{grid-column:1/-1;border-top:1px solid var(--line);padding-top:12px;margin-top:3px}.detail .rg{display:flex;gap:7px;margin-bottom:12px}.rg button{border:1px solid var(--line);border-radius:9px;padding:6px 11px;background:#17243a;color:var(--mut);cursor:pointer}.rg button[aria-pressed=true]{background:#294879;color:white;border-color:#557fca}.big{display:block;width:100%;height:160px}.ax{display:flex;justify-content:space-between;gap:8px;color:var(--mut);font-size:.75rem;margin-top:7px}
+.movers{display:grid;grid-template-columns:1fr 1fr;gap:14px}.mini-card{padding:18px}.mini-title{display:flex;align-items:center;gap:9px;font-weight:700;margin-bottom:13px}.mini-title span{width:28px;height:28px;display:grid;place-items:center;border-radius:9px;background:#143b30;color:var(--up)}.mini-title.negative span{background:#3a202d;color:var(--dn)}table{width:100%;border-collapse:collapse;font-size:.85rem}td,th{padding:11px 3px;border-bottom:1px solid #253248;text-align:right;white-space:nowrap}td:first-child,th:first-child{text-align:left}th{font-size:.72rem;color:var(--mut);font-weight:600;text-transform:uppercase;letter-spacing:.06em}tbody tr:last-child td{border-bottom:0}.ticker{font-weight:700}.company-sub{display:block;font-size:.7rem;color:var(--mut);font-weight:400;max-width:120px;overflow:hidden;text-overflow:ellipsis}
+.news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.news-item{display:block;padding:17px;border-radius:14px;background:#101b2b;border:1px solid var(--line);text-decoration:none;transition:border-color .2s}.news-item:hover{border-color:#648bca}.news-source{font-size:.7rem;text-transform:uppercase;letter-spacing:.09em;color:var(--blue);font-weight:700;margin-bottom:9px}.news-head{font-weight:600;line-height:1.4}.news-arrow{display:flex;justify-content:space-between;color:var(--mut);font-size:.75rem;margin-top:16px}
+.notice{padding:12px 15px;border:1px solid #66542d;background:#2c2517;color:#f4d995;border-radius:12px;font-size:.83rem;margin-top:16px}.empty{color:var(--mut);font-size:.85rem;padding:16px 0}footer{border-top:1px solid var(--line);margin-top:38px;padding-top:20px;color:var(--mut);font-size:.78rem;display:flex;justify-content:space-between;gap:20px}
+@media(max-width:900px){.indices{grid-template-columns:repeat(2,minmax(0,1fr))}.columns{grid-template-columns:1fr}.news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.wrap{padding:16px 13px 36px}.topbar{align-items:flex-start}.topright{flex-direction:column;align-items:flex-end;gap:7px}.hero{display:block;padding:26px 0 18px}.updated{text-align:left;margin-top:15px}.indices{gap:9px}.card{padding:13px;border-radius:14px}.index-price{font-size:1.25rem}.movers{grid-template-columns:1fr}.news-grid{grid-template-columns:1fr}.pred{grid-template-columns:36px minmax(0,1fr) auto;gap:9px;padding:11px}.rank{width:34px;height:34px}.score{font-size:1.2rem}footer{display:block}footer span{display:block;margin-top:7px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 </style>
 </head>
-<body>
-<main>
-<h1>Mercado al Día</h1>
-<p class="sub" id="act">Cargando…</p>
+<body><div class="wrap">
+<header class="topbar"><div class="brand"><div class="logo" aria-hidden="true">↗</div><div><h1>Mercado al Día</h1><div class="tagline">Inteligencia financiera, en un solo lugar</div></div></div><div class="topright"><span class="live"><i class="dot"></i> Datos de mercado</span><span>Vista general</span></div></header>
+<div class="hero"><div><div class="eyebrow">Panel de mercado</div><h2>Entendé el mercado.<br>Decidí con información.</h2><p>Seguimiento de índices, acciones destacadas y estimaciones de analistas, con datos organizados para una lectura rápida.</p></div><div class="updated">Última actualización<strong id="act">Cargando datos…</strong></div></div>
 <div id="av"></div>
-
-<div class="idx" id="idx"></div>
-
-<section>
-<h2>Predicciones: mayor potencial de rendimiento</h2>
-<p class="sub">Ranking de 0 a 100 que combina el potencial hasta el precio objetivo de analistas, la tendencia de 3 meses y la recomendación de consenso. Toca una empresa para ver su gráfica grande.</p>
-<div id="pred"></div>
-</section>
-
-<section>
-<div class="cols">
-<div><h2>Mayores subidas</h2><table id="up"></table></div>
-<div><h2>Mayores bajadas</h2><table id="dn"></table></div>
-</div>
-</section>
-
-<section>
-<h2>Noticias del mercado</h2>
-<div class="news" id="news"></div>
-</section>
-
-<footer>Información con fines educativos. Las predicciones son estimaciones basadas en datos públicos y no garantizan resultados. No constituyen asesoría de inversión; invertir implica riesgo de pérdida.</footer>
+<section style="margin-top:8px"><div class="section-title"><div><h2>Principales índices</h2><p>Último valor disponible y variación diaria</p></div></div><div class="grid indices" id="idx"></div></section>
+<main style="padding:0">
+<section><div class="columns"><div><div class="section-title"><div><h2>Acciones con mayor potencial</h2><p>Ranking orientativo según métricas y consenso de analistas</p></div></div><div class="pred-list" id="pred"></div></div>
+<div><div class="section-title"><div><h2>Movimientos del mercado</h2><p>Mayores cambios diarios entre las acciones seguidas</p></div></div><div class="movers"><div class="card mini-card"><div class="mini-title"><span>↗</span> Mayores subidas</div><table id="up"></table></div><div class="card mini-card"><div class="mini-title negative"><span>↘</span> Mayores bajadas</div><table id="dn"></table></div></div></div></div></section>
+<section><div class="section-title"><div><h2>Noticias del mercado</h2><p>Enlaces a publicaciones externas disponibles en la fuente de datos</p></div></div><div class="news-grid" id="news"></div></section>
 </main>
+<footer><div>Mercado al Día · Panel informativo</div><span>Contenido educativo. Las estimaciones no garantizan resultados ni constituyen asesoría financiera. Invertir implica riesgo de pérdida.</span></footer>
+</div>
 <script>
-const SAMPLE={sample:true,updated:"",indices:[{n:"S&P 500",p:0,c:0},{n:"Nasdaq",p:0,c:0},{n:"Dow Jones",p:0,c:0}],
-predictions:[{t:"EJEMPLO",n:"Empresa de ejemplo A",score:80,up:25,mom:12,rec:"Compra",px:100,tp:125},{t:"EJEMPLO",n:"Empresa de ejemplo B",score:65,up:15,mom:8,rec:"Compra",px:50,tp:57.5}],
-movers:{up:[],dn:[]},news:[]};
+const SAMPLE={sample:true,updated:"",indices:[{n:"S&P 500",p:0,c:0},{n:"Nasdaq",p:0,c:0},{n:"Dow Jones",p:0,c:0}],predictions:[],movers:{up:[],dn:[]},news:[]};
 const f=(n,d=2)=>Number(n).toLocaleString("es-GT",{minimumFractionDigits:d,maximumFractionDigits:d});
-const pc=n=>`<span class="${n>=0?"up":"dn"}">${n>=0?"+":""}${f(n)}%</span>`;
+const pc=n=>'<span class="'+(n>=0?"up":"dn")+'">'+(n>=0?"+":"")+f(n)+'%</span>';
 const $=id=>document.getElementById(id);
-function line(h,w,hh){if(!h||h.length<2)return"";const mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;
- const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-2-(v-mn)/r*(hh-4)).toFixed(1)).join("");
- const c=h[h.length-1]>=h[0]?"--up":"--dn";
- return `<svg viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio, últimos 3 meses"><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`}
-function tabla(el,rows){el.innerHTML="<tr><th>Empresa</th><th>Precio</th><th>Cambio</th></tr>"+rows.map(r=>`<tr><td>${r.t}</td><td>$${f(r.p)}</td><td>${pc(r.c)}</td></tr>`).join("")}
+function line(h,w=180,hh=38){if(!h||h.length<2)return"";const mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-2-(v-mn)/r*(hh-4)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn";return '<svg viewBox="0 0 '+w+" "+hh+'" width="100%" height="'+hh+'" preserveAspectRatio="none" aria-hidden="true"><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>'}
+function tabla(el,rows){el.innerHTML='<thead><tr><th>Empresa</th><th>Precio</th><th>Cambio</th></tr></thead><tbody>'+(rows&&rows.length?rows.map(r=>'<tr><td><span class="ticker">'+r.t+'</span><span class="company-sub">'+(r.n||"")+'</span></td><td>$'+f(r.p)+'</td><td>'+pc(r.c)+'</td></tr>').join(""):'<tr><td colspan="3" class="empty">Sin datos disponibles</td></tr>')+'</tbody>'}
 function render(d){window.D=d;
- $("act").textContent=d.updated?"Actualizado: "+new Date(d.updated).toLocaleString("es-GT",{dateStyle:"long",timeStyle:"short"}):"Sin actualización todavía";
- if(d.sample)$("av").innerHTML='<div class="aviso">Estás viendo datos de ejemplo. Publica el proyecto con la actualización diaria para ver datos reales.</div>';
- $("idx").innerHTML=d.indices.map(i=>`<div>${i.n}<b>${f(i.p)}</b>${pc(i.c)}${line((i.h||[]).slice(-63),160,36)}</div>`).join("");
- $("pred").innerHTML=d.predictions.map((p,k)=>`<div class="pred" data-i="${k}" tabindex="0" role="button" aria-expanded="false"><div class="n">${p.t} <small>${p.n}</small></div><div class="s">${p.score}</div>
- <div><div class="bar"><i style="width:${p.score}%"></i></div><div style="margin:8px 0">${line((p.h||[]).slice(-63),400,64)}</div><div class="meta">Precio $${f(p.px)} · Objetivo analistas $${f(p.tp)} (${p.up>=0?"+":""}${f(p.up,1)}%) · 3 meses ${p.mom>=0?"+":""}${f(p.mom,1)}% · Consenso: ${p.rec}</div></div><div class="det" hidden></div></div>`).join("");
- tabla($("up"),d.movers.up);tabla($("dn"),d.movers.dn);
- $("news").innerHTML=d.news.length?d.news.map(n=>`<p><a href="${n.u}" target="_blank" rel="noopener">${n.h}</a><br><span class="meta">${n.s||""}</span></p>`).join(""):'<p class="meta">Sin noticias por ahora.</p>';
+$("act").textContent=d.updated?new Date(d.updated).toLocaleString("es-GT",{dateStyle:"medium",timeStyle:"short",timeZone:"America/Guatemala"}):"Sin actualización todavía";
+if(d.sample)$("av").innerHTML='<div class="notice">Estás viendo datos de ejemplo. La información real aparecerá cuando se ejecute la actualización de datos.</div>';
+$("idx").innerHTML=(d.indices||[]).map((i,k)=>'<article class="card"><div class="index-name">'+i.n+'<span class="index-icon">'+["S","N","D","R"][k%4]+'</span></div><div class="index-price">'+f(i.p)+'</div><div class="change">'+pc(i.c)+'</div><div class="spark">'+line((i.h||[]).slice(-40),180,38)+'</div></article>').join("");
+$("pred").innerHTML=(d.predictions||[]).length?d.predictions.map((p,k)=>'<article class="pred" data-i="'+k+'" tabindex="0" role="button" aria-expanded="false"><div class="rank">'+String(k+1).padStart(2,"0")+'</div><div><div class="company">'+p.t+'<small>'+p.n+'</small></div><div class="bar"><i style="width:'+Math.max(0,Math.min(100,Number(p.score)||0))+'%"></i></div></div><div class="score">'+(p.score==null?"—":p.score)+'<small>de 100</small></div><div class="detail" hidden></div></article>').join(""):'<p class="empty">No hay estimaciones disponibles por ahora.</p>';
+tabla($("up"),d.movers&&d.movers.up||[]);tabla($("dn"),d.movers&&d.movers.dn||[]);
+$("news").innerHTML=(d.news||[]).length?d.news.map(n=>'<a class="news-item" href="'+safeUrl(n.u)+'" target="_blank" rel="noopener noreferrer"><div class="news-source">'+(n.s||"Fuente externa")+'</div><div class="news-head">'+escapeHtml(n.h)+'</div><div class="news-arrow"><span>Leer publicación</span><span>↗</span></div></a>').join(""):'<p class="empty">No hay noticias disponibles en la última actualización.</p>';
 }
-function grande(h,n){const w=400,hh=180,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;
- const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-6-(v-mn)/r*(hh-12)).toFixed(1)).join("");
- const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;
- return `<svg class="big" viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio de ${n}"><path d="${d} L${w} ${hh} L0 ${hh}Z" fill="var(${c})" opacity=".12"/><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín $${f(mn)}</span><span>${pc(ch)} en el período</span><span>Máx $${f(mx)}</span></div>`}
-function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".det");
- const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>`<button data-d="${n}" aria-pressed="${n==dias}">${t}</button>`).join("");
- det.innerHTML=`<div class="rg">${bt}</div>`+grande(p.h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
-$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el||!D.predictions[el.dataset.i].h)return;
- const b=e.target.closest("button");if(b){abrir(el,+b.dataset.d);return}
- const det=el.querySelector(".det");if(!det.hidden&&e.target.closest(".det"))return;
- if(det.hidden)abrir(el,63);else{det.hidden=true;el.setAttribute("aria-expanded","false")}});
+function escapeHtml(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
+function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial suficiente para graficar.</p>';const w=700,hh=160,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-8-(v-mn)/r*(hh-16)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;return '<svg class="big" viewBox="0 0 '+w+" "+hh+'" preserveAspectRatio="none" role="img" aria-label="Historial de precio de '+escapeHtml(n)+'"><path d="'+d+' L'+w+" "+hh+" L0 "+hh+'Z" fill="var('+c+')" opacity=".12"/><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín. $'+f(mn)+'</span><span>'+pc(ch)+' en el período</span><span>Máx. $'+f(mx)+'</span></div>'}
+function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
+$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
 $("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
-fetch("data.json?"+Date.now()).then(r=>r.ok?r.json():Promise.reject()).catch(()=>SAMPLE).then(render);
-</script>
-</body>
-</html>
+fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
+</script></body></html>
