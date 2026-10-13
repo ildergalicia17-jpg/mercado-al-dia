@@ -1,1 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mercado al Día</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+:root{--bg:#F4F6F8;--ink:#0E1B2B;--mut:#5B6B7B;--line:#D5DCE3;--up:#0A7D4F;--dn:#C0392B;--ac:#12408A}
+@media(prefers-color-scheme:dark){:root{--bg:#0D1620;--ink:#E7EDF3;--mut:#93A3B3;--line:#25323F;--up:#3FCB8E;--dn:#FF7A6B;--ac:#7FA8F0}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "IBM Plex Sans",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+main{max-width:880px;margin:0 auto;padding:24px 18px 64px}
+h1,h2{font-family:Newsreader,Georgia,serif;margin:0}
+h1{font-size:2rem}
+h2{font-size:1.4rem;margin-bottom:4px}
+.sub{color:var(--mut);font-size:.9rem;margin:2px 0 0}
+section{margin-top:40px;border-top:2px solid var(--ink);padding-top:14px}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.aviso{background:var(--ac);color:#fff;padding:8px 12px;border-radius:4px;font-size:.9rem;margin-top:14px}
+.idx{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:0;margin-top:12px}
+.idx div{padding:10px 12px 10px 0;border-bottom:1px solid var(--line)}
+.idx b{display:block;font-size:1.25rem}
+.pred{display:grid;grid-template-columns:1fr auto;gap:2px 14px;padding:14px 0;border-bottom:1px solid var(--line)}
+.pred .n{font-weight:600}.pred .n small{color:var(--mut);font-weight:400}
+.pred .s{font-family:Newsreader,serif;font-size:1.8rem;font-weight:700;color:var(--ac);grid-row:span 2;align-self:center}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:6px 0}
+.bar i{display:block;height:100%;background:var(--ac)}
+.meta{color:var(--mut);font-size:.85rem}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+td,th{padding:8px 4px;border-bottom:1px solid var(--line);text-align:right}
+td:first-child,th:first-child{text-align:left}
+th{color:var(--mut);font-weight:400;font-size:.85rem}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media(max-width:640px){.cols{grid-template-columns:1fr}}
+.news a{color:var(--ink);text-decoration:none;font-weight:600}
+.news a:hover,.news a:focus-visible{text-decoration:underline}
+.news p{margin:0;padding:10px 0;border-bottom:1px solid var(--line)}
+footer{margin-top:40px;color:var(--mut);font-size:.82rem}
+</style>
+</head>
+<body>
+<main>
+<h1>Mercado al Día</h1>
+<p class="sub" id="act">Cargando…</p>
+<div id="av"></div>
 
+<div class="idx" id="idx"></div>
+
+<section>
+<h2>Predicciones: mayor potencial de rendimiento</h2>
+<p class="sub">Ranking de 0 a 100 que combina el potencial hasta el precio objetivo de analistas, la tendencia de 3 meses y la recomendación de consenso.</p>
+<div id="pred"></div>
+</section>
+
+<section>
+<div class="cols">
+<div><h2>Mayores subidas</h2><table id="up"></table></div>
+<div><h2>Mayores bajadas</h2><table id="dn"></table></div>
+</div>
+</section>
+
+<section>
+<h2>Noticias del mercado</h2>
+<div class="news" id="news"></div>
+</section>
+
+<footer>Información con fines educativos. Las predicciones son estimaciones basadas en datos públicos y no garantizan resultados. No constituyen asesoría de inversión; invertir implica riesgo de pérdida.</footer>
+</main>
+<script>
+const SAMPLE={sample:true,updated:"",indices:[{n:"S&P 500",p:0,c:0},{n:"Nasdaq",p:0,c:0},{n:"Dow Jones",p:0,c:0}],
+predictions:[{t:"EJEMPLO",n:"Empresa de ejemplo A",score:80,up:25,mom:12,rec:"Compra",px:100,tp:125},{t:"EJEMPLO",n:"Empresa de ejemplo B",score:65,up:15,mom:8,rec:"Compra",px:50,tp:57.5}],
+movers:{up:[],dn:[]},news:[]};
+const f=(n,d=2)=>Number(n).toLocaleString("es-GT",{minimumFractionDigits:d,maximumFractionDigits:d});
+const pc=n=>`<span class="${n>=0?"up":"dn"}">${n>=0?"+":""}${f(n)}%</span>`;
+const $=id=>document.getElementById(id);
+function line(h,w,hh){if(!h||h.length<2)return"";const mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;
+ const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-2-(v-mn)/r*(hh-4)).toFixed(1)).join("");
+ const c=h[h.length-1]>=h[0]?"--up":"--dn";
+ return `<svg viewBox="0 0 ${w} ${hh}" width="100%" height="${hh}" preserveAspectRatio="none" role="img" aria-label="Gráfica de precio, últimos 90 días"><path d="${d}" fill="none" stroke="var(${c})" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`}
+function tabla(el,rows){el.innerHTML="<tr><th>Empresa</th><th>Precio</th><th>Cambio</th></tr>"+rows.map(r=>`<tr><td>${r.t}</td><td>$${f(r.p)}</td><td>${pc(r.c)}</td></tr>`).join("")}
+function render(d){
+ $("act").textContent=d.updated?"Actualizado: "+new Date(d.updated).toLocaleString("es-GT",{dateStyle:"long",timeStyle:"short"}):"Sin actualización todavía";
+ if(d.sample)$("av").innerHTML='<div class="aviso">Estás viendo datos de ejemplo. Publica el proyecto con la actualización diaria para ver datos reales.</div>';
+ $("idx").innerHTML=d.indices.map(i=>`<div>${i.n}<b>${f(i.p)}</b>${pc(i.c)}${line(i.h,160,36)}</div>`).join("");
+ $("pred").innerHTML=d.predictions.map(p=>`<div class="pred"><div class="n">${p.t} <small>${p.n}</small></div><div class="s">${p.score}</div>
+ <div><div class="bar"><i style="width:${p.score}%"></i></div><div style="margin:8px 0">${line(p.h,400,64)}</div><div class="meta">Precio $${f(p.px)} · Objetivo analistas $${f(p.tp)} (${p.up>=0?"+":""}${f(p.up,1)}%) · 3 meses ${p.mom>=0?"+":""}${f(p.mom,1)}% · Consenso: ${p.rec}</div></div></div>`).join("");
+ tabla($("up"),d.movers.up);tabla($("dn"),d.movers.dn);
+ $("news").innerHTML=d.news.length?d.news.map(n=>`<p><a href="${n.u}" target="_blank" rel="noopener">${n.h}</a><br><span class="meta">${n.s||""}</span></p>`).join(""):'<p class="meta">Sin noticias por ahora.</p>';
+}
+fetch("data.json?"+Date.now()).then(r=>r.ok?r.json():Promise.reject()).catch(()=>SAMPLE).then(render);
+</script>
+</body>
+</html>
