@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-13T21:10:15.463248+00:00",
+  "updated": "2026-10-13T21:42:50.801665+00:00",
   "news": [
+    {
+      "h": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "es": "Hombre saudita acusado de colocar un dispositivo de grabación 'sofisticado' en la oficina de OpenAI",
+      "d": "Los fiscales dicen que el dispositivo, envuelto en papel higiénico, fue encontrado insertado en un puerto USB en la parte posterior de un televisor en una sala de conferencias ejecutiva.",
+      "u": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
+      "published": "2026-10-13T21:42:05+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 1.55%",
+      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 1,55%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-155-4947591",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
+      "published": "2026-10-13T21:25:03+00:00"
+    },
+    {
+      "h": "Apple’s HomeView brings personalized Siri to smart home, takes on Amazon and Google",
+      "es": "HomeView de Apple lleva Siri personalizado al hogar inteligente, se enfrenta a Amazon y Google",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apples-homeview-brings-personalized-siri-to-smart-home-takes-on-amazon-and-google-4947587",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1X2_L.jpg",
+      "published": "2026-10-13T21:24:35+00:00"
+    },
+    {
+      "h": "Oracle urges FERC to expedite New Mexico gas pipeline for Project Jupiter",
+      "es": "Oracle insta a la FERC a acelerar el gasoducto de Nuevo México para el Proyecto Júpiter",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-urges-ferc-to-expedite-new-mexico-gas-pipeline-for-project-jupiter-4947589",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
+      "published": "2026-10-13T21:22:37+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 1.07%",
+      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 1,07%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-107-4947588",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
+      "published": "2026-10-13T21:20:03+00:00"
+    },
+    {
+      "h": "Harbour Island Acquisition prices $100M IPO on Nasdaq",
+      "es": "La adquisición de Harbour Island cotiza una oferta pública inicial de 100 millones de dólares en Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/harbour-island-acquisition-prices-100m-ipo-on-nasdaq-432SI-4947573",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-13T21:12:03+00:00"
+    },
     {
       "h": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
       "es": "Empleado nacional saudita de OpenAI arrestado después de que se colocara en su oficina un 'sofisticado dispositivo de grabación'",
@@ -216,60 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T20:29:06+00:00"
-    },
-    {
-      "h": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-      "es": "UnitedHealth mantiene los costos médicos bajo control y vuelve a elevar sus perspectivas",
-      "d": "El gigante de los seguros médicos dijo que su ratio de costos médicos fue del 88,4% en el tercer trimestre de este año, mientras la compañía intenta controlar el gasto en atención médica.",
-      "u": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87355184",
-      "published": "2026-10-13T20:29:00+00:00"
-    },
-    {
-      "h": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-      "es": "¿El CEO de Broadcom fue optimista o bajista con respecto a la IA? El comentario de los \"jugadores\" genera tormenta.",
-      "d": "Los comentarios hechos por el director ejecutivo de Broadcom en una conferencia en Singapur han sido citados como una razón para las caídas de las acciones de microchips tanto el lunes como el martes.",
-      "u": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81933204",
-      "published": "2026-10-13T20:27:00+00:00"
-    },
-    {
-      "h": "Micron’s stock extends declines as China competition heats up",
-      "es": "Las acciones de Micron amplían sus caídas a medida que se intensifica la competencia en China",
-      "d": "Incluso Elon Musk dice que los fabricantes chinos de chips de memoria se están poniendo al día.",
-      "u": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00348993",
-      "published": "2026-10-13T20:25:00+00:00"
-    },
-    {
-      "h": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y ahora dice que merece la casa familiar de $925,000. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-13T20:16:00+00:00"
-    },
-    {
-      "h": "How you can prepare for 6% bond yields",
-      "es": "Cómo prepararse para unos rendimientos de los bonos del 6%",
-      "d": "Los ahorradores e inversores con los rendimientos actuales se beneficiarán, pero aumentan los temores sobre el resto de la economía fuera del auge de la IA.",
-      "u": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75446828",
-      "published": "2026-10-13T20:15:00+00:00"
-    },
-    {
-      "h": "Micron sinks, other memory-linked names dip for a second day",
-      "es": "Micron se hunde, otros nombres vinculados a la memoria caen por segundo día",
-      "d": "La venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
-      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T20:12:36+00:00"
     }
   ],
   "sources": [
