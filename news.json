@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-13T16:29:07.562289+00:00",
+  "updated": "2026-10-13T16:54:13.806484+00:00",
   "news": [
+    {
+      "h": "Applied Materials shares slide as chip equipment outlook remains uncertain",
+      "es": "Las acciones de Applied Materials caen mientras las perspectivas de los equipos de chips siguen siendo inciertas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/applied-materials-shares-slide-as-chip-equipment-outlook-remains-uncertain-4947269",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg",
+      "published": "2026-10-13T16:33:46+00:00"
+    },
+    {
+      "h": "Why is MongoDB stock rallying today?",
+      "es": "¿Por qué las acciones de MongoDB están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4947270",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-13T16:32:22+00:00"
+    },
+    {
+      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
+      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
+      "published": "2026-10-13T16:30:33+00:00"
+    },
+    {
+      "h": "Why this little known Chinese chipmaker has caused a global stock rout",
+      "es": "Por qué este poco conocido fabricante chino de chips ha provocado una caída bursátil mundial",
+      "d": "Según se informa, CXMT, el principal fabricante de chips de memoria de China, ha logrado avances en nuevos diseños.",
+      "u": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T16:28:25+00:00"
+    },
+    {
+      "h": "European stocks fall as U.S. bank earnings roll in",
+      "es": "Las bolsas europeas caen a medida que aumentan las ganancias de los bancos estadounidenses",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buck-techled-global-rout-bank-earnings-in-focus-4945488",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1608128944.jpg",
+      "published": "2026-10-13T16:27:33+00:00"
+    },
+    {
+      "h": "ZenaTech revenue soars 316%, but 84% stock rout exposes investor doubts",
+      "es": "Los ingresos de ZenaTech se disparan un 316%, pero la caída de las acciones del 84% expone las dudas de los inversores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/zenatech-revenue-soars-316-but-84-stock-rout-exposes-investor-doubts-93CH-4947262",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Bearish_M_1440047651.jpg",
+      "published": "2026-10-13T16:26:06+00:00"
+    },
+    {
+      "h": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "es": "Los organismos de control de la banca exclusiva intensifican el escrutinio de la IA a medida que aumentan los temores sobre la estabilidad, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivebanking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-4945440",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0BQ_L.jpg",
+      "published": "2026-10-13T16:21:07+00:00"
+    },
     {
       "h": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
       "es": "La “superinteligencia” tal vez nunca llegue, dice el Deutsche Bank. Lo que eso podría significar para la economía estadounidense.",
@@ -9,6 +72,42 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-76720229",
       "published": "2026-10-13T16:21:00+00:00"
+    },
+    {
+      "h": "U.S. stocks slip slightly on tech weakness; Dow turns negative amid bank earnings",
+      "es": "Las acciones estadounidenses caen ligeramente por la debilidad tecnológica; Dow se vuelve negativo en medio de ganancias bancarias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-13T16:20:16+00:00"
+    },
+    {
+      "h": "Euro zone bond yields fall as tech stock selloff drives safety flows",
+      "es": "Los rendimientos de los bonos de la zona euro caen a medida que la venta masiva de acciones tecnológicas impulsa los flujos de seguridad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-fall-as-tech-stock-selloff-drives-safety-flows-93CH-4947260",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-13T16:20:12+00:00"
+    },
+    {
+      "h": "Tencent draws strong demand for $4.5 billion debt sale, defying AI scrutiny",
+      "es": "Tencent atrae una fuerte demanda de venta de deuda por 4.500 millones de dólares, desafiando el escrutinio de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree-4945332",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C031_L.jpg",
+      "published": "2026-10-13T16:19:19+00:00"
+    },
+    {
+      "h": "LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion",
+      "es": "LSEG en conversaciones para comprar el grupo de datos Octus, propiedad de Permira, por unos 3.500 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivelseg-considers-bid-for-octus-financial-data-group-sources-say-4946485",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C12V_L.jpg",
+      "published": "2026-10-13T16:19:05+00:00"
     },
     {
       "h": "MongoDB gains as BofA highlights long-term AI strategy potential",
@@ -119,6 +218,15 @@
       "published": "2026-10-13T15:59:07+00:00"
     },
     {
+      "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+      "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
+      "d": "Una coalición liderada por Arabia Saudita que lucha contra los hutíes, un grupo militante yemení respaldado por Teherán, dijo que había interceptado otro ataque contra Riad.",
+      "u": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:57:46+00:00"
+    },
+    {
       "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
       "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
       "d": "La Casa Blanca había pedido la dimisión de la embajadora de Estados Unidos en Grecia, Kimberly Guilfoyle, dijo el martes la secretaria de prensa Katie Zacharia en su primera sesión informativa.",
@@ -162,114 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T15:50:09+00:00"
-    },
-    {
-      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say",
-      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/martin-shkreli-violated-lifetime-pharma-industry-ban-ftc-and-states-say-4947222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1HZ_L.jpg",
-      "published": "2026-10-13T15:48:50+00:00"
-    },
-    {
-      "h": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts",
-      "es": "El tendero estadounidense Albertsons retira sus perspectivas anuales y acelera los esfuerzos de recuperación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-grocer-albertsons-suspends-fullyear-forecasts-amid-business-review-4946692",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C10M_L.jpg",
-      "published": "2026-10-13T15:48:35+00:00"
-    },
-    {
-      "h": "NI company in talks to save Poundland from administration",
-      "es": "Compañía NI en conversaciones para salvar a Poundland de la administración",
-      "d": "Poundland dice que Martin Property Group de Londonderry es el \"socio preferido\" del equipo directivo",
-      "u": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/d8f3bce0-c71c-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-10-13T15:44:45+00:00"
-    },
-    {
-      "h": "Software stocks: Box and Navan lead after Citi investor meetings",
-      "es": "Acciones de software: Box y Navan lideran después de las reuniones de inversores de Citi",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/software-stocks-box-and-navan-lead-after-citi-investor-meetings-4947218",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-      "published": "2026-10-13T15:42:52+00:00"
-    },
-    {
-      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
-      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
-      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:42:45+00:00"
-    },
-    {
-      "h": "We're adding to a consumer staples stock in advance of a big catalyst",
-      "es": "Estamos aumentando las existencias de productos básicos de consumo antes de un gran catalizador.",
-      "d": "Vemos la fusión pendiente de esta empresa como un potencial para ahorrar costos, sinergias de ingresos incrementales y una mayor escala.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/13/were-adding-to-a-consumer-staples-stock-in-advance-of-a-big-catalyst.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:40:28+00:00"
-    },
-    {
-      "h": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-      "es": "'Pharma Bro' Martin Shkreli vuelve a tener problemas con los reguladores, esta vez por influir en las acciones biofarmacéuticas",
-      "d": "La Comisión Federal de Comercio y siete estados dicen que Shkreli debería ser declarado culpable de desacato",
-      "u": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-243939",
-      "published": "2026-10-13T15:37:00+00:00"
-    },
-    {
-      "h": "Factbox-Airlines cancel flights to Saudi Arabia after Riyadh airport attacks",
-      "es": "Cuadro informativo: Aerolíneas cancelan vuelos a Arabia Saudita después de los ataques al aeropuerto de Riad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-to-saudi-arabia-after-riyadh-airport-attacks-4944340",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B10E_L.jpg",
-      "published": "2026-10-13T15:36:50+00:00"
-    },
-    {
-      "h": "Poland stocks higher at close of trade; WIG30 up 0.49%",
-      "es": "Las bolsas de Polonia cierran al alza; WIG30 sube un 0,49%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-049-4947215",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC4K03N_M.jpg",
-      "published": "2026-10-13T15:35:04+00:00"
-    },
-    {
-      "h": "Turkey stocks higher at close of trade; BIST 100 up 0.82%",
-      "es": "Las bolsas de Turquía cierran al alza; BIST 100 subió un 0,82%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-082-4947211",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEG650A4_L.jpg",
-      "published": "2026-10-13T15:30:32+00:00"
-    },
-    {
-      "h": "Goldman CEO watching for election-driven volatility around data centers",
-      "es": "El CEO de Goldman observa la volatilidad impulsada por las elecciones en torno a los centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-ceo-watching-for-electiondriven-volatility-around-data-centers-4947209",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1H3_L.jpg",
-      "published": "2026-10-13T15:30:21+00:00"
-    },
-    {
-      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.13%",
-      "es": "Las bolsas de Dinamarca cierran al alza; OMX Copenhague 20 sube un 0,13%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-013-4947208",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEIAL0UC_L.jpg",
-      "published": "2026-10-13T15:30:04+00:00"
     }
   ],
   "sources": [
