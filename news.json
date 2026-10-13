@@ -1,185 +1,274 @@
 {
-  "updated": "2026-10-13T06:55:36.801013+00:00",
+  "updated": "2026-10-13T07:00:54.359242+00:00",
   "news": [
     {
       "h": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+      "es": "Mientras crecen las protestas de las 'Cucarachas' por un presunto fraude electoral, Modi defiende a la India como 'madre de la democracia'",
+      "d": "Se han intensificado las protestas en India exigiendo la destitución del comisionado jefe electoral por presunto fraude electoral.",
       "u": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T06:52:39+00:00"
     },
     {
       "h": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "es": "Las acciones de SK Hynix y SoftBank se desploman a medida que las acciones tecnológicas en Asia siguen la liquidación de chips de Wall Street",
+      "d": "Las acciones tecnológicas asiáticas se desplomaron el martes cuando una venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados regionales.",
       "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T06:46:15+00:00"
     },
     {
       "h": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
       "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
       "s": "CNBC",
-      "published": "2026-10-13T06:44:00+00:00"
+      "published": "2026-10-13T06:44:00+00:00",
+      "es": "Un ciberataque afecta a cientos de supermercados franceses, calienta los frigoríficos a 50 °C y provoca incendios",
+      "d": ""
+    },
+    {
+      "h": "Stellantis Q3 shipments fall 1%, weighed down by North America production halt",
+      "es": "Los envíos de Stellantis en el tercer trimestre caen un 1%, afectados por la paralización de la producción en América del Norte",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stellantis-q3-shipments-fall-1-weighed-down-by-north-america-production-halt-4945555",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0GJ_L.jpg",
+      "published": "2026-10-13T06:43:02+00:00"
+    },
+    {
+      "h": "Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs",
+      "es": "Las acciones asiáticas caen a medida que se profundiza la caída de los chips y los fabricantes de automóviles chinos se ven afectados por las restricciones comerciales de la UE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEABU081_M.jpg",
+      "published": "2026-10-13T06:41:18+00:00"
     },
     {
       "h": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "es": "Visa obtiene luz verde de Beijing para el negocio de tarjetas bancarias después de 40 años de trabajo con China",
+      "d": "La aprobación incremental se produce cuando los presidentes de Estados Unidos y China se reunirán por tercera vez este año el próximo mes.",
       "u": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T06:20:55+00:00"
     },
     {
+      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.84%",
+      "es": "Las Bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 1,84%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-184-4945505",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Taiwan_M_1440053344.jpg",
+      "published": "2026-10-13T06:05:04+00:00"
+    },
+    {
       "h": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "es": "Se mejoró el pronóstico de crecimiento del Reino Unido, pero los precios y tarifas de la energía se alcanzarán en 2027",
+      "d": "La predicción del FMI se produce cuando se están realizando los preparativos finales para el primer presupuesto del primer ministro Andy Burham.",
       "u": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
       "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
       "published": "2026-10-13T05:55:12+00:00"
     },
     {
+      "h": "Nvidia AI chip share in China falls as Huawei catches up- Reuters",
+      "es": "La participación de chips de IA de Nvidia en China cae a medida que Huawei se pone al día - Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK1J0CD_L.jpg",
+      "published": "2026-10-13T05:45:58+00:00"
+    },
+    {
+      "h": "Visa gets approval to prepare for domestic business in China",
+      "es": "Visa obtiene aprobación para prepararse para negocios nacionales en China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/visa-gets-approval-to-prepare-for-domestic-business-in-china-4945398",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C09S_L.jpg",
+      "published": "2026-10-13T05:42:17+00:00"
+    },
+    {
+      "h": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
+      "es": "Las bolsas de Australia cierran al alza; El S&P/ASX 200 sube un 0,01%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4945463",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECB61PM_M.jpg",
+      "published": "2026-10-13T05:35:03+00:00"
+    },
+    {
       "h": "Cost-of-living struggles inspire Community Cupboard",
+      "es": "Las luchas por el costo de vida inspiran a Community Cupboard",
+      "d": "El nuevo supermercado social ofrece alimentos más baratos con dignidad y variedad.",
       "u": "https://www.bbc.co.uk/news/articles/cq4g1enm58npo?at_medium=RSS&at_campaign=rss",
       "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1a9/live/e87ef860-c64e-11f1-b47f-e3f9cf703bc3.jpg",
       "published": "2026-10-13T05:32:23+00:00"
     },
     {
+      "h": "Why is Man Wah Holdings stock plunging today?",
+      "es": "¿Por qué se están desplomando las acciones de Man Wah Holdings hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-man-wah-holdings-stock-plunging-today-93CH-4945460",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-13T05:31:29+00:00"
+    },
+    {
       "h": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "es": "El Consejo de Empleo del Banco Mundial insta a adoptar medidas de apoyo al empleo en la \"era de la crisis\" mientras el FMI advierte sobre el \"tsunami\" de la IA",
+      "d": "La jefa del FMI, Kristalina Georgieva, advirtió que la IA está golpeando el mercado laboral mundial como un “tsunami de movimiento lento”, siendo los trabajadores jóvenes que ingresan al mercado laboral los más expuestos.",
       "u": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T05:24:17+00:00"
     },
     {
+      "h": "Equinor signs five-year gas supply deal with Eneco",
+      "es": "Equinor firma un acuerdo de suministro de gas por cinco años con Eneco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/equinor-signs-fiveyear-gas-supply-deal-with-eneco-93CH-4945453",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/NaturalGas_800x533_L_1629294621.jpg",
+      "published": "2026-10-13T05:20:15+00:00"
+    },
+    {
+      "h": "Chinese automakers slide as weak September sales, EU hybrid curbs weigh",
+      "es": "Los fabricantes de automóviles chinos caen a medida que pesan las débiles ventas de septiembre y las restricciones a los híbridos de la UE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinese-automakers-slide-as-weak-september-sales-eu-hybrid-curbs-weigh-4945452",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEABM09Q_M.jpg",
+      "published": "2026-10-13T05:20:13+00:00"
+    },
+    {
+      "h": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
+      "es": "Character.AI se declara en quiebra y acuerda vender algunos activos por 20 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/characterai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million-4945401",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C09R_L.jpg",
+      "published": "2026-10-13T05:19:01+00:00"
+    },
+    {
       "h": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "es": "El FMI advierte que los rendimientos de los bonos podrían experimentar un aumento \"desordenado\" a medida que empeoran los riesgos de deuda e inflación",
+      "d": "El FMI dice que los riesgos en el mercado de bonos gubernamentales han empeorado y que los rendimientos podrían aumentar brusca y desordenadamente.",
       "u": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T04:54:07+00:00"
     },
     {
       "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "es": "Los precios del petróleo caen mientras los comerciantes evalúan las perspectivas del suministro de diésel ruso y el conflicto entre Arabia Saudita y los hutíes",
+      "d": "Los precios del petróleo cayeron mientras los inversores evalúan posibles interrupciones en el suministro frente a las perspectivas de que ingrese más diésel ruso a los mercados globales.",
       "u": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T03:49:23+00:00"
     },
     {
       "h": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "es": "Podrían ser necesarias tasas más altas para evitar que se arraigue la \"mentalidad inflacionaria\", dice Hammack de la Reserva Federal",
+      "d": "El presidente de la Reserva Federal de Cleveland dijo que sería necesaria una política monetaria más estricta para reducir la inflación.",
       "u": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T02:58:11+00:00"
     },
     {
       "h": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "es": "Cómo el equipo de F1 de Red Bull utiliza la IA para tomar decisiones en fracciones de segundo para Max Verstappen",
+      "d": "Red Bull Racing utiliza cada vez más la IA para ayudar a tomar decisiones en las carreras de Fórmula 1 en tiempo real, pero el equipo dice que el juicio humano sigue siendo esencial.",
       "u": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T02:37:08+00:00"
     },
     {
       "h": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "es": "Las acciones de Six Flags se desploman fuera de horario tras el informe de un incidente mortal en una montaña rusa",
+      "d": "Las acciones de Six Flags se desplomaron más del 10% en las operaciones fuera de horario el lunes luego de informes de un incidente mortal en una montaña rusa en su parque de diversiones de Georgia.",
       "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T02:29:14+00:00"
     },
     {
       "h": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "es": "La economía global está empezando a tener forma de K. Aquí están los ganadores y los perdedores, y dónde encaja Estados Unidos.",
+      "d": "El FMI ve una economía global dividida, con países menos expuestos al shock del petróleo y beneficiándose de la demanda de IA que avanzan",
       "u": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
       "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94884793",
       "published": "2026-10-13T02:00:00+00:00"
     },
     {
       "h": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "es": "Las acciones de Bumble se disparan tras un informe que cita a una empresa en conversaciones de adquisición por valor de mil millones de dólares",
+      "d": "El salto impulsó la valoración bursátil de Bumble a más de 580 millones de dólares, pero aún está muy por debajo de su máximo de más de 14 mil millones de dólares.",
       "u": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
       "published": "2026-10-13T01:50:47+00:00"
     },
     {
       "h": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "es": "\"Aburrir no es malo\": el director ejecutivo del banco más grande del Sudeste Asiático presenta a Singapur como un refugio en medio de la agitación global",
+      "d": "Singapur es un bastión de seguridad en medio de la agitación global, según el director ejecutivo de DBS.",
       "u": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T01:26:41+00:00"
     },
     {
       "h": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+      "es": "El primer ministro de Singapur, Wong, rechaza una moneda más débil como atajo para la competitividad",
+      "d": "El primer ministro de Singapur, Lawrence Wong, rechazó la idea de debilitar la moneda de la ciudad-estado para impulsar la competitividad.",
       "u": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T00:39:36+00:00"
     },
     {
       "h": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
+      "es": "CEO de GM: Estamos dando pasos agigantados hacia una conducción sin intervención de los ojos",
+      "d": "La directora ejecutiva de General Motors, Mary Barra, dijo que el fabricante de automóviles todavía está en camino de introducir tecnología de conducción \"sin ojos y sin manos\" para 2028.",
       "u": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
       "s": "CNBC",
+      "img": "",
       "published": "2026-10-13T00:24:23+00:00"
     },
     {
       "h": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "es": "La amenaza de SpaceX podría acechar las acciones de AT&T durante un período prolongado, advierte un analista",
+      "d": "El analista de Bernstein, Laurent Yoon, ya no recomienda ninguna de las principales acciones de telecomunicaciones, ya que advierte sobre una mayor volatilidad en el futuro.",
       "u": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83058773",
       "published": "2026-10-13T00:18:00+00:00"
     },
     {
       "h": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "es": "El ferrocarril de propiedad pública es popular. ¿Pero está haciendo que los trenes lleguen a tiempo?",
+      "d": "Cumplir las expectativas de los viajeros podría ser un desafío, advierten los expertos.",
       "u": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
       "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e85/live/da60e6b0-c646-11f1-a64c-550be9e3c66b.jpg",
       "published": "2026-10-12T23:37:00+00:00"
     },
     {
       "h": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "es": "“La casa vale $925,000”: Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar. ¿Tiene razón?",
+      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
       "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58890018",
       "published": "2026-10-12T23:31:00+00:00"
-    },
-    {
-      "h": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "published": "2026-10-12T23:15:00+00:00"
-    },
-    {
-      "h": "Heating oil customers face tough winter despite shake-up promise",
-      "u": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "published": "2026-10-12T23:02:24+00:00"
-    },
-    {
-      "h": "I earn £120,000 a year making social media videos go viral",
-      "u": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "published": "2026-10-12T23:01:45+00:00"
-    },
-    {
-      "h": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-      "u": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-      "s": "CNBC",
-      "published": "2026-10-12T23:00:01+00:00"
-    },
-    {
-      "h": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
-      "u": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "published": "2026-10-12T22:27:00+00:00"
-    },
-    {
-      "h": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-      "u": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
-      "s": "CNBC",
-      "published": "2026-10-12T22:26:59+00:00"
-    },
-    {
-      "h": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "u": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "published": "2026-10-12T22:00:00+00:00"
-    },
-    {
-      "h": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-      "u": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "published": "2026-10-12T22:00:00+00:00"
-    },
-    {
-      "h": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "u": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "published": "2026-10-12T21:19:00+00:00"
-    },
-    {
-      "h": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-      "u": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "s": "CNBC",
-      "published": "2026-10-12T21:17:58+00:00"
     }
   ],
   "sources": [
