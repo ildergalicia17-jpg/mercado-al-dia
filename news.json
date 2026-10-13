@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-13T19:00:40.530024+00:00",
+  "updated": "2026-10-13T19:34:22.452078+00:00",
   "news": [
+    {
+      "h": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "es": "Apple lanza el centro de hogar inteligente HomeView con pantalla como escaparate para Siri AI",
+      "d": "El fabricante de iPhone también anunció los nuevos Apple TV 4K y HomePod Mini.",
+      "u": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T19:23:39+00:00"
+    },
+    {
+      "h": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "es": "Paul Tudor Jones dice que 2027 podría ser un año realmente desafiante para el mercado de valores",
+      "d": "El inversionista multimillonario dijo que las recompras corporativas, junto con las fusiones y adquisiciones, que han sido un viento de cola para el mercado alcista, están a punto de cambiar.",
+      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T19:21:27+00:00"
+    },
+    {
+      "h": "Tesla squeezed in $370-$388 range near key support: Live levels",
+      "es": "Tesla se hundió en el rango de $ 370- $ 388 cerca del soporte clave: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ9704D_L.jpg",
+      "published": "2026-10-13T19:18:49+00:00"
+    },
+    {
+      "h": "Alphabet C tests $353 resistance in ascending triangle: Live",
+      "es": "Alphabet C prueba la resistencia de $353 en el triángulo ascendente: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-13T19:18:46+00:00"
+    },
+    {
+      "h": "Nasdaq 100 bounces off 30,600 support: Live levels",
+      "es": "Nasdaq 100 rebota en el soporte de 30.600: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-13T19:18:42+00:00"
+    },
+    {
+      "h": "Dollar Index stalls near double top at 102.40: Live levels",
+      "es": "El índice del dólar se estanca cerca del doble techo en 102,40: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-near-double-top-at-102305-live-levels-93CH-4944781",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-13T19:18:25+00:00"
+    },
+    {
+      "h": "S&P 500 wedged between 7,808 support and 7,897 resistance: Live",
+      "es": "S&P 500 atrapado entre 7.808 soporte y 7.897 resistencia: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-stalls-in-chop-zone-below-7897-live-levels-93CH-4944776",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-13T19:18:22+00:00"
+    },
+    {
+      "h": "Microsoft near ATH with bearish pin bar at $545: Live levels",
+      "es": "Microsoft cerca de ATH con barra pin bajista a $545: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-nears-overbought-rsi-below-542-resistance-live-levels-93CH-4944772",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Microsoft_800x533_L_1643707550.jpg",
+      "published": "2026-10-13T19:18:17+00:00"
+    },
+    {
+      "h": "Micron bearish near $923 support with oversold RSI: Live levels",
+      "es": "Micron bajista cerca del soporte de $ 923 con RSI sobrevendido: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/micron-tests-980-support-as-bears-dominate-live-levels-93CH-4944775",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Micron_800x533_L_1634733965.jpg",
+      "published": "2026-10-13T19:18:10+00:00"
+    },
+    {
+      "h": "NVIDIA compresses between MAs at $227.52: Live levels",
+      "es": "NVIDIA se comprime entre MA a $ 227,52: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-teeters-at-225-support-with-fading-momentum-live-levels-93CH-4944777",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB440WA_M.jpg",
+      "published": "2026-10-13T19:17:59+00:00"
+    },
+    {
+      "h": "Alphabet A wedged at $354 between key levels: Live breakout watch",
+      "es": "Alphabet A atrapado en $ 354 entre niveles clave: observación de ruptura en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-a-squeezed-between-350-and-356-live-levels-93CH-4944771",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHB60IQ_L.jpg",
+      "published": "2026-10-13T19:17:51+00:00"
+    },
+    {
+      "h": "Apple consolidates below ATH $348: Live levels",
+      "es": "Apple se consolida por debajo de ATH $ 348: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-double-top-threat-near-ath-34524-live-levels-93CH-4944773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED16063_M.jpg",
+      "published": "2026-10-13T19:17:47+00:00"
+    },
+    {
+      "h": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+      "es": "Michael Dell dice que la IA necesita salvaguardias y controles, y el gobierno tiene un papel que desempeñar",
+      "d": "El director ejecutivo de Dell, Michael Dell, dice que los modelos de IA necesitan salvaguardias y controles, y que tanto las empresas como el gobierno desempeñan un papel en la seguridad.",
+      "u": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T19:08:28+00:00"
+    },
     {
       "h": "Meta shares rise for a second straight day as new AI model family impresses",
       "es": "Las acciones de Meta suben por segundo día consecutivo a medida que impresiona la nueva familia de modelos de IA",
@@ -101,6 +218,15 @@
       "published": "2026-10-13T18:11:00+00:00"
     },
     {
+      "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+      "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
+      "d": "El anuncio de Guilfoyle se produjo después de que la nueva secretaria de prensa de la Casa Blanca, Katie Zacharia, dijera en su primera sesión informativa que se había pedido al embajador que renunciara.",
+      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T18:07:07+00:00"
+    },
+    {
       "h": "Lawmakers ask FAA to pause use of new AI tool in DC-area flight management",
       "es": "Los legisladores piden a la FAA que suspenda el uso de una nueva herramienta de inteligencia artificial en la gestión de vuelos en el área de DC",
       "d": "",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
       "published": "2026-10-13T18:01:37+00:00"
-    },
-    {
-      "h": "CPI data, Beige Book and oil inventories among economic data due Wednesday",
-      "es": "Los datos del IPC, el Libro Beige y los inventarios de petróleo entre los datos económicos que se publicarán el miércoles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cpi-data-beige-book-and-oil-inventories-among-economic-data-due-wednesday-93CH-4947365",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4H060_M.jpg",
-      "published": "2026-10-13T18:01:26+00:00"
-    },
-    {
-      "h": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-      "es": "Los piratas informáticos calientan los frigoríficos de los supermercados franceses, provocando incendios y estropeando la comida",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hackers-heat-french-supermarket-fridges-sparking-fires-and-food-losses-4944916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1C0_L.jpg",
-      "published": "2026-10-13T18:00:53+00:00"
-    },
-    {
-      "h": "U.S. stocks slip slightly on tech weakness; Dow turns negative amid bank earnings",
-      "es": "Las acciones estadounidenses caen ligeramente por la debilidad tecnológica; Dow se vuelve negativo en medio de ganancias bancarias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-13T17:59:05+00:00"
-    },
-    {
-      "h": "Nvidia invests in four French technology startups, Les Echos reports",
-      "es": "Nvidia invierte en cuatro nuevas empresas tecnológicas francesas, informa Les Echos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-invests-in-four-french-technology-startups-les-echos-reports-4947357",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM511JE_L.jpg",
-      "published": "2026-10-13T17:56:29+00:00"
-    },
-    {
-      "h": "Nvidia buys stakes in four French tech startups, Les Echos reports",
-      "es": "Nvidia compra participaciones en cuatro nuevas empresas tecnológicas francesas, informa Les Echos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-buys-stakes-in-four-french-tech-startups-les-echos-reports-4947355",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1JG_L.jpg",
-      "published": "2026-10-13T17:54:19+00:00"
-    },
-    {
-      "h": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "es": "Las nuevas reglas de la SEC desplumarían a los inversores habituales para enriquecer a Wall Street",
-      "d": "Las nuevas propuestas de la Comisión de Bolsa y Valores inclinarán la balanza a favor de Wall Street y en contra de un enorme grupo de inversores minoristas.",
-      "u": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-94711045",
-      "published": "2026-10-13T17:54:00+00:00"
-    },
-    {
-      "h": "Edison shares on watch after short seller alleges fire liability risk",
-      "es": "Las acciones de Edison están bajo vigilancia después de que el vendedor en corto alegara riesgo de responsabilidad por incendio",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/edison-shares-on-watch-after-short-seller-alleges-fire-liability-risk-4947353",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/news_arrow_down_M_1440047644.jpg",
-      "published": "2026-10-13T17:50:25+00:00"
-    },
-    {
-      "h": "Why is Energizer stock rallying 3% today?",
-      "es": "¿Por qué las acciones de Energizer están subiendo un 3% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-energizer-stock-rallying-3-today-93CH-4947352",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-13T17:46:21+00:00"
-    },
-    {
-      "h": "J&J's 6% slide on an imperfect quarter is a gift to prospective buyers",
-      "es": "La caída del 6% de J&J en un trimestre imperfecto es un regalo para los posibles compradores",
-      "d": "La división farmacéutica de J&J avanza a buen ritmo y los problemas de MedTech deberían ser temporales.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/13/jj-falls-6percent-on-an-imperfect-quarter-why-this-is-a-good-chance-to-buy.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-13T17:44:27+00:00"
-    },
-    {
-      "h": "Qualcomm says jury found Arm breached license agreement",
-      "es": "Qualcomm dice que el jurado encontró que Arm violó el acuerdo de licencia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qualcomm-says-jury-found-arm-breached-license-agreement-4947346",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1NR_L.jpg",
-      "published": "2026-10-13T17:42:19+00:00"
-    },
-    {
-      "h": "Arm shares fall after jury rules in favor of Qualcomm in license dispute",
-      "es": "Las acciones de Arm caen después de que el jurado fallara a favor de Qualcomm en la disputa por la licencia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arm-shares-fall-after-jury-rules-in-favor-of-qualcomm-in-license-dispute-4947344",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
-      "published": "2026-10-13T17:39:01+00:00"
-    },
-    {
-      "h": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
-      "es": "El ajuste del costo de vida del Seguro Social para 2027 puede estar por encima del promedio. Algunos dicen que no es suficiente",
-      "d": "Se espera que la Administración de la Seguridad Social anuncie el ajuste por costo de vida para 2027. Las proyecciones apuntan a un aumento superior al promedio.",
-      "u": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T17:34:44+00:00"
-    },
-    {
-      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
-      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
-      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86790018",
-      "published": "2026-10-13T17:30:00+00:00"
-    },
-    {
-      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67299659",
-      "published": "2026-10-13T17:30:00+00:00"
     }
   ],
   "sources": [
