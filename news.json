@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-13T21:42:50.801665+00:00",
+  "updated": "2026-10-13T22:09:48.007417+00:00",
   "news": [
+    {
+      "h": "Liquidia stock surges 40% on $380.7M litigation settlement with UTHR",
+      "es": "Las acciones de Liquidia aumentan un 40% tras un acuerdo de litigio de 380,7 millones de dólares con UTHR",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/liquidia-stock-surges-40-on-3807m-litigation-settlement-with-uthr-4947624",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
+      "published": "2026-10-13T21:56:58+00:00"
+    },
+    {
+      "h": "Apple bets on new screen gadget, Siri AI in home device push",
+      "es": "Apple apuesta por un nuevo dispositivo de pantalla y Siri AI en el impulso de los dispositivos domésticos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
+      "published": "2026-10-13T21:54:25+00:00"
+    },
+    {
+      "h": "S&P revises Brinker outlook to positive on traffic growth and lower debt",
+      "es": "S&P revisa la perspectiva de Brinker a positiva por el crecimiento del tráfico y la reducción de la deuda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-revises-brinker-outlook-to-positive-on-traffic-growth-and-lower-debt-4947619",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6R1S0_L.jpg",
+      "published": "2026-10-13T21:47:53+00:00"
+    },
     {
       "h": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
       "es": "Hombre saudita acusado de colocar un dispositivo de grabación 'sofisticado' en la oficina de OpenAI",
@@ -9,6 +36,33 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
       "published": "2026-10-13T21:42:05+00:00"
+    },
+    {
+      "h": "AT&T sells Mexican unit to Televisa and Fintech Holdings for $2 billion",
+      "es": "AT&T vende unidad mexicana a Televisa y Fintech Holdings por $2 mil millones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/att-sells-mexican-unit-to-televisa-and-fintech-holdings-for-2-billion-4947607",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5N0R8_M.jpg",
+      "published": "2026-10-13T21:34:53+00:00"
+    },
+    {
+      "h": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "es": "NYT y economista entre los editores que se unen a la coalición para frenar el uso no remunerado de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1Q1_L.jpg",
+      "published": "2026-10-13T21:31:21+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.33%",
+      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,33%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-033-4947596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
+      "published": "2026-10-13T21:30:04+00:00"
     },
     {
       "h": "Colombia stocks higher at close of trade; COLCAP up 1.55%",
@@ -216,60 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-23798405",
       "published": "2026-10-13T20:41:00+00:00"
-    },
-    {
-      "h": "Fed’s Collins signals further rate hikes likely as inflation risks persist",
-      "es": "Collins de la Fed señala que es probable que se produzcan más subidas de tipos a medida que persisten los riesgos de inflación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SusanCollins_800x533_L_1644481236.jpg",
-      "published": "2026-10-13T20:40:10+00:00"
-    },
-    {
-      "h": "Bank of America fined $1.2 billion over money-laundering violations",
-      "es": "Bank of America multado con 1.200 millones de dólares por infracciones de blanqueo de dinero",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T20:34:28+00:00"
-    },
-    {
-      "h": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-      "es": "Las acciones de AST SpaceMobile están sintiendo la presión de los planes inalámbricos de SpaceX",
-      "d": "El lanzamiento comercial de AST podría sufrir retrasos debido a los desafíos del lanzamiento de satélites y las crecientes ambiciones de SpaceX, advierte un analista.",
-      "u": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-94248093",
-      "published": "2026-10-13T20:32:00+00:00"
-    },
-    {
-      "h": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-      "es": "Juez dice que Musk participó en la intimidación de la ex directora financiera de FEMA, Mary Comans, limpia su nombre",
-      "d": "El nombre de la ex directora financiera de FEMA, Mary Comans, fue limpiado por un juez federal después de que Elon Musk y otros funcionarios del gobierno la acusaran falsamente de acciones criminales en 2025.",
-      "u": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T20:30:08+00:00"
-    },
-    {
-      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67299659",
-      "published": "2026-10-13T20:30:00+00:00"
-    },
-    {
-      "h": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-      "es": "Walmart cubrirá algunos GLP-1, inhaladores e insulina para los empleados sin costo a medida que amplía los beneficios",
-      "d": "Walmart ofrecerá Ozempic de Novo y Mounjaro de Lilly sin costo para personas con diabetes tipo 2 luego de una nueva autorización previa.",
-      "u": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T20:29:06+00:00"
     }
   ],
   "sources": [
