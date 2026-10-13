@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-13T06:53:37.010304+00:00",
+  "updated": "2026-10-13T06:55:36.801013+00:00",
   "news": [
+    {
+      "h": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+      "u": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+      "s": "CNBC",
+      "published": "2026-10-13T06:52:39+00:00"
+    },
     {
       "h": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
       "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
@@ -174,12 +180,6 @@
       "u": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
       "s": "CNBC",
       "published": "2026-10-12T21:17:58+00:00"
-    },
-    {
-      "h": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
-      "u": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
-      "s": "CNBC",
-      "published": "2026-10-12T21:02:09+00:00"
     }
   ],
   "sources": [
