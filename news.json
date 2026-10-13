@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-13T14:53:28.572803+00:00",
+  "updated": "2026-10-13T15:13:52.300437+00:00",
   "news": [
+    {
+      "h": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
+      "es": "El clip de Sabrina Carpenter que ayudó a una joven de 22 años a ganar £120.000 al año",
+      "d": "Los \"clippers\" de las redes sociales crean videos cortos y verticales que aparecen en sitios como Instagram y TikTok.",
+      "u": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ae/live/6519b7c0-c1bd-11f1-a1fa-8f24f60baa65.jpg",
+      "published": "2026-10-13T15:12:38+00:00"
+    },
+    {
+      "h": "Walmart to offer employees 250-plus medications at no cost in expanded health benefits",
+      "es": "Walmart ofrecerá a sus empleados más de 250 medicamentos sin costo en beneficios de salud ampliados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-to-offer-employees-250plus-medications-at-no-cost-in-expanded-health-benefits-4947176",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1F3_L.jpg",
+      "published": "2026-10-13T15:06:46+00:00"
+    },
+    {
+      "h": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "es": "UnitedHealth Group supera las estimaciones y aumenta las perspectivas de ganancias mientras la aseguradora gestiona los altos costos médicos",
+      "d": "UnitedHealth Group dijo que espera ganancias ajustadas para 2026 de al menos 20,50 dólares por acción, frente a una perspectiva anterior de 19,50 a 20 dólares por acción.",
+      "u": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-13T15:04:35+00:00"
+    },
+    {
+      "h": "FTC targets Martin Shkreli over pharma stock trading and market commentary",
+      "es": "La FTC apunta a Martin Shkreli por el comercio de acciones farmacéuticas y los comentarios de mercado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftc-targets-martin-shkreli-over-pharma-stock-trading-and-market-commentary-4947179",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/USFederalTradeCommissionHeadquarters_800x533_L_1615385764.jpg",
+      "published": "2026-10-13T15:01:45+00:00"
+    },
+    {
+      "h": "Wall St subdued in choppy trade after big bank earnings, chips slide",
+      "es": "Wall St, debilitado tras unas operaciones agitadas tras las ganancias de los grandes bancos y la caída de las fichas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
+      "published": "2026-10-13T15:00:37+00:00"
+    },
+    {
+      "h": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "es": "“La casa vale $925,000”: Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar. ¿Tiene razón?",
+      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
+      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58890018",
+      "published": "2026-10-13T15:00:00+00:00"
+    },
+    {
+      "h": "Dating app Bumble bought for $1.3bn",
+      "es": "La aplicación de citas Bumble comprada por 1.300 millones de dólares",
+      "d": "La aplicación de citas que recientemente abandonó su regla de chat \"las mujeres primero\" ha sido comprada por una empresa de inversión.",
+      "u": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg",
+      "published": "2026-10-13T14:57:21+00:00"
+    },
+    {
+      "h": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+      "es": "Anthropic revelará nuevas cifras de ingresos a medida que las finanzas del laboratorio de IA se vuelven fundamentales para el comercio tecnológico",
+      "d": "Anthropic publicará estados financieros actualizados a un grupo de inversores reunidos en su sede esta semana, según personas familiarizadas con el asunto.",
+      "u": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T14:55:51+00:00"
+    },
+    {
+      "h": "Apple unveils new smart home products, showcasing updated Siri AI",
+      "es": "Apple presenta nuevos productos para el hogar inteligente, mostrando Siri AI actualizado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-to-unveil-new-smart-home-products-showcasing-updated-siri-ai-4945992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S4_L.jpg",
+      "published": "2026-10-13T14:55:47+00:00"
+    },
+    {
+      "h": "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued hiring",
+      "es": "Exclusivo: Bank of America pierde banqueros, informa a su personal sobre su gran ambición y continúa contratando",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivebank-of-america-loses-bankers-tells-staff-of-big-ambition-continued-hiring-4945993",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S1_L.jpg",
+      "published": "2026-10-13T14:55:31+00:00"
+    },
+    {
+      "h": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
+      "es": "Las bolsas de Noruega cierran al alza; El OBX de Oslo sube un 0,71%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-071-4947168",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL510UZ_L.jpg",
+      "published": "2026-10-13T14:55:30+00:00"
+    },
+    {
+      "h": "Exclusive-Mexico to approve Viva-Volaris airline merger by end of 2026, sources say",
+      "es": "Exclusiva-México aprobará fusión de aerolíneas Viva-Volaris a finales de 2026, dicen fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivemexico-to-approve-vivavolaris-airline-merger-by-end-of-2026-sources-say-4946257",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0WT_L.jpg",
+      "published": "2026-10-13T14:55:04+00:00"
+    },
+    {
+      "h": "Israel stocks higher at close of trade; TA 35 up 1.67%",
+      "es": "Las bolsas de valores de Israel cierran al alza; TA 35 sube un 1,67%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-167-4947167",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEF510AP_M.jpg",
+      "published": "2026-10-13T14:55:03+00:00"
+    },
+    {
+      "h": "Greece stocks higher at close of trade; Athens General Composite up 0.16%",
+      "es": "Las bolsas de Grecia cierran al alza; El Compuesto General de Atenas sube un 0,16%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-016-4947163",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6S0BG_M.jpg",
+      "published": "2026-10-13T14:50:03+00:00"
+    },
+    {
+      "h": "Why is Whitecap Resources stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Whitecap Resources hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-whitecap-resources-stock-climbing-today-93CH-4947162",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-13T14:49:51+00:00"
+    },
     {
       "h": "Six Flags shares decline following deadly roller coaster incident",
       "es": "Las acciones de Six Flags caen tras el mortal incidente en la montaña rusa",
@@ -54,6 +189,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEF150TG_M.jpg",
       "published": "2026-10-13T14:35:03+00:00"
+    },
+    {
+      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
+      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
+      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T14:32:27+00:00"
     },
     {
       "h": "Wizz Air in talks for airport slots as European airlines face pressure",
@@ -126,150 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-45030136",
       "published": "2026-10-13T14:17:00+00:00"
-    },
-    {
-      "h": "Why one hedge-fund billionaire believes stocks are heading for a ‘really challenging’ 2027",
-      "es": "Por qué un multimillonario de fondos de cobertura cree que las acciones se dirigen a un 2027 “realmente desafiante”",
-      "d": "Las acciones estadounidenses podrían enfrentar una prueba seria en 2027, ya que un tsunami de nuevas emisiones de acciones amenaza con trastornar el mercado alcista impulsado por la inteligencia artificial, según el multimillonario de fondos de cobertura Paul Tudor Jones.",
-      "u": "https://www.marketwatch.com/story/why-one-hedge-fund-billionaire-believes-stocks-are-heading-for-a-really-challenging-2027-bb68f19e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-353574",
-      "published": "2026-10-13T14:10:00+00:00"
-    },
-    {
-      "h": "Six Flags’ stock slumps toward 16-year low after fatal incident",
-      "es": "Las acciones de Six Flags caen a su nivel más bajo en 16 años después de un incidente fatal",
-      "d": "Un accidente mortal en una montaña rusa de Six Flags Entertainment hizo que las acciones del operador del parque de atracciones se acercaran al nivel más bajo del año.",
-      "u": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-23798405",
-      "published": "2026-10-13T14:09:00+00:00"
-    },
-    {
-      "h": "Why is Nebius stock sliding today?",
-      "es": "¿Por qué las acciones de Nebius están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4947061",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-13T14:04:59+00:00"
-    },
-    {
-      "h": "Why is Credo Technology stock sliding today?",
-      "es": "¿Por qué las acciones de Credo Technology están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4947052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-13T14:02:10+00:00"
-    },
-    {
-      "h": "More homebuyers are taking a chance on adjustable-rate mortgages, hoping rates will fall—here’s how to think about that bet",
-      "es": "Cada vez más compradores de viviendas se arriesgan con hipotecas de tasa ajustable, con la esperanza de que las tasas bajen: aquí le mostramos cómo pensar en esa apuesta",
-      "d": "Hoy en día, más compradores de viviendas están apostando por hipotecas de tasa ajustable a una tasa más baja. Aquí le mostramos cómo decidir si uno tiene sentido para usted.",
-      "u": "https://www.cnbc.com/make-it/2026/10/13/adjustable-rate-mortgage-arm-risks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T14:00:02+00:00"
-    },
-    {
-      "h": "Jefferies Names Top Aerospace and Defense Stocks for Multi-Year Growth",
-      "es": "Jefferies nombra las principales acciones aeroespaciales y de defensa para un crecimiento de varios años",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-names-top-aerospace-and-defense-stocks-for-multiyear-growth-4947032",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL901ZY_L.jpg",
-      "published": "2026-10-13T13:59:28+00:00"
-    },
-    {
-      "h": "Why is Space Exploration Technologies stock sliding today?",
-      "es": "¿Por qué las acciones de Space Exploration Technologies están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4947031",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-13T13:59:10+00:00"
-    },
-    {
-      "h": "Why is Salesforce stock rallying today?",
-      "es": "¿Por qué las acciones de Salesforce están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-rallying-today-93CH-4947030",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1O0N5_M.jpg",
-      "published": "2026-10-13T13:58:59+00:00"
-    },
-    {
-      "h": "Why is Meta Platforms stock rallying today?",
-      "es": "¿Por qué las acciones de Meta Platforms están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4947019",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4E12Q_L.jpg",
-      "published": "2026-10-13T13:56:35+00:00"
-    },
-    {
-      "h": "Why is Six Flags Entertainment stock crashing today?",
-      "es": "¿Por qué las acciones de Six Flags Entertainment se están desplomando hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-crashing-today-93CH-4947017",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-13T13:55:33+00:00"
-    },
-    {
-      "h": "US grocer Albertsons pulls annual outlook, accelerates turnaround efforts",
-      "es": "El tendero estadounidense Albertsons retira sus perspectivas anuales y acelera los esfuerzos de recuperación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-grocer-albertsons-suspends-fullyear-forecasts-amid-business-review-4946692",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C10M_L.jpg",
-      "published": "2026-10-13T13:54:41+00:00"
-    },
-    {
-      "h": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "es": "Millones de estadounidenses tendrán menos opciones durante la inscripción abierta de Medicare este año",
-      "d": "No habrá planes Medicare Advantage en 181 condados en 2027, frente a 67 en 2026.",
-      "u": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95277204",
-      "published": "2026-10-13T13:53:00+00:00"
-    },
-    {
-      "h": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-      "es": "UnitedHealth mantiene los costos médicos bajo control y vuelve a elevar sus perspectivas",
-      "d": "El gigante de los seguros médicos dijo que su ratio de costos médicos fue del 88,4% en el tercer trimestre de este año, mientras la compañía intenta controlar el gasto en atención médica.",
-      "u": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87355184",
-      "published": "2026-10-13T13:49:00+00:00"
-    },
-    {
-      "h": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-      "es": "Apple lanza el centro de hogar inteligente HomeView con pantalla como escaparate para Siri AI",
-      "d": "El fabricante de iPhone también anunció los nuevos Apple TV 4K y HomePod Mini.",
-      "u": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T13:40:00+00:00"
-    },
-    {
-      "h": "U.S. Treasury yields fall as energy prices pull back",
-      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen a medida que los precios de la energía retroceden",
-      "d": "Los rendimientos de los bonos cayeron el martes mientras los inversores esperan más publicaciones de datos económicos esta semana.",
-      "u": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T13:38:51+00:00"
-    },
-    {
-      "h": "S&P 500 opens lower after bank earnings; chips weigh",
-      "es": "S&P 500 abre a la baja tras resultados bancarios; las patatas fritas pesan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-opens-lower-after-bank-earnings-chips-weigh-4946952",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1A4_L.jpg",
-      "published": "2026-10-13T13:36:31+00:00"
     }
   ],
   "sources": [
