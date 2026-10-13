@@ -34,7 +34,7 @@ main section{margin-top:32px}.columns{display:grid;grid-template-columns:minmax(
 <main style="padding:0">
 <section><div class="columns"><div><div class="section-title"><div><h2>Acciones con mayor potencial</h2><p>Ranking orientativo según métricas y consenso de analistas</p></div></div><div class="pred-list" id="pred"></div></div>
 <div><div class="section-title"><div><h2>Movimientos del mercado</h2><p>Mayores cambios diarios entre las acciones seguidas</p></div></div><div class="movers"><div class="card mini-card"><div class="mini-title"><span>↗</span> Mayores subidas</div><table id="up"></table></div><div class="card mini-card"><div class="mini-title negative"><span>↘</span> Mayores bajadas</div><table id="dn"></table></div></div></div></div></section>
-<section><div class="section-title"><div><h2>Noticias del mercado</h2><p>Enlaces a publicaciones externas disponibles en la fuente de datos</p></div></div><div class="news-grid" id="news"></div></section>
+<section><div class="section-title"><div><h2>Noticias del mercado</h2><p>CNBC, MarketWatch, BBC Business e Investing.com · titulares RSS</p><p id="newsStamp" style="margin-top:5px;color:var(--up)">Actualización automática cada 5 minutos</p></div></div><div class="news-grid" id="news"></div></section>
 </main>
 <footer><div>Mercado al Día · Panel informativo</div><span>Contenido educativo. Las estimaciones no garantizan resultados ni constituyen asesoría financiera. Invertir implica riesgo de pérdida.</span></footer>
 </div>
@@ -51,7 +51,15 @@ if(d.sample)$("av").innerHTML='<div class="notice">Estás viendo datos de ejempl
 $("idx").innerHTML=(d.indices||[]).map((i,k)=>'<article class="card"><div class="index-name">'+i.n+'<span class="index-icon">'+["S","N","D","R"][k%4]+'</span></div><div class="index-price">'+f(i.p)+'</div><div class="change">'+pc(i.c)+'</div><div class="spark">'+line((i.h||[]).slice(-40),180,38)+'</div></article>').join("");
 $("pred").innerHTML=(d.predictions||[]).length?d.predictions.map((p,k)=>'<article class="pred" data-i="'+k+'" tabindex="0" role="button" aria-expanded="false"><div class="rank">'+String(k+1).padStart(2,"0")+'</div><div><div class="company">'+p.t+'<small>'+p.n+'</small></div><div class="bar"><i style="width:'+Math.max(0,Math.min(100,Number(p.score)||0))+'%"></i></div></div><div class="score">'+(p.score==null?"—":p.score)+'<small>de 100</small></div><div class="detail" hidden></div></article>').join(""):'<p class="empty">No hay estimaciones disponibles por ahora.</p>';
 tabla($("up"),d.movers&&d.movers.up||[]);tabla($("dn"),d.movers&&d.movers.dn||[]);
-$("news").innerHTML=(d.news||[]).length?d.news.map(n=>'<a class="news-item" href="'+safeUrl(n.u)+'" target="_blank" rel="noopener noreferrer"><div class="news-source">'+(n.s||"Fuente externa")+'</div><div class="news-head">'+escapeHtml(n.h)+'</div><div class="news-arrow"><span>Leer publicación</span><span>↗</span></div></a>').join(""):'<p class="empty">No hay noticias disponibles en la última actualización.</p>';
+renderNews(d.news||[],d.updated);
+}
+function renderNews(items,updated){
+  $("news").innerHTML=(items||[]).length?items.map(n=>'<a class="news-item" href="'+safeUrl(n.u)+'" target="_blank" rel="noopener noreferrer"><div class="news-source">'+escapeHtml(n.s||"Fuente externa")+'</div><div class="news-head">'+escapeHtml(n.h)+'</div><div class="news-arrow"><span>'+(n.published?new Date(n.published).toLocaleString("es-GT",{dateStyle:"short",timeStyle:"short",timeZone:"America/Guatemala"}):"Titular reciente")+'</span><span>Leer ↗</span></div></a>').join(""):'<p class="empty">No hay noticias disponibles; se intentará actualizar automáticamente.</p>';
+  const stamp=$("newsStamp");
+  if(stamp)stamp.textContent=updated?"Titulares revisados: "+new Date(updated).toLocaleString("es-GT",{dateStyle:"short",timeStyle:"short",timeZone:"America/Guatemala"}):"Actualización automática cada 5 minutos";
+}
+function loadNews(){
+  fetch("news.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(n=>renderNews(n.news||[],n.updated)).catch(()=>{const stamp=$("newsStamp");if(stamp)stamp.textContent="Noticias temporalmente no disponibles";});
 }
 function escapeHtml(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
 function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
@@ -60,4 +68,6 @@ function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector
 $("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
 $("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
 fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
+loadNews();
+setInterval(loadNews,5*60*1000);
 </script></body></html>
