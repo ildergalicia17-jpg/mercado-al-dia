@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-13T11:37:00.483017+00:00",
+  "updated": "2026-10-13T11:58:07.740928+00:00",
   "news": [
+    {
+      "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+      "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
+      "d": "Una coalición liderada por Arabia Saudita que lucha contra los hutíes, un grupo militante yemení respaldado por Teherán, dijo que había interceptado otro ataque contra Riad.",
+      "u": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T11:53:45+00:00"
+    },
+    {
+      "h": "Why is BioNTech stock sliding today?",
+      "es": "¿Por qué las acciones de BioNTech están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4946418",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-13T11:53:31+00:00"
+    },
+    {
+      "h": "BioNTech stock falls after cancer trial misses key endpoint",
+      "es": "Las acciones de BioNTech caen después de que un ensayo contra el cáncer no alcanzara un criterio de valoración clave",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/biontech-stock-falls-after-cancer-trial-misses-key-endpoint-4946410",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/BioNTech_800x533_L_1602254029.jpg",
+      "published": "2026-10-13T11:49:46+00:00"
+    },
+    {
+      "h": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+      "es": "Micron, SoftBank y ASML caen a medida que se extiende la caída de los chips en Wall Street",
+      "d": "Las acciones de tecnología se desplomaron el martes cuando una venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
+      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T11:47:25+00:00"
+    },
+    {
+      "h": "European automakers seek policy support amid China pressure",
+      "es": "Los fabricantes de automóviles europeos buscan apoyo político en medio de la presión de China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-automakers-seek-policy-support-amid-china-pressure-4946401",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL5G0RR_L.jpg",
+      "published": "2026-10-13T11:44:39+00:00"
+    },
+    {
+      "h": "The South Korean stock market is in free fall, and these are the reasons",
+      "es": "La bolsa surcoreana está en caída libre, y estos son los motivos",
+      "d": "El mercado coreano sube debido a las caídas de las expectativas sobre la rentabilidad de la industria de semiconductores y sobre cuánto tiempo podrá sostenerse. El sentimiento es cíclico y en este momento el escepticismo está aumentando.",
+      "u": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39582693",
+      "published": "2026-10-13T11:44:00+00:00"
+    },
+    {
+      "h": "European automakers urge support as VW warns of ’enormous pressure’",
+      "es": "Los fabricantes de automóviles europeos instan a apoyar mientras VW advierte sobre una \"enorme presión\"",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-automakers-urge-support-as-vw-warns-of-enormous-pressure-4946396",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C10F_L.jpg",
+      "published": "2026-10-13T11:42:28+00:00"
+    },
+    {
+      "h": "Why is Navitas Semiconductor stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Navitas Semiconductor hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-navitas-semiconductor-stock-climbing-today-93CH-4946395",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-13T11:41:15+00:00"
+    },
+    {
+      "h": "Why is Goldman Sachs stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Goldman Sachs hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-surging-today-93CH-4946393",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC9N0U2_M.jpg",
+      "published": "2026-10-13T11:40:53+00:00"
+    },
+    {
+      "h": "Why is Olvi stock sliding today?",
+      "es": "¿Por qué las acciones de Olvi están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-olvi-stock-sliding-today-93CH-4946356",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-13T11:33:11+00:00"
+    },
+    {
+      "h": "Morgan Stanley Q3 earnings preview: 3 levers to watch in the print",
+      "es": "Avance de las ganancias del tercer trimestre de Morgan Stanley: 3 palancas a tener en cuenta en la prensa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-q3-earnings-preview-3-levers-to-watch-in-the-print-93CH-4946348",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE040VL_M.jpg",
+      "published": "2026-10-13T11:31:54+00:00"
+    },
     {
       "h": "Six Flags’ stock slumps near 52-week lows after fatal accident",
       "es": "Las acciones de Six Flags se desploman cerca de mínimos de 52 semanas después de un accidente fatal",
@@ -171,105 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-04491989",
       "published": "2026-10-13T11:00:00+00:00"
-    },
-    {
-      "h": "The stock market is at a critical juncture. Wall Street is convinced it will resolve in the bulls' favor",
-      "es": "El mercado de valores se encuentra en un momento crítico. Wall Street está convencido de que resolverá a favor de los alcistas",
-      "d": "Hay una división extraordinaria entre el S&P 500 titular justo por debajo de un máximo récord y la acción mediana del índice que lucha con una caída del 16%.",
-      "u": "https://www.cnbc.com/2026/10/13/santoli-the-stock-market-is-at-a-critical-juncture.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T10:59:35+00:00"
-    },
-    {
-      "h": "Why the world’s number-one fund manager has just changed its mind on bonds for the first time in six years",
-      "es": "Por qué el gestor de fondos número uno del mundo acaba de cambiar de opinión sobre los bonos por primera vez en seis años",
-      "d": "Después de seis años, BlackRock encuentra oportunidades en los bonos gubernamentales.",
-      "u": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75446828",
-      "published": "2026-10-13T10:56:00+00:00"
-    },
-    {
-      "h": "European stocks buck tech-led global rout, bank earnings in focus",
-      "es": "Las bolsas europeas resisten la caída global liderada por la tecnología, las ganancias bancarias en el centro de atención",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buck-techled-global-rout-bank-earnings-in-focus-4945488",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1608128944.jpg",
-      "published": "2026-10-13T10:54:38+00:00"
-    },
-    {
-      "h": "Why is VF stock rallying today?",
-      "es": "¿Por qué las acciones de VF están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-vf-stock-rallying-today-93CH-4946173",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-13T10:54:29+00:00"
-    },
-    {
-      "h": "Why is Melrose Industries stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Melrose Industries hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-melrose-industries-stock-rallying-today-93CH-4946172",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-13T10:54:12+00:00"
-    },
-    {
-      "h": "Why is Domino’s Pizza stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Domino's Pizza hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dominos-pizza-stock-sliding-today-93CH-4946146",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA6S07A_M.jpg",
-      "published": "2026-10-13T10:46:17+00:00"
-    },
-    {
-      "h": "London’s FTSE 100 outperforms peers as commodity rally ticks support",
-      "es": "El FTSE 100 de Londres supera a sus pares gracias al apoyo del repunte de las materias primas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/londons-ftse-100-outperforms-peers-as-commodity-rally-ticks-support-4945616",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-13T10:44:55+00:00"
-    },
-    {
-      "h": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
-      "es": "NYT y economista entre los editores que se unen a la coalición para frenar el uso no remunerado de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1Q1_L.jpg",
-      "published": "2026-10-13T10:37:06+00:00"
-    },
-    {
-      "h": "India stocks higher at close of trade; Nifty 50 up 1.60%",
-      "es": "Las bolsas de India cierran al alza; Nifty 50 subió un 1,60%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-160-4946080",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MumbaiStockExchange_800x533_L_1602147138.jpg",
-      "published": "2026-10-13T10:30:05+00:00"
-    },
-    {
-      "h": "Why is Samsung Electronics DRC Pref stock sliding 4% today?",
-      "es": "¿Por qué las acciones de Samsung Electronics DRC Pref están cayendo un 4% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-drc-pref-stock-sliding-4-today-93CH-4946066",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
-      "published": "2026-10-13T10:25:52+00:00"
-    },
-    {
-      "h": "S&P 500 futures muted as investors await big bank earnings; chip weakness weighs",
-      "es": "Los futuros del S&P 500 caen mientras los inversores esperan las ganancias de los grandes bancos; la debilidad del chip pesa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
-      "published": "2026-10-13T10:24:45+00:00"
     }
   ],
   "sources": [
