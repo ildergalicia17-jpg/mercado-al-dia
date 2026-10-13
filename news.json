@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-13T08:03:36.186835+00:00",
+  "updated": "2026-10-13T08:31:01.021342+00:00",
   "news": [
+    {
+      "h": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm",
+      "es": "¿El CEO de Broadcom fue optimista o bajista con respecto a la IA? El comentario de los 'jugadores' crea tormenta",
+      "d": "Los comentarios hechos por el CEO de Broadcom en una conferencia en Singapur han sido citados como una razón para las caídas de las acciones de microchips tanto el lunes como el martes.",
+      "u": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81933204",
+      "published": "2026-10-13T08:29:00+00:00"
+    },
+    {
+      "h": "Anthropic warns AI models could soon copy themselves across home devices",
+      "es": "Anthropic advierte que los modelos de IA pronto podrían copiarse a sí mismos en dispositivos domésticos",
+      "d": "La última investigación de Anthropic se suma a las crecientes preocupaciones de seguridad en torno a la IA, desde la capacidad de los modelos para llevar a cabo ataques cibernéticos hasta la tecnología que se vuelve deshonesta.",
+      "u": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T08:27:20+00:00"
+    },
+    {
+      "h": "Why is LVMH Moet Hennessy Louis Vuitton stock sliding today?",
+      "es": "¿Por qué las acciones de LVMH Moët Hennessy Louis Vuitton están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-lvmh-moet-hennessy-louis-vuitton-stock-sliding-today-93CH-4945714",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-13T08:11:37+00:00"
+    },
+    {
+      "h": "Why is Bellway stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Bellway hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bellway-stock-rallying-today-93CH-4945712",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-13T08:07:26+00:00"
+    },
+    {
+      "h": "DAX near Upper Bollinger Band at 25,546: Live levels",
+      "es": "DAX cerca de Upper Bollinger Band en 25,546: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dax-at-25359-faces-bull-trap-risk-near-2548125589-live-93CH-4943422",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-13T08:06:46+00:00"
+    },
+    {
+      "h": "Why is Bytes Technology stock sliding today?",
+      "es": "¿Por qué las acciones de Bytes Technology están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bytes-technology-stock-sliding-today-93CH-4945709",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-13T08:03:22+00:00"
+    },
+    {
+      "h": "LVMH stock dips as fashion sales fall on China weakness",
+      "es": "Las acciones de LVMH caen mientras las ventas de moda caen por la debilidad de China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lvmh-edges-past-q3-revenue-estimates-as-fashion-sales-slip-on-china-weakness-4944941",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL401X0_L.jpg",
+      "published": "2026-10-13T08:02:18+00:00"
+    },
     {
       "h": "Why is Publicis Groupe stock gaining today?",
       "es": "¿Por qué las acciones de Publicis Groupe están ganando hoy?",
@@ -18,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
       "published": "2026-10-13T07:58:22+00:00"
+    },
+    {
+      "h": "U.S. Treasury yields fall as energy prices pull back",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen a medida que los precios de la energía retroceden",
+      "d": "Los rendimientos de los bonos cayeron el martes mientras los inversores esperan más publicaciones de datos económicos esta semana.",
+      "u": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T07:58:17+00:00"
     },
     {
       "h": "Why is Plus500 stock rallying today?",
@@ -198,78 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T06:46:15+00:00"
-    },
-    {
-      "h": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-      "es": "Un ciberataque afecta a cientos de supermercados franceses, calienta los frigoríficos a 50 °C y provoca incendios",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T06:44:00+00:00"
-    },
-    {
-      "h": "Stellantis Q3 shipments fall 1%, weighed down by North America production halt",
-      "es": "Los envíos de Stellantis en el tercer trimestre caen un 1%, afectados por la paralización de la producción en América del Norte",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/stellantis-q3-shipments-fall-1-weighed-down-by-north-america-production-halt-4945555",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0GJ_L.jpg",
-      "published": "2026-10-13T06:43:02+00:00"
-    },
-    {
-      "h": "Asia stocks slide as chip rout deepens, Chinese automakers hit by EU trade curbs",
-      "es": "Las acciones asiáticas caen a medida que se profundiza la caída de los chips y los fabricantes de automóviles chinos se ven afectados por las restricciones comerciales de la UE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEABU081_M.jpg",
-      "published": "2026-10-13T06:41:18+00:00"
-    },
-    {
-      "h": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "es": "Visa obtiene luz verde de Beijing para el negocio de tarjetas bancarias después de 40 años de trabajo con China",
-      "d": "La aprobación incremental se produce cuando los presidentes de Estados Unidos y China se reunirán por tercera vez este año el próximo mes.",
-      "u": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T06:20:55+00:00"
-    },
-    {
-      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.84%",
-      "es": "Las Bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 1,84%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-184-4945505",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Taiwan_M_1440053344.jpg",
-      "published": "2026-10-13T06:05:04+00:00"
-    },
-    {
-      "h": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-      "es": "Se mejoró el pronóstico de crecimiento del Reino Unido, pero los precios y tarifas de la energía se alcanzarán en 2027",
-      "d": "La predicción del FMI se produce cuando se están realizando los preparativos finales para el primer presupuesto del primer ministro Andy Burham.",
-      "u": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-13T05:55:12+00:00"
-    },
-    {
-      "h": "Nvidia AI chip share in China falls as Huawei catches up- Reuters",
-      "es": "La participación de chips de IA de Nvidia en China cae a medida que Huawei se pone al día - Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-ai-chip-share-in-china-falls-as-huawei-catches-up-reuters-4945472",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK1J0CD_L.jpg",
-      "published": "2026-10-13T05:45:58+00:00"
-    },
-    {
-      "h": "Visa gets approval to prepare for domestic business in China",
-      "es": "Visa obtiene aprobación para prepararse para negocios nacionales en China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/visa-gets-approval-to-prepare-for-domestic-business-in-china-4945398",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C09S_L.jpg",
-      "published": "2026-10-13T05:42:17+00:00"
     }
   ],
   "sources": [
