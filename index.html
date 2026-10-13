@@ -83,40 +83,41 @@ function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial 
 function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
 $("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
 $("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
+
+function cryptoPrice(n){
+ const v=Number(n);
+ if(!Number.isFinite(v)) return "—";
+ const d=v>=1000?2:v>=1?2:v>=0.01?4:6;
+ return "$"+v.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:d});
+}
+function loadCrypto(){
+ fetch("crypto.json?"+Date.now(),{cache:"no-store"})
+ .then(r=>r.ok?r.json():Promise.reject())
+ .then(data=>{
+  const grid=$("cryptoGrid");
+  if(!grid)return;
+  const coins=Array.isArray(data.coins)?data.coins:[];
+  if(!coins.length)throw new Error("Sin cotizaciones");
+  grid.innerHTML=coins.map(c=>{
+   const change=Number(c.change24h)||0;
+   const cls=change>=0?"up":"dn";
+   const sign=change>0?"+":"";
+   const cleanName=String(c.name||"").replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[x]));
+   return '<article class="card crypto-card"><div class="crypto-name"><span>'+cleanName+'</span><strong>'+String(c.symbol||"").toUpperCase()+'</strong></div><div class="crypto-price">'+cryptoPrice(c.price)+'</div><div class="crypto-change '+cls+'">'+sign+change.toLocaleString("es-GT",{minimumFractionDigits:2,maximumFractionDigits:2})+'% <span style="color:var(--mut);font-weight:500">24 h</span></div><div class="crypto-meta"><span>Máx. 24 h: '+cryptoPrice(c.high24h)+'</span><span>Mín. 24 h: '+cryptoPrice(c.low24h)+'</span></div></article>';
+  }).join("");
+  const stamp=$("cryptoStamp");
+  if(stamp)stamp.textContent=(data.updated?"Actualizado: "+new Date(data.updated).toLocaleString("es-GT",{dateStyle:"short",timeStyle:"short"}):"Cotizaciones actualizadas")+" · "+(data.provider||"Fuente de mercado");
+ }).catch(()=>{
+  const grid=$("cryptoGrid");
+  if(grid)grid.innerHTML='<p class="empty">Las cotizaciones no están disponibles temporalmente.</p>';
+  const stamp=$("cryptoStamp");
+  if(stamp)stamp.textContent="No se pudo actualizar";
+ });
+}
+
 fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
 loadNews();
 loadCrypto();
 setInterval(loadNews,5*60*1000);
 setInterval(loadCrypto,5*60*1000);
-</script></body></html>+cryptoPrice(c.price)+'</div><div class="crypto-change '+cls+'">'+sign+change.toLocaleString("es-GT",{minimumFractionDigits:2,maximumFractionDigits:2})+'% <span style="color:var(--mut);font-weight:500">24 h</span></div><div class="crypto-meta"><span>Máx. return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
-function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial suficiente para graficar.</p>';const w=700,hh=160,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-8-(v-mn)/r*(hh-16)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;return '<svg class="big" viewBox="0 0 '+w+" "+hh+'" preserveAspectRatio="none" role="img" aria-label="Historial de precio de '+escapeHtml(n)+'"><path d="'+d+' L'+w+" "+hh+" L0 "+hh+'Z" fill="var('+c+')" opacity=".12"/><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín. $'+f(mn)+'</span><span>'+pc(ch)+' en el período</span><span>Máx. $'+f(mx)+'</span></div>'}
-function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
-$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
-$("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
-fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
-loadNews();
-setInterval(loadNews,5*60*1000);
-</script></body></html>+cryptoPrice(c.high24h)+'</span><span>Mín. return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
-function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial suficiente para graficar.</p>';const w=700,hh=160,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-8-(v-mn)/r*(hh-16)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;return '<svg class="big" viewBox="0 0 '+w+" "+hh+'" preserveAspectRatio="none" role="img" aria-label="Historial de precio de '+escapeHtml(n)+'"><path d="'+d+' L'+w+" "+hh+" L0 "+hh+'Z" fill="var('+c+')" opacity=".12"/><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín. $'+f(mn)+'</span><span>'+pc(ch)+' en el período</span><span>Máx. $'+f(mx)+'</span></div>'}
-function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
-$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
-$("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
-fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
-loadNews();
-setInterval(loadNews,5*60*1000);
-</script></body></html>+cryptoPrice(c.low24h)+'</span></div></article>'}).join(""):'<p class="empty">Las cotizaciones no están disponibles temporalmente.</p>';
- const stamp=$("cryptoStamp");if(stamp)stamp.textContent=data.updated?"Actualizado: "+new Date(data.updated).toLocaleString("es-GT",{dateStyle:"short",timeStyle:"short",timeZone:"America/Guatemala"}):"Esperando datos";
-}
-function loadCrypto(){fetch("crypto.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(renderCrypto).catch(()=>{const stamp=$("cryptoStamp");if(stamp)stamp.textContent="Cotizaciones temporalmente no disponibles";});}
-function escapeHtml(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function safeUrl(s){try{const u=new URL(s,location.href);return /^https?:$/.test(u.protocol)?u.href:"#"}catch(e){return "#"}}
-function grande(h,n){if(!h||h.length<2)return'<p class="empty">No hay historial suficiente para graficar.</p>';const w=700,hh=160,mn=Math.min(...h),mx=Math.max(...h),r=mx-mn||1;const d=h.map((v,i)=>(i?"L":"M")+(i/(h.length-1)*w).toFixed(1)+" "+(hh-8-(v-mn)/r*(hh-16)).toFixed(1)).join("");const c=h[h.length-1]>=h[0]?"--up":"--dn",ch=(h[h.length-1]/h[0]-1)*100;return '<svg class="big" viewBox="0 0 '+w+" "+hh+'" preserveAspectRatio="none" role="img" aria-label="Historial de precio de '+escapeHtml(n)+'"><path d="'+d+' L'+w+" "+hh+" L0 "+hh+'Z" fill="var('+c+')" opacity=".12"/><path d="'+d+'" fill="none" stroke="var('+c+')" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg><div class="ax"><span>Mín. $'+f(mn)+'</span><span>'+pc(ch)+' en el período</span><span>Máx. $'+f(mx)+'</span></div>'}
-function abrir(el,dias){const p=D.predictions[el.dataset.i],det=el.querySelector(".detail");if(!p)return;const h=p.h||[];const bt=[[21,"1 mes"],[63,"3 meses"],[126,"6 meses"]].map(([n,t])=>'<button data-d="'+n+'" aria-pressed="'+(n===dias)+'">'+t+'</button>').join("");det.innerHTML='<div class="rg">'+bt+'</div>'+grande(h.slice(-dias),p.t);det.hidden=false;el.setAttribute("aria-expanded","true")}
-$("pred").addEventListener("click",e=>{const el=e.target.closest(".pred");if(!el)return;const b=e.target.closest("button");if(b){e.stopPropagation();abrir(el,+b.dataset.d);return}if(e.target.closest(".detail"))return;const det=el.querySelector(".detail");if(!det.hidden){det.hidden=true;el.setAttribute("aria-expanded","false")}else abrir(el,63)});
-$("pred").addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList.contains("pred")){e.preventDefault();e.target.click()}});
-fetch("data.json?"+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():Promise.reject()).then(render).catch(()=>render({...SAMPLE,sample:true}));
-loadNews();
-setInterval(loadNews,5*60*1000);
 </script></body></html>
