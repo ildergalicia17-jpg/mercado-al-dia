@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-13T12:28:28.208980+00:00",
+  "updated": "2026-10-13T13:01:06.627003+00:00",
   "news": [
+    {
+      "h": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "es": "Paul Tudor Jones dice que 2027 podría ser un año realmente desafiante para el mercado de valores",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:59:59+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "es": "Las 10 principales cosas a tener en cuenta en el mercado de valores de Jim Cramer el martes",
+      "d": "La caída del stock de chips parece no tener fin. Pero las ganancias de los nombres del Club Goldman Sachs y Wells Fargo son mejores de lo esperado.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:54:50+00:00"
+    },
+    {
+      "h": "Six Flags shares decline following report of deadly roller coaster incident",
+      "es": "Las acciones de Six Flags caen tras el informe del incidente mortal en la montaña rusa",
+      "d": "Según los informes, una persona murió y varias más resultaron heridas en un incidente relacionado con la montaña rusa Goliath en Six Flags Over Georgia.",
+      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:54:14+00:00"
+    },
+    {
+      "h": "U.S. Treasury yields fall as energy prices pull back",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen a medida que los precios de la energía retroceden",
+      "d": "Los rendimientos de los bonos cayeron el martes mientras los inversores esperan más publicaciones de datos económicos esta semana.",
+      "u": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:45:08+00:00"
+    },
+    {
+      "h": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.33%",
+      "es": "Las bolsas de Arabia Saudí cierran al alza; Tadawul All Share sube un 0,33%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-033-4946671",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC470BW_M.jpg",
+      "published": "2026-10-13T12:45:03+00:00"
+    },
+    {
+      "h": "Bumble to go private in $1.3 billion deal",
+      "es": "Bumble se hará privada en un acuerdo de 1.300 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bumble-to-go-private-in-13-billion-deal-4946661",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C15Y_L.jpg",
+      "published": "2026-10-13T12:42:36+00:00"
+    },
+    {
+      "h": "Why this little known Chinese chipmaker has caused a global stock rout",
+      "es": "Por qué este poco conocido fabricante chino de chips ha provocado una caída bursátil mundial",
+      "d": "Según se informa, CXMT, el principal fabricante de chips de memoria de China, ha logrado avances en nuevos diseños.",
+      "u": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:41:56+00:00"
+    },
+    {
+      "h": "Why is Syndax Pharmaceuticals stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Syndax Pharmaceuticals hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-syndax-pharmaceuticals-stock-sliding-today-93CH-4946660",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-13T12:41:50+00:00"
+    },
+    {
+      "h": "Canadian bond yields fall as markets weigh economic outlook and rate path",
+      "es": "Los rendimientos de los bonos canadienses caen mientras los mercados sopesan las perspectivas económicas y la trayectoria de las tasas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-fall-as-markets-weigh-economic-outlook-and-rate-path-4946656",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
+      "published": "2026-10-13T12:40:09+00:00"
+    },
+    {
+      "h": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
+      "es": "Los gestores de fondos mantienen un sorprendente optimismo ante el estancamiento del mercado de valores y el tumultuoso mercado de bonos",
+      "d": "Muchos asignadores de activos están esperando que los rendimientos de los bonos alcancen el 6% antes de pasar de las acciones a la renta fija, pero una parte importante ya está haciendo la transición.",
+      "u": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-40003083",
+      "published": "2026-10-13T12:40:00+00:00"
+    },
+    {
+      "h": "Here’s how much extra money could be in your monthly Social Security check next year",
+      "es": "Esto es cuánto dinero extra podría haber en su cheque mensual del Seguro Social el próximo año",
+      "d": "El ajuste por costo de vida del Seguro Social aumentará los presupuestos mensuales de los jubilados. ¿Pero será suficiente?",
+      "u": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-64159512",
+      "published": "2026-10-13T12:37:00+00:00"
+    },
+    {
+      "h": "S&P futures little changed, Nasdaq 100 and Dow futures mixed after bank earnings",
+      "es": "Los futuros del S&P cambiaron poco, los futuros del Nasdaq 100 y el Dow se mezclaron después de las ganancias bancarias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-13T12:36:05+00:00"
+    },
+    {
+      "h": "Citi lifts Galaxy and Gemini, downgrades Securitize as crypto fundamentals improve",
+      "es": "Citi eleva Galaxy y Gemini, rebaja Securitize a medida que mejoran los fundamentos criptográficos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/citi-lifts-galaxy-and-gemini-downgrades-securitize-as-crypto-fundamentals-improve-4946635",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAM117_L.jpg",
+      "published": "2026-10-13T12:33:33+00:00"
+    },
+    {
+      "h": "Why is Pinnacle Food stock surging today?",
+      "es": "¿Por qué están aumentando las acciones de Pinnacle Food hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pinnacle-food-stock-surging-today-93CH-4946621",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-13T12:31:23+00:00"
+    },
+    {
+      "h": "European stocks buck tech-led global rout; bank earnings roll in",
+      "es": "Las acciones europeas se resisten a la caída global liderada por la tecnología; Las ganancias bancarias llegan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buck-techled-global-rout-bank-earnings-in-focus-4945488",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1608128944.jpg",
+      "published": "2026-10-13T12:30:10+00:00"
+    },
+    {
+      "h": "Car finance compensation payments delayed until next year",
+      "es": "Los pagos de compensación por financiación de automóviles se retrasan hasta el próximo año",
+      "d": "Millones de personas podrían tener derecho a una compensación como resultado de los acuerdos de comisiones entre prestamistas y comerciantes.",
+      "u": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
+      "published": "2026-10-13T12:27:36+00:00"
+    },
+    {
+      "h": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
+      "es": "Character.AI se declara en quiebra y acuerda vender algunos activos por 20 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/characterai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million-4945401",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C09R_L.jpg",
+      "published": "2026-10-13T12:24:43+00:00"
+    },
+    {
+      "h": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+      "es": "Los frigoríficos de los supermercados franceses son pirateados, se calientan a 50 °C y provocan incendios",
+      "d": "Los piratas informáticos atacaron cientos de supermercados franceses en un ciberataque a gran escala, provocando que los refrigeradores se sobrecalentaran, estropearan los alimentos y provocaran incendios.",
+      "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T12:22:59+00:00"
+    },
     {
       "h": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
       "es": "Mientras crecen las protestas de las 'Cucarachas' por un presunto fraude electoral, Modi defiende a la India como 'madre de la democracia'",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEI8J05T_L.jpg",
       "published": "2026-10-13T11:58:36+00:00"
-    },
-    {
-      "h": "HSBC cautious on Adobe, flags headline risk from free software clone",
-      "es": "HSBC se muestra cauteloso con Adobe y señala el riesgo de clonación de software libre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-cautious-on-adobe-flags-headline-risk-from-free-software-clone-4946425",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J10M_1200_L.jpg",
-      "published": "2026-10-13T11:57:45+00:00"
-    },
-    {
-      "h": "Top Human Capital Management Stocks to Watch, According to TD Cowen",
-      "es": "Principales acciones de gestión de capital humano a tener en cuenta, según TD Cowen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-human-capital-management-stocks-to-watch-according-to-td-cowen-4946424",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-13T11:57:40+00:00"
-    },
-    {
-      "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-      "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
-      "d": "Una coalición liderada por Arabia Saudita que lucha contra los hutíes, un grupo militante yemení respaldado por Teherán, dijo que había interceptado otro ataque contra Riad.",
-      "u": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T11:53:45+00:00"
-    },
-    {
-      "h": "Why is BioNTech stock sliding today?",
-      "es": "¿Por qué las acciones de BioNTech están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4946418",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-13T11:53:31+00:00"
-    },
-    {
-      "h": "BioNTech stock falls after cancer trial misses key endpoint",
-      "es": "Las acciones de BioNTech caen después de que un ensayo contra el cáncer no alcanzara un criterio de valoración clave",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/biontech-stock-falls-after-cancer-trial-misses-key-endpoint-4946410",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/BioNTech_800x533_L_1602254029.jpg",
-      "published": "2026-10-13T11:49:46+00:00"
-    },
-    {
-      "h": "BA flight forced to turn back over cracked window",
-      "es": "Un vuelo de BA se vio obligado a dar marcha atrás por una ventana rota",
-      "d": "British Airways dijo que el avión aterrizó de manera segura en Gatwick y que los pasajeros debían reanudar su viaje.",
-      "u": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9603/live/3d98fa50-c6fc-11f1-b4dd-e786ec6f11b1.jpg",
-      "published": "2026-10-13T11:48:07+00:00"
-    },
-    {
-      "h": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-      "es": "Micron, SoftBank y ASML caen a medida que se extiende la caída de los chips en Wall Street",
-      "d": "Las acciones de tecnología se desplomaron el martes cuando una venta masiva de acciones de semiconductores estadounidenses se extendió a los mercados asiáticos y europeos.",
-      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T11:47:25+00:00"
-    },
-    {
-      "h": "European automakers seek policy support amid China pressure",
-      "es": "Los fabricantes de automóviles europeos buscan apoyo político en medio de la presión de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-automakers-seek-policy-support-amid-china-pressure-4946401",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL5G0RR_L.jpg",
-      "published": "2026-10-13T11:44:39+00:00"
-    },
-    {
-      "h": "The South Korean stock market is in free fall, and these are the reasons",
-      "es": "La bolsa surcoreana está en caída libre, y estos son los motivos",
-      "d": "El mercado coreano sube debido a las caídas de las expectativas sobre la rentabilidad de la industria de semiconductores y sobre cuánto tiempo podrá sostenerse. El sentimiento es cíclico y en este momento el escepticismo está aumentando.",
-      "u": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39582693",
-      "published": "2026-10-13T11:44:00+00:00"
-    },
-    {
-      "h": "European automakers urge support as VW warns of ’enormous pressure’",
-      "es": "Los fabricantes de automóviles europeos instan a apoyar mientras VW advierte sobre una \"enorme presión\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-automakers-urge-support-as-vw-warns-of-enormous-pressure-4946396",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C10F_L.jpg",
-      "published": "2026-10-13T11:42:28+00:00"
-    },
-    {
-      "h": "Why is Navitas Semiconductor stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Navitas Semiconductor hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-navitas-semiconductor-stock-climbing-today-93CH-4946395",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-13T11:41:15+00:00"
-    },
-    {
-      "h": "Why is Goldman Sachs stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Goldman Sachs hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-goldman-sachs-stock-surging-today-93CH-4946393",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC9N0U2_M.jpg",
-      "published": "2026-10-13T11:40:53+00:00"
-    },
-    {
-      "h": "Why is Olvi stock sliding today?",
-      "es": "¿Por qué las acciones de Olvi están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-olvi-stock-sliding-today-93CH-4946356",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-13T11:33:11+00:00"
-    },
-    {
-      "h": "Morgan Stanley Q3 earnings preview: 3 levers to watch in the print",
-      "es": "Avance de las ganancias del tercer trimestre de Morgan Stanley: 3 palancas a tener en cuenta en la prensa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-q3-earnings-preview-3-levers-to-watch-in-the-print-93CH-4946348",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE040VL_M.jpg",
-      "published": "2026-10-13T11:31:54+00:00"
-    },
-    {
-      "h": "Six Flags’ stock slumps near 52-week lows after fatal accident",
-      "es": "Las acciones de Six Flags se desploman cerca de mínimos de 52 semanas después de un accidente fatal",
-      "d": "Un accidente mortal en una montaña rusa de Six Flags Entertainment hizo que las acciones del operador del parque de atracciones se acercaran al nivel más bajo del año.",
-      "u": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-23798405",
-      "published": "2026-10-13T11:31:00+00:00"
-    },
-    {
-      "h": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
-      "es": "La riqueza estadounidense se ha desplazado de las viviendas a las acciones. Hay grandes motivos para preocuparse.",
-      "d": "El mercado alcista de cuatro años en las acciones está en pleno apogeo debido al auge de la IA. Pero también está aumentando el costo del dinero.",
-      "u": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15411137",
-      "published": "2026-10-13T11:30:00+00:00"
-    },
-    {
-      "h": "Deutsche Bank raises outlook on semiconductor equipment stocks",
-      "es": "Deutsche Bank eleva las perspectivas sobre las acciones de equipos de semiconductores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/deutsche-bank-raises-outlook-on-semiconductor-equipment-stocks-93CH-4946336",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-13T11:28:27+00:00"
-    },
-    {
-      "h": "Why is Johnson & Johnson stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Johnson & Johnson hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-johnson--johnson-stock-sliding-today-93CH-4946335",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-13T11:28:00+00:00"
     }
   ],
   "sources": [
