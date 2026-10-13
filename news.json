@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-13T22:43:05.628681+00:00",
+  "updated": "2026-10-13T23:08:36.168769+00:00",
   "news": [
+    {
+      "h": "How long will humans be needed for translation?",
+      "es": "¿Cuánto tiempo se necesitarán humanos para la traducción?",
+      "d": "La IA domina el negocio de la traducción, pero para trabajos de alto riesgo todavía se necesitan humanos.",
+      "u": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+      "published": "2026-10-13T23:05:29+00:00"
+    },
+    {
+      "h": "Is it OK for jobseekers or employers to use AI?",
+      "es": "¿Está bien que quienes buscan empleo o los empleadores utilicen la IA?",
+      "d": "Los graduados utilizan cada vez más la IA para tergiversar sus solicitudes de empleo, sugiere una investigación. Pero algunos dicen que su grupo de pares no tiene otra opción.",
+      "u": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "2026-10-13T23:04:39+00:00"
+    },
+    {
+      "h": "Royal Mail losing 400 postal workers a week, says union",
+      "es": "Royal Mail pierde 400 trabajadores postales por semana, dice el sindicato",
+      "d": "El CWU dice que se están yendo más funcionarios desde que se introdujo un nuevo sistema de entrega que, según afirma, no funciona en cientos de oficinas.",
+      "u": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
+      "published": "2026-10-13T23:03:59+00:00"
+    },
+    {
+      "h": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
+      "es": "BofA multa con 1.200 millones de dólares por parte del gobierno de EE. UU. por no controlar actividades sospechosas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bofa-fined-12-billion-by-us-government-for-failing-to-police-suspicious-activity-4947537",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1V5_L.jpg",
+      "published": "2026-10-13T22:30:22+00:00"
+    },
     {
       "h": "GameStop CEO Cohen buys shares worth nearly $23 million",
       "es": "Cohen, director ejecutivo de GameStop, compra acciones por valor de casi 23 millones de dólares",
@@ -146,6 +182,15 @@
       "published": "2026-10-13T21:20:03+00:00"
     },
     {
+      "h": "Six Flags shares decline following deadly roller coaster incident",
+      "es": "Las acciones de Six Flags caen tras el mortal incidente en la montaña rusa",
+      "d": "Según los informes, una persona murió y varias más resultaron heridas en un incidente relacionado con la montaña rusa Goliath en Six Flags Over Georgia.",
+      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T21:18:03+00:00"
+    },
+    {
       "h": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
       "es": "Juez dice que Musk participó en la intimidación de la ex directora financiera de FEMA, Mary Comans, limpia su nombre",
       "d": "El nombre de la ex directora financiera de FEMA, Mary Comans, fue limpiado por un juez federal después de que Elon Musk y otros funcionarios del gobierno la acusaran falsamente de acciones criminales en 2025.",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1NR_L.jpg",
       "published": "2026-10-13T21:00:47+00:00"
-    },
-    {
-      "h": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
-      "es": "Nasdaq cierra a la baja mientras caen los fabricantes de chips y aumentan las ganancias bancarias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
-      "published": "2026-10-13T21:00:31+00:00"
-    },
-    {
-      "h": "TRexBio raises $116.7M in Nasdaq IPO at $14 per share",
-      "es": "TRexBio recauda 116,7 millones de dólares en la OPI de Nasdaq a 14 dólares por acción",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trexbio-raises-1167m-in-nasdaq-ipo-at-14-per-share-432SI-4947553",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-13T21:00:02+00:00"
-    },
-    {
-      "h": "AT&T sells Mexico unit to Televisa, Fintech for $2 billion",
-      "es": "AT&T vende unidad mexicana a Televisa y Fintech por 2 mil millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1UW_L.jpg",
-      "published": "2026-10-13T20:55:19+00:00"
-    },
-    {
-      "h": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
-      "es": "No deje que la inflación afecte: cómo protegerse con TIPS, materias primas y fondos de infraestructura",
-      "d": "Los TIPS parecen atractivos, pero no son la única forma de obtener protección contra la inflación.",
-      "u": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T20:52:22+00:00"
-    },
-    {
-      "h": "Exclusive-Bank of America loses bankers, tells staff of big ambition, continued hiring",
-      "es": "Exclusivo: Bank of America pierde banqueros, informa a su personal sobre su gran ambición y continúa contratando",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivebank-of-america-loses-bankers-tells-staff-of-big-ambition-continued-hiring-4945993",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S1_L.jpg",
-      "published": "2026-10-13T20:48:39+00:00"
     }
   ],
   "sources": [
