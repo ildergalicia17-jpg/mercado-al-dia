@@ -1,6 +1,187 @@
 {
-  "updated": "2026-10-13T06:25:41.605258+00:00",
-  "news": [],
+  "updated": "2026-10-13T06:53:37.010304+00:00",
+  "news": [
+    {
+      "h": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "u": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "s": "CNBC",
+      "published": "2026-10-13T06:46:15+00:00"
+    },
+    {
+      "h": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+      "u": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+      "s": "CNBC",
+      "published": "2026-10-13T06:44:00+00:00"
+    },
+    {
+      "h": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "u": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "s": "CNBC",
+      "published": "2026-10-13T06:20:55+00:00"
+    },
+    {
+      "h": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "u": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-13T05:55:12+00:00"
+    },
+    {
+      "h": "Cost-of-living struggles inspire Community Cupboard",
+      "u": "https://www.bbc.co.uk/news/articles/cq4g1enm58npo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-13T05:32:23+00:00"
+    },
+    {
+      "h": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "u": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "s": "CNBC",
+      "published": "2026-10-13T05:24:17+00:00"
+    },
+    {
+      "h": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "u": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "s": "CNBC",
+      "published": "2026-10-13T04:54:07+00:00"
+    },
+    {
+      "h": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "u": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "s": "CNBC",
+      "published": "2026-10-13T03:49:23+00:00"
+    },
+    {
+      "h": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "u": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "s": "CNBC",
+      "published": "2026-10-13T02:58:11+00:00"
+    },
+    {
+      "h": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "u": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "s": "CNBC",
+      "published": "2026-10-13T02:37:08+00:00"
+    },
+    {
+      "h": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "s": "CNBC",
+      "published": "2026-10-13T02:29:14+00:00"
+    },
+    {
+      "h": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "u": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-13T02:00:00+00:00"
+    },
+    {
+      "h": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "u": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-13T01:50:47+00:00"
+    },
+    {
+      "h": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "u": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "s": "CNBC",
+      "published": "2026-10-13T01:26:41+00:00"
+    },
+    {
+      "h": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+      "u": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+      "s": "CNBC",
+      "published": "2026-10-13T00:39:36+00:00"
+    },
+    {
+      "h": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
+      "u": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+      "s": "CNBC",
+      "published": "2026-10-13T00:24:23+00:00"
+    },
+    {
+      "h": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "u": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-13T00:18:00+00:00"
+    },
+    {
+      "h": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "u": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-12T23:37:00+00:00"
+    },
+    {
+      "h": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T23:31:00+00:00"
+    },
+    {
+      "h": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T23:15:00+00:00"
+    },
+    {
+      "h": "Heating oil customers face tough winter despite shake-up promise",
+      "u": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-12T23:02:24+00:00"
+    },
+    {
+      "h": "I earn £120,000 a year making social media videos go viral",
+      "u": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "published": "2026-10-12T23:01:45+00:00"
+    },
+    {
+      "h": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "u": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "s": "CNBC",
+      "published": "2026-10-12T23:00:01+00:00"
+    },
+    {
+      "h": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "u": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T22:27:00+00:00"
+    },
+    {
+      "h": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+      "u": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+      "s": "CNBC",
+      "published": "2026-10-12T22:26:59+00:00"
+    },
+    {
+      "h": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "u": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+      "h": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "u": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+      "h": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "u": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "published": "2026-10-12T21:19:00+00:00"
+    },
+    {
+      "h": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+      "u": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "s": "CNBC",
+      "published": "2026-10-12T21:17:58+00:00"
+    },
+    {
+      "h": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+      "u": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+      "s": "CNBC",
+      "published": "2026-10-12T21:02:09+00:00"
+    }
+  ],
   "sources": [
     "CNBC",
     "CNBC Markets",
