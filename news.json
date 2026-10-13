@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-13T16:54:13.806484+00:00",
+  "updated": "2026-10-13T17:14:00.937427+00:00",
   "news": [
+    {
+      "h": "Jefferies examines HealthEquity stock short interest rise",
+      "es": "Jefferies examina el aumento de los intereses a corto plazo de las acciones de HealthEquity",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-examines-healthequity-stock-short-interest-rise-93CH-4947307",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-13T17:05:31+00:00"
+    },
+    {
+      "h": "I keep comparing myself to my more financially successful friends. How can I stop?",
+      "es": "Sigo comparándome con mis amigos financieramente más exitosos. ¿Cómo puedo parar?",
+      "d": "“Ha quedado claro que algunas de las personas con las que crecí tendrán vidas muy diferentes a la mía”",
+      "u": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-73320971",
+      "published": "2026-10-13T17:05:00+00:00"
+    },
+    {
+      "h": "Netflix double downgraded at Huber Research amid engagement, pricing concerns",
+      "es": "Netflix fue doblemente rebajado en Huber Research en medio de preocupaciones sobre el compromiso y los precios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netflix-double-downgraded-at-huber-research-amid-engagement-pricing-concerns-4947305",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4D0Y2_L.jpg",
+      "published": "2026-10-13T17:03:46+00:00"
+    },
+    {
+      "h": "Boeing delivers 57 jets in September",
+      "es": "Boeing entrega 57 aviones en septiembre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-delivers-57-jets-in-september-highest-monthly-total-for-year-4947192",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1FK_L.jpg",
+      "published": "2026-10-13T16:54:21+00:00"
+    },
+    {
+      "h": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
+      "es": "La fatiga de la IA se está apoderando del mercado y llevando las existencias de chips a su peor racha en 16 meses.",
+      "d": "Aumenta la anticipación para el día del inversor de Anthropic a medida que Wall Street se vuelve menos paciente con el fuerte gasto en IA.",
+      "u": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19968872",
+      "published": "2026-10-13T16:52:00+00:00"
+    },
+    {
+      "h": "Goldman Sachs earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Goldman Sachs: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947290",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED3H1E9_M.jpg",
+      "published": "2026-10-13T16:51:44+00:00"
+    },
+    {
+      "h": "Wells Fargo earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Wells Fargo: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wells-fargo-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947289",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC95174_M.jpg",
+      "published": "2026-10-13T16:51:29+00:00"
+    },
+    {
+      "h": "UnitedHealth earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de UnitedHealth: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/unitedhealth-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947288",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-13T16:51:09+00:00"
+    },
+    {
+      "h": "Johnson & Johnson earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Johnson & Johnson: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/johnson--johnson-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947287",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-13T16:50:44+00:00"
+    },
+    {
+      "h": "JPMorgan Chase earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de JPMorgan Chase: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-chase-earnings-analysis-questions-answered-and-next-catalysts-93CH-4947286",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/JPMorgan_Chase_M_1440049088.jpg",
+      "published": "2026-10-13T16:50:32+00:00"
+    },
+    {
+      "h": "Why is Citigroup stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Citigroup hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-citigroup-stock-sliding-today-93CH-4947285",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5J0RC_M.jpg",
+      "published": "2026-10-13T16:49:52+00:00"
+    },
+    {
+      "h": "The AI trade is cracking. Here's how to profit",
+      "es": "El comercio de IA se está resquebrajando. He aquí cómo obtener ganancias",
+      "d": "A pesar de que los Siete Magníficos alcanzaron niveles récord, el comercio de IA está mostrando signos de grietas. Pero puede haber una oportunidad para los comerciantes.",
+      "u": "https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T16:44:21+00:00"
+    },
     {
       "h": "Applied Materials shares slide as chip equipment outlook remains uncertain",
       "es": "Las acciones de Applied Materials caen mientras las perspectivas de los equipos de chips siguen siendo inciertas",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201315.jpg",
       "published": "2026-10-13T16:09:09+00:00"
-    },
-    {
-      "h": "Spain stocks lower at close of trade; IBEX 35 down 0.36%",
-      "es": "Las bolsas de España cierran a la baja; El IBEX 35 baja un 0,36%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-036-4947247",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB1N08M_M.jpg",
-      "published": "2026-10-13T16:08:43+00:00"
-    },
-    {
-      "h": "Portugal stocks higher at close of trade; PSI up 0.73%",
-      "es": "Las bolsas de valores de Portugal cierran al alza; El PSI aumentó un 0,73%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-073-4947246",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Portugal_800x533_L_1630015791.jpg",
-      "published": "2026-10-13T16:08:17+00:00"
-    },
-    {
-      "h": "Netherlands stocks lower at close of trade; AEX down 0.54%",
-      "es": "Las Bolsas de Países Bajos cierran a la baja; AEX cae un 0,54%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-054-4947245",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-13T16:07:48+00:00"
-    },
-    {
-      "h": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.04%",
-      "es": "Las bolsas de valores de Italia cierran al alza; Investing.com Italia 40 sube un 0,04%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-004-4947244",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/bf8c43148dcf60b323b4e318d74315f5_M.jpg",
-      "published": "2026-10-13T16:07:21+00:00"
-    },
-    {
-      "h": "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
-      "es": "Jim Cramer contrarresta toda la negatividad del mercado de valores con 3 recomendaciones de compra",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T16:07:20+00:00"
-    },
-    {
-      "h": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-      "es": "Bumble comprado por 1.300 millones de dólares en 'apuesta por el futuro de la humanidad'",
-      "d": "La aplicación de citas que recientemente abandonó su regla de chat \"las mujeres primero\" ha sido comprada por una empresa de inversión.",
-      "u": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f2/live/ea016980-c6d9-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-10-13T15:59:07+00:00"
-    },
-    {
-      "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-      "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
-      "d": "Una coalición liderada por Arabia Saudita que lucha contra los hutíes, un grupo militante yemení respaldado por Teherán, dijo que había interceptado otro ataque contra Riad.",
-      "u": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:57:46+00:00"
-    },
-    {
-      "h": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-      "es": "Kimberly Guilfoyle dimite como embajadora en Grecia a petición de la Casa Blanca",
-      "d": "La Casa Blanca había pedido la dimisión de la embajadora de Estados Unidos en Grecia, Kimberly Guilfoyle, dijo el martes la secretaria de prensa Katie Zacharia en su primera sesión informativa.",
-      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:54:34+00:00"
-    },
-    {
-      "h": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-      "es": "Paul Tudor Jones dice que 2027 podría ser un año realmente desafiante para el mercado de valores",
-      "d": "El inversionista multimillonario dijo que las recompras corporativas, junto con las fusiones y adquisiciones, que han sido un viento de cola para el mercado alcista, están a punto de cambiar.",
-      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:52:44+00:00"
-    },
-    {
-      "h": "In charts: How one of the world's biggest economies got trapped by debt",
-      "es": "En gráficos: cómo una de las economías más grandes del mundo quedó atrapada por la deuda",
-      "d": "Francia abre el debate sobre su presupuesto para 2027 mientras los altos déficits, el aumento de la deuda y las protestas estudiantiles intensifican la presión sobre los legisladores.",
-      "u": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:52:24+00:00"
-    },
-    {
-      "h": "Paul Tudor Jones is bullish on oil, says it could rally another $20-$25 because of Iran conflict",
-      "es": "Paul Tudor Jones es optimista sobre el petróleo y dice que podría recuperar otros 20-25 dólares debido al conflicto con Irán.",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-oil-iran.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:52:09+00:00"
-    },
-    {
-      "h": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-      "es": "El acuerdo de Trump sobre diésel con Rusia equivale a menos de dos semanas de demanda de EE.UU.",
-      "d": "El acuerdo sobre diésel del presidente Donald Trump con Rusia se produce cuando está bajo presión para reducir los precios del combustible a menos de un mes de las elecciones de mitad de período en Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T15:50:09+00:00"
     }
   ],
   "sources": [
