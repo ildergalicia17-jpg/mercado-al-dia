@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-13T15:13:52.300437+00:00",
+  "updated": "2026-10-13T15:41:27.885591+00:00",
   "news": [
+    {
+      "h": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
+      "es": "'Pharma Bro' Martin Shkreli vuelve a tener problemas con los reguladores, esta vez por influir en las acciones biofarmacéuticas",
+      "d": "La Comisión Federal de Comercio y siete estados dicen que Shkreli debería ser declarado culpable de desacato",
+      "u": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-243939",
+      "published": "2026-10-13T15:37:00+00:00"
+    },
+    {
+      "h": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+      "es": "Se informa que Irán fortifica sus sitios nucleares mientras se prepara para posibles ataques estadounidenses después de las elecciones intermedias.",
+      "d": "Una coalición liderada por Arabia Saudita que lucha contra los hutíes, un grupo militante yemení respaldado por Teherán, dijo que había interceptado otro ataque contra Riad.",
+      "u": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:24:50+00:00"
+    },
+    {
+      "h": "Boeing delivers 57 jets in September, highest monthly total for year",
+      "es": "Boeing entregó 57 aviones en septiembre, el total mensual más alto del año",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-delivers-57-jets-in-september-highest-monthly-total-for-year-4947192",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1FK_L.jpg",
+      "published": "2026-10-13T15:24:41+00:00"
+    },
+    {
+      "h": "Exclusive-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "es": "Los organismos de control de la banca exclusiva intensifican el escrutinio de la IA a medida que aumentan los temores sobre la estabilidad, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivebanking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-4945440",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0BQ_L.jpg",
+      "published": "2026-10-13T15:24:24+00:00"
+    },
+    {
+      "h": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "es": "Aumentar los impuestos sobre inversiones, patrimonios y beneficios podría evitar que la Seguridad Social se quede sin dinero. He aquí quién podría pagar más.",
+      "d": "Se prevé que la Seguridad Social se volverá insolvente en seis años. Estas son algunas de las soluciones creativas que están sobre la mesa, más allá de aumentar los impuestos sobre la nómina.",
+      "u": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-66664610",
+      "published": "2026-10-13T15:22:00+00:00"
+    },
+    {
+      "h": "Scientists call for international body to oversee advanced AI",
+      "es": "Los científicos piden que un organismo internacional supervise la IA avanzada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/scientists-call-for-international-body-to-oversee-advanced-ai-4945994",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0S0_L.jpg",
+      "published": "2026-10-13T15:18:20+00:00"
+    },
+    {
+      "h": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
+      "es": "La startup complementaria de IA Character.ai se declara en bancarrota según el Capítulo 11, citando costos y litigios",
+      "d": "La compañía dijo que la plataforma se volvió \"costosa de desarrollar y hacer crecer\", en presentaciones del lunes ante el tribunal de quiebras del distrito de Delaware.",
+      "u": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-13T15:16:30+00:00"
+    },
+    {
+      "h": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "es": "“No tengo hijos”: Mi tía me dio 50.000 dólares para el pago inicial. Ahora quiere que le deje mi casa a sus dos hijos.",
+      "d": "\"La casa costó $385 000. Con mis ahorros, sus $50 000 y una pequeña hipoteca, pude cerrar\".",
+      "u": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-91758975",
+      "published": "2026-10-13T15:15:00+00:00"
+    },
     {
       "h": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
       "es": "El clip de Sabrina Carpenter que ayudó a una joven de 22 años a ganar £120.000 al año",
@@ -9,6 +81,33 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ae/live/6519b7c0-c1bd-11f1-a1fa-8f24f60baa65.jpg",
       "published": "2026-10-13T15:12:38+00:00"
+    },
+    {
+      "h": "Morocco stocks higher at close of trade; Moroccan All Shares up 1.09%",
+      "es": "Las bolsas de Marruecos cierran al alza; Todas las acciones marroquíes suben un 1,09%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-109-4947197",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg",
+      "published": "2026-10-13T15:10:04+00:00"
+    },
+    {
+      "h": "Exclusive-Behind AI industry’s call for independent reviews, a fight over what gets made public",
+      "es": "Exclusivo: detrás del llamado de la industria de la inteligencia artificial a revisiones independientes, una pelea por lo que se hace público",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivebehind-ai-industrys-call-for-independent-reviews-a-fight-over-what-gets-made-public-4945991",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0RX_L.jpg",
+      "published": "2026-10-13T15:07:01+00:00"
+    },
+    {
+      "h": "Walmart to cover GLP-1s, insulin at no cost for workers in benefits push - report",
+      "es": "Walmart cubrirá GLP-1 e insulina sin costo para los trabajadores en el impulso de beneficios: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-to-cover-glp1s-insulin-at-no-cost-for-workers-in-benefits-push--report-4947191",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEH9O0K9_L.jpg",
+      "published": "2026-10-13T15:06:59+00:00"
     },
     {
       "h": "Walmart to offer employees 250-plus medications at no cost in expanded health benefits",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
       "published": "2026-10-13T14:36:47+00:00"
-    },
-    {
-      "h": "SpaceX and SanDisk among market cap stock movers on Tuesday",
-      "es": "SpaceX y SanDisk entre los impulsores de la capitalización de mercado el martes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-and-sandisk-among-market-cap-stock-movers-on-tuesday-93CH-4947144",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-13T14:35:50+00:00"
-    },
-    {
-      "h": "Eli Lilly leads large-cap pharma on growth, but valuation is a trade-off",
-      "es": "Eli Lilly lidera el crecimiento de las empresas farmacéuticas de gran capitalización, pero la valoración es una compensación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/eli-lilly-leads-largecap-pharma-on-growth-but-valuation-is-a-tradeoff-93CH-4947143",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF150TG_M.jpg",
-      "published": "2026-10-13T14:35:03+00:00"
-    },
-    {
-      "h": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-      "es": "Martin Shkreli violó la prohibición vitalicia de la industria farmacéutica, dicen la FTC y los estados en un reclamo de desacato",
-      "d": "Shkreli fue excluido de la industria farmacéutica después de que un juicio descubriera que había organizado un plan ilegal para perpetuar el monopolio del medicamento Daraprim.",
-      "u": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T14:32:27+00:00"
-    },
-    {
-      "h": "Wizz Air in talks for airport slots as European airlines face pressure",
-      "es": "Wizz Air en conversaciones para franjas horarias en los aeropuertos mientras las aerolíneas europeas enfrentan presión",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wizz-air-in-talks-for-airport-slots-as-european-airlines-face-pressure-93CH-4947130",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDA21BA_M.jpg",
-      "published": "2026-10-13T14:31:54+00:00"
-    },
-    {
-      "h": "Uber autonomous head Maredia to depart as leadership shifts continue - Bloomberg",
-      "es": "El jefe autónomo de Uber, Maredia, se marchará mientras continúan los cambios de liderazgo - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uber-autonomous-head-maredia-to-depart-as-leadership-shifts-continue--bloomberg-4947129",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEI480BS_L.jpg",
-      "published": "2026-10-13T14:31:18+00:00"
-    },
-    {
-      "h": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos permitirnos el lujo de jubilarnos, pero quiere hacer un viaje de 8.000 dólares a Italia. Tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67299659",
-      "published": "2026-10-13T14:31:00+00:00"
-    },
-    {
-      "h": "SK Hynix near-term bull and bear case",
-      "es": "Caso alcista y bajista a corto plazo de SK Hynix",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-nearterm-bull-and-bear-case-93CH-4947120",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM650O0_1200_L.jpg",
-      "published": "2026-10-13T14:29:08+00:00"
-    },
-    {
-      "h": "Ally Financial stock may move 6.4% on Oct. 20 earnings",
-      "es": "Las acciones de Ally Financial pueden moverse un 6,4% en las ganancias del 20 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ally-financial-stock-may-move-64-on-oct-20-earnings-93CH-4947119",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-13T14:28:23+00:00"
-    },
-    {
-      "h": "Synchrony Financial stock may move 5.5% on Oct. 20 earnings",
-      "es": "Las acciones de Synchrony Financial pueden moverse un 5,5% en las ganancias del 20 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/synchrony-financial-stock-may-move-55-on-oct-20-earnings-93CH-4947118",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-13T14:27:26+00:00"
-    },
-    {
-      "h": "White House has asked Ambassador Kimberly Guilfoyle to resign, new Trump press secretary says",
-      "es": "La Casa Blanca ha pedido la dimisión de la embajadora Kimberly Guilfoyle, dice la nueva secretaria de prensa de Trump",
-      "d": "La Casa Blanca ha pedido la dimisión de la embajadora de Estados Unidos en Grecia, Kimberly Guilfoyle, dijo el martes la secretaria de prensa Katie Zacharia en su primera sesión informativa.",
-      "u": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T14:20:08+00:00"
-    },
-    {
-      "h": "Who should pay for a birthday dinner? I always treat my guests.",
-      "es": "¿Quién debería pagar una cena de cumpleaños? Siempre trato a mis invitados.",
-      "d": "“Siento que termino pagando mucho las cenas de cumpleaños de otras personas, además de las mías, lo cual es un desequilibrio”.",
-      "u": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-45030136",
-      "published": "2026-10-13T14:17:00+00:00"
     }
   ],
   "sources": [
