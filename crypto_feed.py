@@ -1,54 +1,63 @@
-"""Genera crypto.json con cotizaciones públicas de Binance, sin API key."""
+"""Genera crypto.json con cotizaciones públicas de CoinGecko, sin API key."""
 import datetime as dt
 import json
-import os
 import urllib.parse
 import urllib.request
 
 ASSETS = [
-    ("BTCUSDT", "Bitcoin", "BTC"),
-    ("ETHUSDT", "Ethereum", "ETH"),
-    ("BNBUSDT", "BNB", "BNB"),
-    ("SOLUSDT", "Solana", "SOL"),
-    ("XRPUSDT", "XRP", "XRP"),
-    ("ADAUSDT", "Cardano", "ADA"),
-    ("DOGEUSDT", "Dogecoin", "DOGE"),
-    ("LINKUSDT", "Chainlink", "LINK"),
-    ("AVAXUSDT", "Avalanche", "AVAX"),
-    ("TRXUSDT", "TRON", "TRX"),
+    ("bitcoin", "Bitcoin", "BTC"),
+    ("ethereum", "Ethereum", "ETH"),
+    ("binancecoin", "BNB", "BNB"),
+    ("solana", "Solana", "SOL"),
+    ("ripple", "XRP", "XRP"),
+    ("cardano", "Cardano", "ADA"),
+    ("dogecoin", "Dogecoin", "DOGE"),
+    ("chainlink", "Chainlink", "LINK"),
+    ("avalanche-2", "Avalanche", "AVAX"),
+    ("tron", "TRON", "TRX"),
 ]
 
 
 def main():
-    symbols = [a[0] for a in ASSETS]
-    query = urllib.parse.urlencode({"symbols": json.dumps(symbols, separators=(",", ":"))})
-    url = "https://api.binance.com/api/v3/ticker/24hr?" + query
-    request = urllib.request.Request(url, headers={"User-Agent": "MercadoAlDia/1.0"})
-    with urllib.request.urlopen(request, timeout=20) as response:
+    ids = ",".join(asset[0] for asset in ASSETS)
+    query = urllib.parse.urlencode({
+        "vs_currency": "usd",
+        "ids": ids,
+        "price_change_percentage": "24h",
+    })
+    url = "https://api.coingecko.com/api/v3/coins/markets?" + query
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "MercadoAlDia/1.0",
+            "accept": "application/json",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=25) as response:
         raw = json.loads(response.read().decode("utf-8"))
 
-    by_symbol = {row.get("symbol"): row for row in raw}
+    by_id = {row.get("id"): row for row in raw}
     coins = []
-    for market_symbol, name, symbol in ASSETS:
-        row = by_symbol.get(market_symbol)
-        if not row:
+    for coin_id, name, symbol in ASSETS:
+        row = by_id.get(coin_id)
+        if not row or row.get("current_price") is None:
             continue
         coins.append({
             "name": name,
             "symbol": symbol,
-            "price": float(row["lastPrice"]),
-            "change24h": float(row["priceChangePercent"]),
-            "high24h": float(row["highPrice"]),
-            "low24h": float(row["lowPrice"]),
-            "volume24h": float(row["quoteVolume"]),
+            "price": float(row["current_price"]),
+            "change24h": float(row.get("price_change_percentage_24h") or 0),
+            "high24h": float(row.get("high_24h") or 0),
+            "low24h": float(row.get("low_24h") or 0),
+            "volume24h": float(row.get("total_volume") or 0),
         })
 
     if len(coins) < 8:
         raise RuntimeError(f"Respuesta incompleta del proveedor: solo {len(coins)} activos")
 
     output = {
-        "provider": "Binance",
-        "currency": "USDT",
+        "provider": "CoinGecko",
+        "currency": "USD",
         "updated": dt.datetime.now(dt.timezone.utc).isoformat(),
         "coins": coins,
     }
