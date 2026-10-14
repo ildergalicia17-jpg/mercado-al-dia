@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-14T10:42:40.968700+00:00",
+  "updated": "2026-10-14T11:14:00.006608+00:00",
   "news": [
+    {
+      "h": "Job cuts could fund diesel price drop says deputy",
+      "es": "Los recortes de empleo podrían financiar la caída del precio del diésel, dice el diputado",
+      "d": "Con la guerra en curso en Oriente Medio aumentando los precios, un diputado pide que se congelen los impuestos.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa52/live/68ef6760-276b-11f1-82f7-f757ccb9d4bd.jpg",
+      "published": "2026-10-14T11:13:10+00:00"
+    },
+    {
+      "h": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "es": "Faisal Islam: Lo que nos dicen los sorprendentes elogios a la economía del Reino Unido sobre el presupuesto",
+      "d": "En tres ocasiones en las últimas 24 horas, altos funcionarios del FMI han elogiado los planes del Reino Unido de reducir sus niveles anuales de endeudamiento.",
+      "u": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg",
+      "published": "2026-10-14T11:04:12+00:00"
+    },
+    {
+      "h": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
+      "es": "Anthropic insta a un tribunal de Washington, DC a volver a escuchar la apelación de la inclusión en la lista negra del Pentágono",
+      "d": "Anthropic está solicitando a un tribunal federal en Washington, D.C., que vuelva a escuchar su apelación en un caso relacionado con la inclusión por parte del Pentágono de los modelos de IA de la compañía.",
+      "u": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T11:01:42+00:00"
+    },
+    {
+      "h": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+      "es": "La renovación de la clase ejecutiva de Delta: nuevos asientos, menús, placas y más Porsche",
+      "d": "Delta está actualizando su cabina Delta One de primer nivel con nuevas suites para su avión A350 más grande, a partir del próximo año.",
+      "u": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T11:00:01+00:00"
+    },
+    {
+      "h": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+      "es": "Aún más prestatarios eligen hipotecas más riesgosas, a medida que las tasas de interés más altas aplastan la asequibilidad",
+      "d": "Las tasas de interés de las hipotecas siguen aumentando, lo que obliga a algunos compradores a elegir hipotecas de tasa ajustable más riesgosas para ahorrar.",
+      "u": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T11:00:01+00:00"
+    },
+    {
+      "h": "Tech giants race to get AI gadgets on shelves for holiday rush",
+      "es": "Los gigantes tecnológicos se apresuran a tener dispositivos de inteligencia artificial en los estantes para las fiestas navideñas",
+      "d": "A solo un par de meses de las vacaciones, las empresas de tecnología apuestan a que este será finalmente el año en que los dispositivos de inteligencia artificial lleguen a la lista de compras.",
+      "u": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T11:00:01+00:00"
+    },
+    {
+      "h": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+      "es": "Las acciones europeas suben gracias al pronóstico de ventas de ASML; Se espera la prueba del IPC de EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-gain-on-asml-sales-forecast-us-cpi-test-awaited-4948177",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB860D7_M.jpg",
+      "published": "2026-10-14T10:41:42+00:00"
+    },
+    {
+      "h": "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eases",
+      "es": "Motores previos a la comercialización: Alibaba gana con las nuevas gafas de IA; Liquidia se recupera ante flexibilizaciones legales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-alibaba-gains-on-new-ai-glasses-liquidia-rallies-as-legal-eases-4948661",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1J0SK_L.jpg",
+      "published": "2026-10-14T10:41:22+00:00"
+    },
     {
       "h": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
       "es": "BlackRock ahora tiene activos equivalentes a la mitad del tamaño de la economía estadounidense después de un crecimiento del 15%",
@@ -9,6 +81,87 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-53524004",
       "published": "2026-10-14T10:41:00+00:00"
+    },
+    {
+      "h": "Why is Lonza stock rallying today?",
+      "es": "¿Por qué las acciones de Lonza están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-lonza-stock-rallying-today-93CH-4948662",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-14T10:40:23+00:00"
+    },
+    {
+      "h": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+      "es": "La escasez de diésel durará hasta 2027, ya que la guerra de Irán interrumpe el suministro, dice la AIE",
+      "d": "Se espera que el suministro de diésel siga siendo limitado hasta 2027, ya que las perturbaciones relacionadas con la guerra de Irán, la caída de los inventarios y la resiliente demanda ejercen presión sobre el mercado, dijo la AIE.",
+      "u": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T10:37:42+00:00"
+    },
+    {
+      "h": "UK stocks gain on consumer staples, defence; budget borrowing report lifts sentiment",
+      "es": "Las acciones del Reino Unido suben gracias a los bienes de consumo básico y la defensa; El informe sobre el endeudamiento presupuestario eleva la confianza",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-gain-on-consumer-staplesdefence-budget-borrowing-report-lifts-sentiment-4948654",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0YS_L.jpg",
+      "published": "2026-10-14T10:37:19+00:00"
+    },
+    {
+      "h": "Jefferies starts Wienerberger cautious, sees recovery catalysts only in 2027",
+      "es": "Jefferies empieza con cautela en Wienerberger y no ve catalizadores de recuperación hasta 2027",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-starts-wienerberger-cautious-sees-recovery-catalysts-only-in-2027-4948646",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-14T10:35:54+00:00"
+    },
+    {
+      "h": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+      "es": "Los precios del petróleo suben después de que la AIE advirtiera sobre las limitaciones del mercado; Funcionarios sauditas dicen que las instalaciones de Aramco fueron atacadas",
+      "d": "Las preocupaciones sobre las interrupciones del suministro debido a las crecientes tensiones en el Medio Oriente ayudaron a impulsar los precios del petróleo.",
+      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T10:33:13+00:00"
+    },
+    {
+      "h": "Why is BlackRock stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de BlackRock hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-blackrock-stock-surging-today-93CH-4948628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC4A0OJ_M.jpg",
+      "published": "2026-10-14T10:30:59+00:00"
+    },
+    {
+      "h": "India stocks lower at close of trade; Nifty 50 down 0.44%",
+      "es": "Las Bolsas de India cierran a la baja; Nifty 50 bajó un 0,44%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-044-4948623",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEGBJ06W_L.jpg",
+      "published": "2026-10-14T10:30:05+00:00"
+    },
+    {
+      "h": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+      "es": "Cómo los aranceles de Trump y la guerra con Irán se están convirtiendo en pasivos en la carrera por el Senado de Michigan",
+      "d": "Los republicanos están dejando en gran medida a Trump fuera de los anuncios de las elecciones generales, y algunos candidatos en el campo de batalla se distancian de él en materia de aranceles e Irán.",
+      "u": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T10:30:01+00:00"
+    },
+    {
+      "h": "JPMorgan upgrades EMEA Metals & Mining stocks, names top picks into Q3 results",
+      "es": "JPMorgan mejora las acciones de EMEA Metals & Mining y nombra las mejores opciones en los resultados del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-emea-metals--mining-stocks-names-top-picks-into-q3-results-4948622",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC170OY_M.jpg",
+      "published": "2026-10-14T10:29:59+00:00"
     },
     {
       "h": "Inside the booming market for US midterm election bets",
@@ -117,159 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-23793870",
       "published": "2026-10-14T10:00:00+00:00"
-    },
-    {
-      "h": "'It's definitely tight trying to budget on maternity leave'",
-      "es": "\"Definitivamente es ajustado tratar de presupuestar la baja por maternidad\"",
-      "d": "Se estima que 47.500 personas en Sheffield no pueden llegar a fin de mes ni pagar sus facturas.",
-      "u": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f910/live/93417b80-c6f7-11f1-b4dd-e786ec6f11b1.jpg",
-      "published": "2026-10-14T09:59:51+00:00"
-    },
-    {
-      "h": "EDF halts Edison stake sale as Qatar gas supply remains unclear",
-      "es": "EDF detiene la venta de participación en Edison porque el suministro de gas a Qatar sigue sin estar claro",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/edf-halts-edison-stake-sale-as-qatar-gas-supply-remains-unclear-93CH-4948535",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7H0TW_M.jpg",
-      "published": "2026-10-14T09:58:52+00:00"
-    },
-    {
-      "h": "Morgan Stanley lifts MSCI Europe target on strong Q3 earnings outlook",
-      "es": "Morgan Stanley eleva el objetivo de MSCI Europa ante las sólidas perspectivas de resultados del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-lifts-msci-europe-target-on-strong-q3-earnings-outlook-4948531",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBI0W6_L.jpg",
-      "published": "2026-10-14T09:55:22+00:00"
-    },
-    {
-      "h": "Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh",
-      "es": "Las bolsas asiáticas caen mientras las acciones chinas caen, los riesgos petroleros y el IPC de EE.UU. pesan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7I0CN_M.jpg",
-      "published": "2026-10-14T09:35:57+00:00"
-    },
-    {
-      "h": "GSK plans to cut up to 1,217 jobs in Belgium - report",
-      "es": "GSK planea eliminar hasta 1.217 puestos de trabajo en Bélgica: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gsk-plans-to-cut-up-to-1217-jobs-in-belgium--report-93CH-4948476",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-14T09:27:18+00:00"
-    },
-    {
-      "h": "Why is Big Yellow stock rallying today?",
-      "es": "¿Por qué las acciones de Big Yellow están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-big-yellow-stock-rallying-today-93CH-4948475",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-14T09:27:04+00:00"
-    },
-    {
-      "h": "ASML earnings boost tech stocks, lift European shares",
-      "es": "Las ganancias de ASML impulsan las acciones tecnológicas y elevan las acciones europeas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-asmls-ai-demand-outlook-boosts-tech-4948222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0L3_L.jpg",
-      "published": "2026-10-14T09:24:43+00:00"
-    },
-    {
-      "h": "Wayfair among firms fined millions for misleading sales tactics",
-      "es": "Wayfair entre las empresas multadas con millones por tácticas de venta engañosas",
-      "d": "La Autoridad de Competencia y Mercados ha multado a Wayfair, Appliances Direct y Gold's Gym con un total de 6 millones de libras esterlinas.",
-      "u": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg",
-      "published": "2026-10-14T09:24:35+00:00"
-    },
-    {
-      "h": "S&P 500 futures edge higher ahead of CPI data, more bank earnings",
-      "es": "Los futuros del S&P 500 suben antes de los datos del IPC y más ganancias bancarias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-10-14T09:22:06+00:00"
-    },
-    {
-      "h": "Kion cuts 2026 outlook as Q3 orders fall short, delays margin goals past 2027",
-      "es": "Kion recorta las perspectivas para 2026 debido a que los pedidos del tercer trimestre se quedan cortos y retrasa los objetivos de margen más allá de 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kion-cuts-2026-outlook-as-q3-orders-fall-short-delays-margin-goals-past-2027-4948468",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-14T09:21:31+00:00"
-    },
-    {
-      "h": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-      "es": "Ucrania advierte que los límites de Starlink están interrumpiendo las operaciones militares mientras Rusia ataca su infraestructura energética",
-      "d": "Un misil balístico ha impactado infraestructura energética supuestamente cubierta por el \"alto el fuego energético\" anunciado por Trump el domingo, afirmó Zelenskyy.",
-      "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T09:18:18+00:00"
-    },
-    {
-      "h": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
-      "es": "“Gano 110.000 dólares al año”: perdí mi casa en la Gran Recesión. Estoy alquilando en mis 50 años. ¿Por qué se considera eso un fracaso?",
-      "d": "\"Perdí mi trabajo y, finalmente, mi casa, y todavía es difícil\".",
-      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81504476",
-      "published": "2026-10-14T09:15:00+00:00"
-    },
-    {
-      "h": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
-      "es": "Las nuevas empresas espaciales obtienen una financiación récord de 20.800 millones de dólares a medida que aumentan las apuestas en infraestructura, según muestra un informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/space-startups-secure-record-208-billion-funding-as-infrastructure-bets-surge-report-shows-4948434",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0RZ_L.jpg",
-      "published": "2026-10-14T09:06:46+00:00"
-    },
-    {
-      "h": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
-      "es": "La estrella de 'Los Soprano' Steven Van Zandt vende su ático en Greenwich Village por 19 millones de dólares",
-      "d": "Musician and actor Steven Van Zandt is ready to part with his Greenwich Village penthouse, hiking the price up by $4 million after initially listing it in June of this year.",
-      "u": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-91425384",
-      "published": "2026-10-14T09:03:00+00:00"
-    },
-    {
-      "h": "Gift Nifty 50 stuck at 22,542 support in bull-bear tug-of-war: Live",
-      "es": "Gift Nifty 50 se estancó en el soporte de 22,542 en un tira y afloja alcista: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-14T09:02:51+00:00"
-    },
-    {
-      "h": "Why is Liquidia stock surging today?",
-      "es": "¿Por qué las acciones de Liquidia están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-liquidia-stock-surging-today-93CH-4948425",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-14T09:02:23+00:00"
-    },
-    {
-      "h": "Why is GameStop stock rallying today?",
-      "es": "¿Por qué las acciones de GameStop están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-rallying-today-93CH-4948424",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/GameStop_800x533_L_1611937296.jpg",
-      "published": "2026-10-14T09:02:14+00:00"
     }
   ],
   "sources": [
