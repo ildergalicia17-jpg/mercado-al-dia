@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-14T09:30:54.949717+00:00",
+  "updated": "2026-10-14T10:07:15.700751+00:00",
   "news": [
+    {
+      "h": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+      "es": "Los votantes latinos del sur de Texas que votaron por Trump en 2024 están en juego en 2026",
+      "d": "Los votantes hispanos y latinos se inclinaron fuertemente por el presidente Donald Trump en 2024, pero en las elecciones de mitad de período de 2026, los demócratas están presionando para recuperarlos.",
+      "u": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T10:00:01+00:00"
+    },
+    {
+      "h": "The truth about being a landlord in retirement",
+      "es": "La verdad sobre ser propietario jubilado",
+      "d": "Invertir en propiedades de alquiler no es fácil ni “pasivo”",
+      "u": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09151135",
+      "published": "2026-10-14T10:00:00+00:00"
+    },
+    {
+      "h": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+      "es": "Los inversores han hecho grandes apuestas en acciones tecnológicas. Por qué un estratega acaba de rebajar la calificación del sector.",
+      "d": "La desaceleración de los flujos hacia las acciones tecnológicas a medida que se deterioran las valoraciones ha llevado a un estratega a reducir la calificación de las acciones tecnológicas de la empresa.",
+      "u": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-23793870",
+      "published": "2026-10-14T10:00:00+00:00"
+    },
+    {
+      "h": "'It's definitely tight trying to budget on maternity leave'",
+      "es": "\"Definitivamente es ajustado tratar de presupuestar la baja por maternidad\"",
+      "d": "Se estima que 47.500 personas en Sheffield no pueden llegar a fin de mes ni pagar sus facturas.",
+      "u": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f910/live/93417b80-c6f7-11f1-b4dd-e786ec6f11b1.jpg",
+      "published": "2026-10-14T09:59:51+00:00"
+    },
+    {
+      "h": "Asian stocks slip as China shares fall, oil risks and U.S. CPI weigh",
+      "es": "Las bolsas asiáticas caen mientras las acciones chinas caen, los riesgos petroleros y el IPC de EE.UU. pesan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7I0CN_M.jpg",
+      "published": "2026-10-14T09:35:57+00:00"
+    },
+    {
+      "h": "GSK plans to cut up to 1,217 jobs in Belgium - report",
+      "es": "GSK planea eliminar hasta 1.217 puestos de trabajo en Bélgica: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gsk-plans-to-cut-up-to-1217-jobs-in-belgium--report-93CH-4948476",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-14T09:27:18+00:00"
+    },
+    {
+      "h": "Why is Big Yellow stock rallying today?",
+      "es": "¿Por qué las acciones de Big Yellow están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-big-yellow-stock-rallying-today-93CH-4948475",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-14T09:27:04+00:00"
+    },
+    {
+      "h": "ASML earnings boost tech stocks, lift European shares",
+      "es": "Las ganancias de ASML impulsan las acciones tecnológicas y elevan las acciones europeas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-asmls-ai-demand-outlook-boosts-tech-4948222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0L3_L.jpg",
+      "published": "2026-10-14T09:24:43+00:00"
+    },
     {
       "h": "Wayfair among firms fined millions for misleading sales tactics",
       "es": "Wayfair entre las empresas multadas con millones por tácticas de venta engañosas",
@@ -9,6 +81,33 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg",
       "published": "2026-10-14T09:24:35+00:00"
+    },
+    {
+      "h": "S&P 500 futures edge higher ahead of CPI data, more bank earnings",
+      "es": "Los futuros del S&P 500 suben antes de los datos del IPC y más ganancias bancarias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "published": "2026-10-14T09:22:06+00:00"
+    },
+    {
+      "h": "Kion cuts 2026 outlook as Q3 orders fall short, delays margin goals past 2027",
+      "es": "Kion recorta las perspectivas para 2026 debido a que los pedidos del tercer trimestre se quedan cortos y retrasa los objetivos de margen más allá de 2027",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/kion-cuts-2026-outlook-as-q3-orders-fall-short-delays-margin-goals-past-2027-4948468",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-14T09:21:31+00:00"
+    },
+    {
+      "h": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+      "es": "Ucrania advierte que los límites de Starlink están interrumpiendo las operaciones militares mientras Rusia ataca su infraestructura energética",
+      "d": "Un misil balístico ha impactado infraestructura energética supuestamente cubierta por el \"alto el fuego energético\" anunciado por Trump el domingo, afirmó Zelenskyy.",
+      "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T09:18:18+00:00"
     },
     {
       "h": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
@@ -171,105 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
       "published": "2026-10-14T08:27:17+00:00"
-    },
-    {
-      "h": "Why is Skandinaviska Enskilda Banken stock falling today?",
-      "es": "¿Por qué están cayendo hoy las acciones del Skandinaviska Enskilda Banken?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-skandinaviska-enskilda-banken-stock-falling-today-93CH-4948356",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-14T08:27:03+00:00"
-    },
-    {
-      "h": "Ukraine says SpaceX limits Starlink operations, disrupting military",
-      "es": "Ucrania dice que SpaceX limita las operaciones de Starlink, perturbando el ejército",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ukraine-says-spacex-limits-starlink-operations-disrupting-military-4948343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0IA_L.jpg",
-      "published": "2026-10-14T08:24:27+00:00"
-    },
-    {
-      "h": "Chemring rises on $170 million U.S. radar altimeter supply deal",
-      "es": "Chemring asciende con acuerdo de suministro de altímetro de radar de EE. UU. por valor de 170 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chemring-rises-on-170-million-us-radar-altimeter-supply-deal-93CH-4948315",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-14T08:19:55+00:00"
-    },
-    {
-      "h": "New ASX boss wants to accelerate move to one-day settlement in Australia",
-      "es": "El nuevo jefe de ASX quiere acelerar el paso a un acuerdo de un día en Australia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/new-asx-boss-wants-to-accelerate-move-to-oneday-settlement-in-australia-4948314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0BV_L.jpg",
-      "published": "2026-10-14T08:19:31+00:00"
-    },
-    {
-      "h": "Why is Avio stock surging today?",
-      "es": "¿Por qué las acciones de Avio están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-avio-stock-surging-today-93CH-4948299",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-14T08:09:51+00:00"
-    },
-    {
-      "h": "DAX trapped in EUR 25350-25600 range: Live levels",
-      "es": "DAX atrapado en el rango EUR 25350-25600: niveles activos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dax-at-25359-faces-bull-trap-risk-near-2548125589-live-93CH-4943422",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-14T08:06:36+00:00"
-    },
-    {
-      "h": "Avio rises on deal with Lockheed Martin to expand solid rocket motor production",
-      "es": "Avio asciende a un acuerdo con Lockheed Martin para ampliar la producción de motores de cohetes sólidos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/avio-rises-on-deal-with-lockheed-martin-to-expand-solid-rocket-motor-production-4948292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF1J08A_M.jpg",
-      "published": "2026-10-14T08:04:04+00:00"
-    },
-    {
-      "h": "Big Yellow shares jump 5% as Ancora pushes UK storage firm to explore sale",
-      "es": "Las acciones de Big Yellow suben un 5% mientras Ancora impulsa a la empresa de almacenamiento del Reino Unido a explorar la venta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/big-yellow-shares-jump-5-as-ancora-pushes-uk-storage-firm-to-explore-sale-4948291",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Traders_800x533_L_1661164805.jpg",
-      "published": "2026-10-14T08:00:29+00:00"
-    },
-    {
-      "h": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-      "es": "La escasez de diésel durará hasta 2027, ya que la guerra de Irán interrumpe el suministro, dice la AIE",
-      "d": "Se espera que el suministro de diésel siga siendo limitado hasta 2027, ya que las perturbaciones relacionadas con la guerra de Irán, la caída de los inventarios y la resiliente demanda ejercen presión sobre el mercado, dijo la AIE.",
-      "u": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T08:00:01+00:00"
-    },
-    {
-      "h": "Swiss Re dips as Jefferies downgrades stock on falling reinsurance prices",
-      "es": "Swiss Re cae mientras Jefferies rebaja la calificación de sus acciones por la caída de los precios de los reaseguros",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/swiss-re-dips-as-jefferies-downgrades-stock-on-falling-reinsurance-prices-4948278",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9S0U1_M.jpg",
-      "published": "2026-10-14T07:54:34+00:00"
-    },
-    {
-      "h": "Why is Ørsted stock sliding today?",
-      "es": "¿Por qué las acciones de Ørsted están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4948269",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-14T07:51:06+00:00"
     }
   ],
   "sources": [
