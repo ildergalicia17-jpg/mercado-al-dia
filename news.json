@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-14T22:55:12.377315+00:00",
+  "updated": "2026-10-14T23:21:18.960082+00:00",
   "news": [
+    {
+      "h": "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
+      "es": "Iambic Therapeutics cotiza la oferta pública inicial a 16 dólares por acción en Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-14T23:05:02+00:00"
+    },
+    {
+      "h": "How a Chinese-made toy gets to a US retailer",
+      "es": "Cómo llega un juguete fabricado en China a un minorista estadounidense",
+      "d": "Con la Navidad en el horizonte, rastreamos los juguetes para niños desde las fábricas en China hasta los estantes de Estados Unidos.",
+      "u": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
+      "published": "2026-10-14T23:01:28+00:00"
+    },
+    {
+      "h": "How much is the minimum wage?",
+      "es": "¿A cuánto asciende el salario mínimo?",
+      "d": "¿Qué son el salario mínimo nacional y el salario digno nacional y cuánto valen?",
+      "u": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg",
+      "published": "2026-10-14T23:01:11+00:00"
+    },
     {
       "h": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
       "es": "Jim Cramer explica por qué ni siquiera las fuertes ganancias de los bancos pudieron salvar sus acciones",
@@ -90,6 +117,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1GC_L.jpg",
       "published": "2026-10-14T22:12:26+00:00"
+    },
+    {
+      "h": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+      "es": "Los bonos de IA de CoreWeave caen, lo que genera señales de alerta para el mercado en general",
+      "d": "Los bonos de CoreWeave emitidos hace unos meses cayeron a 81 centavos por dólar el miércoles temprano, con un rendimiento de más del 15%.",
+      "u": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-31372691",
+      "published": "2026-10-14T22:03:00+00:00"
     },
     {
       "h": "Rocket Lab pushes Neutron rocket’s debut flight to 2027, shares fall",
@@ -191,6 +227,15 @@
       "published": "2026-10-14T21:18:43+00:00"
     },
     {
+      "h": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+      "es": "El sospechoso de interceptar OpenAI reservó un billete de ida a Arabia Saudita con su familia antes del arresto",
+      "d": "\"Como innumerables estadounidenses, el señor Alfozan llegó a este país hace años como un joven con un sueño\", dijo el miércoles su abogado defensor penal.",
+      "u": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T21:18:13+00:00"
+    },
+    {
       "h": "OpenAI sued by 8 states over ChatGPT safety concerns",
       "es": "OpenAI demandado por 8 estados por preocupaciones de seguridad de ChatGPT",
       "d": "OpenAI se enfrenta a un escrutinio cada vez mayor sobre sus prácticas de seguridad y protección, incluida la forma en que la empresa está trabajando para proteger a los niños.",
@@ -225,51 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-86270203",
       "published": "2026-10-14T21:03:00+00:00"
-    },
-    {
-      "h": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "es": "BlackRock ahora gestiona activos equivalentes a la mitad del tamaño de la economía estadounidense después de un crecimiento del 15%",
-      "d": "El gigante de la gestión de fondos BlackRock dijo el miércoles que los activos bajo gestión ascienden a casi 15,5 billones de dólares tras un crecimiento del 15%.",
-      "u": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-53524004",
-      "published": "2026-10-14T20:57:00+00:00"
-    },
-    {
-      "h": "Rocket Lab stock falls after delaying Neutron rocket to 2027",
-      "es": "Las acciones de Rocket Lab caen después de retrasar el cohete Neutron hasta 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rocket-lab-stock-falls-after-delaying-neutron-rocket-to-2027-4950080",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3R04G_L.jpg",
-      "published": "2026-10-14T20:53:14+00:00"
-    },
-    {
-      "h": "Televisa’s AT&T Mexico deal boosts its challenge to America Movil",
-      "es": "El acuerdo de Televisa con AT&T México aumenta su desafío a América Móvil",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/televisas-att-mexico-deal-boosts-its-challenge-to-america-movil-4949745",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OA_L.jpg",
-      "published": "2026-10-14T20:48:27+00:00"
-    },
-    {
-      "h": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-      "es": "Las acciones de CoreWeave caen a medida que los rendimientos de los bonos se acercan al 15% por la preocupación por el exceso de préstamos de IA",
-      "d": "Las acciones de CoreWeave se hundieron un 15%, mientras que los rendimientos de sus bonos se dispararon aún más.",
-      "u": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T20:46:32+00:00"
-    },
-    {
-      "h": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
-      "es": "Ocho estados de EE. UU. demandan a OpenAI, alegando que ChatGPT perjudica a los usuarios jóvenes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/eight-us-states-sue-openai-claiming-chatgpt-harms-children-4949879",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1UV_L.jpg",
-      "published": "2026-10-14T20:43:00+00:00"
     }
   ],
   "sources": [
