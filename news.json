@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-14T22:22:34.710548+00:00",
+  "updated": "2026-10-14T22:55:12.377315+00:00",
   "news": [
+    {
+      "h": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+      "es": "Jim Cramer explica por qué ni siquiera las fuertes ganancias de los bancos pudieron salvar sus acciones",
+      "d": "Los seis bancos cayeron después de sus informes de ganancias, incluso cuando algunos obtuvieron resultados sólidos, lo que refleja preocupaciones sobre las tasas de interés y las perspectivas económicas.",
+      "u": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T22:48:06+00:00"
+    },
+    {
+      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
+      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
+      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58890018",
+      "published": "2026-10-14T22:45:00+00:00"
+    },
+    {
+      "h": "Anthropic’s Q3 revenue surges 45% to nearly $17 billion",
+      "es": "Los ingresos de Anthropic en el tercer trimestre aumentan un 45 % hasta casi 17 mil millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D20T_L.jpg",
+      "published": "2026-10-14T22:36:21+00:00"
+    },
+    {
+      "h": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+      "es": "Las acciones de Rocket Lab caen mientras la compañía retrasa el primer lanzamiento de Neutron",
+      "d": "Neutron, un cohete de elevación media destinado a rivalizar con el Falcon 9 de SpaceX, ya no se lanzará este año.",
+      "u": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-29972515",
+      "published": "2026-10-14T22:33:00+00:00"
+    },
+    {
+      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "es": "“Algunas personas hicieron todo bien”: perdí mi casa en la Gran Recesión. Alquilo cuando tengo 50 años. ¿Por qué se considera eso un fracaso?",
+      "d": "\"Gano 110.000 dólares al año\".",
+      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81504476",
+      "published": "2026-10-14T22:30:00+00:00"
+    },
+    {
+      "h": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "es": "Probablemente esté demasiado invertido en acciones. Por qué una cartera 60-40 sigue siendo el camino inteligente a seguir.",
+      "d": "Durante la mayor parte de la historia de Estados Unidos, una cartera exclusivamente de acciones y una cartera 60-40 han corrido codo a codo en lo que respecta a los rendimientos de los últimos 30 años.",
+      "u": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89521076",
+      "published": "2026-10-14T22:25:00+00:00"
+    },
+    {
+      "h": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "es": "Su cheque del Seguro Social aumentará un promedio de $75 al mes: ¿podrá mantenerse al día con la inflación?",
+      "d": "El COLA del 3,6% para 2027 tiene como objetivo ayudar a más de 68 millones de beneficiarios a mantener el ritmo del costo de vida.",
+      "u": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07536727",
+      "published": "2026-10-14T22:24:00+00:00"
+    },
+    {
+      "h": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+      "es": "Los grandes bancos ven riesgos en la financiación del auge de la IA, pero están felices de seguir emitiendo cheques",
+      "d": "Todos los bancos más grandes de EE. UU. del CEO intervinieron sobre los riesgos relacionados con el desarrollo masivo de la IA, pero sobre cómo todavía no hay señales de que las inversiones deban desacelerarse.",
+      "u": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00703847",
+      "published": "2026-10-14T22:23:00+00:00"
+    },
     {
       "h": "Jim Cramer says don't give up on this unpredictable market. Here's why",
       "es": "Jim Cramer dice que no se dé por vencido en este mercado impredecible. He aquí por qué",
@@ -9,6 +81,15 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-14T22:19:32+00:00"
+    },
+    {
+      "h": "Mexico to require digital platforms to shield minors from harmful content",
+      "es": "México exigirá que plataformas digitales protejan a menores de contenidos nocivos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-to-require-digital-platforms-to-protect-minors-from-violent-sexual-content-4949581",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1GC_L.jpg",
+      "published": "2026-10-14T22:12:26+00:00"
     },
     {
       "h": "Rocket Lab pushes Neutron rocket’s debut flight to 2027, shares fall",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1UV_L.jpg",
       "published": "2026-10-14T20:43:00+00:00"
-    },
-    {
-      "h": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
-      "es": "Conozca a los cazadores de bebés: están transformando el mercado inmobiliario y resolviendo la crisis del cuidado infantil",
-      "d": "Los baby boomers han sido la fuerza más importante que ha impulsado las ventas de viviendas en los últimos años. Muchos de ellos se mudan para estar cerca de su familia y, en particular, de sus nietos.",
-      "u": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-50729371",
-      "published": "2026-10-14T20:39:00+00:00"
-    },
-    {
-      "h": "Kairos Power raises $643 million for Tennessee reactor - Bloomberg",
-      "es": "Kairos Power recauda 643 millones de dólares para el reactor de Tennessee - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kairos-power-raises-643-million-for-tennessee-reactor--bloomberg-93CH-4950036",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEA990FF_M.jpg",
-      "published": "2026-10-14T20:37:44+00:00"
-    },
-    {
-      "h": "Perella Weinberg, Piper Sandler abandon merger talks, FT reports",
-      "es": "Perella Weinberg y Piper Sandler abandonan las negociaciones de fusión, informa el Financial Times",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/perella-weinberg-piper-sandler-abandon-merger-talks-ft-reports-4949940",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1WL_L.jpg",
-      "published": "2026-10-14T20:36:58+00:00"
-    },
-    {
-      "h": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-      "es": "Los bonos de IA de CoreWeave caen, lo que genera señales de alerta para el mercado en general",
-      "d": "Los bonos de CoreWeave emitidos hace seis meses cayeron a 81 centavos por dólar el miércoles temprano, con un rendimiento de más del 15%.",
-      "u": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31372691",
-      "published": "2026-10-14T20:36:00+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-      "es": "El sospechoso de interceptar OpenAI reservó un billete de ida a Arabia Saudita con su familia antes del arresto",
-      "d": "\"Como innumerables estadounidenses, el señor Alfozan llegó a este país hace años como un joven con un sueño\", dijo el miércoles su abogado defensor penal.",
-      "u": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T20:33:22+00:00"
-    },
-    {
-      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.09%",
-      "es": "Las bolsas de Estados Unidos cierran a la baja; El Promedio Industrial Dow Jones cae un 0,09%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-009-4950017",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM2Q14Z_1200_L.jpg",
-      "published": "2026-10-14T20:31:06+00:00"
-    },
-    {
-      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.11%",
-      "es": "Las bolsas de Canadá cierran a la baja; El S&P/TSX Composite cae un 1,11%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-111-4950015",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
-      "published": "2026-10-14T20:30:34+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 0.18%",
-      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 0,18%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-018-4950003",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Brazil_Stock_Market_BOVESPA_M_1440056435.jpg",
-      "published": "2026-10-14T20:30:04+00:00"
-    },
-    {
-      "h": "Inside the booming market for US midterm election bets",
-      "es": "Dentro del floreciente mercado de apuestas electorales de mitad de período en EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/inside-the-booming-market-for-us-midterm-election-bets-4948572",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0VI_L.jpg",
-      "published": "2026-10-14T20:25:01+00:00"
     }
   ],
   "sources": [
