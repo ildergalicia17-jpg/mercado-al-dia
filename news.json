@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-14T03:26:41.736166+00:00",
+  "updated": "2026-10-14T04:03:02.516891+00:00",
   "news": [
+    {
+      "h": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
+      "es": "Juez impide indefinidamente que la Casa Blanca de Trump prohíba tres medios de comunicación",
+      "d": "El presidente Donald Trump había tratado de prohibir a los medios de comunicación MS NOW, CNN y Politico informar desde la Casa Blanca.",
+      "u": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T03:54:49+00:00"
+    },
+    {
+      "h": "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
+      "es": "Las acciones asiáticas suben a medida que los fabricantes de chips se recuperan; El comercio con China supera las previsiones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7I0CN_M.jpg",
+      "published": "2026-10-14T03:37:17+00:00"
+    },
+    {
+      "h": "Why is Domino’s Pizza Enterprises stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Domino's Pizza Enterprises hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-dominos-pizza-enterprises-stock-sliding-today-93CH-4947938",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI180KZ_L.jpg",
+      "published": "2026-10-14T03:25:06+00:00"
+    },
+    {
+      "h": "Televisa, Fintech to take on America Movil with $2 billion purchase of AT&T’s Mexican unit",
+      "es": "Televisa y Fintech se enfrentarán a América Móvil con la compra de la unidad mexicana de AT&T por 2 mil millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1UW_L.jpg",
+      "published": "2026-10-14T03:24:20+00:00"
+    },
     {
       "h": "Should you still buy this AI-picked energy refiner after an 82% run?",
       "es": "¿Deberías seguir comprando este refinador de energía seleccionado por IA después de una ejecución del 82%?",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T22:54:21+00:00"
-    },
-    {
-      "h": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-      "es": "Aquí es donde se encuentra Jim Cramer en este nuevo stock público de infraestructura de IA",
-      "d": "Jim Cramer, de CNBC, dijo que los inversores deberían posponer la compra de la nueva empresa pública de infraestructura de inteligencia artificial Acceleration Holdings.",
-      "u": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T22:47:07+00:00"
-    },
-    {
-      "h": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says",
-      "es": "Ingeniero saudita de OpenAI arrestado por el FBI por colocar un dispositivo de grabación encubierto, dice el Departamento de Justicia de EE. UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1TF_L.jpg",
-      "published": "2026-10-13T22:30:47+00:00"
-    },
-    {
-      "h": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
-      "es": "BofA multa con 1.200 millones de dólares por parte del gobierno de EE. UU. por no controlar actividades sospechosas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bofa-fined-12-billion-by-us-government-for-failing-to-police-suspicious-activity-4947537",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1V5_L.jpg",
-      "published": "2026-10-13T22:30:22+00:00"
-    },
-    {
-      "h": "GameStop CEO Cohen buys shares worth nearly $23 million",
-      "es": "Cohen, director ejecutivo de GameStop, compra acciones por valor de casi 23 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gamestop-ceo-cohen-buys-shares-worth-nearly-23-million-4947650",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1Z7_L.jpg",
-      "published": "2026-10-13T22:24:35+00:00"
     }
   ],
   "sources": [
