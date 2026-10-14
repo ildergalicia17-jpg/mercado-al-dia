@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-14T21:54:50.459272+00:00",
+  "updated": "2026-10-14T22:22:34.710548+00:00",
   "news": [
+    {
+      "h": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "es": "Jim Cramer dice que no se dé por vencido en este mercado impredecible. He aquí por qué",
+      "d": "A pesar de un mercado impredecible, Jim Cramer de CNBC dice que es importante seguir invirtiendo.",
+      "u": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T22:19:32+00:00"
+    },
+    {
+      "h": "Rocket Lab pushes Neutron rocket’s debut flight to 2027, shares fall",
+      "es": "Rocket Lab retrasa el vuelo debut del cohete Neutron hasta 2027, las acciones caen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rocket-lab-pushes-neutron-rockets-debut-flight-to-2027-shares-fall-4950171",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D203_L.jpg",
+      "published": "2026-10-14T21:54:26+00:00"
+    },
+    {
+      "h": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "es": "De un máximo histórico a una caída del 10% en sólo dos meses: por qué las acciones de pequeña capitalización se han desmoronado tan rápido",
+      "d": "Abróchese el cinturón: las acciones de pequeña capitalización acaban de alcanzar un hito en el mercado que preferirían evitar.",
+      "u": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-48617111",
+      "published": "2026-10-14T21:54:00+00:00"
+    },
+    {
+      "h": "Explainer-What is Starshield, SpaceX’s military version of Starlink?",
+      "es": "Explicador: ¿Qué es Starshield, la versión militar de Starlink de SpaceX?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/explainerwhat-is-starshieldspacexs-military-version-of-starlink-4949897",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1VZ_L.jpg",
+      "published": "2026-10-14T21:48:31+00:00"
+    },
     {
       "h": "Why is Rocket Lab stock tumbling today?",
       "es": "¿Por qué están cayendo las acciones de Rocket Lab hoy?",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0VI_L.jpg",
       "published": "2026-10-14T20:25:01+00:00"
-    },
-    {
-      "h": "New ASX boss wants to accelerate move to one-day settlement in Australia",
-      "es": "El nuevo jefe de ASX quiere acelerar el paso a un acuerdo de un día en Australia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/new-asx-boss-wants-to-accelerate-move-to-oneday-settlement-in-australia-4948314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0BV_L.jpg",
-      "published": "2026-10-14T20:24:47+00:00"
-    },
-    {
-      "h": "Banamex leadership pitches turnaround ahead of targeted Citi IPO - Bloomberg",
-      "es": "Liderazgo de Banamex propone un cambio antes de la OPI de Citi - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/banamex-leadership-pitches-turnaround-ahead-of-targeted-citi-ipo--bloomberg-4949999",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3P0DZ_M.jpg",
-      "published": "2026-10-14T20:24:41+00:00"
-    },
-    {
-      "h": "CoreWeave CEO notes strong backlog in memo to reassure staff over market scrutiny",
-      "es": "El director ejecutivo de CoreWeave señala un fuerte retraso en un memorando para tranquilizar al personal sobre el escrutinio del mercado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coreweave-ceo-notes-strong-backlog-in-memo-to-reassure-staff-over-market-scrutiny-4949998",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1X1_L.jpg",
-      "published": "2026-10-14T20:24:28+00:00"
-    },
-    {
-      "h": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "es": "Morgan Stanley supera las estimaciones, ya que los ingresos por operaciones de acciones superan las expectativas en 909 millones de dólares",
-      "d": "Morgan Stanley superó las expectativas en términos de ingresos y resultados para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-14T20:22:09+00:00"
     }
   ],
   "sources": [
