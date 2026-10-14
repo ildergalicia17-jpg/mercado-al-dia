@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-14T06:13:49.954043+00:00",
+  "updated": "2026-10-14T07:04:18.744056+00:00",
   "news": [
+    {
+      "h": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
+      "es": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "published": "2026-10-14T06:55:12+00:00"
+    },
+    {
+      "h": "VinFast-linked taxi operator GSM launches US service in Los Angeles",
+      "es": "VinFast-linked taxi operator GSM launches US service in Los Angeles",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/vinfastlinked-taxi-operator-gsm-launches-us-service-in-los-angeles-4948165",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0IP_L.jpg",
+      "published": "2026-10-14T06:54:24+00:00"
+    },
+    {
+      "h": "'Spray and pray': How AI job applications can backfire",
+      "es": "'Spray and pray': How AI job applications can backfire",
+      "d": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "u": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "published": "2026-10-14T06:52:33+00:00"
+    },
+    {
+      "h": "Starlink restricted Ukrainian military connectivity, Zelensky adviser says",
+      "es": "Starlink restricted Ukrainian military connectivity, Zelensky adviser says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starlink-restricted-ukrainian-military-connectivity-zelenskiy-adviser-says-4948152",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5A1HW_1200_L.jpg",
+      "published": "2026-10-14T06:42:53+00:00"
+    },
+    {
+      "h": "LSEG teams up with NVIDIA for faster market data processing",
+      "es": "LSEG teams up with NVIDIA for faster market data processing",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lseg-teams-up-with-nvidia-for-faster-market-data-processing-4948123",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0HH_L.jpg",
+      "published": "2026-10-14T06:30:50+00:00"
+    },
+    {
+      "h": "Nvidia pledges $250 million to boost UK AI safety research",
+      "es": "Nvidia pledges $250 million to boost UK AI safety research",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-pledges-250-million-to-boost-uk-ai-safety-research-4948124",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0HA_L.jpg",
+      "published": "2026-10-14T06:25:00+00:00"
+    },
+    {
+      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
+      "es": "As EU debates local-content rules, Chinese automakers are already adapting",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
+      "published": "2026-10-14T06:24:42+00:00"
+    },
+    {
+      "h": "This U.S. healthcare stock is Mizuho’s top pick after strong Q3 results",
+      "es": "This U.S. healthcare stock is Mizuho’s top pick after strong Q3 results",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/this-us-healthcare-stock-is-mizuhos-top-pick-after-strong-q3-results-4948121",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE3G0Q7_M.jpg",
+      "published": "2026-10-14T06:23:09+00:00"
+    },
+    {
+      "h": "UBS Highlights Top European Capital Goods Stocks Ahead of Earnings Season",
+      "es": "UBS Highlights Top European Capital Goods Stocks Ahead of Earnings Season",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-highlights-top-european-capital-goods-stocks-ahead-of-earnings-season-4948120",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SchneiderElectric_800x533_L_1663742438.jpg",
+      "published": "2026-10-14T06:22:18+00:00"
+    },
+    {
+      "h": "Standard Chartered gets licence to offer crypto trading in UAE",
+      "es": "Standard Chartered gets licence to offer crypto trading in UAE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/standard-chartered-gets-licence-to-offer-crypto-trading-in-uae-93CH-4948113",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-14T06:17:18+00:00"
+    },
     {
       "h": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
       "es": "Galderma comprará la empresa estadounidense ZO Skin Health por 1.500 millones de dólares",
@@ -146,6 +236,15 @@
       "published": "2026-10-14T04:20:24+00:00"
     },
     {
+      "h": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "es": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "d": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T04:07:00+00:00"
+    },
+    {
       "h": "Gift Nifty 50 tests Fibonacci resistance after breakout: Live levels",
       "es": "Gift Nifty 50 prueba la resistencia de Fibonacci después de la ruptura: niveles en vivo",
       "d": "",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
       "published": "2026-10-14T04:02:49+00:00"
-    },
-    {
-      "h": "Why is Aeon stock sliding today?",
-      "es": "¿Por qué las acciones de Aeon están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-aeon-stock-sliding-today-93CH-4947966",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-14T04:02:47+00:00"
-    },
-    {
-      "h": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
-      "es": "Juez impide indefinidamente que la Casa Blanca de Trump prohíba tres medios de comunicación",
-      "d": "El presidente Donald Trump había tratado de prohibir a los medios de comunicación MS NOW, CNN y Politico informar desde la Casa Blanca.",
-      "u": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T03:54:49+00:00"
-    },
-    {
-      "h": "China's exports and imports surge past expectations in September",
-      "es": "China's exports and imports surge past expectations in September",
-      "d": "The country's customs agency released September trade data on Wednesday.",
-      "u": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T03:41:36+00:00"
-    },
-    {
-      "h": "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
-      "es": "Las acciones asiáticas suben a medida que los fabricantes de chips se recuperan; El comercio con China supera las previsiones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-higher-as-chipmakers-rebound-china-trade-beats-forecasts-4947949",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7I0CN_M.jpg",
-      "published": "2026-10-14T03:37:17+00:00"
-    },
-    {
-      "h": "Why is Domino’s Pizza Enterprises stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Domino's Pizza Enterprises hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dominos-pizza-enterprises-stock-sliding-today-93CH-4947938",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI180KZ_L.jpg",
-      "published": "2026-10-14T03:25:06+00:00"
-    },
-    {
-      "h": "Televisa, Fintech to take on America Movil with $2 billion purchase of AT&T’s Mexican unit",
-      "es": "Televisa y Fintech se enfrentarán a América Móvil con la compra de la unidad mexicana de AT&T por 2 mil millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1UW_L.jpg",
-      "published": "2026-10-14T03:24:20+00:00"
-    },
-    {
-      "h": "Should you still buy this AI-picked energy refiner after an 82% run?",
-      "es": "¿Deberías seguir comprando este refinador de energía seleccionado por IA después de una ejecución del 82%?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/should-you-still-buy-this-aipicked-energy-refiner-after-an-82-run-4947911",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
-      "published": "2026-10-14T02:45:31+00:00"
-    },
-    {
-      "h": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-      "es": "Taiwán acuerda comprar el 30% del gas del proyecto de GNL de Alaska, dice Trump",
-      "d": "El presidente de Estados Unidos, Donald Trump, dijo el martes que Taiwán había acordado comprar el 30% del gas de un proyecto de gasoducto en Alaska.",
-      "u": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T02:09:00+00:00"
-    },
-    {
-      "h": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "es": "Bank of America recibe una multa de 1.200 millones de dólares por lavado de dinero",
-      "d": "El banco señaló de manera inadecuada las transacciones vinculadas a posibles redes chinas de lavado de dinero, dijo el Tesoro.",
-      "u": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg",
-      "published": "2026-10-14T02:05:32+00:00"
-    },
-    {
-      "h": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-      "es": "El fabricante de automóviles surcoreano Hyundai planea una inversión 'estratégica' de 15.500 millones de dólares en India para 2032",
-      "d": "La empresa automovilística coreana Hyundai dice que India es un mercado central estratégico",
-      "u": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T02:04:47+00:00"
-    },
-    {
-      "h": "Hang Seng hovers at HK$24,285 neckline after double bottom: Live",
-      "es": "Hang Seng ronda el escote de HK$ 24.285 después del doble fondo: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-14T02:02:55+00:00"
     }
   ],
   "sources": [
