@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-14T19:46:04.345136+00:00",
+  "updated": "2026-10-14T20:14:38.330682+00:00",
   "news": [
+    {
+      "h": "Dell stock plunges 11%, leading data center sell-off on concerns about 'enterprise AI timing'",
+      "es": "Las acciones de Dell se desploman un 11%, lo que lidera la venta masiva de centros de datos por preocupaciones sobre el \"timing de la IA empresarial\"",
+      "d": "Barclays rebajó la calificación de Dell, HPE y NetApp por la preocupación de que la adopción de la IA empresarial esté rezagada.",
+      "u": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T20:06:38+00:00"
+    },
+    {
+      "h": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "es": "La oferta pública de los empleados de Anduril valoraría la startup de tecnología de defensa en 90 mil millones de dólares",
+      "d": "Anduril ha sido un gran ganador del creciente auge de la tecnología de defensa en Estados Unidos y de los planes del presidente Donald Trump para reindustrializar el ejército estadounidense.",
+      "u": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T20:02:08+00:00"
+    },
+    {
+      "h": "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investment",
+      "es": "Bending Spoons se dispara un 41% mientras Berkshire Hathaway realiza una inversión de 330 millones de dólares",
+      "d": "La última inversión de Berkshire se produce tras los 600 millones de dólares que invirtió en la oferta pública inicial de la empresa en julio.",
+      "u": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T20:01:26+00:00"
+    },
+    {
+      "h": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "es": "“Soy una persona bastante cautelosa”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
+      "d": "\"Me gusta mi vida, pero también me gusta la idea de obtener un gran rendimiento después de años de invertir dinero en mi 401(k)\".",
+      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86790018",
+      "published": "2026-10-14T20:01:00+00:00"
+    },
+    {
+      "h": "Gold miners fall as bullion prices drop on Fed rate hike bets",
+      "es": "Las mineras de oro caen a medida que los precios del lingote caen por las apuestas de subida de tipos de la Fed",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gold-miners-fall-as-bullion-prices-drop-on-fed-rate-hike-bets-93CH-4949904",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC5N1W0_M.jpg",
+      "published": "2026-10-14T19:53:25+00:00"
+    },
+    {
+      "h": "US Treasury yields fall after reversing inflation-led selloff",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen tras revertir la liquidación impulsada por la inflación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-treasury-yields-fall-after-reversing-inflationled-selloff-93CH-4949903",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-14T19:52:29+00:00"
+    },
+    {
+      "h": "Lululemon reorganizes fabric team after product quality complaints - Bloomberg",
+      "es": "Lululemon reorganiza el equipo de telas después de quejas sobre la calidad del producto - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lululemon-reorganizes-fabric-team-after-product-quality-complaints--bloomberg-4949902",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC803KR_M.jpg",
+      "published": "2026-10-14T19:51:48+00:00"
+    },
+    {
+      "h": "AI infrastructure stocks fall on rate worries",
+      "es": "Las acciones de infraestructura de IA caen por las preocupaciones sobre las tasas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ai-infrastructure-stocks-fall-on-rate-worries-93CH-4949901",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7L0UO_M.jpg",
+      "published": "2026-10-14T19:50:21+00:00"
+    },
+    {
+      "h": "Explainer-What is Starshield, SpaceX’s military version of Starlink?",
+      "es": "Explicador: ¿Qué es Starshield, la versión militar de Starlink de SpaceX?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/explainerwhat-is-starshieldspacexs-military-version-of-starlink-4949897",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1VZ_L.jpg",
+      "published": "2026-10-14T19:42:49+00:00"
+    },
+    {
+      "h": "Q3 earnings strategy: where expectations look low and where beats are priced in",
+      "es": "Estrategia de resultados del tercer trimestre: donde las expectativas parecen bajas y donde los mejores resultados se tienen en cuenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/q3-earnings-strategy-where-expectations-look-low-and-where-beats-are-priced-in-93CH-4949895",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
+      "published": "2026-10-14T19:31:49+00:00"
+    },
+    {
+      "h": "Asset manager earnings: record AUM and strong inflows, but shares mixed",
+      "es": "Ganancias de los gestores de activos: activos bajo gestión récord y fuertes entradas, pero las acciones son mixtas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asset-manager-earnings-record-aum-and-strong-inflows-but-shares-mixed-93CH-4949894",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
+      "published": "2026-10-14T19:31:38+00:00"
+    },
     {
       "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
       "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
@@ -9,6 +108,33 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-70454413",
       "published": "2026-10-14T19:30:00+00:00"
+    },
+    {
+      "h": "Bank earnings scorecard: winners and misses across two days of results",
+      "es": "Cuadro de mando de ganancias bancarias: ganadores y perdedores en dos días de resultados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-earnings-scorecard-winners-and-misses-across-two-days-of-results-93CH-4949892",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-14T19:28:54+00:00"
+    },
+    {
+      "h": "Nasdaq drops as tech stocks tumble amid rise in Fed rate hike bets on hot CPI data",
+      "es": "Nasdaq cae a medida que las acciones tecnológicas caen en medio del aumento de las apuestas de subida de tipos de la Fed por los buenos datos del IPC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "published": "2026-10-14T19:28:26+00:00"
+    },
+    {
+      "h": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "es": "Un barco portacontenedores se hunde en el Estrecho de Ormuz mientras Irán intensifica sus ataques",
+      "d": "Irán ha intensificado sus ataques contra barcos comerciales que transitan por Ormuz en las últimas semanas, mientras intenta sofocar un repunte de las exportaciones de petróleo crudo.",
+      "u": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T19:22:00+00:00"
     },
     {
       "h": "Tesla tests critical $364 support near breakdown zone: Live",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1UV_L.jpg",
       "published": "2026-10-14T19:00:49+00:00"
-    },
-    {
-      "h": "Why is Affirm stock sliding today?",
-      "es": "¿Por qué las acciones de Affirm están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-affirm-stock-sliding-today-93CH-4949881",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-14T18:58:35+00:00"
-    },
-    {
-      "h": "US individual health insurance enrollment fell to 20.5 million people as of June, KFF says",
-      "es": "La inscripción en seguros médicos individuales en EE. UU. cayó a 20,5 millones de personas en junio, según KFF",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/obamacare-enrollment-fell-to-205-million-people-as-of-junekff-says-4949773",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OT_L.jpg",
-      "published": "2026-10-14T18:54:26+00:00"
-    },
-    {
-      "h": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "es": "¿El COLA de este año venció a la inflación? Así es como se acumula el gasto de las personas mayores estadounidenses en lo que va de 2026.",
-      "d": "El ajuste por costo de vida para 2027 será del 3,6%, lo que dará a los beneficiarios del Seguro Social un promedio de 75 dólares más al mes.",
-      "u": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-10478767",
-      "published": "2026-10-14T18:53:00+00:00"
-    },
-    {
-      "h": "Treasury says largest U.S. banks let politics influence who received banking services",
-      "es": "El Tesoro dice que los bancos más grandes de EE.UU. dejaron que la política influyera en quién recibía los servicios bancarios",
-      "d": "Los nuevos hallazgos del Departamento del Tesoro pueden dar peso a la queja de larga data del presidente Donald Trump de que los principales bancos han discriminado a los conservadores.",
-      "u": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T18:51:42+00:00"
-    },
-    {
-      "h": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "es": "Bank of America contrató a 1.000 contratistas para reparar las fallas de software expuestas por Mythos de Anthropic",
-      "d": "Bank of America contrató a 1.000 contratistas para reparar las fallas de software expuestas por Mythos de Anthropic, ofreciendo una mirada poco común a los costos involucrados en la defensa contra la IA.",
-      "u": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T18:48:44+00:00"
-    },
-    {
-      "h": "Coca-Cola options flow shows put-heavy activity as stock nears 52-week high",
-      "es": "El flujo de opciones de Coca-Cola muestra una gran actividad a medida que las acciones se acercan al máximo de 52 semanas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cocacola-options-flow-shows-putheavy-activity-as-stock-nears-52week-high-93CH-4949877",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL530YI_L.jpg",
-      "published": "2026-10-14T18:46:50+00:00"
-    },
-    {
-      "h": "Why is NVIDIA stock sliding today?",
-      "es": "¿Por qué las acciones de NVIDIA están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg",
-      "published": "2026-10-14T18:45:26+00:00"
-    },
-    {
-      "h": "Why is Wolfspeed stock sliding today?",
-      "es": "¿Por qué las acciones de Wolfspeed están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-14T18:42:35+00:00"
-    },
-    {
-      "h": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
-      "es": "Las acciones de infraestructura de IA caen. Aquí hay algunas razones para la liquidación",
-      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T18:41:11+00:00"
-    },
-    {
-      "h": "GlobalFoundries options surge on $21B U.S.-Japan chip deal",
-      "es": "Las opciones de GlobalFoundries aumentan tras el acuerdo de chips entre Estados Unidos y Japón por 21.000 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/globalfoundries-options-surge-on-21b-usjapan-chip-deal-93CH-4949872",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-14T18:35:18+00:00"
-    },
-    {
-      "h": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
-      "es": "El aumento de los rendimientos de los bonos y la mayor inflación dejan a la Reserva Federal atrapada en el dilema de la subida de tipos",
-      "d": "\"No creo que debamos subir los tipos en este entorno en este momento\", dice el director de renta fija de Aptus Capital Advisors.",
-      "u": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95433037",
-      "published": "2026-10-14T18:27:00+00:00"
-    },
-    {
-      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
-      "es": "Mientras la UE debate las normas de contenido local, los fabricantes de automóviles chinos ya se están adaptando",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
-      "published": "2026-10-14T18:24:37+00:00"
-    },
-    {
-      "h": "Top biotechnology stock pick from Guggenheim",
-      "es": "Selección de las mejores acciones de biotecnología del Guggenheim",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-biotechnology-stock-pick-from-guggenheim-4949865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg",
-      "published": "2026-10-14T18:24:25+00:00"
-    },
-    {
-      "h": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-      "es": "Las acciones de CoreWeave caen a medida que los rendimientos de los bonos se acercan al 15% por la preocupación por el exceso de préstamos de IA",
-      "d": "Las acciones de CoreWeave se hundieron un 15%, mientras que los rendimientos de sus bonos se dispararon aún más.",
-      "u": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T18:23:37+00:00"
     }
   ],
   "sources": [
