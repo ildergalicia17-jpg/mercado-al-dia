@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-14T16:49:51.275039+00:00",
+  "updated": "2026-10-14T17:18:11.056454+00:00",
   "news": [
+    {
+      "h": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+      "es": "Irán dice que está “contando los momentos” hasta que pueda atacar buques de guerra estadounidenses; Atacan instalaciones de Saudi Aramco",
+      "d": "Mientras tanto, la empresa Aramco de Arabia Saudita habría sido objeto de un nuevo ataque durante la noche.",
+      "u": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T17:12:20+00:00"
+    },
+    {
+      "h": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "es": "Los comerciantes se acumulan en 'opciones de burbuja' en CoreWeave a medida que las acciones de neocloud se desploman",
+      "d": "Mientras un sector clave del comercio de inteligencia artificial sufre un duro golpe el miércoles, los operadores apuestan a que podría empeorar aún más.",
+      "u": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T17:10:59+00:00"
+    },
+    {
+      "h": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+      "es": "Fannie Mae eleva drásticamente la previsión de tipos hipotecarios para 2027",
+      "d": "Fannie Mae acaba de publicar su último pronóstico sobre las tasas hipotecarias, y son mucho más altas que las estimaciones anteriores.",
+      "u": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T17:08:07+00:00"
+    },
+    {
+      "h": "US lawmakers ask FAA to conduct review before allowing Amazon drone hub near Boston",
+      "es": "Los legisladores estadounidenses piden a la FAA que realice una revisión antes de permitir el centro de drones de Amazon cerca de Boston",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-lawmakers-ask-faa-to-conduct-review-before-allowing-amazon-drone-hub-near-boston-4949815",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1R6_L.jpg",
+      "published": "2026-10-14T17:06:19+00:00"
+    },
+    {
+      "h": "'The power of shrink' — tour the little-known $25B company that chipmakers can't live without",
+      "es": "'El poder de la contracción': recorra la poco conocida empresa de 25.000 millones de dólares sin la que los fabricantes de chips no pueden vivir",
+      "d": "Aquí se profundiza en Qnity y cómo sus productos ayudan a construir los semiconductores de IA que impulsan el mundo.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/14/the-power-of-shrink-tour-the-little-known-25b-company-that-chipmakers-cant-live-without.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T17:04:50+00:00"
+    },
+    {
+      "h": "Morgan Stanley earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Morgan Stanley: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949804",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA60168_M.jpg",
+      "published": "2026-10-14T16:56:53+00:00"
+    },
+    {
+      "h": "State Street earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de State Street: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/state-street-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949803",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-10-14T16:56:34+00:00"
+    },
+    {
+      "h": "BlackRock earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de BlackRock: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/blackrock-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949802",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC9H16Q_M.jpg",
+      "published": "2026-10-14T16:56:23+00:00"
+    },
+    {
+      "h": "ASML earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de ASML: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asml-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949801",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-14T16:56:10+00:00"
+    },
+    {
+      "h": "As Wall Street banks finance and adopt AI, risks mount on both fronts",
+      "es": "A medida que los bancos de Wall Street financian y adoptan la IA, aumentan los riesgos en ambos frentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-wall-street-banks-finance-and-adopt-ai-risks-mount-on-both-fronts-4949795",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1QB_L.jpg",
+      "published": "2026-10-14T16:54:22+00:00"
+    },
+    {
+      "h": "Info Services stocks face headwinds ahead of Q3 earnings season - Deutsche Bank",
+      "es": "Las acciones de servicios de información se enfrentan a dificultades antes de la temporada de resultados del tercer trimestre - Deutsche Bank",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/info-services-stocks-face-headwinds-ahead-of-q3-earnings-season--deutsche-bank-4949800",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
+      "published": "2026-10-14T16:51:05+00:00"
+    },
+    {
+      "h": "3 things that are driving inflation higher",
+      "es": "Tres cosas que están elevando la inflación",
+      "d": "¿Luchando con precios elevados? No tienes que buscar mucho más allá de tu gasolinera local.",
+      "u": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21572237",
+      "published": "2026-10-14T16:50:00+00:00"
+    },
+    {
+      "h": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "es": "Las acciones de Bank of America caen un 8% tras la pérdida de ingresos del tercer trimestre y la sanción regulatoria",
+      "d": "Las acciones de Bank of America cayeron el miércoles después de que la compañía registrara ingresos comerciales más débiles de lo esperado y el impacto de una multa del Tesoro de 1.200 millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T16:49:11+00:00"
+    },
     {
       "h": "Trump's diesel dilemma — by the numbers",
       "es": "El dilema del diésel de Trump: en cifras",
@@ -63,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OA_L.jpg",
       "published": "2026-10-14T16:30:30+00:00"
+    },
+    {
+      "h": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "es": "Larry Fink de BlackRock advierte que una moratoria de los centros de datos podría desencadenar una recesión",
+      "d": "La oposición local a la construcción de centros de datos ha sido una característica de las elecciones de mitad de período previstas para el martes 3 de noviembre.",
+      "u": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T16:27:12+00:00"
     },
     {
       "h": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1NL_L.jpg",
       "published": "2026-10-14T16:12:45+00:00"
-    },
-    {
-      "h": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
-      "es": "El aumento de los precios del diésel ha ayudado a alimentar la inflación, y estamos a punto de ver cuánto peor podría empeorar.",
-      "d": "La inflación al consumidor acaba de subir. El jueves proporcionará más pistas sobre el impacto de los precios récord del diésel antes de las elecciones de mitad de período.",
-      "u": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-36129012",
-      "published": "2026-10-14T16:07:00+00:00"
-    },
-    {
-      "h": "The truth about being a landlord in retirement",
-      "es": "La verdad sobre ser propietario jubilado",
-      "d": "Invertir en propiedades de alquiler no es fácil ni “pasivo”",
-      "u": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-09151135",
-      "published": "2026-10-14T16:05:00+00:00"
-    },
-    {
-      "h": "'It's rough out here': Americans struggle with rising inflation",
-      "es": "\"Es difícil aquí\": los estadounidenses luchan contra el aumento de la inflación",
-      "d": "La inflación estadounidense sigue aumentando y este mes el salto superó las previsiones. Así es como algunos sobreviven.",
-      "u": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg",
-      "published": "2026-10-14T15:57:11+00:00"
-    },
-    {
-      "h": "Google Deepmind’s Hassabis calls AI hacks ’early warning shots’",
-      "es": "Hassabis de Google Deepmind llama a los hacks de IA \"disparos de alerta temprana\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-4948612",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0WX_L.jpg",
-      "published": "2026-10-14T15:54:41+00:00"
-    },
-    {
-      "h": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "es": "Papel higiénico y grabadoras secretas: lo que sabemos sobre el arresto del ingeniero saudita de OpenAI",
-      "d": "Abdulrahman Alfozan había trabajado para el gigante de la inteligencia artificial durante más de un año antes de ser arrestado por el FBI.",
-      "u": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-14T15:54:04+00:00"
-    },
-    {
-      "h": "Jim Cramer says this healthcare stock is still a buy. Plus, what to do with BNY",
-      "es": "Jim Cramer dice que estas acciones de atención médica todavía son una compra. Además, ¿qué hacer con BNY?",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramer-says-this-healthcare-stock-is-still-a-buy-plus-what-to-do-with-bny.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:51:40+00:00"
-    },
-    {
-      "h": "Netflix to cut 1,000 jobs as subscriptions slow",
-      "es": "Netflix recortará 1.000 puestos de trabajo a medida que disminuyen las suscripciones",
-      "d": "El gigante del streaming tuvo una desaceleración en las suscripciones.",
-      "u": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2179/live/9ff241b0-c7e8-11f1-b712-6f93dfe07e87.jpg",
-      "published": "2026-10-14T15:51:01+00:00"
-    },
-    {
-      "h": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "es": "Morgan Stanley supera las estimaciones, ya que los ingresos por operaciones de acciones superan las expectativas en 909 millones de dólares",
-      "d": "Morgan Stanley superó las expectativas en términos de ingresos y resultados para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-14T15:49:35+00:00"
-    },
-    {
-      "h": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
-      "es": "Abilene Christian University está dando una oportunidad a las donaciones de la Ivy League en el mercado",
-      "d": "La escuela religiosa de Texas se encuentra entre los fondos de dotación universitaria que rivalizan con el desempeño del mercado de los gigantes inversores de Ivy como Yale y acaba de alcanzar la marca de mil millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:48:34+00:00"
-    },
-    {
-      "h": "Morgan Stanley Names Top Pick Amid 3Q26 Earnings",
-      "es": "Morgan Stanley nombra la mejor opción en medio de las ganancias del 3T26",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-top-pick-amid-3q26-earnings-4949724",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM18123_1200_L.jpg",
-      "published": "2026-10-14T15:48:05+00:00"
-    },
-    {
-      "h": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "es": "Un barco portacontenedores se hunde en el Estrecho de Ormuz mientras Irán intensifica sus ataques",
-      "d": "Irán ha intensificado sus ataques contra barcos comerciales que transitan por Ormuz en las últimas semanas, mientras intenta sofocar un repunte de las exportaciones de petróleo crudo.",
-      "u": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:47:29+00:00"
-    },
-    {
-      "h": "Treasury says largest U.S. banks let politics influence who received banking services",
-      "es": "El Tesoro dice que los bancos más grandes de EE.UU. dejaron que la política influyera en quién recibía los servicios bancarios",
-      "d": "Los nuevos hallazgos del Departamento del Tesoro pueden dar peso a la queja de larga data del presidente Donald Trump de que los principales bancos han discriminado a los conservadores.",
-      "u": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:44:54+00:00"
-    },
-    {
-      "h": "Poland stocks lower at close of trade; WIG30 down 0.44%",
-      "es": "Las bolsas de Polonia cierran a la baja; WIG30 baja un 0,44%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-044-4949714",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/WarsawStockExchange_800x533_L_1532265834.jpg",
-      "published": "2026-10-14T15:35:04+00:00"
-    },
-    {
-      "h": "Turkey stocks lower at close of trade; BIST 100 down 1.08%",
-      "es": "Las bolsas de Turquía cierran a la baja; BIST 100 baja un 1,08%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-108-4949708",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Istanbul Stock Exchange_800x533_L_1428571700.jpg",
-      "published": "2026-10-14T15:30:31+00:00"
     }
   ],
   "sources": [
