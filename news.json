@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-14T15:30:54.219391+00:00",
+  "updated": "2026-10-14T16:11:06.512999+00:00",
   "news": [
+    {
+      "h": "'It's rough out here': Americans struggle with rising inflation",
+      "es": "\"Es difícil aquí\": los estadounidenses luchan contra el aumento de la inflación",
+      "d": "La inflación estadounidense sigue aumentando y este mes el salto superó las previsiones. Así es como algunos sobreviven.",
+      "u": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg",
+      "published": "2026-10-14T15:57:11+00:00"
+    },
+    {
+      "h": "Google Deepmind’s Hassabis calls AI hacks ’early warning shots’",
+      "es": "Hassabis de Google Deepmind llama a los hacks de IA \"disparos de alerta temprana\"",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-4948612",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0WX_L.jpg",
+      "published": "2026-10-14T15:54:41+00:00"
+    },
+    {
+      "h": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "es": "Papel higiénico y grabadoras secretas: lo que sabemos sobre el arresto del ingeniero saudita de OpenAI",
+      "d": "Abdulrahman Alfozan había trabajado para el gigante de la inteligencia artificial durante más de un año antes de ser arrestado por el FBI.",
+      "u": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-14T15:54:04+00:00"
+    },
+    {
+      "h": "Jim Cramer says this healthcare stock is still a buy. Plus, what to do with BNY",
+      "es": "Jim Cramer dice que estas acciones de atención médica todavía son una compra. Además, ¿qué hacer con BNY?",
+      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramer-says-this-healthcare-stock-is-still-a-buy-plus-what-to-do-with-bny.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:51:40+00:00"
+    },
+    {
+      "h": "Netflix to cut 1,000 jobs as subscriptions slow",
+      "es": "Netflix recortará 1.000 puestos de trabajo a medida que disminuyen las suscripciones",
+      "d": "El gigante del streaming tuvo una desaceleración en las suscripciones.",
+      "u": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2179/live/9ff241b0-c7e8-11f1-b712-6f93dfe07e87.jpg",
+      "published": "2026-10-14T15:51:01+00:00"
+    },
+    {
+      "h": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "es": "Morgan Stanley supera las estimaciones, ya que los ingresos por operaciones de acciones superan las expectativas en 909 millones de dólares",
+      "d": "Morgan Stanley superó las expectativas en términos de ingresos y resultados para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T15:49:35+00:00"
+    },
+    {
+      "h": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
+      "es": "Abilene Christian University está dando una oportunidad a las donaciones de la Ivy League en el mercado",
+      "d": "La escuela religiosa de Texas se encuentra entre los fondos de dotación universitaria que rivalizan con el desempeño del mercado de los gigantes inversores de Ivy como Yale y acaba de alcanzar la marca de mil millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:48:34+00:00"
+    },
+    {
+      "h": "Morgan Stanley Names Top Pick Amid 3Q26 Earnings",
+      "es": "Morgan Stanley nombra la mejor opción en medio de las ganancias del 3T26",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-top-pick-amid-3q26-earnings-4949724",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM18123_1200_L.jpg",
+      "published": "2026-10-14T15:48:05+00:00"
+    },
+    {
+      "h": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "es": "Un barco portacontenedores se hunde en el Estrecho de Ormuz mientras Irán intensifica sus ataques",
+      "d": "Irán ha intensificado sus ataques contra barcos comerciales que transitan por Ormuz en las últimas semanas, mientras intenta sofocar un repunte de las exportaciones de petróleo crudo.",
+      "u": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:47:29+00:00"
+    },
+    {
+      "h": "Treasury says largest U.S. banks let politics influence who received banking services",
+      "es": "El Tesoro dice que los bancos más grandes de EE.UU. dejaron que la política influyera en quién recibía los servicios bancarios",
+      "d": "Los nuevos hallazgos del Departamento del Tesoro pueden dar peso a la queja de larga data del presidente Donald Trump de que los principales bancos han discriminado a los conservadores.",
+      "u": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:44:54+00:00"
+    },
+    {
+      "h": "Poland stocks lower at close of trade; WIG30 down 0.44%",
+      "es": "Las bolsas de Polonia cierran a la baja; WIG30 baja un 0,44%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-044-4949714",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/WarsawStockExchange_800x533_L_1532265834.jpg",
+      "published": "2026-10-14T15:35:04+00:00"
+    },
+    {
+      "h": "Turkey stocks lower at close of trade; BIST 100 down 1.08%",
+      "es": "Las bolsas de Turquía cierran a la baja; BIST 100 baja un 1,08%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-108-4949708",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Istanbul Stock Exchange_800x533_L_1428571700.jpg",
+      "published": "2026-10-14T15:30:31+00:00"
+    },
+    {
+      "h": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.42%",
+      "es": "Las bolsas de Dinamarca cierran a la baja; OMX Copenhague 20 baja un 0,42%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-042-4949706",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6208D_L.jpg",
+      "published": "2026-10-14T15:30:05+00:00"
+    },
+    {
+      "h": "Skydance share price adjusts after warrant distribution to stockholders",
+      "es": "El precio de las acciones de Skydance se ajusta después de la distribución de la orden a los accionistas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/skydance-share-price-adjusts-after-warrant-distribution-to-stockholders-4949704",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM951NI_L.jpg",
+      "published": "2026-10-14T15:29:47+00:00"
+    },
+    {
+      "h": "Meta expands WhatsApp utility with non-account guest calling features",
+      "es": "Meta amplía la utilidad de WhatsApp con funciones de llamadas a invitados sin cuenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-expands-whatsapp-utility-with-nonaccount-guest-calling-features-4949703",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK3G0O5_L.jpg",
+      "published": "2026-10-14T15:29:30+00:00"
+    },
     {
       "h": "US inflation rises more than expected - here's what is happening with prices",
       "es": "La inflación estadounidense aumenta más de lo esperado: esto es lo que está sucediendo con los precios",
@@ -9,6 +144,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
       "published": "2026-10-14T15:26:14+00:00"
+    },
+    {
+      "h": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+      "es": "La Administración de la Seguridad Social anuncia un ajuste del 3,6% por costo de vida para 2027",
+      "d": "Con un COLA del 3,6% para 2027, los cheques de beneficios de jubilación del Seguro Social aumentarán en $75 por mes, en promedio, dijo la agencia.",
+      "u": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:25:42+00:00"
     },
     {
       "h": "Stripchat loses legal fight against EU tech label",
@@ -36,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1MM_L.jpg",
       "published": "2026-10-14T15:24:30+00:00"
+    },
+    {
+      "h": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+      "es": "Fannie Mae eleva drásticamente la previsión de tipos hipotecarios para 2027",
+      "d": "Fannie Mae acaba de publicar su último pronóstico sobre las tasas hipotecarias, y son mucho más altas que las estimaciones anteriores.",
+      "u": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:20:53+00:00"
     },
     {
       "h": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
@@ -83,6 +236,15 @@
       "published": "2026-10-14T15:05:53+00:00"
     },
     {
+      "h": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+      "es": "Netflix despedirá a unos 1.000 empleados, o el 6% de su plantilla",
+      "d": "Netflix despedirá aproximadamente al 6% de su fuerza laboral, según un memorando obtenido por CNBC.",
+      "u": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:03:59+00:00"
+    },
+    {
       "h": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
       "es": "Irán dice que está “contando los momentos” hasta que pueda atacar buques de guerra estadounidenses; Atacan instalaciones de Saudi Aramco",
       "d": "Mientras tanto, la empresa Aramco de Arabia Saudita habría sido objeto de un nuevo ataque durante la noche.",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEHAH14G_L.jpg",
       "published": "2026-10-14T14:57:38+00:00"
-    },
-    {
-      "h": "Why is Robinhood Markets stock sliding today?",
-      "es": "¿Por qué las acciones de Robinhood Markets están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-sliding-today-93CH-4949652",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Robinhood_800x533_L_1612383968.jpg",
-      "published": "2026-10-14T14:45:49+00:00"
-    },
-    {
-      "h": "Here's the inflation breakdown for September 2026 — in one chart",
-      "es": "Aquí está el desglose de la inflación para septiembre de 2026, en un gráfico",
-      "d": "El índice de precios al consumidor aumentó un 3,7% en septiembre, debido al aumento de los precios de la gasolina y la energía debido en gran parte a la guerra de Irán.",
-      "u": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T14:44:05+00:00"
-    },
-    {
-      "h": "Crown Castle stock may move 3.5% on Oct. 21 earnings report",
-      "es": "Las acciones de Crown Castle pueden moverse un 3,5% en el informe de ganancias del 21 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crown-castle-stock-may-move-35-on-oct-21-earnings-report-93CH-4949650",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-14T14:43:38+00:00"
-    },
-    {
-      "h": "United Rentals stock may move 7.7% on Oct. 21 earnings report",
-      "es": "Las acciones de United Rentals pueden moverse un 7,7% en el informe de ganancias del 21 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/united-rentals-stock-may-move-77-on-oct-21-earnings-report-93CH-4949649",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-14T14:43:29+00:00"
-    },
-    {
-      "h": "Mexico to require digital platforms to protect minors from violent, sexual content",
-      "es": "México exigirá plataformas digitales para proteger a menores de contenido sexual violento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-to-require-digital-platforms-to-protect-minors-from-violent-sexual-content-4949581",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1GC_L.jpg",
-      "published": "2026-10-14T14:43:08+00:00"
-    },
-    {
-      "h": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-      "es": "Los hutíes de Yemen prometen más ataques contra aeropuertos e instalaciones petroleras saudíes tras el ataque a la sede de Aramco",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg",
-      "published": "2026-10-14T14:42:52+00:00"
-    },
-    {
-      "h": "Why is GE Vernova stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de GE Vernova hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-sliding-today-93CH-4949647",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-14T14:42:16+00:00"
-    },
-    {
-      "h": "Why is Bending Spoons stock surging today?",
-      "es": "¿Por qué están aumentando las acciones de Bending Spoons hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bending-spoons-stock-surging-today-93CH-4949646",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK42093_L.jpg",
-      "published": "2026-10-14T14:41:23+00:00"
-    },
-    {
-      "h": "Why is Cerebras Systems stock sliding to a new 52-week low today?",
-      "es": "¿Por qué las acciones de Cerebras Systems están cayendo hoy a un nuevo mínimo de 52 semanas?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-to-a-new-52week-low-today-93CH-4949645",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg",
-      "published": "2026-10-14T14:39:26+00:00"
-    },
-    {
-      "h": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
-      "es": "Bending Spoons se dispara un 35% mientras Berkshire Hathaway realiza una inversión de 330 millones de dólares",
-      "d": "La última inversión de Berkshire se produce tras los 600 millones de dólares que invirtió en la oferta pública inicial de la empresa en julio.",
-      "u": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T14:39:21+00:00"
-    },
-    {
-      "h": "Why does Morgan Stanley see more to SpaceX than rockets and satellites?",
-      "es": "¿Por qué Morgan Stanley ve más en SpaceX que cohetes y satélites?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-does-morgan-stanley-see-more-to-spacex-than-rockets-and-satellites-4949644",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L0RX_L.jpg",
-      "published": "2026-10-14T14:38:15+00:00"
-    },
-    {
-      "h": "Thermo Fisher options suggest 5.1% move on Oct. 21 earnings",
-      "es": "Las opciones de Thermo Fisher sugieren un movimiento del 5,1% en las ganancias del 21 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/thermo-fisher-options-suggest-51-move-on-oct-21-earnings-93CH-4949643",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-14T14:38:11+00:00"
-    },
-    {
-      "h": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-      "es": "Los votantes latinos del sur de Texas que votaron por Trump en 2024 están en juego en 2026",
-      "d": "Los votantes hispanos y latinos se inclinaron fuertemente por el presidente Donald Trump en 2024, pero en las elecciones de mitad de período de 2026, los demócratas están presionando para recuperarlos.",
-      "u": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T14:25:40+00:00"
-    },
-    {
-      "h": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-      "es": "Charles Schwab y DoorDash se encuentran entre las acciones de ganga que podrían impulsar el mercado al alza",
-      "d": "Se espera que el crecimiento de las ganancias del tercer trimestre esté impulsado por las empresas de energía y semiconductores, pero ¿qué pasa si el resto del mercado aparece? HSBC prevé que el mercado de valores finalmente se ampliará.",
-      "u": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-60761666",
-      "published": "2026-10-14T14:17:00+00:00"
-    },
-    {
-      "h": "How Iran’s $2 trillion threat puts your AI stocks at risk",
-      "es": "Cómo la amenaza de 2 billones de dólares de Irán pone en riesgo sus acciones de IA",
-      "d": "La Reserva Federal admite que no puede frenar el gasto frenético de las grandes empresas tecnológicas. Teherán dice que puede hacerlo y simplemente nombró los objetivos.",
-      "u": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-01480512",
-      "published": "2026-10-14T14:17:00+00:00"
-    },
-    {
-      "h": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-      "es": "Los precios del petróleo suben después de que la AIE advirtiera sobre las limitaciones del mercado; Funcionarios sauditas dicen que las instalaciones de Aramco fueron atacadas",
-      "d": "Las preocupaciones sobre las interrupciones del suministro debido a las crecientes tensiones en el Medio Oriente ayudaron a impulsar los precios del petróleo.",
-      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T14:08:16+00:00"
-    },
-    {
-      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "es": "Bank of America suma la pérdida de ganancias a la miseria de una multa gubernamental de 1.200 millones de dólares",
-      "d": "Las acciones de Bank of America caen a medida que la decepción de los inversores por la multa gubernamental de 1.200 millones de dólares se sumó al pesimista informe de ganancias del banco.",
-      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86270203",
-      "published": "2026-10-14T14:08:00+00:00"
-    },
-    {
-      "h": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-      "es": "Las acciones de Bank of America caen un 8% tras la pérdida de ingresos del tercer trimestre y la sanción regulatoria",
-      "d": "Las acciones de Bank of America cayeron el miércoles después de que la compañía registrara ingresos comerciales más débiles de lo esperado y el impacto de una multa del Tesoro de 1.200 millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-14T14:07:44+00:00"
     }
   ],
   "sources": [
