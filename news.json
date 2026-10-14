@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-14T08:15:57.827357+00:00",
+  "updated": "2026-10-14T08:56:34.423208+00:00",
   "news": [
+    {
+      "h": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "es": "ASML dice que recibirá interés por pedidos hasta 2030, ya que las ganancias superan las expectativas",
+      "d": "ASML dijo que algunos clientes están \"expresando interés\" en realizar pedidos a la compañía en 2029 y 2030, lo que brindará a los inversores una visión de la demanda a más largo plazo.",
+      "u": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T08:45:13+00:00"
+    },
+    {
+      "h": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
+      "es": "El líder de Chip, ASML, dice que los clientes ya están solicitando realizar pedidos, para 2030",
+      "d": "El proveedor holandés de la industria de semiconductores afirmó que hay un gran interés en realizar pedidos para 2029 y 2030.",
+      "u": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-34935460",
+      "published": "2026-10-14T08:41:00+00:00"
+    },
+    {
+      "h": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.33%",
+      "es": "Las bolsas de Indonesia cierran al alza; El índice compuesto IDX sube un 0,33%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-033-4948357",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE310G7_M.jpg",
+      "published": "2026-10-14T08:30:03+00:00"
+    },
+    {
+      "h": "Why is Skandinaviska Enskilda Banken stock falling today?",
+      "es": "¿Por qué están cayendo hoy las acciones del Skandinaviska Enskilda Banken?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-skandinaviska-enskilda-banken-stock-falling-today-93CH-4948356",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-10-14T08:27:03+00:00"
+    },
+    {
+      "h": "Ukraine says SpaceX limits Starlink operations, disrupting military",
+      "es": "Ucrania dice que SpaceX limita las operaciones de Starlink, perturbando el ejército",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ukraine-says-spacex-limits-starlink-operations-disrupting-military-4948343",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0IA_L.jpg",
+      "published": "2026-10-14T08:24:27+00:00"
+    },
+    {
+      "h": "Chemring rises on $170 million U.S. radar altimeter supply deal",
+      "es": "Chemring asciende con acuerdo de suministro de altímetro de radar de EE. UU. por valor de 170 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chemring-rises-on-170-million-us-radar-altimeter-supply-deal-93CH-4948315",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-14T08:19:55+00:00"
+    },
+    {
+      "h": "New ASX boss wants to accelerate move to one-day settlement in Australia",
+      "es": "El nuevo jefe de ASX quiere acelerar el paso a un acuerdo de un día en Australia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/new-asx-boss-wants-to-accelerate-move-to-oneday-settlement-in-australia-4948314",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0BV_L.jpg",
+      "published": "2026-10-14T08:19:31+00:00"
+    },
+    {
+      "h": "Why is Avio stock surging today?",
+      "es": "¿Por qué las acciones de Avio están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-avio-stock-surging-today-93CH-4948299",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-14T08:09:51+00:00"
+    },
+    {
+      "h": "DAX trapped in EUR 25350-25600 range: Live levels",
+      "es": "DAX atrapado en el rango EUR 25350-25600: niveles activos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dax-at-25359-faces-bull-trap-risk-near-2548125589-live-93CH-4943422",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-14T08:06:36+00:00"
+    },
+    {
+      "h": "Avio rises on deal with Lockheed Martin to expand solid rocket motor production",
+      "es": "Avio asciende a un acuerdo con Lockheed Martin para ampliar la producción de motores de cohetes sólidos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/avio-rises-on-deal-with-lockheed-martin-to-expand-solid-rocket-motor-production-4948292",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEF1J08A_M.jpg",
+      "published": "2026-10-14T08:04:04+00:00"
+    },
+    {
+      "h": "Big Yellow shares jump 5% as Ancora pushes UK storage firm to explore sale",
+      "es": "Las acciones de Big Yellow suben un 5% mientras Ancora impulsa a la empresa de almacenamiento del Reino Unido a explorar la venta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/big-yellow-shares-jump-5-as-ancora-pushes-uk-storage-firm-to-explore-sale-4948291",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Traders_800x533_L_1661164805.jpg",
+      "published": "2026-10-14T08:00:29+00:00"
+    },
     {
       "h": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
       "es": "La escasez de diésel durará hasta 2027, ya que la guerra de Irán interrumpe el suministro, dice la AIE",
@@ -9,6 +108,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T08:00:01+00:00"
+    },
+    {
+      "h": "Swiss Re dips as Jefferies downgrades stock on falling reinsurance prices",
+      "es": "Swiss Re cae mientras Jefferies rebaja la calificación de sus acciones por la caída de los precios de los reaseguros",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/swiss-re-dips-as-jefferies-downgrades-stock-on-falling-reinsurance-prices-4948278",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9S0U1_M.jpg",
+      "published": "2026-10-14T07:54:34+00:00"
     },
     {
       "h": "Why is Ørsted stock sliding today?",
@@ -162,114 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T07:07:56+00:00"
-    },
-    {
-      "h": "Japan stocks higher at close of trade; Nikkei 225 up 0.10%",
-      "es": "Las bolsas de valores de Japón cierran al alza; El Nikkei 225 sube un 0,10%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-010-4948180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB5B02O_M.jpg",
-      "published": "2026-10-14T07:00:05+00:00"
-    },
-    {
-      "h": "Ofwat proposes net £240 million cut in water bills over 2025-26 performance",
-      "es": "Ofwat propone un recorte neto de £240 millones de libras en las facturas de agua durante el período 2025-26",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ofwat-proposes-net-240-million-cut-in-water-bills-over-202526-performance-93CH-4948179",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-14T06:59:08+00:00"
-    },
-    {
-      "h": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
-      "es": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-10-14T06:55:12+00:00"
-    },
-    {
-      "h": "VinFast-linked taxi operator GSM launches US service in Los Angeles",
-      "es": "VinFast-linked taxi operator GSM launches US service in Los Angeles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vinfastlinked-taxi-operator-gsm-launches-us-service-in-los-angeles-4948165",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0IP_L.jpg",
-      "published": "2026-10-14T06:54:24+00:00"
-    },
-    {
-      "h": "'Spray and pray': How AI job applications can backfire",
-      "es": "'Spray and pray': How AI job applications can backfire",
-      "d": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "u": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
-      "published": "2026-10-14T06:52:33+00:00"
-    },
-    {
-      "h": "Starlink restricted Ukrainian military connectivity, Zelensky adviser says",
-      "es": "Starlink restricted Ukrainian military connectivity, Zelensky adviser says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starlink-restricted-ukrainian-military-connectivity-zelenskiy-adviser-says-4948152",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5A1HW_1200_L.jpg",
-      "published": "2026-10-14T06:42:53+00:00"
-    },
-    {
-      "h": "LSEG teams up with NVIDIA for faster market data processing",
-      "es": "LSEG teams up with NVIDIA for faster market data processing",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lseg-teams-up-with-nvidia-for-faster-market-data-processing-4948123",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0HH_L.jpg",
-      "published": "2026-10-14T06:30:50+00:00"
-    },
-    {
-      "h": "Nvidia pledges $250 million to boost UK AI safety research",
-      "es": "Nvidia pledges $250 million to boost UK AI safety research",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-pledges-250-million-to-boost-uk-ai-safety-research-4948124",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0HA_L.jpg",
-      "published": "2026-10-14T06:25:00+00:00"
-    },
-    {
-      "h": "As EU debates local-content rules, Chinese automakers are already adapting",
-      "es": "As EU debates local-content rules, Chinese automakers are already adapting",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-eu-debates-localcontent-rules-chinese-automakers-are-already-adapting-4946783",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C186_L.jpg",
-      "published": "2026-10-14T06:24:42+00:00"
-    },
-    {
-      "h": "This U.S. healthcare stock is Mizuho’s top pick after strong Q3 results",
-      "es": "This U.S. healthcare stock is Mizuho’s top pick after strong Q3 results",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/this-us-healthcare-stock-is-mizuhos-top-pick-after-strong-q3-results-4948121",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE3G0Q7_M.jpg",
-      "published": "2026-10-14T06:23:09+00:00"
-    },
-    {
-      "h": "UBS Highlights Top European Capital Goods Stocks Ahead of Earnings Season",
-      "es": "UBS Highlights Top European Capital Goods Stocks Ahead of Earnings Season",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubs-highlights-top-european-capital-goods-stocks-ahead-of-earnings-season-4948120",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SchneiderElectric_800x533_L_1663742438.jpg",
-      "published": "2026-10-14T06:22:18+00:00"
-    },
-    {
-      "h": "Standard Chartered gets licence to offer crypto trading in UAE",
-      "es": "Standard Chartered gets licence to offer crypto trading in UAE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/standard-chartered-gets-licence-to-offer-crypto-trading-in-uae-93CH-4948113",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-14T06:17:18+00:00"
     }
   ],
   "sources": [
