@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-14T07:04:18.744056+00:00",
+  "updated": "2026-10-14T07:44:05.663160+00:00",
   "news": [
+    {
+      "h": "Why is Evotec stock advancing today?",
+      "es": "¿Por qué avanzan las acciones de Evotec hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-evotec-stock-advancing-today-93CH-4948235",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-14T07:30:54+00:00"
+    },
+    {
+      "h": "FTSE 100 today: Stocks edge up ahead of U.S. CPI",
+      "es": "FTSE 100 hoy: Las acciones suben por delante del IPC de EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-ahead-of-us-cpi-4948223",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
+      "published": "2026-10-14T07:25:13+00:00"
+    },
+    {
+      "h": "European shares edge higher as ASML’s AI demand outlook boosts tech",
+      "es": "Las bolsas europeas suben a medida que las perspectivas de demanda de IA de ASML impulsan la tecnología",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-asmls-ai-demand-outlook-boosts-tech-4948222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0L3_L.jpg",
+      "published": "2026-10-14T07:24:55+00:00"
+    },
+    {
+      "h": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+      "es": "Las acciones europeas suben gracias al pronóstico de ventas de ASML; Se espera la prueba del IPC de EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-gain-on-asml-sales-forecast-us-cpi-test-awaited-4948177",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB860D7_M.jpg",
+      "published": "2026-10-14T07:24:18+00:00"
+    },
+    {
+      "h": "U.S. Treasury yields inch lower as investors await key inflation report",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. caen ligeramente mientras los inversores esperan el informe clave sobre inflación",
+      "d": "Los rendimientos de los bonos del Tesoro estadounidense cayeron ligeramente el miércoles mientras los inversores esperaban la última lectura de inflación del IPC antes de una avalancha de datos económicos esta semana.",
+      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T07:21:38+00:00"
+    },
+    {
+      "h": "Why is PNE stock collapsing today?",
+      "es": "¿Por qué las acciones de PNE están colapsando hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pne-stock-collapsing-today-93CH-4948218",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-14T07:20:53+00:00"
+    },
+    {
+      "h": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+      "es": "Cientos de empleados de Royal Mail renuncian cada semana bajo nuevos planes de eficiencia",
+      "d": "El CWU dice que se están yendo más funcionarios desde que se introdujo un nuevo sistema de entrega que, según afirma, no funciona en cientos de oficinas.",
+      "u": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-14T07:18:08+00:00"
+    },
+    {
+      "h": "Why is ASML stock rallying today?",
+      "es": "¿Por qué las acciones de ASML están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-asml-stock-rallying-today-93CH-4948202",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-14T07:14:00+00:00"
+    },
+    {
+      "h": "Hang Seng tests 38.2% Fib resistance at 24,652: Live levels",
+      "es": "Hang Seng prueba una resistencia de Fib del 38,2% en 24.652: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-10-14T07:11:36+00:00"
+    },
+    {
+      "h": "Russia pounds Ukraine's energy infrastructure, leaving 600,000 without power",
+      "es": "Rusia golpea la infraestructura energética de Ucrania y deja a 600.000 personas sin electricidad",
+      "d": "Un misil balístico ha impactado infraestructura energética supuestamente cubierta por el \"alto el fuego energético\" anunciado por Trump el domingo, afirmó Zelenskyy.",
+      "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T07:07:56+00:00"
+    },
+    {
+      "h": "Japan stocks higher at close of trade; Nikkei 225 up 0.10%",
+      "es": "Las bolsas de valores de Japón cierran al alza; El Nikkei 225 sube un 0,10%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-010-4948180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB5B02O_M.jpg",
+      "published": "2026-10-14T07:00:05+00:00"
+    },
+    {
+      "h": "Ofwat proposes net £240 million cut in water bills over 2025-26 performance",
+      "es": "Ofwat propone un recorte neto de £240 millones de libras en las facturas de agua durante el período 2025-26",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ofwat-proposes-net-240-million-cut-in-water-bills-over-202526-performance-93CH-4948179",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-14T06:59:08+00:00"
+    },
     {
       "h": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
       "es": "Wall St futures little changed ahead of CPI data; ASML earnings in focus",
@@ -137,6 +245,15 @@
       "published": "2026-10-14T05:23:23+00:00"
     },
     {
+      "h": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+      "es": "Juez extiende bloqueo a la prohibición de MS NOW, CNN y Politico en la Casa Blanca de Trump",
+      "d": "El presidente Donald Trump había tratado de prohibir a los medios de comunicación MS NOW, CNN y Politico informar desde la Casa Blanca.",
+      "u": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T05:19:36+00:00"
+    },
+    {
       "h": "Heating oil users face fuel or food winter choice'",
       "es": "Los usuarios de gasóleo para calefacción se enfrentan a la elección del combustible o de los alimentos durante el invierno.",
       "d": "Se produce cuando los ministros dicen que endurecerán las normas sobre el combustible para calefacción y promoverán la competencia.",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXNPEK270M1_L.jpg",
       "published": "2026-10-14T05:12:41+00:00"
-    },
-    {
-      "h": "ASML forecasts Q4 sales above expectations on AI chip demand",
-      "es": "ASML pronostica ventas del cuarto trimestre por encima de las expectativas en cuanto a la demanda de chips de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asml-forecasts-q4-sales-above-expectations-on-ai-chip-demand-4948021",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0CK_L.jpg",
-      "published": "2026-10-14T05:12:22+00:00"
-    },
-    {
-      "h": "SK Hynix oversold at KRW 1,453,000 in steep downtrend: Live",
-      "es": "SK Hynix oversold at KRW 1,453,000 in steep downtrend: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-14T05:06:38+00:00"
-    },
-    {
-      "h": "Nikkei 225 boxed in 67,600-69,400 range: Live levels",
-      "es": "Nikkei 225 boxed in 67,600-69,400 range: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-14T05:06:18+00:00"
-    },
-    {
-      "h": "Geely’s 34% stake in Ford España gets China approval",
-      "es": "La participación del 34% de Geely en Ford España obtiene la aprobación de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/geelys-34-stake-in-ford-espana-gets-china-approval-93CH-4948019",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECA81GU_M.jpg",
-      "published": "2026-10-14T05:05:31+00:00"
-    },
-    {
-      "h": "Why is Akeso stock sliding today?",
-      "es": "¿Por qué las acciones de Akeso están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-akeso-stock-sliding-today-93CH-4948016",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-14T05:01:02+00:00"
-    },
-    {
-      "h": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-      "es": "No construir una tercera pista sería una \"gran oportunidad perdida\", advierte el jefe de Heathrow",
-      "d": "Thomas Woldbye afirma en el programa Today que sería \"bueno conocer\" la posición del Gobierno sobre el proyecto, tras las declaraciones del Primer Ministro.",
-      "u": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-10-14T04:59:06+00:00"
-    },
-    {
-      "h": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
-      "es": "Jefes de criptomonedas, directores ejecutivos y F1: el auge de los eventos empresariales en Singapur se acelera",
-      "d": "La semana de carreras de Fórmula 1 en Singapur es un importante atractivo comercial ya que un número creciente de conferencias coinciden con el Gran Premio.",
-      "u": "https://www.cnbc.com/2026/10/14/crypto-bosses-ceos-and-f1-singapore-events-boom-gathers-pace-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T04:41:29+00:00"
-    },
-    {
-      "h": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-      "es": "'Godzilla El Niño' está causando estragos en las previsiones de inflación del banco central filipino",
-      "d": "El banco central filipino está elaborando escenarios políticos para un severo El Niño además del shock petrolero, con la inflación en su nivel más alto en tres años.",
-      "u": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T04:24:28+00:00"
-    },
-    {
-      "h": "Olympus shares hit 12-week low after FDA warning over quality systems",
-      "es": "Las acciones de Olympus alcanzaron su mínimo de 12 semanas después de que la FDA advirtiera sobre los sistemas de calidad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/olympus-shares-hit-12week-low-after-fda-warning-over-quality-systems-4947987",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEF7S0K6_L.jpg",
-      "published": "2026-10-14T04:20:24+00:00"
-    },
-    {
-      "h": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-      "es": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-      "d": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
-      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T04:07:00+00:00"
-    },
-    {
-      "h": "Gift Nifty 50 tests Fibonacci resistance after breakout: Live levels",
-      "es": "Gift Nifty 50 prueba la resistencia de Fibonacci después de la ruptura: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-14T04:02:52+00:00"
-    },
-    {
-      "h": "Why is Olympus stock plunging today?",
-      "es": "¿Por qué se están desplomando las acciones de Olympus hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-olympus-stock-plunging-today-93CH-4947968",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-14T04:02:52+00:00"
-    },
-    {
-      "h": "Why is J.Front Retailing stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de J.Front Retailing hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-jfront-retailing-stock-sliding-today-93CH-4947967",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-14T04:02:49+00:00"
     }
   ],
   "sources": [
