@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-14T13:49:19.458011+00:00",
+  "updated": "2026-10-14T14:17:06.599268+00:00",
   "news": [
+    {
+      "h": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+      "es": "Los precios del petróleo suben después de que la AIE advirtiera sobre las limitaciones del mercado; Funcionarios sauditas dicen que las instalaciones de Aramco fueron atacadas",
+      "d": "Las preocupaciones sobre las interrupciones del suministro debido a las crecientes tensiones en el Medio Oriente ayudaron a impulsar los precios del petróleo.",
+      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T14:08:16+00:00"
+    },
+    {
+      "h": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "es": "Las acciones de Bank of America caen un 8% tras la pérdida de ingresos del tercer trimestre y la sanción regulatoria",
+      "d": "Las acciones de Bank of America cayeron el miércoles después de que la compañía registrara ingresos comerciales más débiles de lo esperado y el impacto de una multa del Tesoro de 1.200 millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-14T14:07:44+00:00"
+    },
+    {
+      "h": "Netflix is laying off roughly 6% of its workforce",
+      "es": "Netflix despedirá aproximadamente al 6% de su plantilla",
+      "d": "Netflix despedirá aproximadamente al 6% de su fuerza laboral, según un memorando obtenido por CNBC.",
+      "u": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T14:06:57+00:00"
+    },
+    {
+      "h": "Factbox-Tech leaders, governments split over ’AI doom’ fears",
+      "es": "Líderes tecnológicos y gobiernos divididos por los temores de la 'destrucción de la IA'",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxtech-leaders-governments-split-over-ai-doom-fears-4949457",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM8K0VE_L.jpg",
+      "published": "2026-10-14T13:54:25+00:00"
+    },
+    {
+      "h": "CoreWeave shares sink 13% as Musk’s ‘Yikes’ highlights AI debt concerns",
+      "es": "Las acciones de CoreWeave se hunden un 13% mientras los 'Ay' de Musk resaltan las preocupaciones sobre la deuda de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coreweave-shares-sink-13-as-musks-yikes-highlights-ai-debt-concerns-4949553",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEI3N0ER_L.jpg",
+      "published": "2026-10-14T13:50:06+00:00"
+    },
+    {
+      "h": "CoreWeave stock falls sharply: Key support levels and buy the dip outlook",
+      "es": "Las acciones de CoreWeave caen bruscamente: niveles de soporte clave y perspectivas de compra en caída",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coreweave-stock-falls-sharply-key-support-levels-and-buy-the-dip-outlook-93CH-4949550",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "published": "2026-10-14T13:49:09+00:00"
+    },
+    {
+      "h": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+      "es": "El rendimiento de los bonos del Tesoro a 10 años aumenta a medida que la inflación subyacente de septiembre es más alta de lo esperado",
+      "d": "Los rendimientos de los bonos del Tesoro subieron después de la última lectura de inflación.",
+      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T13:48:01+00:00"
+    },
     {
       "h": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
       "es": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
@@ -29,6 +92,15 @@
       "published": "2026-10-14T13:45:13+00:00"
     },
     {
+      "h": "ServiceNow denies interest in acquiring Decagon",
+      "es": "ServiceNow niega interés en adquirir Decagon",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/servicenow-denies-interest-in-acquiring-decagon-4949535",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK0O00R_L.jpg",
+      "published": "2026-10-14T13:45:08+00:00"
+    },
+    {
       "h": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
       "es": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
       "d": "”I earn $110,000 a year.”",
@@ -36,6 +108,33 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-81504476",
       "published": "2026-10-14T13:45:00+00:00"
+    },
+    {
+      "h": "Why is DNO stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de DNO hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-dno-stock-surging-today-93CH-4949521",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-14T13:42:49+00:00"
+    },
+    {
+      "h": "Why is Panoro Energy stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Panoro Energy hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-panoro-energy-stock-rallying-today-93CH-4949520",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB050EH_M.jpg",
+      "published": "2026-10-14T13:42:26+00:00"
+    },
+    {
+      "h": "Why is Technoprobe stock slipping today?",
+      "es": "¿Por qué están cayendo las acciones de Technoprobe hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-technoprobe-stock-slipping-today-93CH-4949516",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-14T13:41:15+00:00"
     },
     {
       "h": "Wall St opens lower after hot CPI data fuels rate-hike bets",
@@ -164,112 +263,13 @@
       "published": "2026-10-14T13:17:00+00:00"
     },
     {
-      "h": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
-      "es": "Los precios al consumidor aumentaron a una tasa anual del 3,7% en septiembre a medida que los costos del gas se disparan",
-      "d": "Se esperaba que el índice de precios al consumidor aumentara un 0,6% mensual en septiembre y un 3,6% respecto al año anterior, según el pronóstico de consenso del Dow Jones.",
-      "u": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-      "s": "CNBC",
+      "h": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "es": "Morgan Stanley supera las estimaciones, ya que los ingresos por operaciones de acciones superan las expectativas en 909 millones de dólares",
+      "d": "Morgan Stanley superó las expectativas en términos de resultados y resultados para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "s": "CNBC Markets",
       "img": "",
-      "published": "2026-10-14T13:06:23+00:00"
-    },
-    {
-      "h": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "es": "Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el miércoles",
-      "d": "El informe del IPC de septiembre fue muy interesante y las operaciones con acciones de Morgan Stanley superaron las expectativas.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T12:59:49+00:00"
-    },
-    {
-      "h": "Trump's diesel dilemma — by the numbers",
-      "es": "El dilema del diésel de Trump: en cifras",
-      "d": "Los conflictos en Ucrania e Irán han creado importantes efectos en cadena en los mercados energéticos mundiales, provocando importantes oscilaciones de precios.",
-      "u": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T12:58:53+00:00"
-    },
-    {
-      "h": "US inflation rises more than expected ahead of midterm elections",
-      "es": "La inflación en EE.UU. sube más de lo esperado antes de las elecciones de mitad de mandato",
-      "d": "El ritmo de aumento de precios aumentó al 3,7% en el año hasta septiembre, impulsado por el aumento de los costos del combustible para motores.",
-      "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e5/live/6a630810-c40d-11f1-838e-6d1d6d701264.jpg",
-      "published": "2026-10-14T12:47:07+00:00"
-    },
-    {
-      "h": "Japan Airlines orders up to 26 Embraer jets for regional unit",
-      "es": "Japan Airlines encarga hasta 26 aviones Embraer para unidad regional",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-airlines-orders-up-to-26-embraer-jets-for-regional-unit-93CH-4949266",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-14T12:45:16+00:00"
-    },
-    {
-      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.74%",
-      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 1,74%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-174-4949263",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
-      "published": "2026-10-14T12:45:03+00:00"
-    },
-    {
-      "h": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-      "es": "Charles Schwab y DoorDash se encuentran entre las acciones de ganga que podrían impulsar el mercado al alza",
-      "d": "Se espera que el crecimiento de las ganancias del tercer trimestre esté impulsado por las empresas de energía y semiconductores, pero ¿qué pasa si el resto del mercado aparece? HSBC prevé que el mercado de valores finalmente se amplíe.",
-      "u": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-60761666",
-      "published": "2026-10-14T12:45:00+00:00"
-    },
-    {
-      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "es": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "d": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86270203",
-      "published": "2026-10-14T12:45:00+00:00"
-    },
-    {
-      "h": "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries",
-      "es": "Japón invertirá hasta 21 mil millones de dólares en dos fábricas de chips en EE. UU. que serán administradas por GlobalFoundries",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries-4949222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D19O_L.jpg",
-      "published": "2026-10-14T12:43:30+00:00"
-    },
-    {
-      "h": "GlobalFoundries shares jump on $21 bln U.S.-Japan chip deal",
-      "es": "Las acciones de GlobalFoundries suben gracias al acuerdo de chips entre Estados Unidos y Japón por 21.000 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/globalfoundries-shares-jump-on-21-bln-usjapan-chip-deal-4949257",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-14T12:42:39+00:00"
-    },
-    {
-      "h": "RBC swaps tech for health care, downgrades materials",
-      "es": "RBC cambia tecnología por atención médica y rebaja materiales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rbc-swaps-tech-for-health-care-downgrades-materials-4949220",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
-      "published": "2026-10-14T12:35:35+00:00"
-    },
-    {
-      "h": "Jefferies upgrades Texas Roadhouse to Buy, citing overdone pullback; shares rise",
-      "es": "Jefferies actualiza Texas Roadhouse a Buy, citando un retroceso exagerado; las acciones suben",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-texas-roadhouse-to-buy-citing-overdone-pullback-shares-rise-4949219",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
-      "published": "2026-10-14T12:35:14+00:00"
+      "published": "2026-10-14T13:11:07+00:00"
     }
   ],
   "sources": [
