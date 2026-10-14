@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-14T00:02:48.380849+00:00",
+  "updated": "2026-10-14T00:45:21.133433+00:00",
   "news": [
+    {
+      "h": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "es": "El crecimiento del PIB del tercer trimestre de Singapur se suaviza desde el máximo de cuatro años, pero supera las estimaciones",
+      "d": "La cifra del PIB superó las expectativas de un crecimiento del 5% de los economistas encuestados por Reuters.",
+      "u": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T00:28:34+00:00"
+    },
+    {
+      "h": "Galderma to buy Zo Skin from Blackstone for $1.5 bln, Reuters reports",
+      "es": "Galderma comprará Zo Skin de Blackstone por 1.500 millones de dólares, informa Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/galderma-to-buy-zo-skin-from-blackstone-for-15-bln-reuters-reports-4947772",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CosmeticsSkinCare_800x533_L_1641974468.jpg",
+      "published": "2026-10-14T00:25:06+00:00"
+    },
+    {
+      "h": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "es": "Nasdaq cierra a la baja mientras caen los fabricantes de chips y aumentan las ganancias bancarias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0TE_L.jpg",
+      "published": "2026-10-13T23:30:41+00:00"
+    },
+    {
+      "h": "Why is Enovix stock surging after-hours today?",
+      "es": "¿Por qué las acciones de Enovix están subiendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-enovix-stock-surging-afterhours-today-93CH-4947710",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-13T23:25:33+00:00"
+    },
+    {
+      "h": "Exclusive-Galderma agrees to buy ZO Skin Health for around $1.5 billion, sources say",
+      "es": "Exclusive-Galderma acuerda comprar ZO Skin Health por unos 1.500 millones de dólares, según fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivegalderma-agrees-to-buy-zo-skin-health-for-around-15-billion-sources-say-4947708",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C218_L.jpg",
+      "published": "2026-10-13T23:24:25+00:00"
+    },
     {
       "h": "How long will humans be needed for translation?",
       "es": "¿Cuánto tiempo se necesitarán humanos para la traducción?",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
       "published": "2026-10-13T21:20:03+00:00"
-    },
-    {
-      "h": "Six Flags shares decline following deadly roller coaster incident",
-      "es": "Las acciones de Six Flags caen tras el mortal incidente en la montaña rusa",
-      "d": "Según los informes, una persona murió y varias más resultaron heridas en un incidente relacionado con la montaña rusa Goliath en Six Flags Over Georgia.",
-      "u": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T21:18:03+00:00"
-    },
-    {
-      "h": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-      "es": "Juez dice que Musk participó en la intimidación de la ex directora financiera de FEMA, Mary Comans, limpia su nombre",
-      "d": "El nombre de la ex directora financiera de FEMA, Mary Comans, fue limpiado por un juez federal después de que Elon Musk y otros funcionarios del gobierno la acusaran falsamente de acciones criminales en 2025.",
-      "u": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T21:15:32+00:00"
-    },
-    {
-      "h": "Harbour Island Acquisition prices $100M IPO on Nasdaq",
-      "es": "La adquisición de Harbour Island cotiza una oferta pública inicial de 100 millones de dólares en Nasdaq",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/harbour-island-acquisition-prices-100m-ipo-on-nasdaq-432SI-4947573",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-13T21:12:03+00:00"
-    },
-    {
-      "h": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
-      "es": "Empleado nacional saudita de OpenAI arrestado después de que se colocara en su oficina un 'sofisticado dispositivo de grabación'",
-      "d": "El incidente del martes se produce cuando el fabricante de ChatGPT, junto con sus competidores, enfrenta un mayor escrutinio sobre sus prácticas de seguridad.",
-      "u": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T21:08:45+00:00"
-    },
-    {
-      "h": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-      "es": "Anthropic revelará nuevas cifras de ingresos a medida que las finanzas del laboratorio de IA se vuelven fundamentales para el comercio tecnológico",
-      "d": "Anthropic publicará estados financieros actualizados a un grupo de inversores reunidos en su sede esta semana, según personas familiarizadas con el asunto.",
-      "u": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-13T21:02:52+00:00"
     }
   ],
   "sources": [
