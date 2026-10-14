@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-14T14:55:33.913658+00:00",
+  "updated": "2026-10-14T15:30:54.219391+00:00",
   "news": [
+    {
+      "h": "US inflation rises more than expected - here's what is happening with prices",
+      "es": "La inflación estadounidense aumenta más de lo esperado: esto es lo que está sucediendo con los precios",
+      "d": "El ritmo de aumento de precios aumentó al 3,7% en el año hasta septiembre, impulsado por el aumento de los costos del combustible para motores.",
+      "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+      "published": "2026-10-14T15:26:14+00:00"
+    },
+    {
+      "h": "Stripchat loses legal fight against EU tech label",
+      "es": "Stripchat pierde la lucha legal contra la etiqueta tecnológica de la UE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stripchat-loses-legal-fight-against-eu-tech-label-4948265",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0MQ_L.jpg",
+      "published": "2026-10-14T15:25:32+00:00"
+    },
+    {
+      "h": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
+      "es": "Un empleado de OpenAI que se fue a Apple tomó archivos sobre un dispositivo inédito, alega OpenAI",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges-4949701",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1MJ_L.jpg",
+      "published": "2026-10-14T15:25:02+00:00"
+    },
+    {
+      "h": "Bank of America says it has completed a lot of work on consent order",
+      "es": "Bank of America dice que ha completado mucho trabajo sobre la orden de consentimiento",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-says-it-has-completed-a-lot-of-work-on-consent-order-4949700",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1MM_L.jpg",
+      "published": "2026-10-14T15:24:30+00:00"
+    },
+    {
+      "h": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "es": "Larry Fink de BlackRock advierte que una moratoria de los centros de datos podría desencadenar una recesión",
+      "d": "La oposición local a la construcción de centros de datos ha sido una característica de las elecciones de mitad de período previstas para el martes 3 de noviembre.",
+      "u": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:19:08+00:00"
+    },
+    {
+      "h": "S&P revises Otter Tail outlook to stable on capex growth and PVC segment softening",
+      "es": "S&P revisa la perspectiva de Otter Tail a estable debido al crecimiento del gasto de capital y el debilitamiento del segmento de PVC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-revises-otter-tail-outlook-to-stable-on-capex-growth-and-pvc-segment-softening-4949695",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
+      "published": "2026-10-14T15:16:33+00:00"
+    },
+    {
+      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.22%",
+      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,22%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-022-4949693",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7H0NX_M.jpg",
+      "published": "2026-10-14T15:15:03+00:00"
+    },
+    {
+      "h": "Netflix cuts about 6% of jobs in biggest layoff since 2022",
+      "es": "Netflix recorta alrededor del 6% de los puestos de trabajo en el mayor despido desde 2022",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netflix-cuts-about-6-of-jobs-wsj-reports-4949456",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1CR_L.jpg",
+      "published": "2026-10-14T15:07:03+00:00"
+    },
+    {
+      "h": "Top transportation stocks: UPS, FedEx, and Delta compared by value and momentum",
+      "es": "Principales acciones de transporte: UPS, FedEx y Delta comparadas por valor e impulso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE13090_M.jpg",
+      "published": "2026-10-14T15:05:53+00:00"
+    },
+    {
+      "h": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+      "es": "Irán dice que está “contando los momentos” hasta que pueda atacar buques de guerra estadounidenses; Atacan instalaciones de Saudi Aramco",
+      "d": "Mientras tanto, la empresa Aramco de Arabia Saudita habría sido objeto de un nuevo ataque durante la noche.",
+      "u": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T15:03:35+00:00"
+    },
+    {
+      "h": "Adobe value analysis: low P/E, high ROIC, and fair-value upside",
+      "es": "Análisis de valor de Adobe: P/E bajo, ROIC alto y ventaja del valor razonable",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/adobe-value-analysis-low-pe-high-roic-and-fairvalue-upside-93CH-4949679",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J10M_1200_L.jpg",
+      "published": "2026-10-14T15:02:54+00:00"
+    },
+    {
+      "h": "Robinhood Markets bull and bear case ahead of Oct 27 earnings",
+      "es": "Caso alcista y bajista de Robinhood Markets antes de las ganancias del 27 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/robinhood-markets-bull-and-bear-case-ahead-of-oct-27-earnings-93CH-4949672",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAH14G_L.jpg",
+      "published": "2026-10-14T14:57:38+00:00"
+    },
     {
       "h": "Why is Robinhood Markets stock sliding today?",
       "es": "¿Por qué las acciones de Robinhood Markets están cayendo hoy?",
@@ -162,114 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-14T14:07:44+00:00"
-    },
-    {
-      "h": "Netflix is laying off roughly 6% of its workforce",
-      "es": "Netflix despedirá aproximadamente al 6% de su plantilla",
-      "d": "Netflix despedirá aproximadamente al 6% de su fuerza laboral, según un memorando obtenido por CNBC.",
-      "u": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T14:06:57+00:00"
-    },
-    {
-      "h": "Factbox-Tech leaders, governments split over ’AI doom’ fears",
-      "es": "Líderes tecnológicos y gobiernos divididos por los temores de la 'destrucción de la IA'",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxtech-leaders-governments-split-over-ai-doom-fears-4949457",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM8K0VE_L.jpg",
-      "published": "2026-10-14T13:54:25+00:00"
-    },
-    {
-      "h": "CoreWeave shares sink 13% as Musk’s ‘Yikes’ highlights AI debt concerns",
-      "es": "Las acciones de CoreWeave se hunden un 13% mientras los 'Ay' de Musk resaltan las preocupaciones sobre la deuda de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coreweave-shares-sink-13-as-musks-yikes-highlights-ai-debt-concerns-4949553",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEI3N0ER_L.jpg",
-      "published": "2026-10-14T13:50:06+00:00"
-    },
-    {
-      "h": "CoreWeave stock falls sharply: Key support levels and buy the dip outlook",
-      "es": "Las acciones de CoreWeave caen bruscamente: niveles de soporte clave y perspectivas de compra en caída",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coreweave-stock-falls-sharply-key-support-levels-and-buy-the-dip-outlook-93CH-4949550",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "published": "2026-10-14T13:49:09+00:00"
-    },
-    {
-      "h": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
-      "es": "El rendimiento de los bonos del Tesoro a 10 años aumenta a medida que la inflación subyacente de septiembre es más alta de lo esperado",
-      "d": "Los rendimientos de los bonos del Tesoro subieron después de la última lectura de inflación.",
-      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T13:48:01+00:00"
-    },
-    {
-      "h": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "es": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "d": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
-      "u": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-53524004",
-      "published": "2026-10-14T13:46:00+00:00"
-    },
-    {
-      "h": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "es": "Driving test waits fall to two-year low - but still average 20 weeks",
-      "d": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-      "u": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a5/live/6ec3c040-c7d5-11f1-9671-5b70c6e774ea.jpg",
-      "published": "2026-10-14T13:45:34+00:00"
-    },
-    {
-      "h": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "es": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "d": "The Social Security Administration has announced a 3.6% cost-of-living adjustment for 2027.",
-      "u": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T13:45:13+00:00"
-    },
-    {
-      "h": "ServiceNow denies interest in acquiring Decagon",
-      "es": "ServiceNow niega interés en adquirir Decagon",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/servicenow-denies-interest-in-acquiring-decagon-4949535",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK0O00R_L.jpg",
-      "published": "2026-10-14T13:45:08+00:00"
-    },
-    {
-      "h": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-      "es": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-      "d": "”I earn $110,000 a year.”",
-      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81504476",
-      "published": "2026-10-14T13:45:00+00:00"
-    },
-    {
-      "h": "Why is DNO stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de DNO hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dno-stock-surging-today-93CH-4949521",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-14T13:42:49+00:00"
-    },
-    {
-      "h": "Why is Panoro Energy stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Panoro Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-panoro-energy-stock-rallying-today-93CH-4949520",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB050EH_M.jpg",
-      "published": "2026-10-14T13:42:26+00:00"
     }
   ],
   "sources": [
