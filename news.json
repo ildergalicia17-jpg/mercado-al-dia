@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-14T12:23:08.637695+00:00",
+  "updated": "2026-10-14T13:09:37.458526+00:00",
   "news": [
+    {
+      "h": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
+      "es": "Los precios al consumidor aumentaron a una tasa anual del 3,7% en septiembre a medida que los costos del gas se disparan",
+      "d": "Se esperaba que el índice de precios al consumidor aumentara un 0,6% mensual en septiembre y un 3,6% respecto al año anterior, según el pronóstico de consenso del Dow Jones.",
+      "u": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T13:06:23+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "es": "Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el miércoles",
+      "d": "El informe del IPC de septiembre fue muy interesante y las operaciones con acciones de Morgan Stanley superaron las expectativas.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T12:59:49+00:00"
+    },
+    {
+      "h": "Trump's diesel dilemma — by the numbers",
+      "es": "El dilema del diésel de Trump: en cifras",
+      "d": "Los conflictos en Ucrania e Irán han creado importantes efectos en cadena en los mercados energéticos mundiales, provocando importantes oscilaciones de precios.",
+      "u": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T12:58:53+00:00"
+    },
+    {
+      "h": "US inflation rises more than expected ahead of midterm elections",
+      "es": "La inflación en EE.UU. sube más de lo esperado antes de las elecciones de mitad de mandato",
+      "d": "El ritmo de aumento de precios aumentó al 3,7% en el año hasta septiembre, impulsado por el aumento de los costos del combustible para motores.",
+      "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e5/live/6a630810-c40d-11f1-838e-6d1d6d701264.jpg",
+      "published": "2026-10-14T12:47:07+00:00"
+    },
+    {
+      "h": "Japan Airlines orders up to 26 Embraer jets for regional unit",
+      "es": "Japan Airlines encarga hasta 26 aviones Embraer para unidad regional",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-airlines-orders-up-to-26-embraer-jets-for-regional-unit-93CH-4949266",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-14T12:45:16+00:00"
+    },
+    {
+      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.74%",
+      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 1,74%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-174-4949263",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
+      "published": "2026-10-14T12:45:03+00:00"
+    },
+    {
+      "h": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+      "es": "Charles Schwab y DoorDash se encuentran entre las acciones de ganga que podrían impulsar el mercado al alza",
+      "d": "Se espera que el crecimiento de las ganancias del tercer trimestre esté impulsado por las empresas de energía y semiconductores, pero ¿qué pasa si el resto del mercado aparece? HSBC prevé que el mercado de valores finalmente se amplíe.",
+      "u": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-60761666",
+      "published": "2026-10-14T12:45:00+00:00"
+    },
+    {
+      "h": "Japan to invest up to $21 billion in two US chip factories to be run by GlobalFoundries",
+      "es": "Japón invertirá hasta 21 mil millones de dólares en dos fábricas de chips en EE. UU. que serán administradas por GlobalFoundries",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries-4949222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D19O_L.jpg",
+      "published": "2026-10-14T12:43:30+00:00"
+    },
+    {
+      "h": "GlobalFoundries shares jump on $21 bln U.S.-Japan chip deal",
+      "es": "Las acciones de GlobalFoundries suben gracias al acuerdo de chips entre Estados Unidos y Japón por 21.000 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/globalfoundries-shares-jump-on-21-bln-usjapan-chip-deal-4949257",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-14T12:42:39+00:00"
+    },
+    {
+      "h": "RBC swaps tech for health care, downgrades materials",
+      "es": "RBC cambia tecnología por atención médica y rebaja materiales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rbc-swaps-tech-for-health-care-downgrades-materials-4949220",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
+      "published": "2026-10-14T12:35:35+00:00"
+    },
+    {
+      "h": "Jefferies upgrades Texas Roadhouse to Buy, citing overdone pullback; shares rise",
+      "es": "Jefferies actualiza Texas Roadhouse a Buy, citando un retroceso exagerado; las acciones suben",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-texas-roadhouse-to-buy-citing-overdone-pullback-shares-rise-4949219",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
+      "published": "2026-10-14T12:35:14+00:00"
+    },
+    {
+      "h": "Why is Accenture stock rallying today?",
+      "es": "¿Por qué las acciones de Accenture están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-rallying-today-93CH-4949214",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHBF0JN_L.jpg",
+      "published": "2026-10-14T12:34:07+00:00"
+    },
+    {
+      "h": "National Fuel Gas rises on plan to spin off upstream and gathering unit",
+      "es": "National Fuel Gas sube gracias al plan de escindir la unidad upstream y de recolección",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/national-fuel-gas-rises-on-plan-to-spin-off-upstream-and-gathering-unit-93CH-4949172",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-14T12:28:25+00:00"
+    },
     {
       "h": "Bank of America shares drop more than 5% after third-quarter revenue miss and regulatory penalty",
       "es": "Las acciones de Bank of America caen más del 5% después de la pérdida de ingresos del tercer trimestre y la sanción regulatoria",
@@ -29,6 +146,24 @@
       "published": "2026-10-14T12:15:00+00:00"
     },
     {
+      "h": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+      "es": "La renovación de la clase ejecutiva de Delta: nuevos asientos, menús, placas y más Porsche",
+      "d": "Delta está actualizando su cabina Delta One de primer nivel con nuevas suites para su avión A350 más grande, a partir del próximo año.",
+      "u": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T12:10:03+00:00"
+    },
+    {
+      "h": "Wayfair among firms fined millions for misleading sales tactics",
+      "es": "Wayfair entre las empresas multadas con millones por tácticas de venta engañosas",
+      "d": "La Autoridad de Competencia y Mercados ha multado a Wayfair, Appliances Direct y Gold's Gym con un total de 6 millones de libras esterlinas.",
+      "u": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg",
+      "published": "2026-10-14T12:09:45+00:00"
+    },
+    {
       "h": "'Office' is actually having a scarcity problem",
       "es": "La 'oficina' en realidad tiene un problema de escasez",
       "d": "El mercado de oficinas de Estados Unidos está recuperando su salud, pero su rápida recuperación está provocando una escasez, especialmente de espacio premium.",
@@ -36,6 +171,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T12:08:13+00:00"
+    },
+    {
+      "h": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+      "es": "Aún más prestatarios eligen hipotecas más riesgosas, a medida que las tasas de interés más altas aplastan la asequibilidad",
+      "d": "Las tasas de interés de las hipotecas siguen aumentando, lo que obliga a algunos compradores a elegir hipotecas de tasa ajustable más riesgosas para encontrar ahorros.",
+      "u": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T12:01:31+00:00"
     },
     {
       "h": "How to read your body’s warning signs years before you get sick",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
       "published": "2026-10-14T11:44:03+00:00"
-    },
-    {
-      "h": "Civil servant wore make up so he could juggle five jobs from home, court hears",
-      "es": "Un funcionario se maquillaba para poder hacer malabarismos con cinco trabajos desde casa, según escucha el tribunal",
-      "d": "Kashim Chowdhury está acusado de hacer malabarismos fraudulentos con múltiples trabajos gubernamentales mientras trabajaba desde casa.",
-      "u": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2437/live/04805c60-c7c2-11f1-993a-152cbb068da1.jpg",
-      "published": "2026-10-14T11:40:43+00:00"
-    },
-    {
-      "h": "Why is Verastem stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Verastem hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-verastem-stock-surging-today-93CH-4948949",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-14T11:40:33+00:00"
-    },
-    {
-      "h": "Morgan Stanley profit rises on equity trading strength",
-      "es": "Las ganancias de Morgan Stanley aumentan gracias a la fortaleza del comercio de acciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-profit-rises-on-equity-trading-strength-4948872",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D148_L.jpg",
-      "published": "2026-10-14T11:36:59+00:00"
-    },
-    {
-      "h": "What analysts are watching with key semiconductor maker TSMC set to report results",
-      "es": "Lo que los analistas están observando con el fabricante clave de semiconductores TSMC listo para informar los resultados",
-      "d": "Los analistas de JPMorgan y Citigroup ven un mayor crecimiento de los ingresos de la fundición de semiconductores, incluso después de haber registrado una cifra récord para el tercer trimestre.",
-      "u": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92439304",
-      "published": "2026-10-14T11:36:00+00:00"
-    },
-    {
-      "h": "We're upgrading our Goldman Sachs rating after a strong quarter bodes well for the future",
-      "es": "Estamos mejorando nuestra calificación de Goldman Sachs después de un buen trimestre que es un buen augurio para el futuro.",
-      "d": "Desde la perspectiva de la ejecución, Goldman parece estar funcionando a toda máquina.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-goldman-sachs-rating-after-a-strong-quarter-bodes-well-for-the-future.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-14T11:29:57+00:00"
-    },
-    {
-      "h": "Here is how Bank of America shares are performing after Q3 results",
-      "es": "Así es como se están comportando las acciones de Bank of America tras los resultados del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/here-is-how-bank-of-america-shares-are-performing-after-q3-results-93CH-4948866",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA8F0UW_M.jpg",
-      "published": "2026-10-14T11:28:13+00:00"
-    },
-    {
-      "h": "BNP Paribas hires two senior bankers for UK advisory team",
-      "es": "BNP Paribas contrata a dos banqueros senior para el equipo asesor del Reino Unido",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bnp-paribas-hires-two-senior-bankers-for-uk-advisory-team-93CH-4948864",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-14T11:28:03+00:00"
-    },
-    {
-      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "es": "Bank of America suma la pérdida de ganancias a la miseria de una multa gubernamental de 1.200 millones de dólares",
-      "d": "Las acciones de Bank of America caen a medida que la decepción de los inversores por la multa gubernamental de 1.200 millones de dólares se sumó al pesimista informe de ganancias del banco.",
-      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86270203",
-      "published": "2026-10-14T11:28:00+00:00"
-    },
-    {
-      "h": "Why is Fluence Energy stock gaining today?",
-      "es": "¿Por qué están ganando las acciones de Fluence Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-gaining-today-93CH-4948856",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0R0QY_M.jpg",
-      "published": "2026-10-14T11:25:03+00:00"
-    },
-    {
-      "h": "Exclusive: FFR signs definitive deal for Faraday Future’s robotics unit at $200m",
-      "es": "Exclusivo: FFR firma un acuerdo definitivo para la unidad de robótica de Faraday Future por 200 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusive-ffr-signs-definitive-deal-for-faraday-futures-robotics-unit-at-200m-4948855",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4P1JL_1200_L.jpg",
-      "published": "2026-10-14T11:25:02+00:00"
-    },
-    {
-      "h": "Ukraine accuses SpaceX of crippling drone missions as ties with US worsen",
-      "es": "Ucrania acusa a SpaceX de paralizar las misiones de drones a medida que empeoran los lazos con Estados Unidos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ukraine-accuses-spacex-of-crippling-drone-missions-as-ties-with-us-worsen-4948853",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D12S_L.jpg",
-      "published": "2026-10-14T11:24:30+00:00"
-    },
-    {
-      "h": "Barclays downgrades HPE after 186% rally, cuts price target to $77",
-      "es": "Barclays rebaja la calificación de HPE tras un repunte del 186% y reduce el precio objetivo a 77 dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/barclays-downgrades-hpe-after-186-rally-cuts-price-target-to-77-4948850",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEG4K235_L.jpg",
-      "published": "2026-10-14T11:23:14+00:00"
-    },
-    {
-      "h": "Why is Fastenal stock down today?",
-      "es": "¿Por qué han bajado las existencias de Fastenal hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-fastenal-stock-down-today-93CH-4948851",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-14T11:22:19+00:00"
-    },
-    {
-      "h": "Fairfax Financial to buy IDBI Bank stake for $5.6 billion",
-      "es": "Fairfax Financial comprará participación en IDBI Bank por 5.600 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fairfax-financial-to-buy-idbi-bank-stake-for-56-billion-93CH-4948843",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-14T11:19:08+00:00"
-    },
-    {
-      "h": "US bank regulator faults several large lenders over ’debanking’ practices",
-      "es": "El regulador bancario estadounidense culpa a varios grandes prestamistas por sus prácticas de \"desbancarización\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-bank-regulator-faults-several-large-lenders-over-debanking-practices-4948842",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D12P_L.jpg",
-      "published": "2026-10-14T11:18:41+00:00"
-    },
-    {
-      "h": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
-      "es": "He aquí cuánto está contribuyendo el auge de la IA a la inflación, según cálculos de Goldman Sachs",
-      "d": "Los economistas de Goldman Sachs han calculado cuánto ha contribuido el auge de la IA a la inflación.",
-      "u": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-84060575",
-      "published": "2026-10-14T11:18:00+00:00"
     }
   ],
   "sources": [
