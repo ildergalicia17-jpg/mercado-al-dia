@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-14T18:30:22.363058+00:00",
+  "updated": "2026-10-14T19:11:21.416784+00:00",
   "news": [
+    {
+      "h": "10-year Treasury yields dip as traders look ahead to Thursday economic reports",
+      "es": "Los rendimientos de los bonos del Tesoro a 10 años caen mientras los operadores esperan los informes económicos del jueves",
+      "d": "El rendimiento de los bonos del Tesoro a 10 años cayó el miércoles después de subir más temprano en el día mientras los operadores esperaban aún más datos económicos el jueves.",
+      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T19:10:20+00:00"
+    },
+    {
+      "h": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+      "es": "Qué esperar en la próxima reunión de la Fed ahora que aumentan las probabilidades de subida de tipos",
+      "d": "Los participantes del mercado y los economistas están divididos sobre la cuestión de si la Reserva Federal aumentará o no las tasas de interés en otro cuarto de punto en dos semanas.",
+      "u": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-47284439",
+      "published": "2026-10-14T19:04:00+00:00"
+    },
+    {
+      "h": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "es": "Trump apelará la orden que impide a la Casa Blanca prohibir MS NOW, CNN y Politico",
+      "d": "El juez de distrito estadounidense Timothy Kelly dictaminó que los tres medios atacados por el presidente Donald Trump pueden conservar su acceso al complejo de la Casa Blanca.",
+      "u": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T19:01:39+00:00"
+    },
+    {
+      "h": "Japan to invest $21 billion in up to two GlobalFoundries chip factories in New York",
+      "es": "Japón invertirá 21.000 millones de dólares en hasta dos fábricas de chips GlobalFoundries en Nueva York",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-to-invest-up-to-21-billion-in-two-us-chip-factories-to-be-run-by-globalfoundries-4949222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D19O_L.jpg",
+      "published": "2026-10-14T19:01:18+00:00"
+    },
+    {
+      "h": "Eight US states sue OpenAI, claiming ChatGPT harms children",
+      "es": "Ocho estados de EE. UU. demandan a OpenAI, alegando que ChatGPT daña a los niños",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/eight-us-states-sue-openai-claiming-chatgpt-harms-children-4949879",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1UV_L.jpg",
+      "published": "2026-10-14T19:00:49+00:00"
+    },
+    {
+      "h": "Why is Affirm stock sliding today?",
+      "es": "¿Por qué las acciones de Affirm están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-affirm-stock-sliding-today-93CH-4949881",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-14T18:58:35+00:00"
+    },
+    {
+      "h": "US individual health insurance enrollment fell to 20.5 million people as of June, KFF says",
+      "es": "La inscripción en seguros médicos individuales en EE. UU. cayó a 20,5 millones de personas en junio, según KFF",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/obamacare-enrollment-fell-to-205-million-people-as-of-junekff-says-4949773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OT_L.jpg",
+      "published": "2026-10-14T18:54:26+00:00"
+    },
+    {
+      "h": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "es": "¿El COLA de este año venció a la inflación? Así es como se acumula el gasto de las personas mayores estadounidenses en lo que va de 2026.",
+      "d": "El ajuste por costo de vida para 2027 será del 3,6%, lo que dará a los beneficiarios del Seguro Social un promedio de 75 dólares más al mes.",
+      "u": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-10478767",
+      "published": "2026-10-14T18:53:00+00:00"
+    },
+    {
+      "h": "Treasury says largest U.S. banks let politics influence who received banking services",
+      "es": "El Tesoro dice que los bancos más grandes de EE.UU. dejaron que la política influyera en quién recibía los servicios bancarios",
+      "d": "Los nuevos hallazgos del Departamento del Tesoro pueden dar peso a la queja de larga data del presidente Donald Trump de que los principales bancos han discriminado a los conservadores.",
+      "u": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T18:51:42+00:00"
+    },
+    {
+      "h": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "es": "Bank of America contrató a 1.000 contratistas para reparar las fallas de software expuestas por Mythos de Anthropic",
+      "d": "Bank of America contrató a 1.000 contratistas para reparar las fallas de software expuestas por Mythos de Anthropic, ofreciendo una mirada poco común a los costos involucrados en la defensa contra la IA.",
+      "u": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T18:48:44+00:00"
+    },
+    {
+      "h": "Coca-Cola options flow shows put-heavy activity as stock nears 52-week high",
+      "es": "El flujo de opciones de Coca-Cola muestra una gran actividad a medida que las acciones se acercan al máximo de 52 semanas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cocacola-options-flow-shows-putheavy-activity-as-stock-nears-52week-high-93CH-4949877",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL530YI_L.jpg",
+      "published": "2026-10-14T18:46:50+00:00"
+    },
+    {
+      "h": "Why is NVIDIA stock sliding today?",
+      "es": "¿Por qué las acciones de NVIDIA están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-4949876",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg",
+      "published": "2026-10-14T18:45:26+00:00"
+    },
+    {
+      "h": "Why is Wolfspeed stock sliding today?",
+      "es": "¿Por qué las acciones de Wolfspeed están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-sliding-today-93CH-4949875",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-14T18:42:35+00:00"
+    },
+    {
+      "h": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+      "es": "Las acciones de infraestructura de IA caen. Aquí hay algunas razones para la liquidación",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T18:41:11+00:00"
+    },
+    {
+      "h": "GlobalFoundries options surge on $21B U.S.-Japan chip deal",
+      "es": "Las opciones de GlobalFoundries aumentan tras el acuerdo de chips entre Estados Unidos y Japón por 21.000 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/globalfoundries-options-surge-on-21b-usjapan-chip-deal-93CH-4949872",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-14T18:35:18+00:00"
+    },
     {
       "h": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
       "es": "El aumento de los rendimientos de los bonos y la mayor inflación dejan a la Reserva Federal atrapada en el dilema de la subida de tipos",
@@ -45,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1T7_L.jpg",
       "published": "2026-10-14T18:18:45+00:00"
+    },
+    {
+      "h": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "es": "Un barco portacontenedores se hunde en el Estrecho de Ormuz mientras Irán intensifica sus ataques",
+      "d": "Irán ha intensificado sus ataques contra barcos comerciales que transitan por Ormuz en las últimas semanas, mientras intenta sofocar un repunte de las exportaciones de petróleo crudo.",
+      "u": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T18:18:43+00:00"
     },
     {
       "h": "Citi Names Top Electrical Equipment Stocks Ahead of Earnings Season",
@@ -126,150 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-63951591",
       "published": "2026-10-14T18:01:00+00:00"
-    },
-    {
-      "h": "US Transportation Secretary meeting with Boeing, GE CEOs on aircraft certification reform efforts",
-      "es": "Reunión del Secretario de Transporte de EE. UU. con los directores ejecutivos de Boeing y GE sobre los esfuerzos de reforma de la certificación de aeronaves",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-transportation-secretary-meeting-with-boeing-ge-ceos-on-aircraft-certification-reform-efforts-4949849",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1SK_L.jpg",
-      "published": "2026-10-14T18:00:34+00:00"
-    },
-    {
-      "h": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "es": "La Administración de la Seguridad Social anuncia un ajuste del 3,6% por costo de vida para 2027",
-      "d": "Con un COLA del 3,6% para 2027, los cheques de beneficios de jubilación del Seguro Social aumentarán en $75 por mes, en promedio, dijo la agencia.",
-      "u": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:54:01+00:00"
-    },
-    {
-      "h": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
-      "es": "La inversión, no la propiedad de vivienda, es el hito número uno que hace que los inquilinos de la Generación Z se sientan exitosos",
-      "d": "\"En lugar de centrarse en ser propietario de una vivienda, muchos están dando prioridad a la libertad financiera y a una vida libre de deudas\".",
-      "u": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31295352",
-      "published": "2026-10-14T17:54:00+00:00"
-    },
-    {
-      "h": "Airport drop-off charges to be reviewed after sharp increase",
-      "es": "Se revisarán las tarifas de regreso al aeropuerto tras un fuerte aumento",
-      "d": "Al confirmar la revisión, el gobierno dijo que era \"vital garantizar que los viajes sigan siendo accesibles y que los pasajeros reciban un trato justo\".",
-      "u": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
-      "published": "2026-10-14T17:46:30+00:00"
-    },
-    {
-      "h": "'Office' is actually having a scarcity problem",
-      "es": "La 'oficina' en realidad tiene un problema de escasez",
-      "d": "El mercado de oficinas de Estados Unidos está recuperando su salud, pero su rápida recuperación está provocando una escasez, especialmente de espacio premium.",
-      "u": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:35:44+00:00"
-    },
-    {
-      "h": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-      "es": "Sachin Katti de OpenAI dejará su puesto de infraestructura y permanecerá como asesor",
-      "d": "Katti dijo en una publicación en LinkedIn que \"decidió seguir adelante y construir algo nuevo\".",
-      "u": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:25:34+00:00"
-    },
-    {
-      "h": "The steel stock that has the shorts and options traders on edge",
-      "es": "Las acciones de acero que tienen nerviosos a los operadores en corto y en opciones",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:22:55+00:00"
-    },
-    {
-      "h": "How high inflation became a 'fact of life' in the U.S.",
-      "es": "Cómo la alta inflación se convirtió en un \"hecho de la vida\" en los EE. UU.",
-      "d": "La inflación estadounidense se ha mantenido elevada durante años, lo que genera preocupación en la Reserva Federal de que los consumidores puedan esperar precios obstinadamente altos.",
-      "u": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:20:23+00:00"
-    },
-    {
-      "h": "Anduril allows staff to sell shares at $90 billion valuation - report",
-      "es": "Anduril permite a su personal vender acciones valoradas en 90.000 millones de dólares: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anduril-allows-staff-to-sell-shares-at-90-billion-valuation--report-4949821",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL540YE_L.jpg",
-      "published": "2026-10-14T17:20:12+00:00"
-    },
-    {
-      "h": "Stripchat loses legal fight against EU tech label",
-      "es": "Stripchat pierde la lucha legal contra la etiqueta tecnológica de la UE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/stripchat-loses-legal-fight-against-eu-tech-label-4948265",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0MQ_L.jpg",
-      "published": "2026-10-14T17:12:37+00:00"
-    },
-    {
-      "h": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "es": "Irán dice que está “contando los momentos” hasta que pueda atacar buques de guerra estadounidenses; Atacan instalaciones de Saudi Aramco",
-      "d": "Mientras tanto, la empresa Aramco de Arabia Saudita habría sido objeto de un nuevo ataque durante la noche.",
-      "u": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:12:20+00:00"
-    },
-    {
-      "h": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-      "es": "Los comerciantes se acumulan en 'opciones de burbuja' en CoreWeave a medida que las acciones de neocloud se desploman",
-      "d": "Mientras un sector clave del comercio de inteligencia artificial sufre un duro golpe el miércoles, los operadores apuestan a que podría empeorar aún más.",
-      "u": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:10:59+00:00"
-    },
-    {
-      "h": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "es": "Morgan Stanley supera las estimaciones, ya que los ingresos por operaciones de acciones superan las expectativas en 909 millones de dólares",
-      "d": "Morgan Stanley superó las expectativas en términos de ingresos y resultados para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-14T17:08:23+00:00"
-    },
-    {
-      "h": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-      "es": "Fannie Mae eleva drásticamente la previsión de tipos hipotecarios para 2027",
-      "d": "Fannie Mae acaba de publicar su último pronóstico sobre las tasas hipotecarias, y son mucho más altas que las estimaciones anteriores.",
-      "u": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T17:08:07+00:00"
-    },
-    {
-      "h": "Progressive earnings analysis: questions answered and next catalysts",
-      "es": "Análisis progresivo de ganancias: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/progressive-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949817",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-14T17:06:34+00:00"
-    },
-    {
-      "h": "Fastenal earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Fastenal: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fastenal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949816",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-10-14T17:06:21+00:00"
     }
   ],
   "sources": [
