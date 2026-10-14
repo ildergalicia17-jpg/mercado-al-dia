@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:38:23.125432+00:00",
+  "updated": "2026-10-14T00:02:48.380849+00:00",
   "news": [
     {
       "h": "How long will humans be needed for translation?",
@@ -54,6 +54,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T22:47:07+00:00"
+    },
+    {
+      "h": "Saudi OpenAI engineer arrested by FBI for planting covert recording device, US DOJ says",
+      "es": "Ingeniero saudita de OpenAI arrestado por el FBI por colocar un dispositivo de grabación encubierto, dice el Departamento de Justicia de EE. UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fbi-arrests-former-openai-employee-for-planting-listening-device-4947422",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1TF_L.jpg",
+      "published": "2026-10-13T22:30:47+00:00"
     },
     {
       "h": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-13T21:02:52+00:00"
-    },
-    {
-      "h": "Aramco HQ hit in Houthi attack as fire extinguished in Dhahran - Bloomberg",
-      "es": "La sede de Aramco es atacada por los hutíes mientras se extingue el incendio en Dhahran - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aramco-hq-hit-in-houthi-attack-as-fire-extinguished-in-dhahran--bloomberg-4947574",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1603V_L.jpg",
-      "published": "2026-10-13T21:02:17+00:00"
     }
   ],
   "sources": [
