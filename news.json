@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-14T20:52:14.895766+00:00",
+  "updated": "2026-10-14T21:19:50.508100+00:00",
   "news": [
+    {
+      "h": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "es": "Los comerciantes se acumulan en 'opciones de burbuja' en CoreWeave a medida que las acciones de neocloud se desploman",
+      "d": "Mientras un sector clave del comercio de inteligencia artificial sufre un duro golpe el miércoles, los operadores apuestan a que podría empeorar aún más.",
+      "u": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T21:19:09+00:00"
+    },
+    {
+      "h": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "es": "Trump apelará la orden que impide a la Casa Blanca prohibir MS NOW, CNN y Politico",
+      "d": "El juez de distrito estadounidense Timothy Kelly dictaminó que los tres medios atacados por el presidente Donald Trump pueden conservar su acceso al complejo de la Casa Blanca.",
+      "u": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T21:18:46+00:00"
+    },
+    {
+      "h": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "es": "OpenAI demandado por 8 estados por preocupaciones de seguridad de ChatGPT",
+      "d": "OpenAI se enfrenta a un escrutinio cada vez mayor sobre sus prácticas de seguridad y protección, incluida la forma en que la empresa está trabajando para proteger a los niños.",
+      "u": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T21:09:20+00:00"
+    },
+    {
+      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "es": "Bank of America suma la pérdida de ganancias a la miseria de una multa gubernamental de 1.200 millones de dólares",
+      "d": "Las acciones del Bank of America caen a medida que la decepción de los inversores por la multa gubernamental de 1.200 millones de dólares se sumó al pesimista informe de ganancias del banco.",
+      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86270203",
+      "published": "2026-10-14T21:03:00+00:00"
+    },
+    {
+      "h": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+      "es": "BlackRock ahora gestiona activos equivalentes a la mitad del tamaño de la economía estadounidense después de un crecimiento del 15%",
+      "d": "El gigante de la gestión de fondos BlackRock dijo el miércoles que los activos bajo gestión ascienden a casi 15,5 billones de dólares tras un crecimiento del 15%.",
+      "u": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-53524004",
+      "published": "2026-10-14T20:57:00+00:00"
+    },
     {
       "h": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
       "es": "Las acciones de CoreWeave caen a medida que los rendimientos de los bonos se acercan al 15% por la preocupación por el exceso de préstamos de IA",
@@ -9,6 +54,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T20:46:32+00:00"
+    },
+    {
+      "h": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+      "es": "Ocho estados de EE. UU. demandan a OpenAI, alegando que ChatGPT perjudica a los usuarios jóvenes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/eight-us-states-sue-openai-claiming-chatgpt-harms-children-4949879",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1UV_L.jpg",
+      "published": "2026-10-14T20:43:00+00:00"
     },
     {
       "h": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
@@ -164,6 +218,15 @@
       "published": "2026-10-14T20:06:28+00:00"
     },
     {
+      "h": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
+      "es": "El rendimiento de los bonos del Tesoro a 10 años cae mientras los operadores esperan los informes económicos del jueves",
+      "d": "El rendimiento de los bonos del Tesoro a 10 años cayó el miércoles después de subir más temprano en el día mientras los operadores esperaban aún más datos económicos el jueves.",
+      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T20:03:22+00:00"
+    },
+    {
       "h": "Anduril employee tender offer would value the defense tech startup at $90 billion",
       "es": "La oferta pública de los empleados de Anduril valoraría la startup de tecnología de defensa en 90 mil millones de dólares",
       "d": "Anduril ha sido un gran ganador del creciente auge de la tecnología de defensa en Estados Unidos y de los planes del presidente Donald Trump para reindustrializar el ejército estadounidense.",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
       "published": "2026-10-14T19:52:29+00:00"
-    },
-    {
-      "h": "Lululemon reorganizes fabric team after product quality complaints - Bloomberg",
-      "es": "Lululemon reorganiza el equipo de telas después de quejas sobre la calidad del producto - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lululemon-reorganizes-fabric-team-after-product-quality-complaints--bloomberg-4949902",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC803KR_M.jpg",
-      "published": "2026-10-14T19:51:48+00:00"
-    },
-    {
-      "h": "AI infrastructure stocks fall on rate worries",
-      "es": "Las acciones de infraestructura de IA caen por las preocupaciones sobre las tasas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ai-infrastructure-stocks-fall-on-rate-worries-93CH-4949901",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7L0UO_M.jpg",
-      "published": "2026-10-14T19:50:21+00:00"
-    },
-    {
-      "h": "Explainer-What is Starshield, SpaceX’s military version of Starlink?",
-      "es": "Explicador: ¿Qué es Starshield, la versión militar de Starlink de SpaceX?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerwhat-is-starshieldspacexs-military-version-of-starlink-4949897",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1VZ_L.jpg",
-      "published": "2026-10-14T19:42:49+00:00"
-    },
-    {
-      "h": "Q3 earnings strategy: where expectations look low and where beats are priced in",
-      "es": "Estrategia de resultados del tercer trimestre: donde las expectativas parecen bajas y donde los mejores resultados se tienen en cuenta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/q3-earnings-strategy-where-expectations-look-low-and-where-beats-are-priced-in-93CH-4949895",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
-      "published": "2026-10-14T19:31:49+00:00"
-    },
-    {
-      "h": "Asset manager earnings: record AUM and strong inflows, but shares mixed",
-      "es": "Ganancias de los gestores de activos: activos bajo gestión récord y fuertes entradas, pero las acciones son mixtas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asset-manager-earnings-record-aum-and-strong-inflows-but-shares-mixed-93CH-4949894",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
-      "published": "2026-10-14T19:31:38+00:00"
-    },
-    {
-      "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70454413",
-      "published": "2026-10-14T19:30:00+00:00"
-    },
-    {
-      "h": "Bank earnings scorecard: winners and misses across two days of results",
-      "es": "Cuadro de mando de ganancias bancarias: ganadores y perdedores en dos días de resultados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bank-earnings-scorecard-winners-and-misses-across-two-days-of-results-93CH-4949892",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-14T19:28:54+00:00"
     }
   ],
   "sources": [
