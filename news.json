@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:45:21.922146+00:00",
+  "updated": "2026-10-14T06:13:49.954043+00:00",
   "news": [
     {
       "h": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
@@ -72,6 +72,24 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0CK_L.jpg",
       "published": "2026-10-14T05:12:22+00:00"
+    },
+    {
+      "h": "SK Hynix oversold at KRW 1,453,000 in steep downtrend: Live",
+      "es": "SK Hynix oversold at KRW 1,453,000 in steep downtrend: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-14T05:06:38+00:00"
+    },
+    {
+      "h": "Nikkei 225 boxed in 67,600-69,400 range: Live levels",
+      "es": "Nikkei 225 boxed in 67,600-69,400 range: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-14T05:06:18+00:00"
     },
     {
       "h": "Geely’s 34% stake in Ford España gets China approval",
@@ -173,6 +191,15 @@
       "published": "2026-10-14T03:54:49+00:00"
     },
     {
+      "h": "China's exports and imports surge past expectations in September",
+      "es": "China's exports and imports surge past expectations in September",
+      "d": "The country's customs agency released September trade data on Wednesday.",
+      "u": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T03:41:36+00:00"
+    },
+    {
       "h": "Asia stocks edge higher as chipmakers rebound; China trade beats forecasts",
       "es": "Las acciones asiáticas suben a medida que los fabricantes de chips se recuperan; El comercio con China supera las previsiones",
       "d": "",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
       "published": "2026-10-14T02:02:55+00:00"
-    },
-    {
-      "h": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-      "es": "El petróleo sube en medio de crecientes tensiones en Medio Oriente entre los hutíes respaldados por Irán y Arabia Saudita",
-      "d": "Las preocupaciones sobre las interrupciones del suministro debido a las crecientes tensiones en el Medio Oriente ayudaron a impulsar los precios del petróleo.",
-      "u": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T01:55:26+00:00"
-    },
-    {
-      "h": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million",
-      "es": "El presidente de SK Group, Chey, vende su participación al fondo de family office de Dell por 406 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-group-chairman-chey-sells-stake-to-dell-family-office-fund-for-406-million-4947868",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D04F_L.jpg",
-      "published": "2026-10-14T01:54:26+00:00"
-    },
-    {
-      "h": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
-      "es": "Los precios al productor en China aumentan al ritmo más rápido desde junio de 2022, superando las expectativas",
-      "d": "El aumento fue superior al 4,5% esperado por los economistas encuestados por Reuters, y superior al 3,8% observado el mes anterior.",
-      "u": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T01:43:21+00:00"
     }
   ],
   "sources": [
