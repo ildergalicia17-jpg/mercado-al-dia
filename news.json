@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T23:21:18.960082+00:00",
+  "updated": "2026-10-14T23:46:54.658430+00:00",
   "news": [
+    {
+      "h": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+      "es": "Se espera que TSMC informe el sexto trimestre consecutivo de ganancias récord gracias al auge de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4950243",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D21I_L.jpg",
+      "published": "2026-10-14T23:06:22+00:00"
+    },
     {
       "h": "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
       "es": "Iambic Therapeutics cotiza la oferta pública inicial a 16 dólares por acción en Nasdaq",
@@ -9,6 +18,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
       "published": "2026-10-14T23:05:02+00:00"
+    },
+    {
+      "h": "How backlash against data centres could shape the US midterm elections",
+      "es": "Cómo la reacción contra los centros de datos podría influir en las elecciones de mitad de período en EE. UU.",
+      "d": "Tanto los demócratas como los republicanos se están manifestando en contra del desarrollo de centros de datos, en medio de una creciente reacción en todo Estados Unidos.",
+      "u": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
+      "published": "2026-10-14T23:02:57+00:00"
     },
     {
       "h": "How a Chinese-made toy gets to a US retailer",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1WP_L.jpg",
       "published": "2026-10-14T21:07:10+00:00"
-    },
-    {
-      "h": "US states seek children’s data protections in Character.AI bankruptcy",
-      "es": "Los estados de EE. UU. buscan la protección de datos de los niños en la quiebra de Character.AI",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-states-seek-childrens-data-protections-in-characterai-bankruptcy-4950121",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1YC_L.jpg",
-      "published": "2026-10-14T21:06:38+00:00"
-    },
-    {
-      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "es": "Bank of America suma la pérdida de ganancias a la miseria de una multa gubernamental de 1.200 millones de dólares",
-      "d": "Las acciones del Bank of America caen a medida que la decepción de los inversores por la multa gubernamental de 1.200 millones de dólares se sumó al pesimista informe de ganancias del banco.",
-      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86270203",
-      "published": "2026-10-14T21:03:00+00:00"
     }
   ],
   "sources": [
