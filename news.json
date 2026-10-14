@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-14T00:45:21.133433+00:00",
+  "updated": "2026-10-14T01:21:55.626501+00:00",
   "news": [
+    {
+      "h": "China's exports likely grew by double-digits in September",
+      "es": "Las exportaciones de China probablemente crecieron dos dígitos en septiembre",
+      "d": "La agencia de aduanas del país publicará los datos comerciales de septiembre el miércoles.",
+      "u": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T01:16:02+00:00"
+    },
+    {
+      "h": "Blackstone in talks to invest up to $500m in Accord Systems- Mint",
+      "es": "Blackstone en conversaciones para invertir hasta 500 millones de dólares en Accord Systems- Mint",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/blackstone-in-talks-to-invest-up-to-500m-in-accord-systems-mint-93CH-4947821",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-14T01:12:18+00:00"
+    },
+    {
+      "h": "SK Hynix bounces in downtrend after support breach: Live levels",
+      "es": "SK Hynix rebota en tendencia bajista después de la ruptura del soporte: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-14T01:05:18+00:00"
+    },
+    {
+      "h": "Nikkei 225 holds 68,170 support as bears regain control: Live",
+      "es": "Nikkei 225 tiene soporte en 68,170 mientras los bajistas recuperan el control: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-14T01:05:08+00:00"
+    },
+    {
+      "h": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited",
+      "es": "Los futuros de acciones estadounidenses cayeron después de que las pérdidas de chips arrastraran a Wall Street; Se esperan datos del IPC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-4947807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "published": "2026-10-14T00:54:25+00:00"
+    },
     {
       "h": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
       "es": "El crecimiento del PIB del tercer trimestre de Singapur se suaviza desde el máximo de cuatro años, pero supera las estimaciones",
@@ -18,6 +63,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/CosmeticsSkinCare_800x533_L_1641974468.jpg",
       "published": "2026-10-14T00:25:06+00:00"
+    },
+    {
+      "h": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "es": "El FBI arresta a un empleado saudita de OpenAI que supuestamente colocó un dispositivo de grabación en una sala de conferencias",
+      "d": "El incidente del martes se produce cuando el fabricante de ChatGPT, junto con sus competidores, enfrenta un mayor escrutinio sobre sus prácticas de seguridad.",
+      "u": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T00:13:45+00:00"
     },
     {
       "h": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEA5N0R8_M.jpg",
       "published": "2026-10-13T21:34:53+00:00"
-    },
-    {
-      "h": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
-      "es": "NYT y economista entre los editores que se unen a la coalición para frenar el uso no remunerado de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-4945254",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1Q1_L.jpg",
-      "published": "2026-10-13T21:31:21+00:00"
-    },
-    {
-      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.33%",
-      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,33%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-033-4947596",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
-      "published": "2026-10-13T21:30:04+00:00"
-    },
-    {
-      "h": "Colombia stocks higher at close of trade; COLCAP up 1.55%",
-      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 1,55%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-155-4947591",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
-      "published": "2026-10-13T21:25:03+00:00"
-    },
-    {
-      "h": "Apple’s HomeView brings personalized Siri to smart home, takes on Amazon and Google",
-      "es": "HomeView de Apple lleva Siri personalizado al hogar inteligente, se enfrenta a Amazon y Google",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apples-homeview-brings-personalized-siri-to-smart-home-takes-on-amazon-and-google-4947587",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1X2_L.jpg",
-      "published": "2026-10-13T21:24:35+00:00"
-    },
-    {
-      "h": "Oracle urges FERC to expedite New Mexico gas pipeline for Project Jupiter",
-      "es": "Oracle insta a la FERC a acelerar el gasoducto de Nuevo México para el Proyecto Júpiter",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oracle-urges-ferc-to-expedite-new-mexico-gas-pipeline-for-project-jupiter-4947589",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
-      "published": "2026-10-13T21:22:37+00:00"
-    },
-    {
-      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 1.07%",
-      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 1,07%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-107-4947588",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
-      "published": "2026-10-13T21:20:03+00:00"
     }
   ],
   "sources": [
