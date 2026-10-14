@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-14T16:11:06.512999+00:00",
+  "updated": "2026-10-14T16:49:51.275039+00:00",
   "news": [
+    {
+      "h": "Trump's diesel dilemma — by the numbers",
+      "es": "El dilema del diésel de Trump: en cifras",
+      "d": "Los conflictos en Ucrania e Irán han creado importantes efectos en cadena en los mercados energéticos mundiales, provocando importantes oscilaciones de precios.",
+      "u": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T16:45:26+00:00"
+    },
+    {
+      "h": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+      "es": "El rendimiento de los bonos del Tesoro a 10 años aumenta a medida que la inflación subyacente de septiembre es más alta de lo esperado",
+      "d": "Los rendimientos de los bonos del Tesoro subieron después de la última lectura de inflación.",
+      "u": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T16:43:56+00:00"
+    },
+    {
+      "h": "European shares edge up after solid ASML results, healthcare gains",
+      "es": "Las bolsas europeas suben tras los sólidos resultados de ASML y las mejoras en el sector sanitario",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-asmls-ai-demand-outlook-boosts-tech-4948222",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0L3_L.jpg",
+      "published": "2026-10-14T16:37:18+00:00"
+    },
+    {
+      "h": "UK stocks close higher as weaker sterling boosts export-heavy sectors",
+      "es": "Las acciones del Reino Unido cierran al alza a medida que la debilidad de la libra esterlina impulsa a los sectores fuertemente exportadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-gain-on-consumer-staplesdefence-budget-borrowing-report-lifts-sentiment-4948654",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0YS_L.jpg",
+      "published": "2026-10-14T16:37:01+00:00"
+    },
+    {
+      "h": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+      "es": "Ucrania advierte que los límites de Starlink están interrumpiendo las operaciones militares mientras Rusia ataca su infraestructura energética",
+      "d": "Un misil balístico ha impactado infraestructuras energéticas supuestamente cubiertas por el \"alto el fuego energético\" anunciado por Trump el domingo, afirmó Zelenskyy.",
+      "u": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T16:34:24+00:00"
+    },
+    {
+      "h": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows",
+      "es": "Las nuevas empresas espaciales obtienen una financiación récord de 20.800 millones de dólares a medida que aumentan las apuestas en infraestructura, según muestra un informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/space-startups-secure-record-208-billion-funding-as-infrastructure-bets-surge-report-shows-4948434",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0RZ_L.jpg",
+      "published": "2026-10-14T16:31:05+00:00"
+    },
+    {
+      "h": "Televisa’s AT&T Mexico deal boosts its challenge to America Movil",
+      "es": "El acuerdo de Televisa con AT&T México aumenta su desafío a América Móvil",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/televisas-att-mexico-deal-boosts-its-challenge-to-america-movil-4949745",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OA_L.jpg",
+      "published": "2026-10-14T16:30:30+00:00"
+    },
+    {
+      "h": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "es": "El aumento de los rendimientos de los bonos y la mayor inflación dejan a la Reserva Federal atrapada en el dilema de la subida de tipos",
+      "d": "No hay manera de considerar bueno el informe del índice de precios al consumidor del miércoles, especialmente si se analiza la reacción del mercado de bonos.",
+      "u": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-95433037",
+      "published": "2026-10-14T16:27:00+00:00"
+    },
+    {
+      "h": "FTSE 100 today: Stocks close higher after hot U.S. core CPI, BoE hike doubts",
+      "es": "FTSE 100 hoy: Las acciones cierran al alza tras el elevado IPC básico de EE.UU. y el Banco de Inglaterra aumenta las dudas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-ahead-of-us-cpi-4948223",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
+      "published": "2026-10-14T16:25:18+00:00"
+    },
+    {
+      "h": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "es": "Las acciones de CoreWeave caen a medida que los rendimientos de los bonos se acercan al 15% por la preocupación por el exceso de préstamos de IA",
+      "d": "Las acciones de CoreWeave se hundieron un 15%, mientras que los rendimientos de sus bonos se dispararon aún más.",
+      "u": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-14T16:24:51+00:00"
+    },
+    {
+      "h": "Obamacare enrollment fell to 20.5 million people as of June, KFF says",
+      "es": "La inscripción a Obamacare cayó a 20,5 millones de personas en junio, según KFF",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/obamacare-enrollment-fell-to-205-million-people-as-of-junekff-says-4949773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1OT_L.jpg",
+      "published": "2026-10-14T16:24:43+00:00"
+    },
+    {
+      "h": "Morgan Stanley beats quarterly profit estimates on equity trading strength",
+      "es": "Morgan Stanley supera las estimaciones de ganancias trimestrales gracias a la fortaleza del comercio de acciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-profit-rises-on-equity-trading-strength-4948872",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D148_L.jpg",
+      "published": "2026-10-14T16:24:28+00:00"
+    },
+    {
+      "h": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "es": "Su cheque del Seguro Social aumentará un promedio de $75 al mes: ¿podrá mantenerse al día con la inflación?",
+      "d": "El COLA del 3,6% para 2027 tiene como objetivo ayudar a más de 68 millones de beneficiarios a mantener el ritmo del costo de vida.",
+      "u": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07536727",
+      "published": "2026-10-14T16:20:00+00:00"
+    },
+    {
+      "h": "OpenAI infrastructure lead Sachin Katti to depart next month, WSJ reports",
+      "es": "La infraestructura OpenAI lleva a Sachin Katti a partir el próximo mes, informa WSJ",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-infrastructure-lead-sachin-katti-to-depart-next-month-wsj-reports-4949774",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4K0QW_L.jpg",
+      "published": "2026-10-14T16:19:58+00:00"
+    },
+    {
+      "h": "Galderma to buy US firm ZO Skin Health for $1.5 billion",
+      "es": "Galderma comprará la empresa estadounidense ZO Skin Health por 1.500 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/galderma-to-buy-us-firm-zo-skin-health-for-15-billion-4948042",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0DS_L.jpg",
+      "published": "2026-10-14T16:13:17+00:00"
+    },
+    {
+      "h": "The Knot Worldwide to acquire Zola in wedding platform union, sources say",
+      "es": "The Knot Worldwide adquirirá Zola en unión de plataformas nupciales, dicen fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/the-knot-worldwide-to-acquire-zola-in-wedding-platform-union-sources-say-4949734",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1NL_L.jpg",
+      "published": "2026-10-14T16:12:45+00:00"
+    },
+    {
+      "h": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
+      "es": "El aumento de los precios del diésel ha ayudado a alimentar la inflación, y estamos a punto de ver cuánto peor podría empeorar.",
+      "d": "La inflación al consumidor acaba de subir. El jueves proporcionará más pistas sobre el impacto de los precios récord del diésel antes de las elecciones de mitad de período.",
+      "u": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-36129012",
+      "published": "2026-10-14T16:07:00+00:00"
+    },
+    {
+      "h": "The truth about being a landlord in retirement",
+      "es": "La verdad sobre ser propietario jubilado",
+      "d": "Invertir en propiedades de alquiler no es fácil ni “pasivo”",
+      "u": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09151135",
+      "published": "2026-10-14T16:05:00+00:00"
+    },
     {
       "h": "'It's rough out here': Americans struggle with rising inflation",
       "es": "\"Es difícil aquí\": los estadounidenses luchan contra el aumento de la inflación",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Istanbul Stock Exchange_800x533_L_1428571700.jpg",
       "published": "2026-10-14T15:30:31+00:00"
-    },
-    {
-      "h": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.42%",
-      "es": "Las bolsas de Dinamarca cierran a la baja; OMX Copenhague 20 baja un 0,42%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-042-4949706",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6208D_L.jpg",
-      "published": "2026-10-14T15:30:05+00:00"
-    },
-    {
-      "h": "Skydance share price adjusts after warrant distribution to stockholders",
-      "es": "El precio de las acciones de Skydance se ajusta después de la distribución de la orden a los accionistas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/skydance-share-price-adjusts-after-warrant-distribution-to-stockholders-4949704",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM951NI_L.jpg",
-      "published": "2026-10-14T15:29:47+00:00"
-    },
-    {
-      "h": "Meta expands WhatsApp utility with non-account guest calling features",
-      "es": "Meta amplía la utilidad de WhatsApp con funciones de llamadas a invitados sin cuenta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-expands-whatsapp-utility-with-nonaccount-guest-calling-features-4949703",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK3G0O5_L.jpg",
-      "published": "2026-10-14T15:29:30+00:00"
-    },
-    {
-      "h": "US inflation rises more than expected - here's what is happening with prices",
-      "es": "La inflación estadounidense aumenta más de lo esperado: esto es lo que está sucediendo con los precios",
-      "d": "El ritmo de aumento de precios aumentó al 3,7% en el año hasta septiembre, impulsado por el aumento de los costos del combustible para motores.",
-      "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
-      "published": "2026-10-14T15:26:14+00:00"
-    },
-    {
-      "h": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "es": "La Administración de la Seguridad Social anuncia un ajuste del 3,6% por costo de vida para 2027",
-      "d": "Con un COLA del 3,6% para 2027, los cheques de beneficios de jubilación del Seguro Social aumentarán en $75 por mes, en promedio, dijo la agencia.",
-      "u": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:25:42+00:00"
-    },
-    {
-      "h": "Stripchat loses legal fight against EU tech label",
-      "es": "Stripchat pierde la lucha legal contra la etiqueta tecnológica de la UE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/stripchat-loses-legal-fight-against-eu-tech-label-4948265",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0MQ_L.jpg",
-      "published": "2026-10-14T15:25:32+00:00"
-    },
-    {
-      "h": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
-      "es": "Un empleado de OpenAI que se fue a Apple tomó archivos sobre un dispositivo inédito, alega OpenAI",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges-4949701",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1MJ_L.jpg",
-      "published": "2026-10-14T15:25:02+00:00"
-    },
-    {
-      "h": "Bank of America says it has completed a lot of work on consent order",
-      "es": "Bank of America dice que ha completado mucho trabajo sobre la orden de consentimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-says-it-has-completed-a-lot-of-work-on-consent-order-4949700",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1MM_L.jpg",
-      "published": "2026-10-14T15:24:30+00:00"
-    },
-    {
-      "h": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-      "es": "Fannie Mae eleva drásticamente la previsión de tipos hipotecarios para 2027",
-      "d": "Fannie Mae acaba de publicar su último pronóstico sobre las tasas hipotecarias, y son mucho más altas que las estimaciones anteriores.",
-      "u": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:20:53+00:00"
-    },
-    {
-      "h": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-      "es": "Larry Fink de BlackRock advierte que una moratoria de los centros de datos podría desencadenar una recesión",
-      "d": "La oposición local a la construcción de centros de datos ha sido una característica de las elecciones de mitad de período previstas para el martes 3 de noviembre.",
-      "u": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:19:08+00:00"
-    },
-    {
-      "h": "S&P revises Otter Tail outlook to stable on capex growth and PVC segment softening",
-      "es": "S&P revisa la perspectiva de Otter Tail a estable debido al crecimiento del gasto de capital y el debilitamiento del segmento de PVC",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-revises-otter-tail-outlook-to-stable-on-capex-growth-and-pvc-segment-softening-4949695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-14T15:16:33+00:00"
-    },
-    {
-      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.22%",
-      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,22%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-022-4949693",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7H0NX_M.jpg",
-      "published": "2026-10-14T15:15:03+00:00"
-    },
-    {
-      "h": "Netflix cuts about 6% of jobs in biggest layoff since 2022",
-      "es": "Netflix recorta alrededor del 6% de los puestos de trabajo en el mayor despido desde 2022",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netflix-cuts-about-6-of-jobs-wsj-reports-4949456",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1CR_L.jpg",
-      "published": "2026-10-14T15:07:03+00:00"
-    },
-    {
-      "h": "Top transportation stocks: UPS, FedEx, and Delta compared by value and momentum",
-      "es": "Principales acciones de transporte: UPS, FedEx y Delta comparadas por valor e impulso",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-transportation-stocks-ups-fedex-and-delta-compared-by-value-and-momentum-93CH-4949685",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE13090_M.jpg",
-      "published": "2026-10-14T15:05:53+00:00"
-    },
-    {
-      "h": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-      "es": "Netflix despedirá a unos 1.000 empleados, o el 6% de su plantilla",
-      "d": "Netflix despedirá aproximadamente al 6% de su fuerza laboral, según un memorando obtenido por CNBC.",
-      "u": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:03:59+00:00"
-    },
-    {
-      "h": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "es": "Irán dice que está “contando los momentos” hasta que pueda atacar buques de guerra estadounidenses; Atacan instalaciones de Saudi Aramco",
-      "d": "Mientras tanto, la empresa Aramco de Arabia Saudita habría sido objeto de un nuevo ataque durante la noche.",
-      "u": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T15:03:35+00:00"
-    },
-    {
-      "h": "Adobe value analysis: low P/E, high ROIC, and fair-value upside",
-      "es": "Análisis de valor de Adobe: P/E bajo, ROIC alto y ventaja del valor razonable",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/adobe-value-analysis-low-pe-high-roic-and-fairvalue-upside-93CH-4949679",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J10M_1200_L.jpg",
-      "published": "2026-10-14T15:02:54+00:00"
-    },
-    {
-      "h": "Robinhood Markets bull and bear case ahead of Oct 27 earnings",
-      "es": "Caso alcista y bajista de Robinhood Markets antes de las ganancias del 27 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/robinhood-markets-bull-and-bear-case-ahead-of-oct-27-earnings-93CH-4949672",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAH14G_L.jpg",
-      "published": "2026-10-14T14:57:38+00:00"
     }
   ],
   "sources": [
