@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-15T10:46:25.224695+00:00",
+  "updated": "2026-10-15T11:16:15.015562+00:00",
   "news": [
+    {
+      "h": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
+      "es": "Nvidia debe trabajar con las empresas chinas de inteligencia artificial en materia de seguridad, dice Jensen Huang a CNBC",
+      "d": "Huang dijo a CNBC que mantiene \"diálogos\" en curso con investigadores en China.",
+      "u": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T11:12:51+00:00"
+    },
+    {
+      "h": "Why is Penske Automotive stock surging 8% today?",
+      "es": "¿Por qué las acciones de Penske Automotive están subiendo un 8% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-penske-automotive-stock-surging-8-today-93CH-4951248",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-15T11:07:59+00:00"
+    },
+    {
+      "h": "Factbox-Tech leaders, Wall Street CEOs, governments split over ’AI doom’ fears",
+      "es": "Cuadro informativo: Líderes tecnológicos, directores ejecutivos de Wall Street y gobiernos divididos por temores de \"la fatalidad de la IA\"",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxtech-leaders-governments-split-over-ai-doom-fears-4949457",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM8K0VE_L.jpg",
+      "published": "2026-10-15T11:00:28+00:00"
+    },
+    {
+      "h": "Walmart stock: Deutsche Bank gets bullish amid pricing tailwinds",
+      "es": "Acciones de Walmart: Deutsche Bank se vuelve alcista en medio de vientos de cola en los precios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-stock-deutsche-bank-gets-bullish-amid-pricing-tailwinds-4951163",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0H13H_M.jpg",
+      "published": "2026-10-15T10:53:47+00:00"
+    },
+    {
+      "h": "Yardeni sees further valuation declines as risk-off sentiment persists",
+      "es": "Yardeni prevé nuevas caídas en la valoración a medida que persiste la aversión al riesgo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/yardeni-sees-further-valuation-declines-as-riskoff-sentiment-persists-4951160",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_small-LYNXMPEM8O0Y3_L.jpg",
+      "published": "2026-10-15T10:52:39+00:00"
+    },
+    {
+      "h": "RBC starts bullish DHL coverage on Express growth, earnings upside",
+      "es": "RBC inicia una cobertura alcista de DHL sobre el crecimiento de Express y las ganancias al alza",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rbc-starts-bullish-dhl-coverage-on-express-growth-earnings-upside-4951149",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECAM1JJ_M.jpg",
+      "published": "2026-10-15T10:51:28+00:00"
+    },
+    {
+      "h": "Hyundai to recall over 94,600 US vehicles over fire risk from overheating, NHTSA says",
+      "es": "Hyundai retirará del mercado más de 94.600 vehículos estadounidenses por riesgo de incendio por sobrecalentamiento, dice NHTSA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hyundai-to-recall-over-94600-us-vehicles-over-fire-risk-from-overheating-nhtsa-says-4950715",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0KR_L.jpg",
+      "published": "2026-10-15T10:48:26+00:00"
+    },
+    {
+      "h": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+      "es": "Según se informa, Estados Unidos considera el uso de la 'madre de todas las bombas' mientras Irán promete seguir luchando",
+      "d": "Según se informa, el ejército estadounidense ha elaborado opciones para ataques contra Irán que incluyen el uso potencial de una de las bombas no nucleares más grandes de su arsenal.",
+      "u": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T10:44:57+00:00"
+    },
+    {
+      "h": "Why is Relx stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Relx hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-relx-stock-climbing-today-93CH-4951094",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-15T10:39:40+00:00"
+    },
+    {
+      "h": "Chip stock selloff deepens: What looks attractive and names to avoid",
+      "es": "La venta masiva de acciones de chips se profundiza: lo que parece atractivo y los nombres que se deben evitar",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chip-stock-selloff-deepens-what-looks-attractive-and-names-to-avoid-93CH-4951092",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Marvellchip_800x533_L_1778702247.jpg",
+      "published": "2026-10-15T10:38:59+00:00"
+    },
+    {
+      "h": "European shares trip on global tech bump and U.S. inflation spike",
+      "es": "Las bolsas europeas tropiezan por el impulso tecnológico global y el repunte de la inflación en EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-trip-on-global-tech-bump-and-us-inflation-spike-4950557",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA8E0M2_M.jpg",
+      "published": "2026-10-15T10:34:16+00:00"
+    },
+    {
+      "h": "TSX futures inch higher amid AI jitters, rate-hike worries",
+      "es": "Los futuros del TSX suben ligeramente en medio del nerviosismo de la IA y las preocupaciones sobre el aumento de tipos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-ai-jitters-ratehike-worries-4951081",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "published": "2026-10-15T10:34:13+00:00"
+    },
     {
       "h": "US toy prices surge ahead of holiday shopping season as tariffs, Iran war bite",
       "es": "Los precios de los juguetes en EE.UU. aumentan antes de la temporada de compras navideñas a medida que los aranceles y la guerra de Irán afectan",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
       "published": "2026-10-15T09:55:27+00:00"
-    },
-    {
-      "h": "Citi says ASML results show AI chip demand outlook extending to 2030",
-      "es": "Citi dice que los resultados de ASML muestran que la perspectiva de demanda de chips de IA se extiende hasta 2030",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-says-asml-results-show-ai-chip-demand-outlook-extending-to-2030-93CH-4950970",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-15T09:55:09+00:00"
-    },
-    {
-      "h": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
-      "es": "La FTC de EE. UU. cita a OpenAI y Anthropic por daños al consumidor, informa Axios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-ftc-subpoenas-openai-and-anthropicover-consumer-harms-axios-reports-4950890",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0RD_L.jpg",
-      "published": "2026-10-15T09:49:01+00:00"
-    },
-    {
-      "h": "Tech slide set to extend into second session amid worries over AI, elevated rates",
-      "es": "La caída tecnológica se extenderá a la segunda sesión en medio de preocupaciones sobre la inteligencia artificial y las tarifas elevadas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-15T09:45:37+00:00"
-    },
-    {
-      "h": "Why is Southern Company stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Southern Company hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-southern-company-stock-climbing-today-93CH-4950939",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-15T09:44:15+00:00"
-    },
-    {
-      "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "es": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "d": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-      "u": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T09:30:06+00:00"
-    },
-    {
-      "h": "Healey says surprise UK growth as 'sign of resilience' ahead of Budget",
-      "es": "Healey says surprise UK growth as 'sign of resilience' ahead of Budget",
-      "d": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "u": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c8/live/c24202a0-c879-11f1-934d-bbdb5e261215.jpg",
-      "published": "2026-10-15T09:29:54+00:00"
-    },
-    {
-      "h": "Major salmon farmers introduce chicken feed despite consumer concerns",
-      "es": "Major salmon farmers introduce chicken feed despite consumer concerns",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/major-salmon-farmers-introduce-chicken-feed-despite-consumer-concerns-93CH-4950868",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-15T09:16:54+00:00"
-    },
-    {
-      "h": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "es": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "d": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "u": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37492094",
-      "published": "2026-10-15T09:15:00+00:00"
-    },
-    {
-      "h": "Cohere moves to buy AI cybersecurity startup AISLE",
-      "es": "Cohere moves to buy AI cybersecurity startup AISLE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cohere-moves-to-buy-ai-cybersecuritystartup-aisle-4950863",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0R1_L.jpg",
-      "published": "2026-10-15T09:12:27+00:00"
-    },
-    {
-      "h": "Why is Saab stock climbing today?",
-      "es": "Why is Saab stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-saab-stock-climbing-today-93CH-4950845",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-15T09:05:36+00:00"
-    },
-    {
-      "h": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "es": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "d": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-      "u": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T09:02:31+00:00"
-    },
-    {
-      "h": "‘New Girl’ star Jake Johnson lists lush and private Pasadena estate for $3.3 million",
-      "es": "‘New Girl’ star Jake Johnson lists lush and private Pasadena estate for $3.3 million",
-      "d": "Jake Johnson is looking to sell his four-bedroom, four-bathroom Southern California property, which offers approximately 3,153 square feet of living space.",
-      "u": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-lists-lush-and-private-pasadena-estate-for-3-3-million-b6788838?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-98171958",
-      "published": "2026-10-15T09:01:00+00:00"
     }
   ],
   "sources": [
