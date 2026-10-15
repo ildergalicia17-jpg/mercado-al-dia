@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-15T07:49:49.237103+00:00",
+  "updated": "2026-10-15T08:19:35.193652+00:00",
   "news": [
+    {
+      "h": "Nvidia, AMD, Micron fall as AI stocks continue $1 trillion selloff amid mounting concerns",
+      "es": "Nvidia, AMD, Micron fall as AI stocks continue $1 trillion selloff amid mounting concerns",
+      "d": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T08:11:34+00:00"
+    },
     {
       "h": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
       "es": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
@@ -27,6 +36,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
       "published": "2026-10-15T07:46:52+00:00"
+    },
+    {
+      "h": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+      "es": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+      "d": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
+      "u": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T07:46:30+00:00"
     },
     {
       "h": "THG shares jump 13% on raised profit outlook",
@@ -63,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V4_L.jpg",
       "published": "2026-10-15T07:36:54+00:00"
+    },
+    {
+      "h": "Taiwan president calls for Micron, workers to negotiate ’sincerely’ ahead of possible strike",
+      "es": "Taiwan president calls for Micron, workers to negotiate ’sincerely’ ahead of possible strike",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-president-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike-4950532",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0BR_L.jpg",
+      "published": "2026-10-15T07:36:41+00:00"
     },
     {
       "h": "PepsiCo warns ’energy drink’ ban could run its India supplies dry as Red Bull sells on",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEA6M0LZ_M.jpg",
       "published": "2026-10-15T06:00:07+00:00"
-    },
-    {
-      "h": "Cicor keeps 2026 outlook as order backlog points to strong Q4 revenue",
-      "es": "Cicor mantiene la perspectiva para 2026, ya que la cartera de pedidos apunta a fuertes ingresos en el cuarto trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cicor-keeps-2026-outlook-as-order-backlog-points-to-strong-q4-revenue-93CH-4950552",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-15T05:40:28+00:00"
-    },
-    {
-      "h": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-      "es": "Miles de trabajadores de NI recibirán un aumento salarial a medida que aumente el salario digno real",
-      "d": "Alrededor de 6.000 trabajadores en NI reciben el salario digno real, que se paga voluntariamente para reflejar el costo de vida.",
-      "u": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b8/live/3f6d9360-c7e5-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-15T05:37:44+00:00"
-    },
-    {
-      "h": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "es": "TSMC registra ganancias récord por sexto trimestre consecutivo, superando las estimaciones sobre el auge de la IA",
-      "d": "TSMC informó sus ganancias del tercer trimestre el jueves.",
-      "u": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T05:37:31+00:00"
     }
   ],
   "sources": [
