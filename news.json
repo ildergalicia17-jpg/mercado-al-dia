@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-15T00:49:01.647134+00:00",
+  "updated": "2026-10-15T01:22:18.682861+00:00",
   "news": [
+    {
+      "h": "Anthropic revenue surges to $16.8bn ahead of stock market listing",
+      "es": "Los ingresos antrópicos aumentan a 16.800 millones de dólares antes de su cotización en bolsa",
+      "d": "Se produce cuando se espera que el gigante de la inteligencia artificial haga un exitoso debut en el mercado de valores a finales de año.",
+      "u": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+      "published": "2026-10-15T01:14:23+00:00"
+    },
+    {
+      "h": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "es": "La desaceleración del crecimiento de Anthropic podría ser la última señal de alerta del comercio de IA",
+      "d": "El crecimiento de los ingresos de Anthropic parece estar enfriándose a medida que la compañía se prepara para su debut público, lo que aviva aún más el nerviosismo de los inversores por la IA.",
+      "u": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-29102227",
+      "published": "2026-10-15T01:07:00+00:00"
+    },
     {
       "h": "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
       "es": "SK Hynix se desploma un 8% en medio de la caída de la tecnología en Asia mientras aumentan los temores de que la Fed suba las tasas y aumenten las preocupaciones sobre la financiación de la IA",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
       "published": "2026-10-14T21:24:48+00:00"
-    },
-    {
-      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 0.30%",
-      "es": "Las bolsas de Rusia cierran a la baja; El índice MOEX Rusia cae un 0,30%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-030-4950135",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE390V4_M.jpg",
-      "published": "2026-10-14T21:20:03+00:00"
-    },
-    {
-      "h": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-      "es": "Los comerciantes se acumulan en 'opciones de burbuja' en CoreWeave a medida que las acciones de neocloud se desploman",
-      "d": "Mientras un sector clave del comercio de inteligencia artificial sufre un duro golpe el miércoles, los operadores apuestan a que podría empeorar aún más.",
-      "u": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T21:19:09+00:00"
     }
   ],
   "sources": [
