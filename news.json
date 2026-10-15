@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-15T09:35:57.456109+00:00",
+  "updated": "2026-10-15T10:10:46.294449+00:00",
   "news": [
+    {
+      "h": "Venture Global to build power plants for AI data centers",
+      "es": "Venture Global construirá plantas de energía para centros de datos de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/venture-global-to-build-power-plants-for-ai-data-centers-93CH-4951000",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3D0R2_L.jpg",
+      "published": "2026-10-15T10:01:48+00:00"
+    },
+    {
+      "h": "Why are European infrastructure stocks still facing pressure ahead of Q3 results?",
+      "es": "¿Por qué las acciones europeas de infraestructuras siguen enfrentando presión antes de los resultados del tercer trimestre?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-are-european-infrastructure-stocks-still-facing-pressure-ahead-of-q3-results-4950994",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB1H0A0_M.jpg",
+      "published": "2026-10-15T10:00:49+00:00"
+    },
+    {
+      "h": "Analysis-For Chinese automakers, the road to survival runs through Europe",
+      "es": "Análisis: para los fabricantes de automóviles chinos, el camino hacia la supervivencia pasa por Europa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysisfor-chinese-automakers-the-road-to-survival-runs-through-europe-4950959",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0TO_L.jpg",
+      "published": "2026-10-15T10:00:48+00:00"
+    },
+    {
+      "h": "What to know about Starshield, SpaceX's military-focused Starlink service",
+      "es": "Lo que hay que saber sobre Starshield, el servicio Starlink centrado en el ejército de SpaceX",
+      "d": "Elon Musk distinguió Starshield de Starlink, que según él no podía usarse para operaciones militares ofensivas.",
+      "u": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T09:58:40+00:00"
+    },
+    {
+      "h": "Why is CoreWeave stock sliding today?",
+      "es": "¿Por qué las acciones de CoreWeave están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-4950971",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-10-15T09:55:27+00:00"
+    },
+    {
+      "h": "Citi says ASML results show AI chip demand outlook extending to 2030",
+      "es": "Citi dice que los resultados de ASML muestran que la perspectiva de demanda de chips de IA se extiende hasta 2030",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/citi-says-asml-results-show-ai-chip-demand-outlook-extending-to-2030-93CH-4950970",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-15T09:55:09+00:00"
+    },
+    {
+      "h": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
+      "es": "La FTC de EE. UU. cita a OpenAI y Anthropic por daños al consumidor, informa Axios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-ftc-subpoenas-openai-and-anthropicover-consumer-harms-axios-reports-4950890",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0RD_L.jpg",
+      "published": "2026-10-15T09:49:01+00:00"
+    },
+    {
+      "h": "Tech slide set to extend into second session amid worries over AI, elevated rates",
+      "es": "La caída tecnológica se extenderá a la segunda sesión en medio de preocupaciones sobre la inteligencia artificial y las tarifas elevadas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-15T09:45:37+00:00"
+    },
+    {
+      "h": "Why is Southern Company stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Southern Company hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-southern-company-stock-climbing-today-93CH-4950939",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-15T09:44:15+00:00"
+    },
     {
       "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "es": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -189,87 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-15T08:11:34+00:00"
-    },
-    {
-      "h": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "es": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "d": "TSMC reported its third-quarter earnings on Thursday.",
-      "u": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-15T08:09:37+00:00"
-    },
-    {
-      "h": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "es": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "d": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
-      "u": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T07:47:45+00:00"
-    },
-    {
-      "h": "Why is THG stock surging today?",
-      "es": "Why is THG stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-thg-stock-surging-today-93CH-4950724",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-15T07:47:34+00:00"
-    },
-    {
-      "h": "Why is Cicor Technologies stock sliding today?",
-      "es": "Why is Cicor Technologies stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cicor-technologies-stock-sliding-today-93CH-4950723",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-15T07:46:52+00:00"
-    },
-    {
-      "h": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "es": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "d": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
-      "u": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T07:46:30+00:00"
-    },
-    {
-      "h": "THG shares jump 13% on raised profit outlook",
-      "es": "THG shares jump 13% on raised profit outlook",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-15T07:42:58+00:00"
-    },
-    {
-      "h": "EasyJet shares rise as Apollo takeover moves toward completion",
-      "es": "EasyJet shares rise as Apollo takeover moves toward completion",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/easyjet-shares-rise-as-apollo-takeover-moves-toward-completion-93CH-4950716",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA6N0MF_M.jpg",
-      "published": "2026-10-15T07:42:38+00:00"
-    },
-    {
-      "h": "Hyundai to recall over 94,600 US vehicles over fire risk from overheating, NHTSA says",
-      "es": "Hyundai to recall over 94,600 US vehicles over fire risk from overheating, NHTSA says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hyundai-to-recall-over-94600-us-vehicles-over-fire-risk-from-overheating-nhtsa-says-4950715",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0KR_L.jpg",
-      "published": "2026-10-15T07:42:23+00:00"
-    },
-    {
-      "h": "Can Europe step in as Ukraine struggles with Starlink and US satellite data?",
-      "es": "Can Europe step in as Ukraine struggles with Starlink and US satellite data?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix-4949886",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V4_L.jpg",
-      "published": "2026-10-15T07:36:54+00:00"
     }
   ],
   "sources": [
