@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-15T05:48:22.645686+00:00",
+  "updated": "2026-10-15T06:15:20.395800+00:00",
   "news": [
+    {
+      "h": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
+      "es": "De 'Dune' a 'Wicker', cómo este 'pequeño' país europeo se convirtió en el centro de Hollywood",
+      "d": "Hungría, un pequeño país de Europa central, ha desempeñado un papel importante en el negocio cinematográfico desde finales del siglo XIX.",
+      "u": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T06:09:01+00:00"
+    },
+    {
+      "h": "UK economy grew 0.1% in August ahead of Healey's first Budget",
+      "es": "La economía del Reino Unido creció un 0,1% en agosto antes del primer presupuesto de Healey",
+      "d": "La Oficina de Estadísticas Nacionales (ONS) dijo que el PIB creció en agosto.",
+      "u": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca9/live/a22adb50-c7e2-11f1-b712-6f93dfe07e87.jpg",
+      "published": "2026-10-15T06:07:52+00:00"
+    },
+    {
+      "h": "Asia stocks tumble as South Korea’s KOSPI triggers circuit breaker in tech rout",
+      "es": "Las acciones asiáticas caen mientras el KOSPI de Corea del Sur activa un disyuntor en la derrota tecnológica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-chip-rout-deepens-after-hotter-us-inflation-4950421",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/asian_2_M_1440047814.jpg",
+      "published": "2026-10-15T06:01:59+00:00"
+    },
+    {
+      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 3.41%",
+      "es": "Las bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 3,41%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-341-4950569",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA6M0LZ_M.jpg",
+      "published": "2026-10-15T06:00:07+00:00"
+    },
     {
       "h": "Cicor keeps 2026 outlook as order backlog points to strong Q4 revenue",
       "es": "Cicor mantiene la perspectiva para 2026, ya que la cartera de pedidos apunta a fuertes ingresos en el cuarto trimestre",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
       "published": "2026-10-15T03:42:15+00:00"
-    },
-    {
-      "h": "UBS considers leaving Switzerland over capital rule plans, WSJ reports",
-      "es": "UBS considers leaving Switzerland over capital rule plans, WSJ reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubs-considers-leaving-switzerland-over-capital-rule-plans-wsj-reports-93CH-4950453",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-15T03:42:08+00:00"
-    },
-    {
-      "h": "SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters",
-      "es": "SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-seeks-us-chip-equipment-exports-to-china-tied-to-new-factory--reuters-4950452",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM680H2_1200_L.jpg",
-      "published": "2026-10-15T03:37:33+00:00"
-    },
-    {
-      "h": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "es": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "d": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
-      "u": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T03:24:36+00:00"
-    },
-    {
-      "h": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-      "es": "ByteDance nears chip supply deal with MediaTek for data centres, Bloomberg News reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports-4950432",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E06X_L.jpg",
-      "published": "2026-10-15T03:06:44+00:00"
     }
   ],
   "sources": [
