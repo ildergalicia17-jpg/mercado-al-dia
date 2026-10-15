@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-15T06:15:20.395800+00:00",
+  "updated": "2026-10-15T07:09:30.086681+00:00",
   "news": [
+    {
+      "h": "Wall St futures drop as hot CPI revives Fed hike concerns; TSMC results in focus",
+      "es": "Los futuros de Wall St caen a medida que el IPC reaviva las preocupaciones sobre el aumento de la Fed; Los resultados de TSMC en el foco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-15T07:00:33+00:00"
+    },
+    {
+      "h": "Japan stocks lower at close of trade; Nikkei 225 down 4.77%",
+      "es": "Las bolsas de Japón cierran a la baja; El Nikkei 225 cae un 4,77%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-477-4950670",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0D040_M.jpg",
+      "published": "2026-10-15T07:00:05+00:00"
+    },
+    {
+      "h": "Private equity firms eye Spanish software firm esPublico - report",
+      "es": "Empresas de capital privado miran a la empresa española de software esPublico: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/private-equity-firms-eye-spanish-software-firm-espublico--report-93CH-4950661",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-15T06:52:00+00:00"
+    },
+    {
+      "h": "Bernstein is watching these two Chinese internet stocks amid growing AI interest",
+      "es": "Bernstein está observando estas dos acciones chinas de Internet en medio del creciente interés por la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bernstein-is-watching-these-two-chinese-internet-stocks-amid-growing-ai-interest-4950652",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0Q0HK_M.jpg",
+      "published": "2026-10-15T06:44:56+00:00"
+    },
+    {
+      "h": "Goldman Sachs Names Top European Real Estate Stocks to Buy",
+      "es": "Goldman Sachs nombra las principales acciones inmobiliarias europeas para comprar",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-european-real-estate-stocks-to-buy-4950651",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MerlinProperties_800x533_L_1488123546.jpg",
+      "published": "2026-10-15T06:42:28+00:00"
+    },
+    {
+      "h": "Lufthansa pilots told to carry extra fuel amid Frankfurt supply issues - report",
+      "es": "A los pilotos de Lufthansa se les pide que lleven combustible adicional en medio de problemas de suministro en Frankfurt: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lufthansa-pilots-told-to-carry-extra-fuel-amid-frankfurt-supply-issues--report-93CH-4950650",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-15T06:41:50+00:00"
+    },
+    {
+      "h": "UK economy grew 0.1% in August, beating expectations",
+      "es": "La economía del Reino Unido creció un 0,1% en agosto, superando las expectativas",
+      "d": "El Reino Unido está lidiando con una crisis del costo de vida provocada por una inflación persistente y los crecientes costos de la energía.",
+      "u": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T06:37:10+00:00"
+    },
+    {
+      "h": "Copper squeeze breathes new life into old mines",
+      "es": "La expulsión del cobre da nueva vida a minas antiguas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/copper-squeeze-breathes-new-life-into-old-mines-4950645",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E095_L.jpg",
+      "published": "2026-10-15T06:36:53+00:00"
+    },
+    {
+      "h": "Sovereign funds to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says",
+      "es": "Los fondos soberanos recurrirán a bonos distintos del dólar en medio de una crisis de liquidez impulsada por la inteligencia artificial, dice un banquero de Citi",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sovereign-funds-to-turn-to-nondollar-bonds-amid-aidriven-liquidity-crunch-citi-banker-says-4950618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0FZ_L.jpg",
+      "published": "2026-10-15T06:36:35+00:00"
+    },
+    {
+      "h": "EQT to buy Stockbridge, expanding Its U.S. real estate business",
+      "es": "EQT comprará Stockbridge y ampliará su negocio inmobiliario en EE. UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/eqt-to-buy-stockbridge-expanding-its-us-real-estate-business-4950641",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-15T06:32:04+00:00"
+    },
+    {
+      "h": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+      "es": "Boletín informativo Inside India: La mega-IPO del multimillonario Ambani se enfrenta a una revisión de la realidad de la valoración en medio de la disputa de Musk",
+      "d": "Jio Platforms, la empresa en el centro de los comentarios de Musk, lanzará una oferta pública inicial a finales de este mes.",
+      "u": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T06:22:45+00:00"
+    },
+    {
+      "h": "India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+      "es": "El banco IDBI de la India cae un 7% mientras el gobierno anuncia la venta de una participación de 5.500 millones de dólares al canadiense Fairfax",
+      "d": "El gobierno indio ha estado desinvirtiendo su participación en varias empresas estatales este año mientras intenta mantener su motor de crecimiento en funcionamiento en medio de presiones fiscales cada vez más profundas.",
+      "u": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T06:12:04+00:00"
+    },
     {
       "h": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
       "es": "De 'Dune' a 'Wicker', cómo este 'pequeño' país europeo se convirtió en el centro de Hollywood",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/KOSPI_800x533_L_1661164467.jpg",
       "published": "2026-10-15T04:33:57+00:00"
-    },
-    {
-      "h": "Why is CEAT stock falling today?",
-      "es": "Why is CEAT stock falling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ceat-stock-falling-today-93CH-4950492",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-15T04:23:36+00:00"
-    },
-    {
-      "h": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "es": "Anthropic señala un aumento de ingresos a los inversores antes de su debut en el mercado de valores",
-      "d": "Esto se produce cuando algunos inversores están preocupados por la cantidad de dinero que se gasta en infraestructura de inteligencia artificial.",
-      "u": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-      "published": "2026-10-15T04:19:17+00:00"
-    },
-    {
-      "h": "Why is China Shenhua Energy stock sliding today?",
-      "es": "Why is China Shenhua Energy stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-china-shenhua-energy-stock-sliding-today-93CH-4950480",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CrudeOil_800x533_L_1778185483.jpg",
-      "published": "2026-10-15T04:12:45+00:00"
-    },
-    {
-      "h": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
-      "es": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
-      "d": "Oil fell Thursday, as traders assessed attacks on ships passing through Hormuz, while digesting the International Energy Agency's latest monthly report.",
-      "u": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T04:09:18+00:00"
-    },
-    {
-      "h": "Japan, U.S. reach first chip deal under $550 bln investment plan",
-      "es": "Japan, U.S. reach first chip deal under $550 bln investment plan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-us-reach-first-chip-deal-under-550-bln-investment-plan-93CH-4950476",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-15T04:05:38+00:00"
-    },
-    {
-      "h": "Gift Nifty 50 tests 22,870 neckline amid bull trap risk: Live",
-      "es": "Gift Nifty 50 tests 22,870 neckline amid bull trap risk: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-stalls-below-22693-resistance-live-levels-93CH-4943050",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-15T04:03:29+00:00"
-    },
-    {
-      "h": "Why is Saizeriya stock surging today?",
-      "es": "Why is Saizeriya stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-saizeriya-stock-surging-today-93CH-4950466",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-15T03:56:41+00:00"
-    },
-    {
-      "h": "Why is Ryohin Keikaku stock surging today?",
-      "es": "Why is Ryohin Keikaku stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ryohin-keikaku-stock-surging-today-93CH-4950465",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-15T03:56:16+00:00"
-    },
-    {
-      "h": "Why is Advantest stock plummeting today?",
-      "es": "Why is Advantest stock plummeting today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-plummeting-today-93CH-4950464",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-15T03:56:07+00:00"
-    },
-    {
-      "h": "Why is J&T Global Express stock climbing today?",
-      "es": "Why is J&T Global Express stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-jt-global-express-stock-climbing-today-93CH-4950463",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-15T03:56:02+00:00"
-    },
-    {
-      "h": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "es": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "d": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
-      "u": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T03:48:58+00:00"
-    },
-    {
-      "h": "Why is Netwealth stock sliding today?",
-      "es": "Why is Netwealth stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-netwealth-stock-sliding-today-93CH-4950454",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-15T03:42:15+00:00"
     }
   ],
   "sources": [
