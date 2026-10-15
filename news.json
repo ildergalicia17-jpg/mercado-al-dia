@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-14T23:46:54.658430+00:00",
+  "updated": "2026-10-15T00:07:00.411936+00:00",
   "news": [
+    {
+      "h": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "es": "El comercio de IA se está fragmentando a medida que los temores inflacionarios sacuden a las valores tecnológicas promocionadas",
+      "d": "Los inversores se preguntan si la fuerte inflación y el aumento de los costos de endeudamiento podrían descarrilar el desarrollo de la IA.",
+      "u": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-29969311",
+      "published": "2026-10-14T23:36:00+00:00"
+    },
     {
       "h": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
       "es": "Se espera que TSMC informe el sexto trimestre consecutivo de ganancias récord gracias al auge de la IA",
@@ -173,6 +182,15 @@
       "published": "2026-10-14T21:48:31+00:00"
     },
     {
+      "h": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "es": "Bank of America suma la pérdida de ganancias a la miseria de una multa gubernamental de 1.200 millones de dólares",
+      "d": "Las acciones del Bank of America caen a medida que la decepción de los inversores por la multa gubernamental de 1.200 millones de dólares se sumó al pesimista informe de ganancias del banco.",
+      "u": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86270203",
+      "published": "2026-10-14T21:40:00+00:00"
+    },
+    {
       "h": "Why is Rocket Lab stock tumbling today?",
       "es": "¿Por qué están cayendo las acciones de Rocket Lab hoy?",
       "d": "",
@@ -252,24 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T21:18:13+00:00"
-    },
-    {
-      "h": "OpenAI sued by 8 states over ChatGPT safety concerns",
-      "es": "OpenAI demandado por 8 estados por preocupaciones de seguridad de ChatGPT",
-      "d": "OpenAI se enfrenta a un escrutinio cada vez mayor sobre sus prácticas de seguridad y protección, incluida la forma en que la empresa está trabajando para proteger a los niños.",
-      "u": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T21:09:20+00:00"
-    },
-    {
-      "h": "Anthropic to add US voting information to Claude before midterms",
-      "es": "Anthropic agregará información sobre la votación en EE. UU. a Claude antes de las elecciones intermedias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-4949935",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1WP_L.jpg",
-      "published": "2026-10-14T21:07:10+00:00"
     }
   ],
   "sources": [
