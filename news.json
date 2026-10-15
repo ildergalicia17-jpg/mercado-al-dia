@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-15T21:32:38.865620+00:00",
+  "updated": "2026-10-15T22:34:38.683105+00:00",
   "news": [
+    {
+      "h": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "es": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "d": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+      "u": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T22:25:32+00:00"
+    },
+    {
+      "h": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "es": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "d": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "u": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37492094",
+      "published": "2026-10-15T22:15:00+00:00"
+    },
+    {
+      "h": "Cohere moves to buy AI cybersecurity startup Aisle",
+      "es": "Cohere moves to buy AI cybersecurity startup Aisle",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cohere-moves-to-buy-ai-cybersecuritystartup-aisle-4950863",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0R1_L.jpg",
+      "published": "2026-10-15T22:13:18+00:00"
+    },
+    {
+      "h": "Anthropic to add US voting information to Claude before midterms (Oct 14)",
+      "es": "Anthropic to add US voting information to Claude before midterms (Oct 14)",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1WP_L.jpg",
+      "published": "2026-10-15T22:13:01+00:00"
+    },
+    {
+      "h": "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has ’become too risk-averse’",
+      "es": "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has ’become too risk-averse’",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E20S_L.jpg",
+      "published": "2026-10-15T22:12:44+00:00"
+    },
+    {
+      "h": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+      "es": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/elon-musk-agrees-to-settle-lawsuits-over-2024-election-lottery-4952753",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E20O_L.jpg",
+      "published": "2026-10-15T22:06:24+00:00"
+    },
+    {
+      "h": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "es": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "d": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+      "u": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-20538464",
+      "published": "2026-10-15T21:56:00+00:00"
+    },
+    {
+      "h": "Why is Cohen & Steers stock surging today?",
+      "es": "Why is Cohen & Steers stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-cohen--steers-stock-surging-today-93CH-4952730",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-15T21:33:45+00:00"
+    },
+    {
+      "h": "Why is Varonis stock rallying today?",
+      "es": "Why is Varonis stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-varonis-stock-rallying-today-93CH-4952729",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-15T21:33:31+00:00"
+    },
+    {
+      "h": "Why is Alcoa stock climbing today?",
+      "es": "Why is Alcoa stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-15T21:33:17+00:00"
+    },
     {
       "h": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
       "es": "Trump dice que \"si Ken Paxton pierde\" la carrera por el Senado de Texas, culpe a Cornyn y Karl Rove",
@@ -9,6 +99,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-15T21:28:51+00:00"
+    },
+    {
+      "h": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+      "es": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+      "d": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "u": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T21:26:05+00:00"
     },
     {
       "h": "U.S. sues California in fight over checking citizenship of mail voters",
@@ -119,6 +218,15 @@
       "published": "2026-10-15T20:35:21+00:00"
     },
     {
+      "h": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+      "es": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+      "d": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T20:33:24+00:00"
+    },
+    {
       "h": "Why is JB Hunt Transport stock sliding today?",
       "es": "¿Por qué están cayendo las acciones de JB Hunt Transport hoy?",
       "d": "",
@@ -162,114 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-15T20:30:01+00:00"
-    },
-    {
-      "h": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "es": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "d": "Signs of distressed deepened in CoreWeave on Thursday.",
-      "u": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:18:02+00:00"
-    },
-    {
-      "h": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI",
-      "es": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-15T20:12:30+00:00"
-    },
-    {
-      "h": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "es": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "d": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
-      "u": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:10:20+00:00"
-    },
-    {
-      "h": "KFC announces deal to switch U.S. beverage provider to Coca-Cola from Pepsi",
-      "es": "KFC announces deal to switch U.S. beverage provider to Coca-Cola from Pepsi",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kfc-nears-deal-to-switch-us-beverage-provider-to-cocacola-from-pepsi--wsj-4952512",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED360W2_M.jpg",
-      "published": "2026-10-15T20:06:51+00:00"
-    },
-    {
-      "h": "Why is Waste Connections stock surging today?",
-      "es": "Why is Waste Connections stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-waste-connections-stock-surging-today-93CH-4952537",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-15T20:04:38+00:00"
-    },
-    {
-      "h": "Why is Kinross Gold stock rallying today?",
-      "es": "Why is Kinross Gold stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-kinross-gold-stock-rallying-today-93CH-4952533",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE5R1AR-ORUBS_M.jpg",
-      "published": "2026-10-15T20:02:42+00:00"
-    },
-    {
-      "h": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-      "es": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-      "d": "Investors rotated into bonds amid a broader flight to safety.",
-      "u": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:02:06+00:00"
-    },
-    {
-      "h": "College Football Playoff nears deal to expand to 24-team format by 2027 - ESPN",
-      "es": "College Football Playoff nears deal to expand to 24-team format by 2027 - ESPN",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/college-football-playoff-nears-deal-to-expand-to-24team-format-by-2027--espn-4952522",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED5F1WY_M.jpg",
-      "published": "2026-10-15T19:54:55+00:00"
-    },
-    {
-      "h": "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo",
-      "es": "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1V6_L.jpg",
-      "published": "2026-10-15T19:54:43+00:00"
-    },
-    {
-      "h": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "es": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "d": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
-      "u": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T19:53:49+00:00"
-    },
-    {
-      "h": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-      "es": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-      "d": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
-      "u": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T19:53:29+00:00"
-    },
-    {
-      "h": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "es": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "d": "Big Tech gave millions to Trump's White House ballroom, documents show",
-      "u": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T19:43:40+00:00"
     }
   ],
   "sources": [
