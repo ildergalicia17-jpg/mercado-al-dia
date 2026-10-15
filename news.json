@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-15T00:07:00.411936+00:00",
+  "updated": "2026-10-15T00:49:01.647134+00:00",
   "news": [
+    {
+      "h": "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "es": "SK Hynix se desploma un 8% en medio de la caída de la tecnología en Asia mientras aumentan los temores de que la Fed suba las tasas y aumenten las preocupaciones sobre la financiación de la IA",
+      "d": "El jueves se profundizó la venta masiva de acciones mundiales de hardware tecnológico.",
+      "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T00:42:30+00:00"
+    },
+    {
+      "h": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+      "es": "Boletín informativo Inside India: La mega-IPO del multimillonario Ambani se enfrenta a una revisión de la realidad de la valoración en medio de la disputa de Musk",
+      "d": "Jio Platforms, la empresa en el centro de los comentarios de Musk, lanzará una oferta pública inicial a finales de este mes.",
+      "u": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T00:30:13+00:00"
+    },
+    {
+      "h": "U.S. stock futures fall as hot inflation revives Fed hike concerns",
+      "es": "Los futuros de acciones estadounidenses caen a medida que la inflación reaviva las preocupaciones sobre el aumento de la Fed",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-15T00:30:04+00:00"
+    },
+    {
+      "h": "YouTube explores audiobook feature for 2027 launch- WSJ",
+      "es": "YouTube explora la función de audiolibros para su lanzamiento en 2027: WSJ",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/youtube-explores-audiobook-feature-for-2027-launch-wsj-93CH-4950313",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED2L1IM_M.jpg",
+      "published": "2026-10-15T00:18:46+00:00"
+    },
     {
       "h": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
       "es": "El comercio de IA se está fragmentando a medida que los temores inflacionarios sacuden a las valores tecnológicas promocionadas",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-14T21:19:09+00:00"
-    },
-    {
-      "h": "The COLA wars are coming for Social Security",
-      "es": "Se acercan las guerras COLA por el Seguro Social",
-      "d": "El ajuste anual por costo de vida pronto podría limitarse, limitarse, someterse a prueba de recursos o eliminarse por completo en virtud de varias propuestas que se están considerando activamente.",
-      "u": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58308834",
-      "published": "2026-10-14T21:19:00+00:00"
-    },
-    {
-      "h": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "es": "Trump apelará la orden que impide a la Casa Blanca prohibir MS NOW, CNN y Politico",
-      "d": "El juez de distrito estadounidense Timothy Kelly dictaminó que los tres medios atacados por el presidente Donald Trump pueden conservar su acceso al complejo de la Casa Blanca.",
-      "u": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T21:18:46+00:00"
-    },
-    {
-      "h": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-      "es": "Los hutíes de Yemen prometen más ataques contra aeropuertos e instalaciones petroleras saudíes tras el ataque a la sede de Aramco",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg",
-      "published": "2026-10-14T21:18:43+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-      "es": "El sospechoso de interceptar OpenAI reservó un billete de ida a Arabia Saudita con su familia antes del arresto",
-      "d": "\"Como innumerables estadounidenses, el señor Alfozan llegó a este país hace años como un joven con un sueño\", dijo el miércoles su abogado defensor penal.",
-      "u": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-14T21:18:13+00:00"
     }
   ],
   "sources": [
