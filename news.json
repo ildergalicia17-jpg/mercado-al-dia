@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-15T20:23:49.383399+00:00",
+  "updated": "2026-10-15T21:32:38.865620+00:00",
   "news": [
+    {
+      "h": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+      "es": "Trump dice que \"si Ken Paxton pierde\" la carrera por el Senado de Texas, culpe a Cornyn y Karl Rove",
+      "d": "Las encuestas muestran que el fiscal general republicano Ken Paxton está detrás del representante demócrata James Talarico en la carrera por el Senado de Texas.",
+      "u": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T21:28:51+00:00"
+    },
+    {
+      "h": "U.S. sues California in fight over checking citizenship of mail voters",
+      "es": "Estados Unidos demanda a California en lucha por verificar la ciudadanía de los votantes por correo",
+      "d": "La demanda de la administración Trump se produce menos de un mes antes de las elecciones de mitad de período que determinarán qué partido controla ambas cámaras del Congreso.",
+      "u": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T21:24:57+00:00"
+    },
+    {
+      "h": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "es": "Nvidia y otras acciones de chips enfrentan una presión renovada a medida que aumentan los temores sobre la IA",
+      "d": "Los detalles informados sobre el progreso financiero de Anthropic se suman a las preocupaciones sobre la salud del ecosistema de IA.",
+      "u": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58760450",
+      "published": "2026-10-15T21:23:00+00:00"
+    },
+    {
+      "h": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+      "es": "No abandones las acciones tecnológicas todavía. Realice estos movimientos para aprovechar el último restablecimiento de la IA.",
+      "d": "Los inversores tienen ahora una “relación de amor y odio” con las acciones tecnológicas, y los expertos recomiendan buscar selectivamente gangas y al mismo tiempo apostar por las principales empresas de la nube.",
+      "u": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37341091",
+      "published": "2026-10-15T21:21:00+00:00"
+    },
+    {
+      "h": "Volvo Cars expands automated driving partnership with Nvidia",
+      "es": "Volvo Cars amplía su asociación de conducción automatizada con Nvidia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/volvo-cars-expands-automated-driving-partnership-with-nvidia-4952421",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1RL_L.jpg",
+      "published": "2026-10-15T21:12:51+00:00"
+    },
+    {
+      "h": "Exclusive-Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "es": "Los inversores exclusivos moderan las expectativas de valoración de las OPI de Anthropic debido a la desaceleración del crecimiento de los ingresos, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1XY_L.jpg",
+      "published": "2026-10-15T21:12:37+00:00"
+    },
+    {
+      "h": "SITE Centers stock surges on $3 special dividend",
+      "es": "Las acciones de SITE Centers aumentan gracias al dividendo especial de 3 dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/site-centers-stock-surges-on-3-special-dividend-4952700",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
+      "published": "2026-10-15T21:06:56+00:00"
+    },
+    {
+      "h": "Some investors push Anthropic to cut IPO valuation to $1.5 trillion - report",
+      "es": "Algunos inversores presionan a Anthropic para que reduzca la valoración de la oferta pública inicial a 1,5 billones de dólares: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L0PG_L.jpg",
+      "published": "2026-10-15T21:05:03+00:00"
+    },
+    {
+      "h": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+      "es": "Las acciones polarizadas de CoreWeave se recuperan mientras Wall Street se enfrenta al gasto en IA",
+      "d": "Las opiniones de Wall Street sobre CoreWeave son marcadamente divisivas a medida que los inversores prestan más atención a los detalles financieros de las grandes empresas de inteligencia artificial.",
+      "u": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70952254",
+      "published": "2026-10-15T21:03:00+00:00"
+    },
+    {
+      "h": "CoreWeave three co-founders sold $3.3 billion in shares since IPO",
+      "es": "Los tres cofundadores de CoreWeave vendieron 3.300 millones de dólares en acciones desde su salida a bolsa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coreweave-three-cofounders-sold-33-billion-in-shares-since-ipo-4952665",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "published": "2026-10-15T20:47:03+00:00"
+    },
+    {
+      "h": "Hain Celestial weighs Chapter 11 filing as debt pressures build - Bloomberg",
+      "es": "Hain Celestial evalúa la posibilidad de acogerse al Capítulo 11 a medida que aumentan las presiones sobre la deuda - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hain-celestial-weighs-chapter-11-filing-as-debt-pressures-build--bloomberg-4952659",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
+      "published": "2026-10-15T20:45:00+00:00"
+    },
+    {
+      "h": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+      "es": "Los inversores se están deshaciendo de las acciones de IA a medida que el \"naufragio tecnológico\" empeora. Aquí es hacia donde se dirigen ahora.",
+      "d": "Una venta masiva continua en el comercio de IA está obligando a los inversores a pasar de los nombres tecnológicos a la relativa seguridad de los bonos gubernamentales y los sectores bursátiles defensivos.",
+      "u": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-50558528",
+      "published": "2026-10-15T20:40:00+00:00"
+    },
+    {
+      "h": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
+      "es": "Anthropic recurre a las organizaciones sin fines de lucro METR y SecureBio para ayudar a evaluar los riesgos y las prácticas de seguridad",
+      "d": "La empresa también participa en conversaciones iniciales con otras organizaciones, incluida Hugging Face.",
+      "u": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T20:35:21+00:00"
+    },
+    {
+      "h": "Why is JB Hunt Transport stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de JB Hunt Transport hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-15T20:31:28+00:00"
+    },
+    {
+      "h": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.08%",
+      "es": "Las bolsas de Estados Unidos cierran al alza; El Promedio Industrial Dow Jones sube un 1,08%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM2T0WR_1200_L.jpg",
+      "published": "2026-10-15T20:31:03+00:00"
+    },
+    {
+      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.55%",
+      "es": "Las bolsas de Canadá cierran al alza; El S&P/TSX Composite sube un 1,55%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-155-4952636",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
+      "published": "2026-10-15T20:30:33+00:00"
+    },
+    {
+      "h": "Brazil stocks lower at close of trade; Bovespa down 1.06%",
+      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 1,06%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4952628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEF161OV_M.jpg",
+      "published": "2026-10-15T20:30:05+00:00"
+    },
+    {
+      "h": "Porsche reveals Mission S concept car that previews new design identity",
+      "es": "Porsche revela el concept car Mission S que muestra una nueva identidad de diseño",
+      "d": "Porsche reveló un concept car llamado Mission S como parte de un plan de recuperación que incluye esfuerzos para aumentar las ganancias a través de productos de mayor calidad y menores ventas.",
+      "u": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T20:30:01+00:00"
+    },
     {
       "h": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
       "es": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
@@ -108,168 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-15T19:43:40+00:00"
-    },
-    {
-      "h": "Explainer-Why CoreWeave’s troubles are rattling the AI boom",
-      "es": "Explainer-Why CoreWeave’s troubles are rattling the AI boom",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerwhy-coreweaves-troubles-are-rattling-the-ai-boom-4952500",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1UO_L.jpg",
-      "published": "2026-10-15T19:37:49+00:00"
-    },
-    {
-      "h": "Why is NexGen Energy stock rallying today?",
-      "es": "Why is NexGen Energy stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-rallying-today-93CH-4952502",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB050EH_M.jpg",
-      "published": "2026-10-15T19:32:44+00:00"
-    },
-    {
-      "h": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
-      "es": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
-      "d": "A historian explains why housing, investing and budgeting advice has changed over time — and what that can teach you about money today.",
-      "u": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T19:30:53+00:00"
-    },
-    {
-      "h": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-      "es": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-      "d": "Jim Cramer identified two of his favorite stocks to buy and the names he's not willing to touch just yet.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T19:08:05+00:00"
-    },
-    {
-      "h": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race",
-      "es": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race",
-      "d": "Democrats have not won statewide in Texas since 1994 or a U.S. Senate race there since 1988, but James Talarico is making the state competitive.",
-      "u": "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T18:35:25+00:00"
-    },
-    {
-      "h": "Amazon launches two new portable AI listening devices",
-      "es": "Amazon launches two new portable AI listening devices",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amazon-launches-two-new-portable-ai-listening-devices-4952429",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1RP_L.jpg",
-      "published": "2026-10-15T18:31:24+00:00"
-    },
-    {
-      "h": "Nasdaq resolves network disruption that caused data gaps, source says",
-      "es": "Nasdaq resolves network disruption that caused data gaps, source says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-reports-network-disruption-us-equities-data-feeds-impacted-4952331",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1MJ_L.jpg",
-      "published": "2026-10-15T18:30:56+00:00"
-    },
-    {
-      "h": "CoreWeave’s slump spotlights growing burden of debt behind AI boom",
-      "es": "CoreWeave’s slump spotlights growing burden of debt behind AI boom",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E149_L.jpg",
-      "published": "2026-10-15T18:30:41+00:00"
-    },
-    {
-      "h": "Private credit faces deployment squeeze as fundraising hits record",
-      "es": "Private credit faces deployment squeeze as fundraising hits record",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/private-credit-faces-deployment-squeeze-as-fundraising-hits-record-4952463",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1T1_L.jpg",
-      "published": "2026-10-15T18:30:27+00:00"
-    },
-    {
-      "h": "'I'd spend $1,000 on a wedding present'",
-      "es": "'I'd spend $1,000 on a wedding present'",
-      "d": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
-      "u": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f79f/live/033666a0-c656-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-15T18:30:09+00:00"
-    },
-    {
-      "h": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-      "es": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-      "d": "Sen. Elizabeth Warren and Rep. Robert Garcia are leading new legislation to force banks and some executives to release records related to Jeffrey Epstein.",
-      "u": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T18:26:51+00:00"
-    },
-    {
-      "h": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
-      "es": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
-      "d": "Shares of AbbVie, Eli Lilly and Gilead Sciences are trading at or near record highs.",
-      "u": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08752932",
-      "published": "2026-10-15T18:25:00+00:00"
-    },
-    {
-      "h": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "es": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "d": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-      "u": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T18:19:35+00:00"
-    },
-    {
-      "h": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
-      "es": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
-      "d": "Wall Street clearly liked what it heard on the post-earnings conference call because BNY stock went from flat to up more than 3% on the day.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/15/bny-stock-pops-on-strong-earnings-showing-exactly-why-we-like-this-bank-in-this-market.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-15T18:16:41+00:00"
-    },
-    {
-      "h": "Google demonstrates quantum computing breakthrough, cuts errors 40-fold",
-      "es": "Google demonstrates quantum computing breakthrough, cuts errors 40-fold",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-demonstrates-quantum-computing-breakthrough-cuts-errors-40fold-4952450",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ43097_L.jpg",
-      "published": "2026-10-15T18:14:56+00:00"
-    },
-    {
-      "h": "OpenAI and Meta warn U.S. judicial panel about deepfake evidence",
-      "es": "OpenAI and Meta warn U.S. judicial panel about deepfake evidence",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-and-meta-warn-us-judicial-panel-about-deepfake-evidence-4952449",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg",
-      "published": "2026-10-15T18:12:13+00:00"
-    },
-    {
-      "h": "Italy’s UniCredit wins ECB approval to control Germany’s Commerzbank",
-      "es": "Italy’s UniCredit wins ECB approval to control Germany’s Commerzbank",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italys-unicredit-wins-ecb-approval-to-control-germanys-commerzbank-4952446",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1S4_L.jpg",
-      "published": "2026-10-15T18:06:21+00:00"
-    },
-    {
-      "h": "Arista Networks, Lam Research among market cap stock movers on Thursday",
-      "es": "Arista Networks, Lam Research among market cap stock movers on Thursday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arista-networks-lam-research-among-market-cap-stock-movers-on-thursday-93CH-4952444",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-15T18:05:27+00:00"
     }
   ],
   "sources": [
