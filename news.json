@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-16T10:18:04.659343+00:00",
+  "updated": "2026-10-16T10:54:30.909157+00:00",
   "news": [
+    {
+      "h": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "es": "Cómo una barrida de mitad de mandato por parte de los demócratas podría convertir esta venta masiva de tecnología en una crisis tecnológica",
+      "d": "Los nombres populares de AI están nuevamente bajo presión esta semana, pero el dolor podría empeorar después de las elecciones del 3 de noviembre.",
+      "u": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-20538464",
+      "published": "2026-10-16T10:49:00+00:00"
+    },
+    {
+      "h": "Turkey stock index drops over 3% after MSCI freezes changes",
+      "es": "El índice bursátil turco cae más del 3% después de que MSCI congela los cambios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/turkey-stock-index-drops-over-3-after-msci-freezes-changes-93CH-4953659",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-16T10:40:53+00:00"
+    },
+    {
+      "h": "Stay risk-off as higher real yields and AI volatility threaten stocks: BofA",
+      "es": "Mantenga la aversión al riesgo mientras los mayores rendimientos reales y la volatilidad de la IA amenazan a las acciones: BofA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stay-riskoff-as-higher-real-yields-and-ai-volatility-threaten-stocks-hartnett-4953610",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5E14Q_1200_L.jpg",
+      "published": "2026-10-16T10:39:29+00:00"
+    },
+    {
+      "h": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
+      "es": "El analista técnico de Jefferies encuentra un desarrollo alentador en el rebote del jueves, preparando el terreno para el repunte hacia fin de año.",
+      "d": "Las tasas más bajas están comenzando a generar una oferta para el resto del mercado, debajo del puñado de acciones tecnológicas más importantes.",
+      "u": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63421296",
+      "published": "2026-10-16T10:38:00+00:00"
+    },
+    {
+      "h": "UBS bullish on Bouygues as cash flow cushions French fiscal risks",
+      "es": "La UBS se muestra optimista respecto a Bouygues mientras el flujo de caja amortigua los riesgos fiscales franceses",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-bullish-on-bouygues-as-cash-flow-cushions-french-fiscal-risks-4953642",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBB6175_M.jpg",
+      "published": "2026-10-16T10:33:30+00:00"
+    },
+    {
+      "h": "CoreWeave bond rout tests market’s math on AI buildout",
+      "es": "La caída de los bonos CoreWeave pone a prueba las matemáticas del mercado sobre el desarrollo de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0QU_L.jpg",
+      "published": "2026-10-16T10:31:07+00:00"
+    },
+    {
+      "h": "India stocks higher at close of trade; Nifty 50 up 0.65%",
+      "es": "Las bolsas de India cierran al alza; Nifty 50 subió un 0,65%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-065-4953629",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEF2A140_M.jpg",
+      "published": "2026-10-16T10:30:06+00:00"
+    },
+    {
+      "h": "Can AI avoid the boom-and-bust fate of past capital cycles? BofA weighs in",
+      "es": "¿Puede la IA evitar el destino de auge y caída de los ciclos de capital pasados? BofA interviene",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/can-ai-avoid-the-boomandbust-fate-of-past-capital-cycles-bofa-weighs-in-4953613",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
+      "published": "2026-10-16T10:26:51+00:00"
+    },
+    {
+      "h": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
+      "es": "Las restricciones de Starlink de EE. UU. alientan a Rusia a intensificar los ataques contra Ucrania, dice un ministro a CNBC",
+      "d": "Ucrania busca energía invernal y apoyo de defensa aérea a medida que se intensifican los ataques rusos y los límites de Starlink interrumpen las operaciones militares.",
+      "u": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T10:25:46+00:00"
+    },
+    {
+      "h": "US appeals court invalidates federal $9 billion telecom subsidy fund",
+      "es": "Tribunal de apelaciones de EE. UU. invalida el fondo federal de subsidios de telecomunicaciones de 9 mil millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-appeals-court-invalidates-federal-9-billion-telecom-subsidy-fund-4952982",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F05L_L.jpg",
+      "published": "2026-10-16T10:25:29+00:00"
+    },
+    {
+      "h": "The best of the AI trade could be behind us. Here’s how to prepare, according to Barclays.",
+      "es": "Lo mejor del sector de la IA podría haber quedado atrás. Así es como se prepara, según Barclays.",
+      "d": "El banco con sede en Londres recomienda conservar las acciones de las Big Tech antes de sus ganancias, pero prefiere empresas con modelos de negocio sólidos.",
+      "u": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19554007",
+      "published": "2026-10-16T10:21:00+00:00"
+    },
+    {
+      "h": "European stocks on course for best week since Aug on easing yields",
+      "es": "Las bolsas europeas van camino de su mejor semana desde agosto gracias a la caída de los rendimientos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6E0GM_M.jpg",
+      "published": "2026-10-16T10:20:58+00:00"
+    },
     {
       "h": "Banks expect to be hit with higher taxes in Budget",
       "es": "Los bancos esperan verse afectados por mayores impuestos en el presupuesto",
@@ -45,6 +153,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0J9_L.jpg",
       "published": "2026-10-16T09:48:19+00:00"
+    },
+    {
+      "h": "Trump says he won't use nuclear weapons or send ground troops to Iran",
+      "es": "Trump dice que no usará armas nucleares ni enviará tropas terrestres a Irán",
+      "d": "Trump dijo que no usaría armas nucleares contra Irán ni enviaría tropas terrestres mientras Estados Unidos supuestamente sopesa nuevas opciones de ataque.",
+      "u": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T09:46:54+00:00"
     },
     {
       "h": "Strategy shares dip as MSCI adopts rules that could oust it from its indexes",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0NU_L.jpg",
       "published": "2026-10-16T09:18:31+00:00"
-    },
-    {
-      "h": "Hyundai to recall over 94,600 US vehicles over seat motor fire risk, NHTSA says",
-      "es": "Hyundai retirará del mercado más de 94.600 vehículos estadounidenses por riesgo de incendio en el motor del asiento, dice la NHTSA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hyundai-to-recall-over-94600-us-vehicles-over-fire-risk-from-overheating-nhtsa-says-4950715",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0KR_L.jpg",
-      "published": "2026-10-16T09:18:17+00:00"
-    },
-    {
-      "h": "Why is Rheinmetall stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Rheinmetall hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rheinmetall-stock-surging-today-93CH-4953437",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-16T09:16:08+00:00"
-    },
-    {
-      "h": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-      "es": "Estas son las cosas clave que dijo (y no dijo) el presidente de la Reserva Federal, Kevin Warsh, mientras los estadounidenses dormían el jueves por la noche.",
-      "d": "El presidente de la Reserva Federal, Kevin Warsh, tuvo la oportunidad el jueves por la noche de moldear las expectativas de cara a la reunión que fijará las tasas de interés del banco central dentro de dos semanas y, de acuerdo con su práctica de dejar a los mercados adivinando, decidió no hacerlo.",
-      "u": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-11359633",
-      "published": "2026-10-16T09:16:00+00:00"
-    },
-    {
-      "h": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "es": "“Es una situación de esperar y ver qué pasa”: tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
-      "d": "“Mi plan es seguir trabajando mientras pueda hacerlo e invertir mis beneficios del Seguro Social mientras sigo ganando un sueldo”.",
-      "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-90466023",
-      "published": "2026-10-16T09:15:00+00:00"
-    },
-    {
-      "h": "UK competition regulator targets Microsoft’s business software grip",
-      "es": "El regulador de competencia del Reino Unido apunta al control del software empresarial de Microsoft",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-competition-regulator-targets-microsofts-business-software-grip-4953421",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0OK_L.jpg",
-      "published": "2026-10-16T09:12:22+00:00"
-    },
-    {
-      "h": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
-      "es": "La atracción de Nashville: una docena de celebridades que se mudaron a Tennessee y por qué",
-      "d": "Nashville ha sido durante mucho tiempo el hogar de muchos grandes nombres del R&B y la música country, pero en los últimos años, celebridades de diversas industrias han acudido en masa a la Ciudad de la Música.",
-      "u": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-07204631",
-      "published": "2026-10-16T09:05:00+00:00"
-    },
-    {
-      "h": "Why is HeLIX Exploration stock rallying today?",
-      "es": "¿Por qué las acciones de HeLIX Exploration están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-helix-exploration-stock-rallying-today-93CH-4953372",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-16T08:46:17+00:00"
-    },
-    {
-      "h": "UK bank shares fall on report of potential tax hike in Oct. 28 budget",
-      "es": "Las acciones de los bancos del Reino Unido caen tras el informe de un posible aumento de impuestos en el presupuesto del 28 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-bank-shares-fall-on-report-of-potential-tax-hike-in-oct-28-budget-4953365",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ9Q08D_L.jpg",
-      "published": "2026-10-16T08:39:57+00:00"
-    },
-    {
-      "h": "European satellite stocks extend rally as Ukraine flags Starlink curbs",
-      "es": "Las acciones de satélites europeas amplían su repunte mientras Ucrania señala las restricciones de Starlink",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-satellite-stocks-extend-rally-as-ukraine-flags-starlink-curbs-4953360",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA8E0M2_M.jpg",
-      "published": "2026-10-16T08:33:35+00:00"
-    },
-    {
-      "h": "Indonesia stocks lower at close of trade; IDX Composite Index down 11.35%",
-      "es": "Las bolsas de Indonesia cierran a la baja; El índice compuesto IDX cae un 11,35%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-1135-4953353",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC7N1OQ_M.jpg",
-      "published": "2026-10-16T08:30:04+00:00"
-    },
-    {
-      "h": "Tesla shares rise 5% after unveiling new Roadster with flight capabilities",
-      "es": "Tesla shares rise 5% after unveiling new Roadster with flight capabilities",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ9704D_L.jpg",
-      "published": "2026-10-16T08:27:38+00:00"
-    },
-    {
-      "h": "Why is Tesla stock surging today?",
-      "es": "Why is Tesla stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-surging-today-93CH-4953351",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK920OU_L.jpg",
-      "published": "2026-10-16T08:26:32+00:00"
-    },
-    {
-      "h": "Why is Eutelsat stock rallying today?",
-      "es": "Why is Eutelsat stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-eutelsat-stock-rallying-today-93CH-4953344",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-16T08:22:41+00:00"
     }
   ],
   "sources": [
