@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-16T05:59:19.385190+00:00",
+  "updated": "2026-10-16T06:38:05.475986+00:00",
   "news": [
+    {
+      "h": "What to know about Starshield, SpaceX's military-focused Starlink service",
+      "es": "What to know about Starshield, SpaceX's military-focused Starlink service",
+      "d": "Elon Musk distinguished Starshield from Starlink, which he said could not be used for offensive military operations.",
+      "u": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T06:25:31+00:00"
+    },
+    {
+      "h": "UBS exploring options abroad in case Swiss rules prove intolerable, sources say",
+      "es": "UBS exploring options abroad in case Swiss rules prove intolerable, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-exploring-options-abroad-in-case-swiss-rules-prove-intolerable-sources-say-4952392",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1Q8_L.jpg",
+      "published": "2026-10-16T06:12:46+00:00"
+    },
+    {
+      "h": "Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg",
+      "es": "Taiwan to curb AI chip sales to China for more U.S. alignment- Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-to-curb-ai-chip-sales-to-china-for-more-us-alignment-bloomberg-4953152",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/TaiwanUSFlags_800x533_L_1638694335.jpg",
+      "published": "2026-10-16T06:05:44+00:00"
+    },
+    {
+      "h": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.45%",
+      "es": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.45%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-045-4953143",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8R190_M.jpg",
+      "published": "2026-10-16T06:00:05+00:00"
+    },
+    {
+      "h": "U.S. stock futures steady as AI spending, Fed rate concerns weigh",
+      "es": "U.S. stock futures steady as AI spending, Fed rate concerns weigh",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-16T05:55:41+00:00"
+    },
     {
       "h": "Schneider Electric raises 2026 targets again on booming data centre demand",
       "es": "Schneider Electric raises 2026 targets again on booming data centre demand",
@@ -173,6 +218,15 @@
       "published": "2026-10-16T03:48:16+00:00"
     },
     {
+      "h": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "es": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "d": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "u": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T03:47:50+00:00"
+    },
+    {
       "h": "Why is Shift stock surging today?",
       "es": "Why is Shift stock surging today?",
       "d": "",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0KR_L.jpg",
       "published": "2026-10-16T02:48:39+00:00"
-    },
-    {
-      "h": "US appeals court invalidates federal $9 billion telecom subsidy fund",
-      "es": "US appeals court invalidates federal $9 billion telecom subsidy fund",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-appeals-court-invalidates-federal-9-billion-telecom-subsidy-fund-4952982",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F05L_L.jpg",
-      "published": "2026-10-16T02:42:21+00:00"
-    },
-    {
-      "h": "Tesla finally delivers on its promise to create a flying car",
-      "es": "Tesla finally delivers on its promise to create a flying car",
-      "d": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
-      "u": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78219153",
-      "published": "2026-10-16T02:42:00+00:00"
-    },
-    {
-      "h": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg",
-      "es": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taiwan-plans-4-bln-texas-park-to-support-nvidias-ai-supply-chain--bloomberg-4952979",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4L0QK_L.jpg",
-      "published": "2026-10-16T02:37:02+00:00"
-    },
-    {
-      "h": "Singapore non-oil exports jump bigger-than-expected 68.4% in September",
-      "es": "Singapore non-oil exports jump bigger-than-expected 68.4% in September",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-biggerthanexpected-684-in-september-93CH-4952972",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629202728.jpg",
-      "published": "2026-10-16T02:29:28+00:00"
-    },
-    {
-      "h": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "es": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "d": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-      "u": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T02:25:32+00:00"
-    },
-    {
-      "h": "Strive prices upsized IPO of preferred stock at $90 per share",
-      "es": "Strive prices upsized IPO of preferred stock at $90 per share",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/strive-prices-upsized-ipo-of-preferred-stock-at-90-per-share-432SI-4952961",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-16T02:18:02+00:00"
     }
   ],
   "sources": [
