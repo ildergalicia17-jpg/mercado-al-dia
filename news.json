@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-16T16:16:18.304920+00:00",
+  "updated": "2026-10-16T16:54:43.806569+00:00",
   "news": [
+    {
+      "h": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "es": "Por qué el bombardeo de mil millones de dólares de mitad de mandato de Trump y el Partido Republicano no está funcionando",
+      "d": "Los grupos alineados con Trump y Elon Musk han invertido cientos de millones en las elecciones de mitad de período, pero el aumento del gasto del Partido Republicano apenas ha movido las encuestas ni el mapa.",
+      "u": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T16:53:12+00:00"
+    },
+    {
+      "h": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "es": "Estados Unidos presiona a China sobre el acceso al mercado de Mastercard y Citigroup en conversaciones bilaterales en Bangkok, dice un funcionario",
+      "d": "Estados Unidos planteó cuestiones de acceso al mercado para Mastercard y Citigroup en China durante reuniones bilaterales en Bangkok esta semana, dice un funcionario del Tesoro estadounidense.",
+      "u": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T16:46:18+00:00"
+    },
+    {
+      "h": "CoreWeave bond rout tests market’s math on AI buildout",
+      "es": "La caída de los bonos CoreWeave pone a prueba las matemáticas del mercado sobre el desarrollo de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0QU_L.jpg",
+      "published": "2026-10-16T16:42:53+00:00"
+    },
+    {
+      "h": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "es": "¿Estamos gastando nuestro dinero de jubilación en el orden correcto? Nuestro plan es: Seguro Social, anualidades, efectivo y luego IRA.",
+      "d": "Gastar todo su dinero primero puede hacer que sus ingresos aumenten en años posteriores.",
+      "u": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-76147960",
+      "published": "2026-10-16T16:39:00+00:00"
+    },
+    {
+      "h": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "es": "Es posible que Elon Musk haya dado un paso importante hacia la consolidación de su imperio",
+      "d": "El auto deportivo volador recientemente presentado por Tesla, que cuenta con propulsores de cohetes SpaceX, podría ayudar a Musk a impulsar una fusión entre sus dos compañías más grandes, dicen los analistas.",
+      "u": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24921595",
+      "published": "2026-10-16T16:39:00+00:00"
+    },
+    {
+      "h": "China’s super-rich scramble to exit offshore trusts, raise cash as taxman knocks",
+      "es": "Los superricos de China luchan por salir de los fideicomisos extraterritoriales y recaudar efectivo mientras el recaudador de impuestos llama a la puerta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F08S_L.jpg",
+      "published": "2026-10-16T16:37:13+00:00"
+    },
+    {
+      "h": "European shares close out best week since June as earnings soften blow from tech selloff",
+      "es": "Las bolsas europeas cierran su mejor semana desde junio, mientras los resultados suavizan el golpe de la venta masiva del sector tecnológico",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-gain-as-schneider-lifts-sentiment-inflation-data-awaited-4953276",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0J9_L.jpg",
+      "published": "2026-10-16T16:36:59+00:00"
+    },
+    {
+      "h": "UK’s FTSE 100 logs strongest week in six months on defensive-sector rally",
+      "es": "El FTSE 100 del Reino Unido registra la semana más fuerte en seis meses gracias al repunte del sector defensivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-set-for-weekly-gains-as-investors-seek-shelter-in-defensive-sectors-4953812",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0XK_L.jpg",
+      "published": "2026-10-16T16:36:42+00:00"
+    },
+    {
+      "h": "Why is Corporacion America Airports stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Corporación América Aeropuertos hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-16T16:34:13+00:00"
+    },
+    {
+      "h": "Why is NiSource stock rallying today?",
+      "es": "¿Por qué las acciones de NiSource están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-16T16:34:09+00:00"
+    },
+    {
+      "h": "European stocks post best week since June on easing yields",
+      "es": "Las bolsas europeas registran su mejor semana desde junio gracias a la caída de los rendimientos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6E0GM_M.jpg",
+      "published": "2026-10-16T16:25:30+00:00"
+    },
+    {
+      "h": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "es": "Schwab creará una estrategia 'consciente de los impuestos' que ha atraído miles de millones de inversores ricos",
+      "d": "Los inversores adinerados están recurriendo en masa a estrategias largas y cortas conscientes de los impuestos, agregando miles de millones a estas versiones superpoderosas de cuentas de recolección de pérdidas fiscales.",
+      "u": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T16:21:14+00:00"
+    },
+    {
+      "h": "Indonesia regulators fine three companies $61.2 million total",
+      "es": "Los reguladores de Indonesia multan a tres empresas con un total de 61,2 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-regulators-fine-three-companies-612-million-total-93CH-4954607",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-16T16:12:56+00:00"
+    },
+    {
+      "h": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
+      "es": "Juez rechaza oferta de CFTC y Gemini de anular acuerdo de 5 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/judge-rejects-cftc-gemini-bid-to-vacate-5-million-settlement-4954606",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1IO_L.jpg",
+      "published": "2026-10-16T16:12:50+00:00"
+    },
+    {
+      "h": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
+      "es": "Los estadounidenses mayores sienten menos la crisis de asequibilidad. Cómo podría afectar eso a las elecciones de mitad de período",
+      "d": "Los estadounidenses más jóvenes enfrentan una inflación y costos de vivienda más altos que los baby boomers, lo que amplía la brecha de asequibilidad antes de las elecciones de mitad de período de 2026.",
+      "u": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T16:12:41+00:00"
+    },
     {
       "h": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
       "es": "Muchas de las acciones más calientes de 2026 han experimentado caídas dramáticas esta semana",
@@ -101,6 +236,15 @@
       "published": "2026-10-16T15:52:41+00:00"
     },
     {
+      "h": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+      "es": "Las terapias genéticas con células falciformes ofrecen nuevas esperanzas, pero el acceso sigue siendo un desafío importante",
+      "d": "Las terapias genéticas aprobadas por la FDA para la anemia de células falciformes ofrecen una oportunidad de ayudar a los pacientes, pero factores como el costo y el acceso han ralentizado su uso.",
+      "u": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T15:50:15+00:00"
+    },
+    {
       "h": "Analysis-SpaceX’s spectrum deal still leaves it far from rivaling telecom giants",
       "es": "Análisis: el acuerdo de espectro de SpaceX aún lo deja lejos de rivalizar con los gigantes de las telecomunicaciones",
       "d": "",
@@ -126,150 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-16T15:45:35+00:00"
-    },
-    {
-      "h": "Eli Lilly’s weight-loss pill wins EU drug regulator’s backing",
-      "es": "La pastilla para bajar de peso de Eli Lilly obtiene el respaldo del regulador de medicamentos de la UE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/eli-lillys-weightloss-pill-wins-eu-drug-regulators-backing-4954218",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0S0_L.jpg",
-      "published": "2026-10-16T15:37:11+00:00"
-    },
-    {
-      "h": "KFC switch to Coke puts PepsiCo’s food service ties in focus, analysts say",
-      "es": "El cambio de KFC a Coca-Cola pone en el foco los vínculos de servicio de alimentos de PepsiCo, dicen los analistas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kfc-switch-to-coke-puts-pepsicos-food-service-ties-in-focus-analysts-say-4954567",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1HK_L.jpg",
-      "published": "2026-10-16T15:36:57+00:00"
-    },
-    {
-      "h": "Fox Factory shares tumble following CEO departure and outlook reduction",
-      "es": "Las acciones de Fox Factory caen tras la salida del CEO y la reducción de perspectivas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fox-factory-shares-tumble-following-ceo-departure-and-outlook-reduction-4954568",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721MT_L.jpg",
-      "published": "2026-10-16T15:36:57+00:00"
-    },
-    {
-      "h": "Poland stocks higher at close of trade; WIG30 up 1.11%",
-      "es": "Las bolsas de Polonia cierran al alza; WIG30 sube un 1,11%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-111-4954565",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
-      "published": "2026-10-16T15:35:03+00:00"
-    },
-    {
-      "h": "Turkey stocks lower at close of trade; BIST 100 down 2.89%",
-      "es": "Las bolsas de Turquía cierran a la baja; BIST 100 bajó un 2,89%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-289-4954562",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Istanbul_Stock_Exchange_M_1440056248.jpg",
-      "published": "2026-10-16T15:30:32+00:00"
-    },
-    {
-      "h": "US federal bankruptcy court operations disrupted by cybersecurity incident",
-      "es": "Las operaciones del tribunal federal de quiebras de EE. UU. se vieron interrumpidas por un incidente de ciberseguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1GI_L.jpg",
-      "published": "2026-10-16T15:30:31+00:00"
-    },
-    {
-      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.27%",
-      "es": "Las bolsas de Dinamarca cierran al alza; OMX Copenhague 20 sube un 0,27%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-027-4954559",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg",
-      "published": "2026-10-16T15:30:04+00:00"
-    },
-    {
-      "h": "Why is Aritzia stock gaining today?",
-      "es": "¿Por qué la acción de Aritzia está ganando hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-aritzia-stock-gaining-today-93CH-4954555",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-16T15:20:51+00:00"
-    },
-    {
-      "h": "Why is Suncor Energy stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Suncor Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-suncor-energy-stock-climbing-today-93CH-4954554",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629202728.jpg",
-      "published": "2026-10-16T15:19:59+00:00"
-    },
-    {
-      "h": "Why is Hut 8 stock sliding today?",
-      "es": "¿Por qué las acciones de Hut 8 están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hut-8-stock-sliding-today-93CH-4954547",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-16T15:16:36+00:00"
-    },
-    {
-      "h": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
-      "es": "Kimberly-Clark está viviendo su mejor semana en cuatro años. Esto es lo que está impulsando las acciones al alza",
-      "d": "Después de un septiembre doloroso para las acciones, las buenas noticias están empezando a acumularse.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/16/kimberly-clark-stock-q3-kenvue-deal-cramer.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T15:12:25+00:00"
-    },
-    {
-      "h": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-      "es": "Líder de políticas de inteligencia artificial de SpaceX interrogado por el Consejo de la Ciudad de Nueva York sobre seguridad de Grok e imágenes sexualizadas",
-      "d": "La jefa de asuntos gubernamentales globales de SpaceX para AI, Gabriela Castillo Madrid, dijo que la compañía tenía las salvaguardias adecuadas en un testimonio ante el Ayuntamiento de Nueva York.",
-      "u": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T15:03:55+00:00"
-    },
-    {
-      "h": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-      "es": "El caso de escuchas nacionales saudíes de OpenAI muestra una amenaza al liderazgo estadounidense en IA: DNI Clayton",
-      "d": "La IA \"amplifica\" los riesgos de ciberseguridad existentes hacia la infraestructura digital de EE. UU., dijo Clayton en \"Squawk Box\".",
-      "u": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T15:01:34+00:00"
-    },
-    {
-      "h": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "es": "Tengo 64 años y dos hijos, pero sólo uno trabaja en la empresa familiar. ¿Debería dejarle el 70% del negocio?",
-      "d": "\"Tengo algunas reservas sobre la estabilidad a largo plazo del matrimonio de mi hijo menor\".",
-      "u": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37492094",
-      "published": "2026-10-16T15:00:00+00:00"
-    },
-    {
-      "h": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-      "es": "¿Jubilarse en el extranjero? No corten estos vínculos financieros con Estados Unidos.",
-      "d": "Piense detenidamente en su Seguro Social, Medicare, tarjetas de crédito y cuentas bancarias antes de elegir su nuevo hogar en el extranjero.",
-      "u": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25509545",
-      "published": "2026-10-16T15:00:00+00:00"
-    },
-    {
-      "h": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "es": "“Es una situación de esperar y ver qué pasa”: tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
-      "d": "“Mi plan es seguir trabajando mientras pueda hacerlo e invertir mis beneficios del Seguro Social mientras sigo ganando un sueldo”.",
-      "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-90466023",
-      "published": "2026-10-16T14:45:00+00:00"
     }
   ],
   "sources": [
