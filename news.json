@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-16T17:55:53.314967+00:00",
+  "updated": "2026-10-16T18:26:41.260292+00:00",
   "news": [
+    {
+      "h": "Debt is eating up a bigger chunk of your raise, research shows",
+      "es": "La deuda está consumiendo una mayor parte de su aumento, según muestra una investigación",
+      "d": "Una nueva investigación encuentra que los pagos de la deuda aumentaron mucho más rápido que el ingreso real estimado de los hogares, absorbiendo aproximadamente la mitad de las ganancias de un hogar con un solo ingreso.",
+      "u": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T18:08:00+00:00"
+    },
+    {
+      "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "es": "Análisis: Por qué un déficit de 2 billones de dólares y un rendimiento del 5% de los bonos del Tesoro se están convirtiendo en el mayor desafío económico de Estados Unidos",
+      "d": "Los rendimientos de los bonos del Tesoro por encima del 5% están elevando los costos de endeudamiento para los hogares y el gobierno federal, lo que pone de relieve el desafío de financiar déficits de 2 billones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T18:04:20+00:00"
+    },
+    {
+      "h": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "es": "Tengo 64 años y dos hijos, pero sólo uno trabaja en la empresa familiar. ¿Debería dejarle el 70% del negocio?",
+      "d": "\"Tengo algunas reservas sobre la estabilidad a largo plazo del matrimonio de mi hijo menor\".",
+      "u": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37492094",
+      "published": "2026-10-16T18:01:00+00:00"
+    },
+    {
+      "h": "Welcome to the ‘AI burnout trade’ — as investors grow tired of debating tech’s promises",
+      "es": "Bienvenidos al “comercio del agotamiento de la IA”, a medida que los inversores se cansan de debatir las promesas de la tecnología",
+      "d": "Es probable que la IA eventualmente dé sus frutos, pero los analistas dicen que los inversores se están cansando de tanto preocuparse por los retornos a corto plazo.",
+      "u": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-02844472",
+      "published": "2026-10-16T18:01:00+00:00"
+    },
+    {
+      "h": "Economic calendar highlights for Monday include housing data",
+      "es": "Los aspectos más destacados del calendario económico del lunes incluyen datos de vivienda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/economic-calendar-highlights-for-monday-include-housing-data-93CH-4954704",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-16T18:00:31+00:00"
+    },
+    {
+      "h": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "es": "El déficit presupuestario de EE. UU. aumenta a casi 2 billones de dólares para el año fiscal 2026, un aumento del 12 % en un solo año",
+      "d": "El Departamento del Tesoro publicó el déficit presupuestario de Estados Unidos para el año fiscal 2026.",
+      "u": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T18:00:15+00:00"
+    },
+    {
+      "h": "The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it",
+      "es": "El déficit presupuestario de Estados Unidos acaba de alcanzar casi los 2 billones de dólares, y Washington no está haciendo mucho al respecto.",
+      "d": "La cifra de déficit es la mayor desde 2021 y asciende aproximadamente al 6,2% del producto interno bruto de Estados Unidos.",
+      "u": "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-66173420",
+      "published": "2026-10-16T18:00:00+00:00"
+    },
+    {
+      "h": "Why is Rock Tech Lithium stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Rock Tech Lithium hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rock-tech-lithium-stock-climbing-today-93CH-4954701",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-16T17:59:50+00:00"
+    },
+    {
+      "h": "Rheinmetall takes stake in Rock Tech Lithium and German plant",
+      "es": "Rheinmetall adquiere participación en Rock Tech Lithium y en una planta alemana",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rheinmetall-takes-stake-in-rock-tech-lithium-and-german-plant-93CH-4954700",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-16T17:59:33+00:00"
+    },
+    {
+      "h": "Analysis-Why CoreWeave is in the crosshairs of the AI scare",
+      "es": "Análisis: por qué CoreWeave está en el punto de mira del susto de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysiswhy-coreweave-is-in-the-crosshairs-of-the-ai-scare-4954698",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1NO_L.jpg",
+      "published": "2026-10-16T17:54:39+00:00"
+    },
+    {
+      "h": "Investing.com’s stocks of the week",
+      "es": "Acciones de la semana de Investing.com",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4954697",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM230X4_1200_L.jpg",
+      "published": "2026-10-16T17:53:45+00:00"
+    },
+    {
+      "h": "NBA tightens betting rules, develops AI to flag suspicious wagers",
+      "es": "La NBA endurece las reglas de apuestas y desarrolla inteligencia artificial para detectar apuestas sospechosas",
+      "d": "La NBA está endureciendo las restricciones a las apuestas y desplegando inteligencia artificial para ayudar a identificar apuestas sospechosas, según dos documentos obtenidos por CNBC.",
+      "u": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T17:50:50+00:00"
+    },
     {
       "h": "Nasdaq slumps nearly 2%, heads for worst week since late June as AI trade suffers",
       "es": "Nasdaq cae casi un 2% y se dirige a la peor semana desde finales de junio a medida que el comercio de IA se ve afectado",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0QU_L.jpg",
       "published": "2026-10-16T16:42:53+00:00"
-    },
-    {
-      "h": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "es": "¿Estamos gastando nuestro dinero de jubilación en el orden correcto? Nuestro plan es: Seguro Social, anualidades, efectivo y luego IRA.",
-      "d": "Gastar todo su dinero primero puede hacer que sus ingresos aumenten en años posteriores.",
-      "u": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76147960",
-      "published": "2026-10-16T16:39:00+00:00"
-    },
-    {
-      "h": "Elon Musk may have just taken a major step toward consolidating his empire",
-      "es": "Es posible que Elon Musk haya dado un paso importante hacia la consolidación de su imperio",
-      "d": "El auto deportivo volador recientemente presentado por Tesla, que cuenta con propulsores de cohetes SpaceX, podría ayudar a Musk a impulsar una fusión entre sus dos compañías más grandes, dicen los analistas.",
-      "u": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24921595",
-      "published": "2026-10-16T16:39:00+00:00"
-    },
-    {
-      "h": "China’s super-rich scramble to exit offshore trusts, raise cash as taxman knocks",
-      "es": "Los superricos de China luchan por salir de los fideicomisos extraterritoriales y recaudar efectivo mientras el recaudador de impuestos llama a la puerta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysischinas-superrich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks-4953051",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F08S_L.jpg",
-      "published": "2026-10-16T16:37:13+00:00"
-    },
-    {
-      "h": "European shares close out best week since June as earnings soften blow from tech selloff",
-      "es": "Las bolsas europeas cierran su mejor semana desde junio, mientras los resultados suavizan el golpe de la venta masiva del sector tecnológico",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-gain-as-schneider-lifts-sentiment-inflation-data-awaited-4953276",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0J9_L.jpg",
-      "published": "2026-10-16T16:36:59+00:00"
-    },
-    {
-      "h": "UK’s FTSE 100 logs strongest week in six months on defensive-sector rally",
-      "es": "El FTSE 100 del Reino Unido registra la semana más fuerte en seis meses gracias al repunte del sector defensivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-set-for-weekly-gains-as-investors-seek-shelter-in-defensive-sectors-4953812",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0XK_L.jpg",
-      "published": "2026-10-16T16:36:42+00:00"
-    },
-    {
-      "h": "Why is Corporacion America Airports stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Corporación América Aeropuertos hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-corporacion-america-airports-stock-climbing-today-93CH-4954629",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-16T16:34:13+00:00"
-    },
-    {
-      "h": "Why is NiSource stock rallying today?",
-      "es": "¿Por qué las acciones de NiSource están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nisource-stock-rallying-today-93CH-4954628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-16T16:34:09+00:00"
-    },
-    {
-      "h": "US federal bankruptcy court operations disrupted by cybersecurity incident",
-      "es": "Las operaciones del tribunal federal de quiebras de EE. UU. se vieron interrumpidas por un incidente de ciberseguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1GI_L.jpg",
-      "published": "2026-10-16T16:30:27+00:00"
-    },
-    {
-      "h": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-      "es": "El caso de escuchas nacionales saudíes de OpenAI muestra una amenaza al liderazgo estadounidense en IA: DNI Clayton",
-      "d": "La IA \"amplifica\" los riesgos de ciberseguridad existentes hacia la infraestructura digital de EE. UU., dijo Clayton en \"Squawk Box\".",
-      "u": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T16:27:44+00:00"
-    },
-    {
-      "h": "European stocks post best week since June on easing yields",
-      "es": "Las bolsas europeas registran su mejor semana desde junio gracias a la caída de los rendimientos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6E0GM_M.jpg",
-      "published": "2026-10-16T16:25:30+00:00"
-    },
-    {
-      "h": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-      "es": "Schwab creará una estrategia 'consciente de los impuestos' que ha atraído miles de millones de inversores ricos",
-      "d": "Los inversores adinerados están recurriendo en masa a estrategias largas y cortas conscientes de los impuestos, agregando miles de millones a estas versiones superpoderosas de cuentas de recolección de pérdidas fiscales.",
-      "u": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T16:21:14+00:00"
-    },
-    {
-      "h": "Indonesia regulators fine three companies $61.2 million total",
-      "es": "Los reguladores de Indonesia multan a tres empresas con un total de 61,2 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/indonesia-regulators-fine-three-companies-612-million-total-93CH-4954607",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-16T16:12:56+00:00"
     }
   ],
   "sources": [
