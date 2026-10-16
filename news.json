@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-16T20:32:57.800208+00:00",
+  "updated": "2026-10-16T21:05:03.879730+00:00",
   "news": [
+    {
+      "h": "Exclusive-Boeing sales chief McMullen to retire, company memo says",
+      "es": "McMullen, jefe de ventas exclusivo de Boeing, se jubilará, según memorando de la empresa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveboeing-sales-chief-mcmullen-to-retire-company-memo-says-4954848",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1TO_L.jpg",
+      "published": "2026-10-16T21:00:56+00:00"
+    },
+    {
+      "h": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "es": "No compre esta caída: varias señales sugieren que las acciones tecnológicas se avecinan más dificultades",
+      "d": "¿Está pensando en comprar durante la caída de las acciones tecnológicas? La perspectiva técnica del Nasdaq Composite sugiere que no lo hagamos, al menos no todavía.",
+      "u": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-38050807",
+      "published": "2026-10-16T20:58:00+00:00"
+    },
+    {
+      "h": "Sound Inpatient nears $1 billion refinancing with existing lenders - Bloomberg",
+      "es": "Sound Inpatient se acerca a una refinanciación de mil millones de dólares con prestamistas existentes - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sound-inpatient-nears-1-billion-refinancing-with-existing-lenders--bloomberg-93CH-4954841",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-16T20:49:02+00:00"
+    },
+    {
+      "h": "Katie Zacharia out as Trump's White House press secretary",
+      "es": "Katie Zacharia renuncia como secretaria de prensa de la Casa Blanca de Trump",
+      "d": "Zacharia se encontraba en terreno inestable desde su primera conferencia de prensa en la Casa Blanca y por las preguntas sobre sus afirmaciones de ser abogada a pesar de no aprobar un examen de abogacía.",
+      "u": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T20:40:58+00:00"
+    },
+    {
+      "h": "Celanese stock falls after raising LCP prices globally",
+      "es": "Las acciones de Celanese caen tras subir los precios del LCP a nivel mundial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/celanese-stock-falls-after-raising-lcp-prices-globally-4954826",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "published": "2026-10-16T20:36:19+00:00"
+    },
+    {
+      "h": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "es": "¿Por qué las acciones de CoreWeave fueron aplastadas esta semana? Busque pistas en este rincón del mercado de deuda",
+      "d": "Los rendimientos de los bonos y los swaps de incumplimiento crediticio de CoreWeave se han disparado a medida que se venden sus acciones. Esto es lo que significan esas señales crediticias para los inversores en acciones.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T20:33:55+00:00"
+    },
+    {
+      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.34%",
+      "es": "Las bolsas de Estados Unidos cierran a la baja; El Promedio Industrial Dow Jones cae un 0,34%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-034-4954815",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5A1IK_1200_L.jpg",
+      "published": "2026-10-16T20:31:01+00:00"
+    },
+    {
+      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.11%",
+      "es": "Las bolsas de Canadá cierran al alza; El compuesto S&P/TSX sube un 0,11%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-011-4954813",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg",
+      "published": "2026-10-16T20:30:32+00:00"
+    },
+    {
+      "h": "Meta employees said Lula’s accounts were hindered during Brazil election, Folha reports",
+      "es": "Los empleados de Meta dijeron que las cuentas de Lula fueron obstaculizadas durante las elecciones de Brasil, informa Folha",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-employees-said-lulas-accounts-were-hindered-during-brazil-electionfolha-reports-4954811",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1GO_L.jpg",
+      "published": "2026-10-16T20:30:21+00:00"
+    },
+    {
+      "h": "Brazil stocks higher at close of trade; Bovespa up 0.54%",
+      "es": "Las bolsas de Brasil cierran al alza; Bovespa sube un 0,54%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4954805",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Bovespa_800x533_L_1665499297.jpg",
+      "published": "2026-10-16T20:30:04+00:00"
+    },
+    {
+      "h": "Why is Rock Tech Lithium stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Rock Tech Lithium hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rock-tech-lithium-stock-climbing-today-93CH-4954804",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-16T20:29:36+00:00"
+    },
     {
       "h": "Nasdaq notches worst week since late June with a 4.5% slide as AI trade suffers",
       "es": "Nasdaq registra su peor semana desde finales de junio con una caída del 4,5% a medida que el comercio de IA sufre",
@@ -171,105 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-16T19:22:21+00:00"
-    },
-    {
-      "h": "Tesla breaks $350 support with bearish momentum: Live levels",
-      "es": "Tesla rompe el soporte de $ 350 con impulso bajista: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ9704D_L.jpg",
-      "published": "2026-10-16T19:18:24+00:00"
-    },
-    {
-      "h": "Alphabet C tests $334 support amid bearish trend: Live levels",
-      "es": "Alphabet C prueba el soporte de $334 en medio de una tendencia bajista: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-16T19:18:19+00:00"
-    },
-    {
-      "h": "Nasdaq 100 breaks 29,361 support, RSI at 23.5: Live levels",
-      "es": "Nasdaq 100 rompe el soporte de 29.361, RSI en 23,5: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-16T19:18:17+00:00"
-    },
-    {
-      "h": "Dow Jones at knife’s edge: 51,850 vs 52,822: Live levels",
-      "es": "Dow Jones al filo de la navaja: 51.850 vs 52.822: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-tests-52200-resistance-amid-bull-trap-risk-live-levels-93CH-4944779",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-16T19:18:15+00:00"
-    },
-    {
-      "h": "S&P 500 breaks below 200-SMA with bearish momentum: Live levels",
-      "es": "S&P 500 cae por debajo de 200-SMA con impulso bajista: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-stalls-in-chop-zone-below-7897-live-levels-93CH-4944776",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-10-16T19:18:14+00:00"
-    },
-    {
-      "h": "NVIDIA oversold at $214 with RSI 27: Live levels",
-      "es": "NVIDIA sobrevendido a $214 con RSI 27: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-teeters-at-225-support-with-fading-momentum-live-levels-93CH-4944777",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB440WA_M.jpg",
-      "published": "2026-10-16T19:17:56+00:00"
-    },
-    {
-      "h": "Intel deep in oversold territory at $90: Live levels",
-      "es": "Intel se encuentra en territorio de sobreventa a 90 dólares: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-oversold-at-10190-with-bearish-trend-intact-live-levels-93CH-4944770",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK310W2_L.jpg",
-      "published": "2026-10-16T19:17:53+00:00"
-    },
-    {
-      "h": "Dollar Index slips below MAs on double top signal: Live levels",
-      "es": "El índice del dólar cae por debajo de las medias móviles ante una señal de doble techo: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-near-double-top-at-102305-live-levels-93CH-4944781",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-16T19:17:45+00:00"
-    },
-    {
-      "h": "Apple stalls at $342 below ATH as momentum cools: Live levels",
-      "es": "Apple se estanca en $ 342 por debajo de ATH a medida que el impulso se enfría: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-double-top-threat-near-ath-34524-live-levels-93CH-4944773",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED16063_M.jpg",
-      "published": "2026-10-16T19:17:29+00:00"
-    },
-    {
-      "h": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-      "es": "Esto es a quién acaba de contratar Netflix para ejecutar contenido y lo que significa para el transmisor",
-      "d": "Peter Rice aporta una gran experiencia en televisión y cine, incluidos programas con y sin guión, deportes en vivo, televisión de prestigio y distribución teatral.",
-      "u": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T19:00:24+00:00"
-    },
-    {
-      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-16T19:00:00+00:00"
     }
   ],
   "sources": [
