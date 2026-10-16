@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-16T01:36:01.881287+00:00",
+  "updated": "2026-10-16T02:08:18.337508+00:00",
   "news": [
+    {
+      "h": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+      "es": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-16T01:54:03+00:00"
+    },
+    {
+      "h": "Tesla unveils next generation Roadster sports EV after years of delay",
+      "es": "Tesla unveils next generation Roadster sports EV after years of delay",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0V0_L.jpg",
+      "published": "2026-10-16T01:42:19+00:00"
+    },
+    {
+      "h": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "es": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "d": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "u": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T01:34:51+00:00"
+    },
     {
       "h": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
       "es": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
       "published": "2026-10-15T21:33:31+00:00"
-    },
-    {
-      "h": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "es": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "d": "Signs of distressed deepened in CoreWeave on Thursday.",
-      "u": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T21:33:24+00:00"
-    },
-    {
-      "h": "Why is Alcoa stock climbing today?",
-      "es": "Why is Alcoa stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4952728",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-15T21:33:17+00:00"
-    },
-    {
-      "h": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "es": "Trump dice que \"si Ken Paxton pierde\" la carrera por el Senado de Texas, culpe a Cornyn y Karl Rove",
-      "d": "Las encuestas muestran que el fiscal general republicano Ken Paxton está detrás del representante demócrata James Talarico en la carrera por el Senado de Texas.",
-      "u": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T21:28:51+00:00"
     }
   ],
   "sources": [
