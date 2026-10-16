@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-16T17:22:54.460416+00:00",
+  "updated": "2026-10-16T17:55:53.314967+00:00",
   "news": [
+    {
+      "h": "Nasdaq slumps nearly 2%, heads for worst week since late June as AI trade suffers",
+      "es": "Nasdaq cae casi un 2% y se dirige a la peor semana desde finales de junio a medida que el comercio de IA se ve afectado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-16T17:45:43+00:00"
+    },
+    {
+      "h": "California reports 12,000 EV purchases under new rebate program",
+      "es": "California informa 12.000 compras de vehículos eléctricos bajo el nuevo programa de reembolsos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/california-reports-12000-ev-purchases-under-new-rebate-program-93CH-4954692",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC602TQ_M.jpg",
+      "published": "2026-10-16T17:41:17+00:00"
+    },
+    {
+      "h": "Novartis ends mid-stage trial for Fabhalta in lupus nephritis",
+      "es": "Novartis finaliza el ensayo de fase intermedia de Fabhalta en la nefritis lúpica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/novartis-ends-midstage-trial-for-fabhalta-in-lupus-nephritis-93CH-4954691",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-16T17:36:57+00:00"
+    },
+    {
+      "h": "Cruise stocks outlook: RCL leads a cautiously constructive setup",
+      "es": "Perspectivas de las acciones de cruceros: RCL lidera una configuración cautelosamente constructiva",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cruise-stocks-outlook-rcl-leads-a-cautiously-constructive-setup-93CH-4954686",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-16T17:36:17+00:00"
+    },
+    {
+      "h": "Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings",
+      "es": "Análisis de acciones de Alphabet: estancado cerca del promedio de 200 días antes de las ganancias del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-stock-analysis-stalled-near-200day-average-ahead-of-q3-earnings-93CH-4954685",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M1D9_L.jpg",
+      "published": "2026-10-16T17:35:38+00:00"
+    },
+    {
+      "h": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "es": "Tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
+      "d": "“Mi plan es seguir trabajando mientras pueda hacerlo e invertir mis beneficios del Seguro Social mientras sigo ganando un sueldo”.",
+      "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-90466023",
+      "published": "2026-10-16T17:35:00+00:00"
+    },
+    {
+      "h": "Tesla-SpaceX merger: Barclays calls it feasible but timing and approval uncertain",
+      "es": "Fusión Tesla-SpaceX: Barclays la considera factible, pero el momento y la aprobación son inciertos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/teslaspacex-merger-barclays-calls-it-feasible-but-timing-and-approval-uncertain-93CH-4954684",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEA9907F_M.jpg",
+      "published": "2026-10-16T17:33:02+00:00"
+    },
+    {
+      "h": "Tesla analysis: stock falls after Roadster reveal fails to hold gains",
+      "es": "Análisis de Tesla: las acciones caen después de que la revelación del Roadster no logra mantener las ganancias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-analysis-stock-falls-after-roadster-reveal-fails-to-hold-gains-93CH-4954683",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
+      "published": "2026-10-16T17:32:20+00:00"
+    },
+    {
+      "h": "Weekly analyst insights: valuation fatigue drives sector rotation",
+      "es": "Perspectivas semanales de los analistas: la fatiga de las valoraciones impulsa la rotación del sector",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weekly-analyst-insights-valuation-fatigue-drives-sector-rotation-93CH-4954678",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-16T17:27:10+00:00"
+    },
+    {
+      "h": "Earnings scorecard: bank beats met with selling as margins and credit costs weigh",
+      "es": "Cuadro de mando de resultados: los bancos superan las ventas mientras pesan los márgenes y los costes crediticios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/earnings-scorecard-bank-beats-met-with-selling-as-margins-and-credit-costs-weigh-93CH-4954676",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-16T17:26:38+00:00"
+    },
+    {
+      "h": "IPO market review: biotech leads a quiet week as Anthropic waits in the queue",
+      "es": "Revisión del mercado de OPI: la biotecnología lidera una semana tranquila mientras Anthropic espera en la cola",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ipo-market-review-biotech-leads-a-quiet-week-as-anthropic-waits-in-the-queue-93CH-4954674",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-16T17:26:00+00:00"
+    },
     {
       "h": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
       "es": "Trump dice que la nueva secretaria de prensa de la Casa Blanca, Katie Zacharia, debería \"reconsiderar\" su puesto",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
       "published": "2026-10-16T16:12:56+00:00"
-    },
-    {
-      "h": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
-      "es": "Juez rechaza oferta de CFTC y Gemini de anular acuerdo de 5 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/judge-rejects-cftc-gemini-bid-to-vacate-5-million-settlement-4954606",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1IO_L.jpg",
-      "published": "2026-10-16T16:12:50+00:00"
-    },
-    {
-      "h": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
-      "es": "Los estadounidenses mayores sienten menos la crisis de asequibilidad. Cómo podría afectar eso a las elecciones de mitad de período",
-      "d": "Los estadounidenses más jóvenes enfrentan una inflación y costos de vivienda más altos que los baby boomers, lo que amplía la brecha de asequibilidad antes de las elecciones de mitad de período de 2026.",
-      "u": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T16:12:41+00:00"
-    },
-    {
-      "h": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-      "es": "Muchas de las acciones más calientes de 2026 han experimentado caídas dramáticas esta semana",
-      "d": "Muchas de las acciones con mejor desempeño de 2026 cayeron esta semana, mientras que las mayores perdedoras de este año también cambiaron de rumbo.",
-      "u": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81755167",
-      "published": "2026-10-16T16:09:00+00:00"
-    },
-    {
-      "h": "What we want to see when Capital One and Meta report earnings next week",
-      "es": "Lo que queremos ver cuando Capital One y Meta informen sus ganancias la próxima semana",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T16:06:29+00:00"
-    },
-    {
-      "h": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "es": "¿Puede un robot de 55.000 dólares cargar el lavavajillas? Dentro de mi tarde con dos amas de casa humanoides.",
-      "d": "Los humanoides de Tau Robotics aspiraron mis pisos y limpiaron mis mostradores, con la ayuda de humanos detrás de escena.",
-      "u": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-72452545",
-      "published": "2026-10-16T16:05:00+00:00"
-    },
-    {
-      "h": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.25%",
-      "es": "Las bolsas de Suecia cierran al alza; OMX Estocolmo 30 sube un 1,25%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-125-4954589",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201375.jpg",
-      "published": "2026-10-16T16:00:33+00:00"
-    },
-    {
-      "h": "Finland stocks higher at close of trade; OMX Helsinki 25 up 1.25%",
-      "es": "Las bolsas de Finlandia cierran al alza; OMX Helsinki 25 sube un 1,25%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-125-4954581",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM0J1E6_1200_L.jpg",
-      "published": "2026-10-16T16:00:04+00:00"
-    },
-    {
-      "h": "Samsara options flow dominated by calendar spreads as stock slides 7% from open",
-      "es": "Las opciones de Samsara fluyen dominadas por los diferenciales del calendario mientras las acciones caen un 7% desde la apertura",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/samsara-options-flow-dominated-by-calendar-spreads-as-stock-slides-7-from-open-93CH-4954579",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
-      "published": "2026-10-16T15:55:39+00:00"
-    },
-    {
-      "h": "Corporacion America Airports stock rises on September passenger growth",
-      "es": "Las acciones de Corporación América Aeropuertos suben gracias al crecimiento de pasajeros en septiembre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/corporacion-america-airports-stock-rises-on-september-passenger-growth-4954578",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEEA40TL_M.jpg",
-      "published": "2026-10-16T15:55:37+00:00"
-    },
-    {
-      "h": "Chinese online retailer Temu agrees to data privacy restrictions to settle Texas lawsuit, documents say",
-      "es": "El minorista chino en línea Temu acepta restricciones de privacidad de datos para resolver la demanda de Texas, según documentos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinese-online-retailer-temu-agrees-to-data-privacy-restrictions-to-settle-texas-lawsuit-documents-say-4954577",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1I2_L.jpg",
-      "published": "2026-10-16T15:54:22+00:00"
-    },
-    {
-      "h": "Scotiabank sees TSX earnings growth slowing but resource stocks poised to lead",
-      "es": "Scotiabank ve una desaceleración en el crecimiento de las ganancias del TSX, pero las acciones de recursos están listas para liderar",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/scotiabank-sees-tsx-earnings-growth-slowing-but-resource-stocks-poised-to-lead-4954576",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEGBN0PZ-OCABS_L.jpg",
-      "published": "2026-10-16T15:54:10+00:00"
     }
   ],
   "sources": [
