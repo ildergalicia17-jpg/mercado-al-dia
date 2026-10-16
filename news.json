@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T22:37:55.728128+00:00",
+  "updated": "2026-10-16T23:05:19.592394+00:00",
   "news": [
+    {
+      "h": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+      "es": "Anthropic presenta silenciosamente su propio proyecto de ley de seguridad de la IA a los legisladores, informa Politico",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1WY_L.jpg",
+      "published": "2026-10-16T22:42:42+00:00"
+    },
     {
       "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "es": "Análisis: Por qué un déficit de 2 billones de dólares y un rendimiento del 5% de los bonos del Tesoro se están convirtiendo en el mayor desafío económico de Estados Unidos",
@@ -108,6 +117,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-54657824",
       "published": "2026-10-16T21:30:00+00:00"
+    },
+    {
+      "h": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
+      "es": "SoftBank sopesa la adquisición de Allied Universal por 18.000 millones de dólares, dice una fuente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/softbank-weighs-18-billion-acquisition-of-allied-universal-bloomberg-news-reports-4954792",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1SG_L.jpg",
+      "published": "2026-10-16T21:25:11+00:00"
     },
     {
       "h": "Colombia stocks lower at close of trade; COLCAP down 0.55%",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg",
       "published": "2026-10-16T20:30:32+00:00"
-    },
-    {
-      "h": "Meta employees said Lula’s accounts were hindered during Brazil election, Folha reports",
-      "es": "Los empleados de Meta dijeron que las cuentas de Lula fueron obstaculizadas durante las elecciones de Brasil, informa Folha",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-employees-said-lulas-accounts-were-hindered-during-brazil-electionfolha-reports-4954811",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1GO_L.jpg",
-      "published": "2026-10-16T20:30:21+00:00"
-    },
-    {
-      "h": "Brazil stocks higher at close of trade; Bovespa up 0.54%",
-      "es": "Las bolsas de Brasil cierran al alza; Bovespa sube un 0,54%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4954805",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Bovespa_800x533_L_1665499297.jpg",
-      "published": "2026-10-16T20:30:04+00:00"
     }
   ],
   "sources": [
