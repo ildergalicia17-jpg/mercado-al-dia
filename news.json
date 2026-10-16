@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-15T22:34:38.683105+00:00",
+  "updated": "2026-10-16T00:19:34.320139+00:00",
   "news": [
+    {
+      "h": "White House ordered SpaceX to limit Ukraine satellite service, Reuters reports",
+      "es": "White House ordered SpaceX to limit Ukraine satellite service, Reuters reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/white-house-ordered-spacex-to-limit-ukraine-satellite-service-reuters-reports-93CH-4952891",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-16T00:15:45+00:00"
+    },
+    {
+      "h": "Why is Pls stock rising today?",
+      "es": "Why is Pls stock rising today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pls-stock-rising-today-93CH-4952877",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-16T00:05:33+00:00"
+    },
+    {
+      "h": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "es": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "d": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "u": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-700267",
+      "published": "2026-10-15T23:29:00+00:00"
+    },
+    {
+      "h": "Living with a stink? Technology might help",
+      "es": "Living with a stink? Technology might help",
+      "d": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "u": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-15T23:18:21+00:00"
+    },
+    {
+      "h": "I find it quite demoralising in store - why I do all my shopping online",
+      "es": "I find it quite demoralising in store - why I do all my shopping online",
+      "d": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "u": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
+      "published": "2026-10-15T23:16:12+00:00"
+    },
+    {
+      "h": "A lot changed in stock market in just a few months. The single biggest risk did not",
+      "es": "A lot changed in stock market in just a few months. The single biggest risk did not",
+      "d": "In 2025 and into 2026 investors were told to avoid S&P 500 tech stock risk by moving to equal-weight. That failed. Now the AI trade is reeling. So what's next?",
+      "u": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T23:12:24+00:00"
+    },
+    {
+      "h": "Tesla energy executive Snyder steps down, WSJ reports",
+      "es": "Tesla energy executive Snyder steps down, WSJ reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-energy-executive-snyder-steps-down-wsj-reports-4952800",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E22A_L.jpg",
+      "published": "2026-10-15T23:00:42+00:00"
+    },
+    {
+      "h": "Netflix names former Disney executive Rice as new content chief as Bajaria departs",
+      "es": "Netflix names former Disney executive Rice as new content chief as Bajaria departs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netflix-names-former-disney-executive-rice-as-new-content-chief-as-bajaria-departs-4952796",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E21Y_L.jpg",
+      "published": "2026-10-15T22:48:25+00:00"
+    },
+    {
+      "h": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "es": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "d": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "u": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T22:48:12+00:00"
+    },
+    {
+      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "es": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "d": "”I earn $110,000 a year.”",
+      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81504476",
+      "published": "2026-10-15T22:31:00+00:00"
+    },
     {
       "h": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
       "es": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
@@ -47,6 +137,15 @@
       "published": "2026-10-15T22:12:44+00:00"
     },
     {
+      "h": "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo",
+      "es": "KFC picks Coca-Cola as US soda supplier, ditches longtime partner PepsiCo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/kfc-to-sign-cocacola-on-as-beverage-partner-ditching-pepsico-wsj-reports-4952509",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1V6_L.jpg",
+      "published": "2026-10-15T22:07:10+00:00"
+    },
+    {
       "h": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
       "es": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
       "d": "",
@@ -81,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
       "published": "2026-10-15T21:33:31+00:00"
+    },
+    {
+      "h": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "es": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "d": "Signs of distressed deepened in CoreWeave on Thursday.",
+      "u": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-15T21:33:24+00:00"
     },
     {
       "h": "Why is Alcoa stock climbing today?",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
       "published": "2026-10-15T21:06:56+00:00"
-    },
-    {
-      "h": "Some investors push Anthropic to cut IPO valuation to $1.5 trillion - report",
-      "es": "Algunos inversores presionan a Anthropic para que reduzca la valoración de la oferta pública inicial a 1,5 billones de dólares: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/some-investors-push-anthropic-to-cut-ipo-valuation-to-15-trillion--report-4952696",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L0PG_L.jpg",
-      "published": "2026-10-15T21:05:03+00:00"
-    },
-    {
-      "h": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "es": "Las acciones polarizadas de CoreWeave se recuperan mientras Wall Street se enfrenta al gasto en IA",
-      "d": "Las opiniones de Wall Street sobre CoreWeave son marcadamente divisivas a medida que los inversores prestan más atención a los detalles financieros de las grandes empresas de inteligencia artificial.",
-      "u": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70952254",
-      "published": "2026-10-15T21:03:00+00:00"
-    },
-    {
-      "h": "CoreWeave three co-founders sold $3.3 billion in shares since IPO",
-      "es": "Los tres cofundadores de CoreWeave vendieron 3.300 millones de dólares en acciones desde su salida a bolsa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coreweave-three-cofounders-sold-33-billion-in-shares-since-ipo-4952665",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "published": "2026-10-15T20:47:03+00:00"
-    },
-    {
-      "h": "Hain Celestial weighs Chapter 11 filing as debt pressures build - Bloomberg",
-      "es": "Hain Celestial evalúa la posibilidad de acogerse al Capítulo 11 a medida que aumentan las presiones sobre la deuda - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hain-celestial-weighs-chapter-11-filing-as-debt-pressures-build--bloomberg-4952659",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
-      "published": "2026-10-15T20:45:00+00:00"
-    },
-    {
-      "h": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-      "es": "Los inversores se están deshaciendo de las acciones de IA a medida que el \"naufragio tecnológico\" empeora. Aquí es hacia donde se dirigen ahora.",
-      "d": "Una venta masiva continua en el comercio de IA está obligando a los inversores a pasar de los nombres tecnológicos a la relativa seguridad de los bonos gubernamentales y los sectores bursátiles defensivos.",
-      "u": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-50558528",
-      "published": "2026-10-15T20:40:00+00:00"
-    },
-    {
-      "h": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-      "es": "Anthropic recurre a las organizaciones sin fines de lucro METR y SecureBio para ayudar a evaluar los riesgos y las prácticas de seguridad",
-      "d": "La empresa también participa en conversaciones iniciales con otras organizaciones, incluida Hugging Face.",
-      "u": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:35:21+00:00"
-    },
-    {
-      "h": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-      "es": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-      "d": "A sell-off in global technology hardware stocks deepened Thursday.",
-      "u": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:33:24+00:00"
-    },
-    {
-      "h": "Why is JB Hunt Transport stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de JB Hunt Transport hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-jb-hunt-transport-stock-sliding-today-93CH-4952641",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-15T20:31:28+00:00"
-    },
-    {
-      "h": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.08%",
-      "es": "Las bolsas de Estados Unidos cierran al alza; El Promedio Industrial Dow Jones sube un 1,08%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-108-4952637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM2T0WR_1200_L.jpg",
-      "published": "2026-10-15T20:31:03+00:00"
-    },
-    {
-      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.55%",
-      "es": "Las bolsas de Canadá cierran al alza; El S&P/TSX Composite sube un 1,55%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-155-4952636",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
-      "published": "2026-10-15T20:30:33+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 1.06%",
-      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 1,06%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4952628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF161OV_M.jpg",
-      "published": "2026-10-15T20:30:05+00:00"
-    },
-    {
-      "h": "Porsche reveals Mission S concept car that previews new design identity",
-      "es": "Porsche revela el concept car Mission S que muestra una nueva identidad de diseño",
-      "d": "Porsche reveló un concept car llamado Mission S como parte de un plan de recuperación que incluye esfuerzos para aumentar las ganancias a través de productos de mayor calidad y menores ventas.",
-      "u": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T20:30:01+00:00"
     }
   ],
   "sources": [
