@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-16T21:35:32.722841+00:00",
+  "updated": "2026-10-16T22:06:11.316252+00:00",
   "news": [
+    {
+      "h": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "es": "No hay dónde esconderse: la liquidación tecnológica afecta tanto a las acciones de software como a las de chips",
+      "d": "Los sectores de software y semiconductores no han estado operando mucho en conjunto este año, pero cayeron colectivamente el viernes cuando la inteligencia artificial y los temores sobre las tasas de interés afectaron al mercado.",
+      "u": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-02898598",
+      "published": "2026-10-16T21:59:00+00:00"
+    },
+    {
+      "h": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "es": "Esta carrera por el Senado, donde los centros de datos son un tema crucial, tiene más gasto que cualquier otro choque de mitad de período.",
+      "d": "El dinero llega a raudales y financia anuncios intensos y negativos: “Está en todas partes y no puedes escapar de él”.",
+      "u": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26159114",
+      "published": "2026-10-16T21:43:00+00:00"
+    },
+    {
+      "h": "LA restaurant group used $60,000 Dodgers bet to hedge playoff risk, Kalshi says",
+      "es": "Grupo de restaurantes de Los Ángeles utilizó una apuesta de $60,000 de los Dodgers para cubrir el riesgo de los playoffs, dice Kalshi",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/la-restaurant-group-used-60000-dodgers-bet-to-hedge-playoff-risk-kalshi-says-4954890",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1UR_L.jpg",
+      "published": "2026-10-16T21:36:17+00:00"
+    },
+    {
+      "h": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "es": "¿Podría una IPO de Anthropic poner en riesgo su 401(k)? El debate sobre la seguridad de la IA alcanza una nueva dimensión.",
+      "d": "Anthropic y el contralor de la ciudad de Nueva York han abierto una línea de comunicación para discutir los “riesgos existenciales” que plantea la IA y lo que eso podría significar para las acciones futuras de la empresa.",
+      "u": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-73170524",
+      "published": "2026-10-16T21:35:00+00:00"
+    },
+    {
+      "h": "Novavax shareholder Shah Capital to step back from activist role",
+      "es": "El accionista de Novavax, Shah Capital, dejará su papel de activista",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/novavax-shareholder-shah-capital-to-step-back-from-activist-role-4954878",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1UZ_L.jpg",
+      "published": "2026-10-16T21:30:42+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.87%",
+      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 1,87%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-187-4954874",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
+      "published": "2026-10-16T21:30:03+00:00"
+    },
     {
       "h": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
       "es": "El mercado de bonos hizo caso omiso de dos shocks inflacionarios. Por qué los inversores en acciones deberían prestar atención.",
@@ -182,6 +236,15 @@
       "published": "2026-10-16T20:29:36+00:00"
     },
     {
+      "h": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "es": "Trump dice que la Casa Blanca no ordenó restricciones a Starlink en Ucrania",
+      "d": "Los funcionarios ucranianos se quejaron esta semana de que SpaceX había limitado la conectividad a Internet sin previo aviso.",
+      "u": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T20:28:10+00:00"
+    },
+    {
       "h": "Nasdaq notches worst week since late June with a 4.5% slide as AI trade suffers",
       "es": "Nasdaq registra su peor semana desde finales de junio con una caída del 4,5% a medida que el comercio de IA sufre",
       "d": "",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
       "published": "2026-10-16T20:11:21+00:00"
-    },
-    {
-      "h": "Compass sues California listing service in fight over private home marketing",
-      "es": "Compass demanda al servicio de cotización de California en una lucha por la comercialización de viviendas privadas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/compass-sues-california-listing-service-in-fight-over-private-home-marketing-4954786",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "published": "2026-10-16T20:07:03+00:00"
-    },
-    {
-      "h": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "es": "Las acciones de EchoStar parecen una forma sigilosa de subirse a la ola SpaceX, dice J.P. Morgan",
-      "d": "Los inversores no le están dando a EchoStar suficiente crédito por el valor de su futura participación en SpaceX o su potencial para cerrar más acuerdos de espectro, sostiene un analista.",
-      "u": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-23880254",
-      "published": "2026-10-16T20:05:00+00:00"
-    },
-    {
-      "h": "FAA nears approval for Boeing 737 MAX 10 jetliner - reports",
-      "es": "La FAA se acerca a la aprobación del avión de pasajeros Boeing 737 MAX 10: informes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/faa-nears-approval-for-boeing-737-max-10-jetliner--reports-4954774",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4E02U_L.jpg",
-      "published": "2026-10-16T19:56:48+00:00"
-    },
-    {
-      "h": "FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say",
-      "es": "La FAA aprobará el Boeing 737 MAX 10 la próxima semana, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/faa-set-to-approve-737-max-10-as-soon-as-next-week-4954715",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1P2_L.jpg",
-      "published": "2026-10-16T19:54:39+00:00"
-    },
-    {
-      "h": "Debt is eating up a bigger chunk of your raise, research shows",
-      "es": "La deuda está consumiendo una mayor parte de su aumento, según muestra una investigación",
-      "d": "Una nueva investigación encuentra que los pagos de la deuda aumentaron mucho más rápido que el ingreso real estimado de los hogares, absorbiendo aproximadamente la mitad de las ganancias de un hogar con un solo ingreso.",
-      "u": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T19:47:46+00:00"
-    },
-    {
-      "h": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "es": "¿Estamos gastando nuestro dinero de jubilación en el orden correcto? Nuestro plan es: Seguro Social, anualidades, efectivo y luego IRA.",
-      "d": "Gastar todo su dinero primero puede hacer que sus ingresos aumenten en años posteriores.",
-      "u": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76147960",
-      "published": "2026-10-16T19:46:00+00:00"
-    },
-    {
-      "h": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "es": "Su cheque del Seguro Social aumentará un promedio de $75 al mes: ¿podrá mantenerse al día con la inflación?",
-      "d": "El COLA del 3,6% para 2027 tiene como objetivo ayudar a más de 68 millones de beneficiarios a mantener el ritmo del costo de vida.",
-      "u": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-07536727",
-      "published": "2026-10-16T19:45:00+00:00"
     }
   ],
   "sources": [
