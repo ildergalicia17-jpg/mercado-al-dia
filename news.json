@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-16T19:36:46.199914+00:00",
+  "updated": "2026-10-16T20:01:49.208342+00:00",
   "news": [
+    {
+      "h": "Debt is eating up a bigger chunk of your raise, research shows",
+      "es": "La deuda está consumiendo una mayor parte de su aumento, según muestra una investigación",
+      "d": "Una nueva investigación encuentra que los pagos de la deuda aumentaron mucho más rápido que el ingreso real estimado de los hogares, absorbiendo aproximadamente la mitad de las ganancias de un hogar con un solo ingreso.",
+      "u": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T19:47:46+00:00"
+    },
+    {
+      "h": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "es": "¿Estamos gastando nuestro dinero de jubilación en el orden correcto? Nuestro plan es: Seguro Social, anualidades, efectivo y luego IRA.",
+      "d": "Gastar todo su dinero primero puede hacer que sus ingresos aumenten en años posteriores.",
+      "u": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-76147960",
+      "published": "2026-10-16T19:46:00+00:00"
+    },
+    {
+      "h": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "es": "Su cheque del Seguro Social aumentará un promedio de $75 al mes: ¿podrá mantenerse al día con la inflación?",
+      "d": "El COLA del 3,6% para 2027 tiene como objetivo ayudar a más de 68 millones de beneficiarios a mantener el ritmo del costo de vida.",
+      "u": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07536727",
+      "published": "2026-10-16T19:45:00+00:00"
+    },
+    {
+      "h": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "es": "¿El COLA de este año venció a la inflación? Así es como se acumula el gasto de las personas mayores estadounidenses en lo que va de 2026.",
+      "d": "El ajuste por costo de vida para 2027 será del 3,6%, lo que dará a los beneficiarios del Seguro Social un promedio de 75 dólares más al mes.",
+      "u": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-10478767",
+      "published": "2026-10-16T19:45:00+00:00"
+    },
+    {
+      "h": "The COLA wars are coming for Social Security",
+      "es": "Se acercan las guerras COLA por el Seguro Social",
+      "d": "El ajuste anual por costo de vida pronto podría limitarse, limitarse, someterse a prueba de recursos o eliminarse por completo en virtud de varias propuestas que se están considerando activamente.",
+      "u": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58308834",
+      "published": "2026-10-16T19:45:00+00:00"
+    },
     {
       "h": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
       "es": "Microsoft quiere abaratar la IA. ¿Verán realmente los inversores los ahorros?",
@@ -27,6 +72,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-16T19:30:51+00:00"
+    },
+    {
+      "h": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "es": "Trump dice que la Casa Blanca no ordenó restricciones a Starlink en Ucrania",
+      "d": "Los funcionarios ucranianos se quejaron esta semana de que SpaceX había limitado la conectividad a Internet sin previo aviso.",
+      "u": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T19:28:46+00:00"
     },
     {
       "h": "Wall Street's fear gauge is ripping. Traders see it going even higher",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
       "published": "2026-10-16T18:39:51+00:00"
-    },
-    {
-      "h": "Why is VanEck Semiconductor ETF sliding today?",
-      "es": "¿Por qué el ETF de VanEck Semiconductor está cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-vaneck-semiconductor-etf-sliding-today-93CH-4954725",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-16T18:38:12+00:00"
-    },
-    {
-      "h": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "es": "¿Podría una IPO de Anthropic poner en riesgo su 401(k)? El debate sobre la seguridad de la IA alcanza una nueva dimensión.",
-      "d": "Anthropic y el contralor de la ciudad de Nueva York han abierto una línea de comunicación para discutir los “riesgos existenciales” que plantea la IA y lo que eso podría significar para las acciones futuras de la empresa.",
-      "u": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73170524",
-      "published": "2026-10-16T18:37:00+00:00"
-    },
-    {
-      "h": "Why is iShares Russell 2000 ETF sliding today?",
-      "es": "¿Por qué el ETF iShares Russell 2000 está cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ishares-russell-2000-etf-sliding-today-93CH-4954722",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-16T18:32:41+00:00"
-    },
-    {
-      "h": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "es": "“Me gusta la idea de obtener un gran rendimiento”: mi asesor financiero quiere que invierta 350.000 dólares en un centro de datos de los Emiratos Árabes Unidos. ¿Es esto arriesgado?",
-      "d": "\"Sé que se supone que no debes invertir dinero que no puedes permitirte perder en cosas especulativas\".",
-      "u": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86790018",
-      "published": "2026-10-16T18:30:00+00:00"
-    },
-    {
-      "h": "Why is SPDR S&P 500 ETF Trust sliding today?",
-      "es": "¿Por qué el SPDR S&P 500 ETF Trust está cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-trust-sliding-today-93CH-4954719",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-10-16T18:29:43+00:00"
-    },
-    {
-      "h": "Why is Invesco QQQ Trust sliding today?",
-      "es": "¿Por qué está cayendo hoy Invesco QQQ Trust?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-sliding-today-93CH-4954717",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-16T18:27:19+00:00"
     }
   ],
   "sources": [
