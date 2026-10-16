@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-16T01:03:35.735538+00:00",
+  "updated": "2026-10-16T01:36:01.881287+00:00",
   "news": [
+    {
+      "h": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
+      "es": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-16T01:10:10+00:00"
+    },
+    {
+      "h": "Nikkei 225 bears dominate near ¥64,200 support: Live levels",
+      "es": "Nikkei 225 bears dominate near ¥64,200 support: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-16T01:06:25+00:00"
+    },
+    {
+      "h": "SK Hynix crashes 20% below SMA, RSI at 18.8: Live levels",
+      "es": "SK Hynix crashes 20% below SMA, RSI at 18.8: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-16T01:06:12+00:00"
+    },
     {
       "h": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
       "es": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
@@ -45,6 +72,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
       "published": "2026-10-16T00:05:33+00:00"
+    },
+    {
+      "h": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "es": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1XY_L.jpg",
+      "published": "2026-10-15T23:30:21+00:00"
     },
     {
       "h": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-15T21:28:51+00:00"
-    },
-    {
-      "h": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "es": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "d": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-      "u": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T21:26:05+00:00"
-    },
-    {
-      "h": "U.S. sues California in fight over checking citizenship of mail voters",
-      "es": "Estados Unidos demanda a California en lucha por verificar la ciudadanía de los votantes por correo",
-      "d": "La demanda de la administración Trump se produce menos de un mes antes de las elecciones de mitad de período que determinarán qué partido controla ambas cámaras del Congreso.",
-      "u": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-15T21:24:57+00:00"
-    },
-    {
-      "h": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "es": "Nvidia y otras acciones de chips enfrentan una presión renovada a medida que aumentan los temores sobre la IA",
-      "d": "Los detalles informados sobre el progreso financiero de Anthropic se suman a las preocupaciones sobre la salud del ecosistema de IA.",
-      "u": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58760450",
-      "published": "2026-10-15T21:23:00+00:00"
-    },
-    {
-      "h": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "es": "No abandones las acciones tecnológicas todavía. Realice estos movimientos para aprovechar el último restablecimiento de la IA.",
-      "d": "Los inversores tienen ahora una “relación de amor y odio” con las acciones tecnológicas, y los expertos recomiendan buscar selectivamente gangas y al mismo tiempo apostar por las principales empresas de la nube.",
-      "u": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37341091",
-      "published": "2026-10-15T21:21:00+00:00"
     }
   ],
   "sources": [
