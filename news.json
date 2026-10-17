@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-16T23:32:07.491036+00:00",
+  "updated": "2026-10-17T01:12:33.706568+00:00",
   "news": [
+    {
+      "h": "Will Starlink Mobile matter for Apple?",
+      "es": "¿Importará Starlink Mobile para Apple?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg",
+      "published": "2026-10-17T00:39:39+00:00"
+    },
     {
       "h": "Anthropic signs lease for first Canadian data center",
       "es": "Anthropic firma contrato de arrendamiento para el primer centro de datos canadiense",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-16T20:33:55+00:00"
-    },
-    {
-      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.34%",
-      "es": "Las bolsas de Estados Unidos cierran a la baja; El Promedio Industrial Dow Jones cae un 0,34%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-034-4954815",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5A1IK_1200_L.jpg",
-      "published": "2026-10-16T20:31:01+00:00"
     }
   ],
   "sources": [
