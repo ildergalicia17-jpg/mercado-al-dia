@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T14:08:43.169540+00:00",
+  "updated": "2026-10-17T14:38:42.353640+00:00",
   "news": [
+    {
+      "h": "DeepSeek releases AI model update, opens search APIs to all users",
+      "es": "DeepSeek lanza una actualización del modelo de IA y abre las API de búsqueda a todos los usuarios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/deepseek-releases-ai-model-update-opens-search-apis-to-all-users-4955445",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL0Q0RY_L.jpg",
+      "published": "2026-10-17T14:33:21+00:00"
+    },
+    {
+      "h": "Low-cost clinic helps pet owners with vet bills",
+      "es": "Una clínica de bajo coste ayuda a los dueños de mascotas con las facturas del veterinario",
+      "d": "RSPCA Medway West lanza su clínica para mascotas de personas de bajos ingresos.",
+      "u": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/1e9e0a60-ca34-11f1-9ab2-b325ce61f9d2.jpg",
+      "published": "2026-10-17T14:12:02+00:00"
+    },
     {
       "h": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
       "es": "Los inversores están comprando grandes extensiones de bosques en todo Estados Unidos en una de las apuestas a más largo plazo del mercado.",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9G012_L.jpg",
       "published": "2026-10-17T01:06:24+00:00"
-    },
-    {
-      "h": "Will Starlink Mobile matter for Apple?",
-      "es": "¿Importará Starlink Mobile para Apple?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/will-starlink-mobile-matter-for-apple-4955056",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg",
-      "published": "2026-10-17T00:39:39+00:00"
-    },
-    {
-      "h": "Anthropic signs lease for first Canadian data center",
-      "es": "Anthropic firma contrato de arrendamiento para el primer centro de datos canadiense",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1XG_L.jpg",
-      "published": "2026-10-16T23:06:30+00:00"
     }
   ],
   "sources": [
