@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T20:20:13.361673+00:00",
+  "updated": "2026-10-17T21:40:42.025960+00:00",
   "news": [
+    {
+      "h": "How day of protests unfolded as disorder breaks out across France",
+      "es": "Cómo se desarrolló el día de protestas mientras estalla el desorden en toda Francia",
+      "d": "Las manifestaciones en todo el país se tornaron violentas, con autos y edificios incendiados y tiendas saqueadas.",
+      "u": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0590/live/b284d140-ca71-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-17T21:33:17+00:00"
+    },
+    {
+      "h": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "es": "Las bolsas de Rusia cierran a la baja; Índice MOEX Rusia sin cambios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4955590",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7O0V7_M.jpg",
+      "published": "2026-10-17T21:20:03+00:00"
+    },
     {
       "h": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
       "es": "¿Puede un robot de 55.000 dólares cargar el lavavajillas? Dentro de mi tarde con dos amas de casa humanoides.",
@@ -252,24 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-17T10:20:44+00:00"
-    },
-    {
-      "h": "Citi sees resilient demand for Chinese AI IPOs despite valuation concerns",
-      "es": "Citi ve una demanda resistente para las OPI chinas de IA a pesar de las preocupaciones sobre la valoración",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-sees-resilient-demand-for-chinese-ai-ipos-despite-valuation-concerns-4955340",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7U0BG_M.jpg",
-      "published": "2026-10-17T08:41:17+00:00"
-    },
-    {
-      "h": "Explainer-Could hackers get inside my fridge?",
-      "es": "Explicador: ¿Podrían los piratas informáticos entrar a mi refrigerador?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4955339",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0RB_L.jpg",
-      "published": "2026-10-17T08:36:22+00:00"
     }
   ],
   "sources": [
