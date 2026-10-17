@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T09:25:59.344525+00:00",
+  "updated": "2026-10-17T10:50:39.527546+00:00",
   "news": [
+    {
+      "h": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+      "es": "Trump renuncia a nuevas sanciones y aranceles amplios contra Rusia en virtud de la Ley Graham, citando el interés nacional",
+      "d": "Trump promulgó en septiembre el Proyecto de Ley Graham, que apuntaba a Rusia por su invasión de Ucrania.",
+      "u": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T10:20:44+00:00"
+    },
     {
       "h": "Citi sees resilient demand for Chinese AI IPOs despite valuation concerns",
       "es": "Citi ve una demanda resistente para las OPI chinas de IA a pesar de las preocupaciones sobre la valoración",
@@ -182,6 +191,15 @@
       "published": "2026-10-16T21:54:26+00:00"
     },
     {
+      "h": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+      "es": "Cinco conclusiones sobre el dinero de mitad de período: los demócratas tienen dinero en efectivo para los candidatos. Los republicanos tienen a Elon Musk",
+      "d": "Los demócratas superan a los republicanos en carreras clave para el Congreso mientras Elon Musk financia a Ken Paxton en Texas y a grupos republicanos alineados con Trump.",
+      "u": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T21:49:13+00:00"
+    },
+    {
       "h": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
       "es": "Esta carrera por el Senado, donde los centros de datos son un tema crucial, tiene más gasto que cualquier otro choque de mitad de período.",
       "d": "El dinero llega a raudales y financia anuncios intensos y negativos: “Está en todas partes y no puedes escapar de él”.",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1SG_L.jpg",
       "published": "2026-10-16T21:25:11+00:00"
-    },
-    {
-      "h": "Colombia stocks lower at close of trade; COLCAP down 0.55%",
-      "es": "Las bolsas de Colombia cierran a la baja; COLCAP cae 0,55%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-055-4954873",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R7_L.jpg",
-      "published": "2026-10-16T21:25:03+00:00"
-    },
-    {
-      "h": "Chinese online retailer Temu agrees to data privacy restrictions to settle Texas lawsuit, documents say",
-      "es": "El minorista chino en línea Temu acepta restricciones de privacidad de datos para resolver la demanda de Texas, según documentos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinese-online-retailer-temu-agrees-to-data-privacy-restrictions-to-settle-texas-lawsuit-documents-say-4954577",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1I2_L.jpg",
-      "published": "2026-10-16T21:24:35+00:00"
     }
   ],
   "sources": [
