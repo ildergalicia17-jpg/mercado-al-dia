@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T01:12:33.706568+00:00",
+  "updated": "2026-10-17T01:45:36.198447+00:00",
   "news": [
+    {
+      "h": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+      "es": "Anthropic ofrece a Blackstone un rendimiento de dos dígitos en un acuerdo de financiación de chips, informa el Financial Times",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-offers-blackstone-doubledigit-yield-in-chipfinancing-deal-ft-reports-4955079",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9G012_L.jpg",
+      "published": "2026-10-17T01:06:24+00:00"
+    },
     {
       "h": "Will Starlink Mobile matter for Apple?",
       "es": "¿Importará Starlink Mobile para Apple?",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
       "published": "2026-10-16T20:36:19+00:00"
-    },
-    {
-      "h": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "es": "¿Por qué las acciones de CoreWeave fueron aplastadas esta semana? Busque pistas en este rincón del mercado de deuda",
-      "d": "Los rendimientos de los bonos y los swaps de incumplimiento crediticio de CoreWeave se han disparado a medida que se venden sus acciones. Esto es lo que significan esas señales crediticias para los inversores en acciones.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T20:33:55+00:00"
     }
   ],
   "sources": [
