@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T06:10:37.992065+00:00",
+  "updated": "2026-10-17T06:53:14.288171+00:00",
   "news": [
+    {
+      "h": "Call for more food funding due to high living cost",
+      "es": "Piden más financiación para alimentos debido al alto coste de vida",
+      "d": "La diputada Louise Doublet no cree que al final del juicio se haya tenido en cuenta el coste de la vida.",
+      "u": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/ea9edaa0-c94d-11f1-8879-9d9deeb686e1.jpg",
+      "published": "2026-10-17T06:18:16+00:00"
+    },
+    {
+      "h": "Charity reflects on changing needs over 25 years",
+      "es": "Charity reflexiona sobre las necesidades cambiantes a lo largo de 25 años",
+      "d": "Help a Guernsey Child dice que ha proporcionado más de £1,2 millones en apoyo esencial.",
+      "u": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fdf/live/2864c770-c89d-11f1-b0a4-81e564f1cfaa.jpg",
+      "published": "2026-10-17T06:11:54+00:00"
+    },
     {
       "h": "Nightclubs are disappearing - and it's affecting young people",
       "es": "Las discotecas están desapareciendo y esto afecta a los jóvenes",
@@ -9,6 +27,24 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/f7b76f10-c577-11f1-82d0-c3c20e527ef0.jpg",
       "published": "2026-10-17T06:01:55+00:00"
+    },
+    {
+      "h": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "es": "El acuerdo de Trump sobre el diésel con Rusia puede ofrecerle a Putin más que dinero y significar problemas para Ucrania",
+      "d": "El acuerdo de Trump sobre el diésel puede hacer poco por las finanzas de Rusia, pero plantea interrogantes más importantes sobre la influencia de Ucrania, el apoyo de Estados Unidos y los próximos pasos de Putin.",
+      "u": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T05:46:20+00:00"
+    },
+    {
+      "h": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "es": "Algunas empresas ofrecen IA a todos. Este CEO está haciendo lo contrario",
+      "d": "El director ejecutivo de Paysend, Ben Chisell, limita las herramientas de inteligencia artificial a las de mejor desempeño, mientras otras empresas del Reino Unido impulsan implementaciones más amplias en el lugar de trabajo.",
+      "u": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T05:00:01+00:00"
     },
     {
       "h": "Nearly 12,000 California residents bought EVs using state rebate program",
@@ -63,6 +99,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1WY_L.jpg",
       "published": "2026-10-16T22:42:42+00:00"
+    },
+    {
+      "h": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "es": "El déficit presupuestario de EE. UU. aumenta a casi 2 billones de dólares para el año fiscal 2026, un aumento del 12 % en un solo año",
+      "d": "El Departamento del Tesoro publicó el déficit presupuestario de Estados Unidos para el año fiscal 2026.",
+      "u": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-16T22:34:29+00:00"
     },
     {
       "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED202O6_M.jpg",
       "published": "2026-10-16T21:22:53+00:00"
-    },
-    {
-      "h": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "es": "Las nuevas reglas de la SEC desplumarían a los inversores habituales para enriquecer a Wall Street",
-      "d": "Las nuevas propuestas de la Comisión de Bolsa y Valores inclinarán la balanza a favor de Wall Street y en contra de un enorme grupo de inversores minoristas.",
-      "u": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-94711045",
-      "published": "2026-10-16T21:21:00+00:00"
-    },
-    {
-      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 1.70%",
-      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 1,70%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-170-4954871",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4B0FU_M.jpg",
-      "published": "2026-10-16T21:20:03+00:00"
-    },
-    {
-      "h": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "es": "Tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
-      "d": "“Mi plan es seguir trabajando mientras pueda hacerlo e invertir mis beneficios del Seguro Social mientras sigo ganando un sueldo”.",
-      "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-90466023",
-      "published": "2026-10-16T21:15:00+00:00"
-    },
-    {
-      "h": "Moody’s upgrades Egypt to B3 on fiscal reforms, keeps positive outlook",
-      "es": "Moody's eleva Egipto a B3 por reformas fiscales y mantiene perspectivas positivas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/moodys-upgrades-egypt-to-b3-on-fiscal-reforms-keeps-positive-outlook-4954858",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEEAJ13B_M.jpg",
-      "published": "2026-10-16T21:05:06+00:00"
-    },
-    {
-      "h": "Exclusive-Boeing sales chief McMullen to retire, company memo says",
-      "es": "McMullen, jefe de ventas exclusivo de Boeing, se jubilará, según memorando de la empresa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveboeing-sales-chief-mcmullen-to-retire-company-memo-says-4954848",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1TO_L.jpg",
-      "published": "2026-10-16T21:00:56+00:00"
     }
   ],
   "sources": [
