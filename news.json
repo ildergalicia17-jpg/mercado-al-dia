@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T13:15:20.675907+00:00",
+  "updated": "2026-10-17T13:46:57.968121+00:00",
   "news": [
+    {
+      "h": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "es": "La reforma de los préstamos estudiantiles de Trump podría llevar a más solicitudes de quiebra, dice un ex juez",
+      "d": "Después de casi tres décadas como juez de quiebras, Sarah Sharer Curley escribe sobre el proceso legal en su nuevo libro, \"El precio del perdón\".",
+      "u": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T13:30:01+00:00"
+    },
+    {
+      "h": "Which company has the world’s highest earnings? The answer may surprise you",
+      "es": "¿Qué empresa tiene las ganancias más altas del mundo? La respuesta puede sorprenderte",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/which-company-has-the-worlds-highest-earnings-the-answer-may-surprise-you-4955422",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
+      "published": "2026-10-17T13:12:06+00:00"
+    },
     {
       "h": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
       "es": "\"Todo el mundo se rió\" cuando puso en marcha una granja de calabazas; ahora genera 2 millones de dólares al año",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1WY_L.jpg",
       "published": "2026-10-16T22:42:42+00:00"
-    },
-    {
-      "h": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "es": "El déficit presupuestario de EE. UU. aumenta a casi 2 billones de dólares para el año fiscal 2026, un aumento del 12 % en un solo año",
-      "d": "El Departamento del Tesoro publicó el déficit presupuestario de Estados Unidos para el año fiscal 2026.",
-      "u": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T22:34:29+00:00"
-    },
-    {
-      "h": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "es": "Análisis: Por qué un déficit de 2 billones de dólares y un rendimiento del 5% de los bonos del Tesoro se están convirtiendo en el mayor desafío económico de Estados Unidos",
-      "d": "Los rendimientos de los bonos del Tesoro superiores al 5% están elevando los costos de endeudamiento para los hogares y el gobierno federal, lo que pone de relieve el desafío de financiar déficits de 2 billones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T22:33:05+00:00"
     }
   ],
   "sources": [
