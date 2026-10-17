@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-17T12:40:29.753582+00:00",
+  "updated": "2026-10-17T13:15:20.675907+00:00",
   "news": [
+    {
+      "h": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "es": "\"Todo el mundo se rió\" cuando puso en marcha una granja de calabazas; ahora genera 2 millones de dólares al año",
+      "d": "Kelly Schultz compró una granja de calabazas en 1996. La transformó en una atracción estacional que atrae a 100.000 visitantes cada otoño.",
+      "u": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T13:00:01+00:00"
+    },
+    {
+      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "es": "“Algunas personas hicieron todo bien”: perdí mi casa en la Gran Recesión. Alquilo cuando tengo 50 años. ¿Por qué se considera eso un fracaso?",
+      "d": "\"Gano 110.000 dólares al año\".",
+      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81504476",
+      "published": "2026-10-17T13:00:00+00:00"
+    },
+    {
+      "h": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "es": "Conozca a los compradores de viviendas totalmente imperturbables ante las tasas hipotecarias del 7%",
+      "d": "Los inversores individuales y los compradores de segundas viviendas representaron 1 de cada 5 compras de viviendas en septiembre, la proporción más alta en poco más de un año.",
+      "u": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54886096",
+      "published": "2026-10-17T13:00:00+00:00"
+    },
+    {
+      "h": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "es": "Las acciones de Berkshire se liquidan en el mercado y alcanzan su nivel más alto desde que Buffett dijo que dejaría el cargo de CEO",
+      "d": "Las acciones de Berkshire Hathaway están en su nivel más alto desde que Warren Buffett dijo a los accionistas en la reunión anual de mayo de 2025 que planeaba dejar el cargo de director ejecutivo a finales de ese año.",
+      "u": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T12:46:21+00:00"
+    },
     {
       "h": "Influencers and biohackers swear by fasting. Here’s what the science says.",
       "es": "Los influencers y biohackers apuestan por el ayuno. Esto es lo que dice la ciencia.",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-16T22:33:05+00:00"
-    },
-    {
-      "h": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "es": "El iPhone Duo de Apple de 1.999 dólares pone a prueba el poder del símbolo de estatus de la compañía",
-      "d": "El iPhone Duo de Apple, de 1.999 dólares, está atrayendo una demanda temprana a medida que los analistas evalúan si el modelo plegable puede elevar los precios y los ingresos del iPhone.",
-      "u": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T22:31:26+00:00"
-    },
-    {
-      "h": "US lifts restrictions on new Mexican flights from capital’s airports",
-      "es": "EE.UU. levanta restricciones a nuevos vuelos mexicanos desde aeropuertos capitalinos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-lifts-restrictions-on-new-mexican-flights-from-capitals-airports-4954901",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1UC_L.jpg",
-      "published": "2026-10-16T22:00:22+00:00"
-    },
-    {
-      "h": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-      "es": "No hay dónde esconderse: la liquidación tecnológica afecta tanto a las acciones de software como a las de chips",
-      "d": "Los sectores de software y semiconductores no han estado operando mucho en conjunto este año, pero cayeron colectivamente el viernes cuando la inteligencia artificial y los temores sobre las tasas de interés afectaron al mercado.",
-      "u": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-02898598",
-      "published": "2026-10-16T21:59:00+00:00"
-    },
-    {
-      "h": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
-      "es": "Las acciones de Tesla quedan atrapadas en la caída tecnológica a pesar del nuevo Roadster con capacidad de vuelo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ9704D_L.jpg",
-      "published": "2026-10-16T21:58:23+00:00"
     }
   ],
   "sources": [
