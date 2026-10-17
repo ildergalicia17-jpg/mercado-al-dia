@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T11:12:27.325969+00:00",
+  "updated": "2026-10-17T11:44:08.718794+00:00",
   "news": [
+    {
+      "h": "It was another great week for the average stock as market leadership shifts away from tech",
+      "es": "It was another great week for the average stock as market leadership shifts away from tech",
+      "d": "The S&P 500’s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance.",
+      "u": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-78089291",
+      "published": "2026-10-17T11:30:00+00:00"
+    },
     {
       "h": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
       "es": "Tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1UZ_L.jpg",
       "published": "2026-10-16T21:30:42+00:00"
-    },
-    {
-      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.87%",
-      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 1,87%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-187-4954874",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
-      "published": "2026-10-16T21:30:03+00:00"
     }
   ],
   "sources": [
