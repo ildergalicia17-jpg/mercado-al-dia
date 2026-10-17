@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-17T10:50:39.527546+00:00",
+  "updated": "2026-10-17T11:12:27.325969+00:00",
   "news": [
+    {
+      "h": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "es": "Tengo 63 años y me diagnosticaron linfoma. ¿Debería cobrar mi Seguro Social el próximo año?",
+      "d": "“Mi plan es seguir trabajando mientras pueda hacerlo e invertir mis beneficios del Seguro Social mientras sigo ganando un sueldo”.",
+      "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-90466023",
+      "published": "2026-10-17T11:00:00+00:00"
+    },
+    {
+      "h": "Fed interest-rate decision this month is a closer call than markets think",
+      "es": "La decisión de la Fed sobre las tasas de interés de este mes está más cerca de lo que piensan los mercados",
+      "d": "Éstos son algunos de los argumentos en contra de un aumento de las tasas de la Fed y por qué algunos economistas no están de acuerdo con ellos.",
+      "u": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-28305964",
+      "published": "2026-10-17T11:00:00+00:00"
+    },
     {
       "h": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
       "es": "Trump renuncia a nuevas sanciones y aranceles amplios contra Rusia en virtud de la Ley Graham, citando el interés nacional",
@@ -81,6 +99,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1QX_L.jpg",
       "published": "2026-10-17T04:48:35+00:00"
+    },
+    {
+      "h": "Chinese online retailer Temu agrees to data privacy curbs to settle Texas lawsuit",
+      "es": "El minorista chino en línea Temu acepta restricciones a la privacidad de datos para resolver la demanda de Texas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinese-online-retailer-temu-agrees-to-data-privacy-restrictions-to-settle-texas-lawsuit-documents-say-4954577",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1I2_L.jpg",
+      "published": "2026-10-17T04:18:21+00:00"
     },
     {
       "h": "Jio’s $3.2 billion IPO tests investor appetite as Ambani legacy faces scrutiny",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
       "published": "2026-10-16T21:30:03+00:00"
-    },
-    {
-      "h": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-      "es": "El mercado de bonos hizo caso omiso de dos shocks inflacionarios. Por qué los inversores en acciones deberían prestar atención.",
-      "d": "Los buenos datos del IPC y del PPI deberían haber hecho subir los rendimientos de los bonos del Tesoro. En cambio, los compradores de bonos intervinieron para sugerir que los rendimientos han aumentado lo suficiente como para volverse atractivos para los inversores.",
-      "u": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-54657824",
-      "published": "2026-10-16T21:30:00+00:00"
-    },
-    {
-      "h": "Katie Zacharia out as Trump's White House press secretary",
-      "es": "Katie Zacharia renuncia como secretaria de prensa de la Casa Blanca de Trump",
-      "d": "Zacharia se encontraba en terreno inestable desde su primera conferencia de prensa en la Casa Blanca y por las preguntas sobre sus afirmaciones de ser abogada a pesar de no aprobar un examen de abogacía.",
-      "u": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-16T21:26:15+00:00"
-    },
-    {
-      "h": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
-      "es": "SoftBank sopesa la adquisición de Allied Universal por 18.000 millones de dólares, dice una fuente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/softbank-weighs-18-billion-acquisition-of-allied-universal-bloomberg-news-reports-4954792",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1SG_L.jpg",
-      "published": "2026-10-16T21:25:11+00:00"
     }
   ],
   "sources": [
