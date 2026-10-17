@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T05:48:02.753541+00:00",
+  "updated": "2026-10-17T06:10:37.992065+00:00",
   "news": [
+    {
+      "h": "Nightclubs are disappearing - and it's affecting young people",
+      "es": "Las discotecas están desapareciendo y esto afecta a los jóvenes",
+      "d": "Un joven dijo que como no hay vida nocturna en su ciudad no pueden \"soltarse y perder el tiempo\".",
+      "u": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/f7b76f10-c577-11f1-82d0-c3c20e527ef0.jpg",
+      "published": "2026-10-17T06:01:55+00:00"
+    },
     {
       "h": "Nearly 12,000 California residents bought EVs using state rebate program",
       "es": "Casi 12.000 residentes de California compraron vehículos eléctricos mediante el programa de reembolso estatal",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1TO_L.jpg",
       "published": "2026-10-16T21:00:56+00:00"
-    },
-    {
-      "h": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
-      "es": "No compre esta caída: varias señales sugieren que las acciones tecnológicas se avecinan más dificultades",
-      "d": "¿Está pensando en comprar durante la caída de las acciones tecnológicas? La perspectiva técnica del Nasdaq Composite sugiere que no lo hagamos, al menos no todavía.",
-      "u": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-38050807",
-      "published": "2026-10-16T20:58:00+00:00"
     }
   ],
   "sources": [
