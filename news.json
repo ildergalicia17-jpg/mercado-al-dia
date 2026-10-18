@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T23:02:18.312685+00:00",
+  "updated": "2026-10-18T23:28:10.753301+00:00",
   "news": [
+    {
+      "h": "Don't fall for this - how to protect yourself from AI scams",
+      "es": "Don't fall for this - how to protect yourself from AI scams",
+      "d": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "u": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+      "published": "2026-10-18T23:24:59+00:00"
+    },
     {
       "h": "Home sellers cut asking prices on 3,000 properties a day",
       "es": "Home sellers cut asking prices on 3,000 properties a day",
@@ -9,6 +18,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
       "published": "2026-10-18T23:00:45+00:00"
+    },
+    {
+      "h": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "es": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "d": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027.",
+      "u": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-18T23:00:01+00:00"
     },
     {
       "h": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
@@ -99,6 +117,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-70454413",
       "published": "2026-10-18T17:00:00+00:00"
+    },
+    {
+      "h": "Microsoft pulls out of UK's largest AI data centre",
+      "es": "Microsoft pulls out of UK's largest AI data centre",
+      "d": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "u": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
+      "published": "2026-10-18T16:46:42+00:00"
     },
     {
       "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEHB70FT_L.jpg",
       "published": "2026-10-18T12:45:03+00:00"
-    },
-    {
-      "h": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "es": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "d": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-      "u": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-18T12:34:51+00:00"
-    },
-    {
-      "h": "Buy these 2 stocks amid AI financing concerns: Analyst",
-      "es": "Buy these 2 stocks amid AI financing concerns: Analyst",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/buy-these-2-stocks-amid-ai-financing-concerns-analyst-4955896",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/ArtificialIntelligenceAI_800x533_L_1758714606.jpg",
-      "published": "2026-10-18T12:16:35+00:00"
-    },
-    {
-      "h": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "es": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-      "d": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
-      "u": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-18T12:00:01+00:00"
     }
   ],
   "sources": [
