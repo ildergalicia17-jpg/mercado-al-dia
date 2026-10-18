@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:18:06.454138+00:00",
+  "updated": "2026-10-18T02:51:29.128279+00:00",
   "news": [
     {
       "h": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
@@ -36,6 +36,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-72452545",
       "published": "2026-10-17T20:04:00+00:00"
+    },
+    {
+      "h": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "es": "Trump renuncia a nuevas sanciones amplias contra Rusia, Zelenskyy las condena como \"incorrectas\"",
+      "d": "Trump promulgó en septiembre el Proyecto de Ley Graham, que apuntaba a Rusia por su invasión de Ucrania.",
+      "u": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T19:35:18+00:00"
     },
     {
       "h": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
@@ -260,15 +269,6 @@
       "u": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-90466023",
-      "published": "2026-10-17T11:00:00+00:00"
-    },
-    {
-      "h": "Fed interest-rate decision this month is a closer call than markets think",
-      "es": "La decisión de la Fed sobre las tasas de interés de este mes está más cerca de lo que piensan los mercados",
-      "d": "Éstos son algunos de los argumentos en contra de un aumento de las tasas de la Fed y por qué algunos economistas no están de acuerdo con ellos.",
-      "u": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-28305964",
       "published": "2026-10-17T11:00:00+00:00"
     }
   ],
