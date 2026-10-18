@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:28:08.890360+00:00",
+  "updated": "2026-10-18T10:56:55.599515+00:00",
   "news": [
     {
       "h": "What is the Budget and what could be in it?",
@@ -227,6 +227,15 @@
       "published": "2026-10-17T16:45:15+00:00"
     },
     {
+      "h": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "es": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "d": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+      "u": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T16:31:06+00:00"
+    },
+    {
       "h": "Memory stocks: Is the wall of worry justified?",
       "es": "Reservas de memoria: ¿Está justificado el muro de la preocupación?",
       "d": "",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-17T15:00:01+00:00"
-    },
-    {
-      "h": "DeepSeek releases AI model update, opens search APIs to all users",
-      "es": "DeepSeek lanza una actualización del modelo de IA y abre las API de búsqueda a todos los usuarios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/deepseek-releases-ai-model-update-opens-search-apis-to-all-users-4955445",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL0Q0RY_L.jpg",
-      "published": "2026-10-17T14:33:21+00:00"
     }
   ],
   "sources": [
