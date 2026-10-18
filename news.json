@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-18T07:01:41.549880+00:00",
+  "updated": "2026-10-18T07:35:04.461554+00:00",
   "news": [
+    {
+      "h": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "es": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "d": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
+      "u": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-18T07:22:07+00:00"
+    },
+    {
+      "h": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+      "es": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-meta-gets-streethigh-pt-salesforce-double-upgraded-4955491",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8S0SX_L.jpg",
+      "published": "2026-10-18T07:18:04+00:00"
+    },
     {
       "h": "China proposes export controls on solar-manufacturing technologies",
       "es": "China propone controles a las exportaciones de tecnologías de fabricación solar",
@@ -54,6 +72,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB810CQ_M.jpg",
       "published": "2026-10-18T02:00:03+00:00"
+    },
+    {
+      "h": "There's a crackdown on sports piracy - but is it already out of control?",
+      "es": "There's a crackdown on sports piracy - but is it already out of control?",
+      "d": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "u": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-18T00:11:09+00:00"
     },
     {
       "h": "How day of protests unfolded as disorder breaks out across France",
@@ -155,6 +182,15 @@
       "published": "2026-10-17T15:42:34+00:00"
     },
     {
+      "h": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "es": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "d": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "u": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-17T15:11:30+00:00"
+    },
+    {
       "h": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
       "es": "'Dinero muerto' durante una década: por qué este enfoque de fondos de cobertura puede ofrecer una ventaja sobre los bonos",
       "d": "Es posible que los inversores quieran reconsiderar su asignación de bonos y optar por una exposición a futuros gestionada.",
@@ -234,42 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-54886096",
       "published": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "h": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "es": "Las acciones de Berkshire se liquidan en el mercado y alcanzan su nivel más alto desde que Buffett dijo que dejaría el cargo de CEO",
-      "d": "Las acciones de Berkshire Hathaway están en su nivel más alto desde que Warren Buffett dijo a los accionistas en la reunión anual de mayo de 2025 que planeaba dejar el cargo de director ejecutivo a finales de ese año.",
-      "u": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-17T12:46:21+00:00"
-    },
-    {
-      "h": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "es": "Los influencers y biohackers apuestan por el ayuno. Esto es lo que dice la ciencia.",
-      "d": "El ayuno puede ayudar a algunas personas a reducir la cantidad de calorías que consumen, pero no es “fácil” como algunos quieren hacer creer.",
-      "u": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67445388",
-      "published": "2026-10-17T12:31:00+00:00"
-    },
-    {
-      "h": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-      "es": "La reciente caída del 50% de la plata desde un máximo histórico sugiere que se avecina una desaceleración económica",
-      "d": "Hay un producto relativamente fuera del radar que puede dar pistas sobre hacia dónde se dirige la economía, y su valor ha caído más del 50% desde un máximo récord a principios de este año.",
-      "u": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-90939892",
-      "published": "2026-10-17T12:30:00+00:00"
-    },
-    {
-      "h": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
-      "es": "El índice de chips SOX registra la racha de pérdidas más larga desde 2008 a medida que se profundizan las preocupaciones sobre la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4955401",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM530T4_1200_L.jpg",
-      "published": "2026-10-17T12:04:36+00:00"
     }
   ],
   "sources": [
