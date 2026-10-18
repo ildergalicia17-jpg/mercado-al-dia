@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T10:56:55.599515+00:00",
+  "updated": "2026-10-18T11:22:14.452859+00:00",
   "news": [
+    {
+      "h": "Gleaning group gives £1m of produce to food banks",
+      "es": "Gleaning group gives £1m of produce to food banks",
+      "d": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
+      "u": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4085/live/d9042de0-c6eb-11f1-bc1b-8dfa7c975faa.jpg",
+      "published": "2026-10-18T11:03:04+00:00"
+    },
     {
       "h": "What is the Budget and what could be in it?",
       "es": "What is the Budget and what could be in it?",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-17T15:11:30+00:00"
-    },
-    {
-      "h": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "es": "'Dinero muerto' durante una década: por qué este enfoque de fondos de cobertura puede ofrecer una ventaja sobre los bonos",
-      "d": "Es posible que los inversores quieran reconsiderar su asignación de bonos y optar por una exposición a futuros gestionada.",
-      "u": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-17T15:00:01+00:00"
     }
   ],
   "sources": [
