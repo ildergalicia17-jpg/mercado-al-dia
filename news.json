@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-18T11:22:14.452859+00:00",
+  "updated": "2026-10-18T12:09:28.989743+00:00",
   "news": [
+    {
+      "h": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "es": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "d": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "u": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-18T12:00:01+00:00"
+    },
+    {
+      "h": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+      "es": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+      "d": "A “triple-top” reversal chart pattern is pointing to a period of underperformance for the S&P 500 — perhaps a long one.",
+      "u": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-17675434",
+      "published": "2026-10-18T12:00:00+00:00"
+    },
     {
       "h": "Gleaning group gives £1m of produce to food banks",
       "es": "Gleaning group gives £1m of produce to food banks",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L181_L.jpg",
       "published": "2026-10-17T16:15:25+00:00"
-    },
-    {
-      "h": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-      "es": "Las acciones de IA se desploman. La inflación se calienta. Donde todavía estamos encontrando oportunidades",
-      "d": "La caída del comercio de IA sacudió el mercado la semana pasada. Pero los sólidos resultados bancarios y la rotación más allá de la tecnología nos dan motivos para ser optimistas.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-17T15:42:34+00:00"
-    },
-    {
-      "h": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "es": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "d": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-      "u": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-17T15:11:30+00:00"
     }
   ],
   "sources": [
