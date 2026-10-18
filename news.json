@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T05:20:49.286053+00:00",
+  "updated": "2026-10-18T06:16:25.027251+00:00",
   "news": [
+    {
+      "h": "Heating oil customers face tough winter",
+      "es": "Los clientes de gasóleo para calefacción se enfrentan a un duro invierno",
+      "d": "El gobierno planea regular los precios del combustible para calefacción después de los aumentos.",
+      "u": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039e/live/09d7c130-c7c7-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-18T06:07:40+00:00"
+    },
     {
       "h": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
       "es": "Rubio se dirige a Asia Central mientras otros funcionarios estadounidenses visitan puntos candentes de política exterior",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-17T12:00:01+00:00"
-    },
-    {
-      "h": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "es": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "d": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "u": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37492094",
-      "published": "2026-10-17T12:00:00+00:00"
     }
   ],
   "sources": [
