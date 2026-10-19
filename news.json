@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-19T01:39:40.938996+00:00",
+  "updated": "2026-10-19T02:12:28.865280+00:00",
   "news": [
+    {
+      "h": "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out",
+      "es": "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T02:05:18+00:00"
+    },
+    {
+      "h": "China's economic growth picks up as AI boom boosts exports",
+      "es": "China's economic growth picks up as AI boom boosts exports",
+      "d": "Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+      "u": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5e/live/b2cb7850-cb4f-11f1-8128-5942f144dabe.jpg",
+      "published": "2026-10-19T02:03:04+00:00"
+    },
+    {
+      "h": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+      "es": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+      "d": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+      "u": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T01:56:34+00:00"
+    },
+    {
+      "h": "Challenger shares surge 17% to eight-year high on $5.5 billion Daiichi Life offer",
+      "es": "Challenger shares surge 17% to eight-year high on $5.5 billion Daiichi Life offer",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/challenger-shares-surge-17-to-eightyear-high-on-55-billion-daiichi-life-offer-4956200",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+      "published": "2026-10-19T01:47:42+00:00"
+    },
     {
       "h": "U.S. stock futures climb as investors return to AI trade after selloff",
       "es": "U.S. stock futures climb as investors return to AI trade after selloff",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEBA40C1_M.jpg",
       "published": "2026-10-18T18:03:11+00:00"
-    },
-    {
-      "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70454413",
-      "published": "2026-10-18T17:00:00+00:00"
-    },
-    {
-      "h": "Microsoft pulls out of UK's largest AI data centre",
-      "es": "Microsoft pulls out of UK's largest AI data centre",
-      "d": "Tech firm Nscale says it is still committed to building the site in Essex.",
-      "u": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
-      "published": "2026-10-18T16:46:42+00:00"
-    },
-    {
-      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "es": "“Algunas personas hicieron todo bien”: perdí mi casa en la Gran Recesión. Alquilo cuando tengo 50 años. ¿Por qué se considera eso un fracaso?",
-      "d": "\"Gano 110.000 dólares al año\".",
-      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81504476",
-      "published": "2026-10-18T16:15:00+00:00"
-    },
-    {
-      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-18T16:00:00+00:00"
     }
   ],
   "sources": [
