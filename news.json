@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-19T18:56:06.488017+00:00",
+  "updated": "2026-10-19T19:30:07.922079+00:00",
   "news": [
+    {
+      "h": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+      "es": "La liquidación de CoreWeave es una lección de \"Finanzas 101\", y Wall Street dice que las acciones pueden recuperarse",
+      "d": "Los analistas sostienen que la economía subyacente de CoreWeave es mucho más sólida de lo que creen los nerviosos inversores en deuda y acciones.",
+      "u": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04728199",
+      "published": "2026-10-19T19:17:00+00:00"
+    },
+    {
+      "h": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+      "es": "Caso de escuchas en OpenAI: el consulado saudí ofrece pagar la fianza al sospechoso",
+      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
+      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:16:34+00:00"
+    },
+    {
+      "h": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+      "es": "Las aplastadas acciones tecnológicas se recuperan; además, una nueva encuesta de médicos nos mantiene positivos sobre Lilly",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:13:00+00:00"
+    },
+    {
+      "h": "US CFTC secures order for ex-New York resident to pay $288 million",
+      "es": "La CFTC de EE.UU. consigue una orden para que un ex residente de Nueva York pague 288 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-cftc-secures-order-for-exnew-york-resident-to-pay-288-million-4958168",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1RZ_L.jpg",
+      "published": "2026-10-19T19:12:22+00:00"
+    },
+    {
+      "h": "Cleveland-Cliffs earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Cleveland-Cliffs: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/clevelandcliffs-earnings-analysis-questions-answered-and-next-catalysts-93CH-4958166",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-19T19:11:34+00:00"
+    },
+    {
+      "h": "Fifth Third Bancorp earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Fifth Third Bancorp: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fifth-third-bancorp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4958158",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-10-19T18:59:48+00:00"
+    },
+    {
+      "h": "S&P rises and Nasdaq jumps over 1%, rebounding after their worst week since June",
+      "es": "El S&P sube y el Nasdaq sube más del 1%, recuperándose tras su peor semana desde junio",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "published": "2026-10-19T18:48:37+00:00"
+    },
+    {
+      "h": "Top US building products stocks according to Jefferies",
+      "es": "Principales acciones de productos de construcción de EE. UU. según Jefferies",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-us-building-products-stocks-according-to-jefferies-4958154",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC1N0YR_M.jpg",
+      "published": "2026-10-19T18:43:09+00:00"
+    },
     {
       "h": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
       "es": "Las mujeres pueden correr un mayor riesgo de perder empleos en la IA. Los operadores de conmutación telefónica y los PC muestran por qué",
@@ -198,78 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXNPEK1K04A_L.jpg",
       "published": "2026-10-19T17:15:41+00:00"
-    },
-    {
-      "h": "Plata hits $1 billion revenue run rate in under 4 years - Bloomberg",
-      "es": "Plata alcanza una tasa de ingresos de mil millones de dólares en menos de cuatro años - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/plata-hits-1-billion-revenue-run-rate-in-under-4-years--bloomberg-93CH-4958092",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-19T17:01:53+00:00"
-    },
-    {
-      "h": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "es": "Arabia Saudita pospone la gran conferencia de inversores hasta 2027 mientras los hutíes respaldados por Irán intensifican los ataques contra el reino",
-      "d": "Los militantes hutíes respaldados por Irán han lanzado repetidas ráfagas de misiles y drones contra Arabia Saudita desde un mortal ataque al aeropuerto a principios de este mes.",
-      "u": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T17:01:26+00:00"
-    },
-    {
-      "h": "Micron and other chip stocks spring back to life after bruising selloff",
-      "es": "Micron y otras acciones de chips vuelven a la vida después de una fuerte liquidación",
-      "d": "Es una semana clave para las acciones tecnológicas mientras Nvidia se prepara para una conferencia europea y Meta se prepara para informar sus ganancias.",
-      "u": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-69244333",
-      "published": "2026-10-19T16:59:00+00:00"
-    },
-    {
-      "h": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-      "es": "Elon Musk dice que dará una acción de SpaceX a cada niño en Estados Unidos el próximo año",
-      "d": "El jefe de SpaceX dijo el lunes que donará una de las acciones de su empresa a cada niño en Estados Unidos el próximo año. No dijo cómo se produciría la entrega de acciones.",
-      "u": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T16:58:20+00:00"
-    },
-    {
-      "h": "Vinted blocks French looters listing stolen goods for sale",
-      "es": "Vinted bloquea a los saqueadores franceses que ponen a la venta bienes robados",
-      "d": "La plataforma dijo desde el fin de semana que había \"tomado medidas inmediatas para identificar y eliminar anuncios vinculados al saqueo\".",
-      "u": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg",
-      "published": "2026-10-19T16:46:35+00:00"
-    },
-    {
-      "h": "Truist previews lodging sector earnings, adjusts estimates",
-      "es": "Truist anticipa las ganancias del sector hotelero y ajusta las estimaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB3G04A_M.jpg",
-      "published": "2026-10-19T16:44:52+00:00"
-    },
-    {
-      "h": "France urges curfews in some areas after weekend of riots",
-      "es": "Francia insta a aplicar toques de queda en algunas zonas tras fin de semana de disturbios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0O3_L.jpg",
-      "published": "2026-10-19T16:42:55+00:00"
-    },
-    {
-      "h": "US stocks rebound with AI earnings test ahead; French markets tumble",
-      "es": "Las acciones estadounidenses se recuperan ante la prueba de resultados de la IA por delante; Los mercados franceses caen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
-      "published": "2026-10-19T16:42:44+00:00"
     }
   ],
   "sources": [
