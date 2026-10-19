@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-19T08:08:27.151823+00:00",
+  "updated": "2026-10-19T08:48:54.728732+00:00",
   "news": [
+    {
+      "h": "As France reels from violence, Macron points to security failings",
+      "es": "Mientras Francia se tambalea por la violencia, Macron señala fallas de seguridad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0O3_L.jpg",
+      "published": "2026-10-19T08:42:25+00:00"
+    },
+    {
+      "h": "Serica Energy falls 4% as Triton delay cuts 2026 output outlook",
+      "es": "Serica Energy cae un 4% debido a que el retraso de Triton recorta las perspectivas de producción para 2026",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/serica-energy-falls-4-as-triton-restart-delay-trims-2026-output-outlook-4956671",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7P09F_M.jpg",
+      "published": "2026-10-19T08:41:22+00:00"
+    },
+    {
+      "h": "Why is Mowi stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Mowi hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-mowi-stock-surging-today-93CH-4956655",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-19T08:33:02+00:00"
+    },
+    {
+      "h": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "es": "Anthropic dice que comprometerá el 5% de sus acciones al 'fondo de beneficio público'",
+      "d": "El anuncio se produce cuando Anthropic sienta las bases para una exitosa cotización en el mercado de valores.",
+      "u": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
+      "published": "2026-10-19T08:31:32+00:00"
+    },
+    {
+      "h": "Indonesia stocks lower at close of trade; IDX Composite Index down 4.02%",
+      "es": "Las bolsas de Indonesia cierran a la baja; El índice compuesto IDX cae un 4,02%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-402-4956627",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE850IL_M.jpg",
+      "published": "2026-10-19T08:30:04+00:00"
+    },
+    {
+      "h": "Why is Nebius stock rallying today?",
+      "es": "¿Por qué las acciones de Nebius están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-rallying-today-93CH-4956626",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-19T08:27:35+00:00"
+    },
+    {
+      "h": "India’s finance minister says market liquidity makes it easier for investors to exit",
+      "es": "El ministro de Finanzas de la India dice que la liquidez del mercado facilita la salida de los inversores",
+      "d": "Sitharaman identificó el combustible, los fertilizantes y el acceso al capital como riesgos para la economía de la India en 2027.",
+      "u": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T08:23:33+00:00"
+    },
+    {
+      "h": "DAX rejected at 200-SMA & Fib confluence: Live levels",
+      "es": "DAX rechazado en la confluencia de 200-SMA y Fib: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dax-rejected-at-200sma--fib-confluence-live-levels-93CH-4956555",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-19T08:08:14+00:00"
+    },
+    {
+      "h": "Why is Vonovia stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Vonovia hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-vonovia-stock-sliding-today-93CH-4956554",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-19T08:07:29+00:00"
+    },
     {
       "h": "Why is Kistos stock sliding today?",
       "es": "Why is Kistos stock sliding today?",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
       "published": "2026-10-19T06:08:14+00:00"
-    },
-    {
-      "h": "China's growth accelerates as AI boom helps boost exports",
-      "es": "El crecimiento de China se acelera a medida que el auge de la IA ayuda a impulsar las exportaciones",
-      "d": "Las exportaciones han ayudado a compensar el débil gasto interno, pero las tensiones comerciales y las dudas sobre la inteligencia artificial nublan sus perspectivas.",
-      "u": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
-      "published": "2026-10-19T06:08:02+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-      "es": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-      "d": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T06:06:58+00:00"
-    },
-    {
-      "h": "Analysis-Africa’s minerals value-add drive interests investors but faces energy hurdle",
-      "es": "Analysis-Africa’s minerals value-add drive interests investors but faces energy hurdle",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysisafricas-minerals-valueadd-drive-interests-investors-but-faces-energy-hurdle-4956405",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0FZ_L.jpg",
-      "published": "2026-10-19T06:06:24+00:00"
-    },
-    {
-      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.81%",
-      "es": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.81%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-081-4956404",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC4U09Y_M.jpg",
-      "published": "2026-10-19T06:05:03+00:00"
-    },
-    {
-      "h": "S.Korea says SK Hynix’s Solidigm listing could violate rules- reports",
-      "es": "S.Korea says SK Hynix’s Solidigm listing could violate rules- reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/skorea-says-sk-hynixs-solidigm-listing-could-violate-rules-reports-4956403",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED2S0FH_M.jpg",
-      "published": "2026-10-19T06:03:33+00:00"
-    },
-    {
-      "h": "BoE probes Barclays’ handling of private credit risks, FT reports",
-      "es": "BoE probes Barclays’ handling of private credit risks, FT reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/boe-probes-barclays-handling-of-private-credit-risks-ft-reports-4956387",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA5I0LX_M.jpg",
-      "published": "2026-10-19T05:50:20+00:00"
-    },
-    {
-      "h": "’Panic’ selling hits Indonesian markets on MSCI expulsion threat",
-      "es": "’Panic’ selling hits Indonesian markets on MSCI expulsion threat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/panic-selling-hits-indonesian-markets-on-msci-expulsion-threat-4956386",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I014_L.jpg",
-      "published": "2026-10-19T05:48:25+00:00"
-    },
-    {
-      "h": "Why is Axis Bank stock falling today?",
-      "es": "Why is Axis Bank stock falling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-axis-bank-stock-falling-today-93CH-4956380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-19T05:42:47+00:00"
-    },
-    {
-      "h": "Nidec shares hit decade low as report finds execs liable in accounting scandal",
-      "es": "Nidec shares hit decade low as report finds execs liable in accounting scandal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nidec-shares-hit-decade-low-as-report-finds-execs-liable-in-accounting-scandal-4956361",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Bearish_2_M_1440047892.jpg",
-      "published": "2026-10-19T05:33:31+00:00"
     }
   ],
   "sources": [
