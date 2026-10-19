@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-19T20:07:33.477078+00:00",
+  "updated": "2026-10-19T20:41:04.403403+00:00",
   "news": [
+    {
+      "h": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "es": "¿Jubilarse en el extranjero? No corten estos vínculos financieros con Estados Unidos.",
+      "d": "Piense detenidamente en su Seguro Social, Medicare, tarjetas de crédito y cuentas bancarias antes de elegir su nuevo hogar en el extranjero.",
+      "u": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-25509545",
+      "published": "2026-10-19T20:33:00+00:00"
+    },
+    {
+      "h": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.07%",
+      "es": "Las acciones estadounidenses cerraron mixtas; El Promedio Industrial Dow Jones cae un 0,07%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-007-4958294",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-19T20:31:08+00:00"
+    },
+    {
+      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.69%",
+      "es": "Las bolsas de Canadá cierran a la baja; El S&P/TSX Composite cae un 0,69%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-069-4958289",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg",
+      "published": "2026-10-19T20:30:35+00:00"
+    },
+    {
+      "h": "Brazil stocks lower at close of trade; Bovespa down 0.17%",
+      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 0,17%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Bovespa_800x533_L_1665499251.jpg",
+      "published": "2026-10-19T20:30:05+00:00"
+    },
+    {
+      "h": "Activist Starboard prepares to nominate directors at Knife River, sources say",
+      "es": "El activista Starboard se prepara para nominar directores en Knife River, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/activist-starboard-prepares-to-nominate-directors-at-knife-river-sources-say-4958261",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TW_L.jpg",
+      "published": "2026-10-19T20:18:56+00:00"
+    },
+    {
+      "h": "City Therapeutics raises $230M in upsized Nasdaq IPO",
+      "es": "City Therapeutics recauda 230 millones de dólares en una OPI ampliada de Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/city-therapeutics-raises-230m-in-upsized-nasdaq-ipo-432SI-4958204",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-19T20:13:01+00:00"
+    },
+    {
+      "h": "Germany’s Merz urges AI investment ahead of Nvidia deal",
+      "es": "Merz de Alemania insta a invertir en IA antes del acuerdo con Nvidia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/germanys-merz-urges-ai-investment-ahead-of-nvidia-deal-4958229",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TS_L.jpg",
+      "published": "2026-10-19T20:12:23+00:00"
+    },
     {
       "h": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
       "es": "Trump dice que se reunirá con Putin y Xi, critica a Zelenskyy",
@@ -9,6 +72,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-19T19:58:17+00:00"
+    },
+    {
+      "h": "First Solar leads green energy stocks on value and free cash flow",
+      "es": "First Solar lidera las acciones de energía verde en valor y flujo de caja libre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/first-solar-leads-green-energy-stocks-on-value-and-free-cash-flow-93CH-4958197",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1O0TY_L.jpg",
+      "published": "2026-10-19T19:56:47+00:00"
     },
     {
       "h": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
@@ -81,6 +153,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-77817370",
       "published": "2026-10-19T19:47:00+00:00"
+    },
+    {
+      "h": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+      "es": "Apple anuncia evento de lanzamiento de producto para el 28 de octubre. Los analistas esperan una computadora portátil con pantalla táctil",
+      "d": "Apple envió invitaciones para un evento la próxima semana, llamándolo \"Pro and tell\".",
+      "u": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:46:07+00:00"
     },
     {
       "h": "Google says it can build data centers the right way. Some experts and residents are skeptical",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1RZ_L.jpg",
       "published": "2026-10-19T19:12:22+00:00"
-    },
-    {
-      "h": "Cleveland-Cliffs earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Cleveland-Cliffs: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/clevelandcliffs-earnings-analysis-questions-answered-and-next-catalysts-93CH-4958166",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-19T19:11:34+00:00"
-    },
-    {
-      "h": "Fifth Third Bancorp earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Fifth Third Bancorp: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fifth-third-bancorp-earnings-analysis-questions-answered-and-next-catalysts-93CH-4958158",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-19T18:59:48+00:00"
-    },
-    {
-      "h": "S&P rises and Nasdaq jumps over 1%, rebounding after their worst week since June",
-      "es": "El S&P sube y el Nasdaq sube más del 1%, recuperándose tras su peor semana desde junio",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "published": "2026-10-19T18:48:37+00:00"
-    },
-    {
-      "h": "Top US building products stocks according to Jefferies",
-      "es": "Principales acciones de productos de construcción de EE. UU. según Jefferies",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-us-building-products-stocks-according-to-jefferies-4958154",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1N0YR_M.jpg",
-      "published": "2026-10-19T18:43:09+00:00"
-    },
-    {
-      "h": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-      "es": "Las mujeres pueden correr un mayor riesgo de perder empleos en la IA. Los operadores de conmutación telefónica y los PC muestran por qué",
-      "d": "La historia del progreso tecnológico sugiere que a medida que la IA se propague, el impacto en el empleo afectará más a las mujeres que a los hombres.",
-      "u": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T18:36:21+00:00"
-    },
-    {
-      "h": "Welltower stock may move 2.6% on Oct. 26 earnings release",
-      "es": "Las acciones de Welltower pueden moverse un 2,6% en la publicación de resultados del 26 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/welltower-stock-may-move-26-on-oct-26-earnings-release-93CH-4958153",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-19T18:33:58+00:00"
-    },
-    {
-      "h": "Anthropic commits 5% stake to new ’public benefit fund’, Musk argues for direct share donations to kids",
-      "es": "Anthropic compromete una participación del 5% en un nuevo \"fondo de beneficio público\", Musk aboga por donaciones directas de acciones a los niños",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-stake-to-new-public-benefit-fund-musk-argues-for-direct-share-donations-to-kids-4958151",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-10-19T18:31:14+00:00"
-    },
-    {
-      "h": "Alexandria Real Estate stock may move 3.4% on earnings report",
-      "es": "Las acciones de Alexandria Real Estate pueden moverse un 3,4% en el informe de ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alexandria-real-estate-stock-may-move-34-on-earnings-report-93CH-4958150",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-19T18:30:55+00:00"
-    },
-    {
-      "h": "Amkor Technology options indicate 12% move on Oct. 26 earnings",
-      "es": "Las opciones de Amkor Technology indican un movimiento del 12% en las ganancias del 26 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amkor-technology-options-indicate-12-move-on-oct-26-earnings-93CH-4958145",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-19T18:29:17+00:00"
     }
   ],
   "sources": [
