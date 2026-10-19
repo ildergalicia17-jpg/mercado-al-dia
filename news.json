@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-19T19:30:07.922079+00:00",
+  "updated": "2026-10-19T20:07:33.477078+00:00",
   "news": [
+    {
+      "h": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+      "es": "Trump dice que se reunirá con Putin y Xi, critica a Zelenskyy",
+      "d": "El presidente Donald Trump dijo que se reuniría con el presidente ruso Vladimir Putin y el presidente chino Xi Jinping y criticó al ucraniano Volodymyr Zelenskyy.",
+      "u": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:58:17+00:00"
+    },
+    {
+      "h": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "es": "Las universidades se apresuraron a construir enormes departamentos de informática. Ahora el auge se está convirtiendo en quiebra.",
+      "d": "\"La informática no es el billete hacia el sueño americano como la gente pensaba\".",
+      "u": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39955150",
+      "published": "2026-10-19T19:56:00+00:00"
+    },
+    {
+      "h": "Aeromexico eyes new US flights after Washington lifts Mexico City restrictions",
+      "es": "Aeroméxico contempla nuevos vuelos a EE.UU. luego de que Washington levante las restricciones a la Ciudad de México",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aeromexico-eyes-new-us-flights-after-washington-lifts-mexico-city-restrictions-4958196",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TH_L.jpg",
+      "published": "2026-10-19T19:54:30+00:00"
+    },
+    {
+      "h": "Aeromexico eyes US expansion after Washington lifts flight curbs",
+      "es": "Aeroméxico contempla expandirse en EE.UU. después de que Washington levante las restricciones a los vuelos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aeromexico-eyes-us-expansion-after-washington-lifts-flight-curbs-93CH-4958194",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-19T19:54:00+00:00"
+    },
+    {
+      "h": "Fintech Ramp applies for OCC trust bank charter to expand asset services",
+      "es": "Fintech Ramp solicita el estatuto del banco fiduciario OCC para ampliar los servicios de activos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fintech-ramp-applies-for-occ-trust-bank-charter-to-expand-asset-services-4958193",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
+      "published": "2026-10-19T19:52:29+00:00"
+    },
+    {
+      "h": "France imposes curfews in parts of Paris, other cities after weekend of riots",
+      "es": "Francia impone toques de queda en partes de París y otras ciudades tras un fin de semana de disturbios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0O3_L.jpg",
+      "published": "2026-10-19T19:49:24+00:00"
+    },
+    {
+      "h": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports",
+      "es": "Nscale y Anthropic en conversaciones para un acuerdo de computación en la nube por valor de 45 mil millones de dólares, informa Bloomberg News",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1SN_L.jpg",
+      "published": "2026-10-19T19:48:45+00:00"
+    },
+    {
+      "h": "LiveRamp stock rises as FTC clears Publicis acquisition",
+      "es": "Las acciones de LiveRamp suben cuando la FTC aprueba la adquisición de Publicis",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/liveramp-stock-rises-as-ftc-clears-publicis-acquisition-4958192",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
+      "published": "2026-10-19T19:48:07+00:00"
+    },
+    {
+      "h": "SpaceX earnings will be all about AI — for better or for worse",
+      "es": "Las ganancias de SpaceX tendrán que ver con la IA, para bien o para mal",
+      "d": "SpaceX ha estado alquilando el acceso a la potencia informática, que es una gran fuente de crecimiento de ingresos, pero también tiene un alto costo.",
+      "u": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-77817370",
+      "published": "2026-10-19T19:47:00+00:00"
+    },
+    {
+      "h": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+      "es": "Google dice que puede construir centros de datos de la manera correcta. Algunos expertos y residentes se muestran escépticos",
+      "d": "Google dice que su centro de datos de inteligencia artificial en Minnesota agregará energía limpia a la red y protegerá a los contribuyentes. Los expertos se preguntan si son necesarias mejoras en la red.",
+      "u": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:45:28+00:00"
+    },
+    {
+      "h": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
+      "es": "Por qué los planes de financiación del Tesoro están provocando ansiedad en Wall Street",
+      "d": "Los rendimientos de los bonos a 10 y 30 años volvieron a subir el lunes después de caer bruscamente la semana pasada.",
+      "u": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-32002783",
+      "published": "2026-10-19T19:45:00+00:00"
+    },
+    {
+      "h": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+      "es": "Arabia Saudita pospone la gran conferencia de inversores hasta 2027 mientras los hutíes respaldados por Irán intensifican los ataques contra el reino",
+      "d": "Los militantes hutíes respaldados por Irán han lanzado repetidas ráfagas de misiles y drones contra Arabia Saudita desde un mortal ataque al aeropuerto a principios de este mes.",
+      "u": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T19:37:51+00:00"
+    },
+    {
+      "h": "Nscale in talks for $45 billion Anthropic AI deal as IPO looms",
+      "es": "Nscale en conversaciones para un acuerdo de Anthropic AI por 45 mil millones de dólares mientras se avecina la OPI",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
+      "published": "2026-10-19T19:32:25+00:00"
+    },
+    {
+      "h": "Netflix earnings outlook: tone and guidance matter more than the beat",
+      "es": "Perspectivas de ganancias de Netflix: el tono y la orientación importan más que el ritmo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netflix-earnings-outlook-tone-and-guidance-matter-more-than-the-beat-93CH-4958182",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/2af302cbecff10d63ab1791c6d04f3de_M.jpg",
+      "published": "2026-10-19T19:31:24+00:00"
+    },
+    {
+      "h": "GE Aerospace, RTX and NOC earnings preview ahead of Q3 results",
+      "es": "Vista previa de las ganancias de GE Aerospace, RTX y NOC antes de los resultados del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ge-aerospace-rtx-and-noc-earnings-preview-ahead-of-q3-results-93CH-4958180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB430IX_M.jpg",
+      "published": "2026-10-19T19:30:17+00:00"
+    },
+    {
+      "h": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+      "es": "Por qué Elon Musk, Anthropic y otros titanes de la IA están regalando acciones",
+      "d": "Las donaciones de acciones pueden ayudar con las relaciones públicas y ofrecer ventajas financieras a las personas adineradas.",
+      "u": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-99203827",
+      "published": "2026-10-19T19:30:00+00:00"
+    },
+    {
+      "h": "U.S. economic calendar preview: key releases for the week of Oct 19–23, 2026",
+      "es": "Vista previa del calendario económico de EE. UU.: publicaciones clave para la semana del 19 al 23 de octubre de 2026",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-economic-calendar-preview-key-releases-for-the-week-of-oct-1923-2026-93CH-4958178",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-19T19:29:25+00:00"
+    },
     {
       "h": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
       "es": "La liquidación de CoreWeave es una lección de \"Finanzas 101\", y Wall Street dice que las acciones pueden recuperarse",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
       "published": "2026-10-19T18:29:17+00:00"
-    },
-    {
-      "h": "Brown & Brown shares may move 1.8% on earnings release",
-      "es": "Las acciones de Brown & Brown podrían subir un 1,8% tras la publicación de resultados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brown--brown-shares-may-move-18-on-earnings-release-93CH-4958144",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-19T18:28:16+00:00"
-    },
-    {
-      "h": "Rambus stock may move 14% on earnings release next week",
-      "es": "Las acciones de Rambus pueden moverse un 14% tras la publicación de resultados la próxima semana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rambus-stock-may-move-14-on-earnings-release-next-week-93CH-4958143",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-19T18:27:30+00:00"
-    },
-    {
-      "h": "Noble Corp. stock may move 3.5% on Oct. 26 earnings report",
-      "es": "Las acciones de Noble Corp. pueden moverse un 3,5% en el informe de ganancias del 26 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/noble-corp-stock-may-move-35-on-oct-26-earnings-report-93CH-4958142",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-19T18:26:45+00:00"
-    },
-    {
-      "h": "Principal Financial stock may move 5.2% on Oct. 26 earnings",
-      "es": "Las acciones de Principal Financial pueden moverse un 5,2% en las ganancias del 26 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/principal-financial-stock-may-move-52-on-oct-26-earnings-93CH-4958139",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-19T18:25:53+00:00"
-    },
-    {
-      "h": "Verizon shares may move 3.5% on Oct. 26 earnings report",
-      "es": "Las acciones de Verizon pueden moverse un 3,5% en el informe de ganancias del 26 de octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/verizon-shares-may-move-35-on-oct-26-earnings-report-93CH-4958138",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC9C1J7_M.jpg",
-      "published": "2026-10-19T18:24:51+00:00"
-    },
-    {
-      "h": "Cadence Design Systems stock may move 6.2% on earnings",
-      "es": "Las acciones de Cadence Design Systems pueden moverse un 6,2% sobre las ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cadence-design-systems-stock-may-move-62-on-earnings-93CH-4958137",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-19T18:23:43+00:00"
-    },
-    {
-      "h": "Trump signs order creating NIH division, task force for women’s health",
-      "es": "Trump firma orden que crea una división de los NIH y un grupo de trabajo para la salud de las mujeres",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I19E_L.jpg",
-      "published": "2026-10-19T17:48:20+00:00"
-    },
-    {
-      "h": "One of this year’s most important relationships in global financial markets is falling apart",
-      "es": "Una de las relaciones más importantes de este año en los mercados financieros globales se está desmoronando",
-      "d": "Una de las relaciones más importantes en los mercados globales ha comenzado a desmoronarse en las últimas semanas. Los inversores están luchando por descubrir qué podría significar para la economía y sus carteras.",
-      "u": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21935899",
-      "published": "2026-10-19T17:43:00+00:00"
-    },
-    {
-      "h": "Metlen chairman warns EU losing strategic aluminium to U.S. tariff gap",
-      "es": "El presidente de Metlen advierte que la UE está perdiendo aluminio estratégico debido a la brecha arancelaria de EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/metlen-chairman-warns-eu-losing-strategic-aluminium-to-us-tariff-gap-4958113",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE380M7_M.jpg",
-      "published": "2026-10-19T17:40:09+00:00"
-    },
-    {
-      "h": "When should you dump your target-date funds?",
-      "es": "¿Cuándo debería deshacerse de sus fondos con fecha objetivo?",
-      "d": "Los fondos con fecha límite no están necesariamente diseñados para manejar muchas de las decisiones que enfrentan los jubilados.",
-      "u": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-07537762",
-      "published": "2026-10-19T17:31:00+00:00"
-    },
-    {
-      "h": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
-      "es": "“Mi marido sufrió un derrame cerebral masivo a los 53 años”: tengo 64 años y alquilaré por el resto de mi vida, pero todavía tengo esperanzas",
-      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-19T17:30:00+00:00"
-    },
-    {
-      "h": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-      "es": "Apple anuncia evento de lanzamiento de producto para el 28 de octubre. Los analistas esperan una computadora portátil con pantalla táctil",
-      "d": "Apple envió invitaciones para un evento la próxima semana, llamándolo \"Pro and tell\".",
-      "u": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T17:25:57+00:00"
-    },
-    {
-      "h": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
-      "es": "El iPhone Duo de Apple está demostrando ser el catalizador que Jim Cramer dijo que sería",
-      "d": "Los pedidos anticipados del iPhone Duo de Apple están dando la razón a Jim Cramer, ya que los primeros indicios muestran una fuerte demanda.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T17:25:20+00:00"
-    },
-    {
-      "h": "Christiane Amanpour to leave CNN after four decades as Ellison era begins",
-      "es": "Christiane Amanpour dejará CNN después de cuatro décadas cuando comienza la era Ellison",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/christiane-amanpour-to-leave-cnn-after-four-decades-as-ellison-era-begins-4958080",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1L9_L.jpg",
-      "published": "2026-10-19T17:18:23+00:00"
-    },
-    {
-      "h": "Why is Varonis Systems stock slipping today?",
-      "es": "¿Por qué están cayendo las acciones de Varonis Systems hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-varonis-systems-stock-slipping-today-93CH-4958105",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-19T17:17:40+00:00"
-    },
-    {
-      "h": "Why is OGE Energy stock sliding today?",
-      "es": "¿Por qué las acciones de OGE Energy están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-oge-energy-stock-sliding-today-93CH-4958104",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0R0QY_M.jpg",
-      "published": "2026-10-19T17:16:17+00:00"
-    },
-    {
-      "h": "Hedge funds cut tech stocks at record pace, Goldman says",
-      "es": "Los fondos de cobertura recortan las acciones tecnológicas a un ritmo récord, dice Goldman",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hedge-funds-cut-tech-stocks-at-record-pace-goldman-says-4958101",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK1K04A_L.jpg",
-      "published": "2026-10-19T17:15:41+00:00"
     }
   ],
   "sources": [
