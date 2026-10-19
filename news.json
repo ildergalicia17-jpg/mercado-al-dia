@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-19T21:11:31.504013+00:00",
+  "updated": "2026-10-19T21:45:57.615925+00:00",
   "news": [
+    {
+      "h": "When should you dump your target-date funds?",
+      "es": "¿Cuándo debería deshacerse de sus fondos con fecha objetivo?",
+      "d": "Los fondos con fecha límite no están necesariamente diseñados para manejar muchas de las decisiones que enfrentan los jubilados.",
+      "u": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07537762",
+      "published": "2026-10-19T21:37:00+00:00"
+    },
+    {
+      "h": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "es": "Los mercados de crédito han entrado en territorio inexplorado mientras los bonos basura de mayor riesgo envían una advertencia a los inversores",
+      "d": "Los mercados de crédito están enviando mensajes inusualmente contradictorios a los inversores en este momento, y eso está poniendo nerviosa a algunas personas.",
+      "u": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94180621",
+      "published": "2026-10-19T21:36:00+00:00"
+    },
+    {
+      "h": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "es": "Burnham promete poner fin a las 'estafas de cargos de estacionamiento' bajo las nuevas reglas",
+      "d": "Las sanciones se consideran demasiado severas para los automovilistas que son sancionados por estacionar en terrenos privados.",
+      "u": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-19T21:30:06+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.12%",
+      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,12%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE1P09M_M.jpg",
+      "published": "2026-10-19T21:30:03+00:00"
+    },
+    {
+      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero todavía tengo esperanzas",
+      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
+      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27247005",
+      "published": "2026-10-19T21:30:00+00:00"
+    },
+    {
+      "h": "Colombia stocks lower at close of trade; COLCAP down 1.75%",
+      "es": "Las bolsas de Colombia cierran a la baja; COLCAP cae 1,75%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
+      "published": "2026-10-19T21:25:03+00:00"
+    },
+    {
+      "h": "California settles 23andMe data breach claims for $6 million",
+      "es": "California resuelve reclamaciones por violación de datos de 23andMe por 6 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1VJ_L.jpg",
+      "published": "2026-10-19T21:24:37+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.10%",
+      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,10%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1523197619.jpg",
+      "published": "2026-10-19T21:20:03+00:00"
+    },
+    {
+      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
+      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
+      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04384503",
+      "published": "2026-10-19T21:15:00+00:00"
+    },
+    {
+      "h": "Why is Tradeweb Markets stock rising after-hours today?",
+      "es": "¿Por qué las acciones de Tradeweb Markets están subiendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-tradeweb-markets-stock-rising-afterhours-today-93CH-4958385",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-19T21:13:21+00:00"
+    },
+    {
+      "h": "Why is Bitdeer Technologies stock rallying after the close today?",
+      "es": "¿Por qué las acciones de Bitdeer Technologies están subiendo después del cierre de hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-rallying-after-the-close-today-93CH-4958384",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-19T21:13:10+00:00"
+    },
+    {
+      "h": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "es": "Ex trabajador de OpenAI acusado de plantar un dispositivo contó con el apoyo de Arabia Saudita, según un documento judicial",
+      "d": "El gobierno saudita no respondió de inmediato a las solicitudes de comentarios de la BBC.",
+      "u": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+      "published": "2026-10-19T21:12:30+00:00"
+    },
+    {
+      "h": "Why is Crown stock sliding after-hours today?",
+      "es": "¿Por qué las acciones de Crown están cayendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-19T21:10:17+00:00"
+    },
+    {
+      "h": "Why is Steel Dynamics stock sliding today?",
+      "es": "¿Por qué las acciones de Steel Dynamics están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4958379",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-19T21:09:42+00:00"
+    },
+    {
+      "h": "3M stock rises 3% on $6B Amazon data center deal",
+      "es": "Las acciones de 3M suben un 3% por un acuerdo de centro de datos de Amazon por valor de 6.000 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/3m-stock-rises-3-on-6b-amazon-data-center-deal-4958375",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1IY_L.jpg",
+      "published": "2026-10-19T21:06:32+00:00"
+    },
     {
       "h": "Micron and other chip stocks spring back to life after bruising selloff",
       "es": "Micron y otras acciones de chips vuelven a la vida después de una fuerte liquidación",
@@ -36,6 +171,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-19T20:57:14+00:00"
+    },
+    {
+      "h": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+      "es": "El sospechoso de escuchas en OpenAI, Alfozan, detenido sin derecho a fianza después de que el gobierno saudí se ofreciera a pagar",
+      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
+      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T20:54:40+00:00"
     },
     {
       "h": "US Treasury yields rise as AI stock worries ease",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
       "published": "2026-10-19T20:10:58+00:00"
-    },
-    {
-      "h": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-      "es": "Trump dice que se reunirá con Putin y Xi, critica a Zelenskyy",
-      "d": "El presidente Donald Trump dijo que se reuniría con el presidente ruso Vladimir Putin y el presidente chino Xi Jinping y criticó al ucraniano Volodymyr Zelenskyy.",
-      "u": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T19:58:17+00:00"
-    },
-    {
-      "h": "First Solar leads green energy stocks on value and free cash flow",
-      "es": "First Solar lidera las acciones de energía verde en valor y flujo de caja libre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/first-solar-leads-green-energy-stocks-on-value-and-free-cash-flow-93CH-4958197",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1O0TY_L.jpg",
-      "published": "2026-10-19T19:56:47+00:00"
-    },
-    {
-      "h": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-      "es": "Las universidades se apresuraron a construir enormes departamentos de informática. Ahora el auge se está convirtiendo en quiebra.",
-      "d": "\"La informática no es el billete hacia el sueño americano como la gente pensaba\".",
-      "u": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39955150",
-      "published": "2026-10-19T19:56:00+00:00"
-    },
-    {
-      "h": "Aeromexico eyes new US flights after Washington lifts Mexico City restrictions",
-      "es": "Aeroméxico contempla nuevos vuelos a EE.UU. luego de que Washington levante las restricciones a la Ciudad de México",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aeromexico-eyes-new-us-flights-after-washington-lifts-mexico-city-restrictions-4958196",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TH_L.jpg",
-      "published": "2026-10-19T19:54:30+00:00"
-    },
-    {
-      "h": "Aeromexico eyes US expansion after Washington lifts flight curbs",
-      "es": "Aeroméxico contempla expandirse en EE.UU. después de que Washington levante las restricciones a los vuelos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aeromexico-eyes-us-expansion-after-washington-lifts-flight-curbs-93CH-4958194",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-19T19:54:00+00:00"
-    },
-    {
-      "h": "Fintech Ramp applies for OCC trust bank charter to expand asset services",
-      "es": "Fintech Ramp solicita el estatuto del banco fiduciario OCC para ampliar los servicios de activos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fintech-ramp-applies-for-occ-trust-bank-charter-to-expand-asset-services-4958193",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
-      "published": "2026-10-19T19:52:29+00:00"
-    },
-    {
-      "h": "France imposes curfews in parts of Paris, other cities after weekend of riots",
-      "es": "Francia impone toques de queda en partes de París y otras ciudades tras un fin de semana de disturbios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0O3_L.jpg",
-      "published": "2026-10-19T19:49:24+00:00"
-    },
-    {
-      "h": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports",
-      "es": "Nscale y Anthropic en conversaciones para un acuerdo de computación en la nube por valor de 45 mil millones de dólares, informa Bloomberg News",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1SN_L.jpg",
-      "published": "2026-10-19T19:48:45+00:00"
-    },
-    {
-      "h": "LiveRamp stock rises as FTC clears Publicis acquisition",
-      "es": "Las acciones de LiveRamp suben cuando la FTC aprueba la adquisición de Publicis",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/liveramp-stock-rises-as-ftc-clears-publicis-acquisition-4958192",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
-      "published": "2026-10-19T19:48:07+00:00"
-    },
-    {
-      "h": "SpaceX earnings will be all about AI — for better or for worse",
-      "es": "Las ganancias de SpaceX tendrán que ver con la IA, para bien o para mal",
-      "d": "SpaceX ha estado alquilando el acceso a la potencia informática, que es una gran fuente de crecimiento de ingresos, pero también tiene un alto costo.",
-      "u": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-77817370",
-      "published": "2026-10-19T19:47:00+00:00"
-    },
-    {
-      "h": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-      "es": "Apple anuncia evento de lanzamiento de producto para el 28 de octubre. Los analistas esperan una computadora portátil con pantalla táctil",
-      "d": "Apple envió invitaciones para un evento la próxima semana, llamándolo \"Pro and tell\".",
-      "u": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T19:46:07+00:00"
-    },
-    {
-      "h": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "es": "Google dice que puede construir centros de datos de la manera correcta. Algunos expertos y residentes se muestran escépticos",
-      "d": "Google dice que su centro de datos de inteligencia artificial en Minnesota agregará energía limpia a la red y protegerá a los contribuyentes. Los expertos se preguntan si son necesarias mejoras en la red.",
-      "u": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T19:45:28+00:00"
-    },
-    {
-      "h": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
-      "es": "Por qué los planes de financiación del Tesoro están provocando ansiedad en Wall Street",
-      "d": "Los rendimientos de los bonos a 10 y 30 años volvieron a subir el lunes después de caer bruscamente la semana pasada.",
-      "u": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-32002783",
-      "published": "2026-10-19T19:45:00+00:00"
-    },
-    {
-      "h": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "es": "Arabia Saudita pospone la gran conferencia de inversores hasta 2027 mientras los hutíes respaldados por Irán intensifican los ataques contra el reino",
-      "d": "Los militantes hutíes respaldados por Irán han lanzado repetidas ráfagas de misiles y drones contra Arabia Saudita desde un mortal ataque al aeropuerto a principios de este mes.",
-      "u": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T19:37:51+00:00"
-    },
-    {
-      "h": "Nscale in talks for $45 billion Anthropic AI deal as IPO looms",
-      "es": "Nscale en conversaciones para un acuerdo de Anthropic AI por 45 mil millones de dólares mientras se avecina la OPI",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-10-19T19:32:25+00:00"
-    },
-    {
-      "h": "Netflix earnings outlook: tone and guidance matter more than the beat",
-      "es": "Perspectivas de ganancias de Netflix: el tono y la orientación importan más que el ritmo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netflix-earnings-outlook-tone-and-guidance-matter-more-than-the-beat-93CH-4958182",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/2af302cbecff10d63ab1791c6d04f3de_M.jpg",
-      "published": "2026-10-19T19:31:24+00:00"
     }
   ],
   "sources": [
