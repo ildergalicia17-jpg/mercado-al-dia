@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-19T18:10:37.551114+00:00",
+  "updated": "2026-10-19T18:56:06.488017+00:00",
   "news": [
+    {
+      "h": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+      "es": "Las mujeres pueden correr un mayor riesgo de perder empleos en la IA. Los operadores de conmutación telefónica y los PC muestran por qué",
+      "d": "La historia del progreso tecnológico sugiere que a medida que la IA se propague, el impacto en el empleo afectará más a las mujeres que a los hombres.",
+      "u": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T18:36:21+00:00"
+    },
+    {
+      "h": "Welltower stock may move 2.6% on Oct. 26 earnings release",
+      "es": "Las acciones de Welltower pueden moverse un 2,6% en la publicación de resultados del 26 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/welltower-stock-may-move-26-on-oct-26-earnings-release-93CH-4958153",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-19T18:33:58+00:00"
+    },
+    {
+      "h": "Anthropic commits 5% stake to new ’public benefit fund’, Musk argues for direct share donations to kids",
+      "es": "Anthropic compromete una participación del 5% en un nuevo \"fondo de beneficio público\", Musk aboga por donaciones directas de acciones a los niños",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-stake-to-new-public-benefit-fund-musk-argues-for-direct-share-donations-to-kids-4958151",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YO_L.jpg",
+      "published": "2026-10-19T18:31:14+00:00"
+    },
+    {
+      "h": "Alexandria Real Estate stock may move 3.4% on earnings report",
+      "es": "Las acciones de Alexandria Real Estate pueden moverse un 3,4% en el informe de ganancias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alexandria-real-estate-stock-may-move-34-on-earnings-report-93CH-4958150",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-19T18:30:55+00:00"
+    },
+    {
+      "h": "Amkor Technology options indicate 12% move on Oct. 26 earnings",
+      "es": "Las opciones de Amkor Technology indican un movimiento del 12% en las ganancias del 26 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amkor-technology-options-indicate-12-move-on-oct-26-earnings-93CH-4958145",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-19T18:29:17+00:00"
+    },
+    {
+      "h": "Brown & Brown shares may move 1.8% on earnings release",
+      "es": "Las acciones de Brown & Brown podrían subir un 1,8% tras la publicación de resultados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brown--brown-shares-may-move-18-on-earnings-release-93CH-4958144",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-19T18:28:16+00:00"
+    },
+    {
+      "h": "Rambus stock may move 14% on earnings release next week",
+      "es": "Las acciones de Rambus pueden moverse un 14% tras la publicación de resultados la próxima semana",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rambus-stock-may-move-14-on-earnings-release-next-week-93CH-4958143",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-19T18:27:30+00:00"
+    },
+    {
+      "h": "Noble Corp. stock may move 3.5% on Oct. 26 earnings report",
+      "es": "Las acciones de Noble Corp. pueden moverse un 3,5% en el informe de ganancias del 26 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/noble-corp-stock-may-move-35-on-oct-26-earnings-report-93CH-4958142",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-19T18:26:45+00:00"
+    },
+    {
+      "h": "Principal Financial stock may move 5.2% on Oct. 26 earnings",
+      "es": "Las acciones de Principal Financial pueden moverse un 5,2% en las ganancias del 26 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/principal-financial-stock-may-move-52-on-oct-26-earnings-93CH-4958139",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-19T18:25:53+00:00"
+    },
+    {
+      "h": "Verizon shares may move 3.5% on Oct. 26 earnings report",
+      "es": "Las acciones de Verizon pueden moverse un 3,5% en el informe de ganancias del 26 de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/verizon-shares-may-move-35-on-oct-26-earnings-report-93CH-4958138",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC9C1J7_M.jpg",
+      "published": "2026-10-19T18:24:51+00:00"
+    },
+    {
+      "h": "Cadence Design Systems stock may move 6.2% on earnings",
+      "es": "Las acciones de Cadence Design Systems pueden moverse un 6,2% sobre las ganancias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cadence-design-systems-stock-may-move-62-on-earnings-93CH-4958137",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-19T18:23:43+00:00"
+    },
     {
       "h": "Trump signs order creating NIH division, task force for women’s health",
       "es": "Trump firma orden que crea una división de los NIH y un grupo de trabajo para la salud de las mujeres",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
       "published": "2026-10-19T16:42:44+00:00"
-    },
-    {
-      "h": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "es": "Anthropic es la última gran esperanza del comercio de IA para una oferta pública inicial importante este año",
-      "d": "En Kalshi, Anthropic se considera la última oferta pública inicial importante en 2026 después de que OpenAI retrasara su debut en el mercado público. Otros también lo han pospuesto.",
-      "u": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T16:42:14+00:00"
-    },
-    {
-      "h": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-      "es": "Por qué un ex escéptico de Intel está renunciando a su opinión negativa sobre las acciones después de cuatro años",
-      "d": "La fabricación y el diseño de chips de Intel han mejorado, según un analista de J.P. Morgan.",
-      "u": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37901280",
-      "published": "2026-10-19T16:42:00+00:00"
-    },
-    {
-      "h": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
-      "es": "Las acciones de SpaceX generaron miles de millones para donaciones universitarias. Pero su suerte está a punto de acabarse.",
-      "d": "Las posiciones desmesuradas han hecho que muchas dotaciones de educación superior estén menos diversificadas y en mayor riesgo cuando las acciones caen",
-      "u": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40790872",
-      "published": "2026-10-19T16:35:00+00:00"
-    },
-    {
-      "h": "Cleveland-Cliffs options activity after Q3 earnings beat",
-      "es": "Actividad de opciones de Cleveland-Cliffs después de que superaran las ganancias del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N180_L.jpg",
-      "published": "2026-10-19T16:34:06+00:00"
-    },
-    {
-      "h": "European stocks drop amid political turmoil in France",
-      "es": "Las bolsas europeas caen en medio de la agitación política en Francia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB860D7_M.jpg",
-      "published": "2026-10-19T16:28:09+00:00"
-    },
-    {
-      "h": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-      "es": "El caso de agresión sexual de Cornell hace que algunos futuros estudiantes reconsideren sus planes, dicen consultores",
-      "d": "Algunos futuros estudiantes de la Universidad de Cornell están reconsiderando sus solicitudes en medio de la demanda por agresión sexual de Jane Doe, dicen consultores de admisiones universitarias.",
-      "u": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T16:17:37+00:00"
-    },
-    {
-      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
-    {
-      "h": "Bikes 'not for jousting,' says Lime after duel video",
-      "es": "Las bicicletas \"no son para justas\", dice Lime tras el vídeo del duelo",
-      "d": "En las redes sociales aparecieron imágenes de cientos de personas reunidas en el este de Londres para ver una justa ciclista.",
-      "u": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f2/live/5715c480-cbcb-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-19T15:44:53+00:00"
-    },
-    {
-      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
-      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
-      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04384503",
-      "published": "2026-10-19T15:30:00+00:00"
-    },
-    {
-      "h": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-      "es": "Las universidades se apresuraron a construir enormes departamentos de informática. Ahora el auge se está convirtiendo en quiebra.",
-      "d": "\"La informática no es el billete al sueño americano como la gente pensaba\".",
-      "u": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39955150",
-      "published": "2026-10-19T15:26:00+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-      "es": "La escucha de OpenAI sobre la conducta del sospechoso podría representar un peligro para la seguridad nacional de EE. UU., advierten los federales",
-      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
-      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T15:10:54+00:00"
     }
   ],
   "sources": [
