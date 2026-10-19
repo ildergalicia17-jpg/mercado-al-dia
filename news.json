@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-19T22:14:07.228905+00:00",
+  "updated": "2026-10-19T22:49:15.080353+00:00",
   "news": [
+    {
+      "h": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
+      "es": "Las acciones estadounidenses se recuperan ante la prueba de ganancias de IA por delante, el euro cae por los disturbios en Francia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
+      "published": "2026-10-19T22:25:02+00:00"
+    },
+    {
+      "h": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports",
+      "es": "El ex director ejecutivo de Google, Schmidt, posee una participación del 1% en Anthropic, informa Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/former-google-ceo-schmidt-owns-1-stake-in-anthropic-bloomberg-reports-4958451",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1YF_L.jpg",
+      "published": "2026-10-19T22:24:46+00:00"
+    },
+    {
+      "h": "3M expands Amazon data center partnership, shares gain",
+      "es": "3M amplía su asociación con el centro de datos de Amazon y sus acciones suben",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/3m-expands-amazon-data-center-partnership-shares-gain-4958449",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1YH_L.jpg",
+      "published": "2026-10-19T22:24:31+00:00"
+    },
+    {
+      "h": "Musk, Anthropic outline dueling approaches to AI-era philanthropy",
+      "es": "Musk y Anthropic describen enfoques opuestos para la filantropía de la era de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-stake-to-new-public-benefit-fund-musk-argues-for-direct-share-donations-to-kids-4958151",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YO_L.jpg",
+      "published": "2026-10-19T22:18:37+00:00"
+    },
+    {
+      "h": "Moody’s upgrades Oshkosh to Baa2 on strengthening business mix and stable outlook",
+      "es": "Moody's actualiza Oshkosh a Baa2 gracias al fortalecimiento de la combinación de negocios y la perspectiva estable",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/moodys-upgrades-oshkosh-to-baa2-on-strengthening-business-mix-and-stable-outlook-4958423",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "published": "2026-10-19T21:58:59+00:00"
+    },
     {
       "h": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
       "es": "Los coágulos de sangre son \"increíblemente comunes\", incluso para atletas profesionales como Jalen Hurts. Esto es lo que debe saber.",
@@ -9,6 +54,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-17770791",
       "published": "2026-10-19T21:58:00+00:00"
+    },
+    {
+      "h": "Eric Schmidt’s 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg",
+      "es": "La participación del 1% en Anthropic de Eric Schmidt genera una enorme ganancia inesperada antes de la OPI -Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/eric-schmidts-1-anthropic-stake-sets-up-massive-windfall-ahead-of-ipo-bloomberg-4958420",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL85007_L.jpg",
+      "published": "2026-10-19T21:56:05+00:00"
     },
     {
       "h": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
@@ -216,60 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-37901280",
       "published": "2026-10-19T21:00:00+00:00"
-    },
-    {
-      "h": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-      "es": "Por qué es probable que las elecciones intermedias se conviertan en un fuerte viento de cola para el mercado de valores",
-      "d": "Los seis meses posteriores a las elecciones de mitad de período han visto fuertes avances, históricamente",
-      "u": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15663398",
-      "published": "2026-10-19T21:00:00+00:00"
-    },
-    {
-      "h": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-      "es": "Las acciones tecnológicas tuvieron un agradable rebote de sobreventa el lunes. Las ganancias de esta semana determinarán si es real",
-      "d": "Los inversores tienen la esperanza de que el retroceso de la semana pasada haya sido un evento de compensación para las acciones, pero persisten preocupaciones persistentes.",
-      "u": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T20:57:14+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "es": "El sospechoso de escuchas en OpenAI, Alfozan, detenido sin derecho a fianza después de que el gobierno saudí se ofreciera a pagar",
-      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
-      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T20:54:40+00:00"
-    },
-    {
-      "h": "US Treasury yields rise as AI stock worries ease",
-      "es": "Los rendimientos de los bonos del Tesoro de EE. UU. aumentan a medida que disminuyen las preocupaciones sobre las acciones de AI",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-treasury-yields-rise-as-ai-stock-worries-ease-93CH-4958342",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-19T20:48:00+00:00"
-    },
-    {
-      "h": "Tradeweb stock tumbles 11% on $1.97 billion Trumid deal",
-      "es": "Las acciones de Tradeweb caen un 11% tras el acuerdo con Trumid por valor de 1.970 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tradeweb-stock-tumbles-11-on-197-billion-trumid-deal-4958331",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-19T20:44:47+00:00"
-    },
-    {
-      "h": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-      "es": "¿Jubilarse en el extranjero? No corten estos vínculos financieros con Estados Unidos.",
-      "d": "Piense detenidamente en su Seguro Social, Medicare, tarjetas de crédito y cuentas bancarias antes de elegir su nuevo hogar en el extranjero.",
-      "u": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25509545",
-      "published": "2026-10-19T20:33:00+00:00"
     }
   ],
   "sources": [
