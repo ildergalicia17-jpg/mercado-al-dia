@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-20T04:25:40.161167+00:00",
+  "updated": "2026-10-20T05:03:01.823151+00:00",
   "news": [
+    {
+      "h": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+      "es": "\"No se puede jugar al escondite\": la advertencia del ministro sobre la neblina hace que las existencias agrícolas de Singapur bajen",
+      "d": "El Ministro Principal de Singapur, Shanmugam, dijo que la Bolsa de Singapur había interrogado a siete empresas sobre sus operaciones y posibles vínculos con la neblina.",
+      "u": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T04:48:52+00:00"
+    },
+    {
+      "h": "Sea’s CEO says financial services arm Monee could go public, WSJ reports",
+      "es": "Sea’s CEO says financial services arm Monee could go public, WSJ reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/seas-ceo-says-financial-services-arm-monee-could-go-public-wsj-reports-4958762",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SeaLimited_800x533_L_1637138831.jpg",
+      "published": "2026-10-20T04:38:45+00:00"
+    },
+    {
+      "h": "Software upgrades eat nearly a third of companies’ IT budgets, survey finds",
+      "es": "Software upgrades eat nearly a third of companies’ IT budgets, survey finds",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/software-upgrades-eat-nearly-a-third-of-companies-it-budgets-survey-finds-4958748",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J078_L.jpg",
+      "published": "2026-10-20T04:12:43+00:00"
+    },
+    {
+      "h": "Rubio kicks off India visit with trade deal, Russian oil on agenda",
+      "es": "Rubio kicks off India visit with trade deal, Russian oil on agenda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda-4958747",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J07C_L.jpg",
+      "published": "2026-10-20T04:12:25+00:00"
+    },
     {
       "h": "Elice shares plunge 28% on debut as investor doubts over AI trade deepen",
       "es": "Las acciones de Elice se desploman un 28% en su debut a medida que se profundizan las dudas de los inversores sobre el comercio de IA",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1Z8_L.jpg",
       "published": "2026-10-19T23:00:54+00:00"
-    },
-    {
-      "h": "'I'm fed up of swiping': Why singles now want to meet IRL",
-      "es": "'Estoy harto de deslizar': por qué los solteros ahora quieren conocerse en la vida real",
-      "d": "La BBC escucha a personas que piensan que los eventos de citas tienen una mejor relación calidad-precio que las aplicaciones de citas.",
-      "u": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-19T23:00:21+00:00"
-    },
-    {
-      "h": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-      "es": "Boletín The China Connection de CNBC: Navegando en un mundo lleno de tecnología",
-      "d": "Mientras economistas y ex banqueros centrales debaten sobre tecnología y política monetaria en la Cumbre del Bund, las empresas están avanzando más rápido para captar nuevos ingresos.",
-      "u": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T23:00:02+00:00"
-    },
-    {
-      "h": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
-      "es": "Las acciones estadounidenses se recuperan ante la prueba de ganancias de IA por delante, el euro cae por los disturbios en Francia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
-      "published": "2026-10-19T22:25:02+00:00"
-    },
-    {
-      "h": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports",
-      "es": "El ex director ejecutivo de Google, Schmidt, posee una participación del 1% en Anthropic, informa Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/former-google-ceo-schmidt-owns-1-stake-in-anthropic-bloomberg-reports-4958451",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1YF_L.jpg",
-      "published": "2026-10-19T22:24:46+00:00"
     }
   ],
   "sources": [
