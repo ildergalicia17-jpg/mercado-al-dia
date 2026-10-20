@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-20T10:03:09.826726+00:00",
+  "updated": "2026-10-20T10:36:05.915770+00:00",
   "news": [
+    {
+      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
+      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-20T10:31:41+00:00"
+    },
+    {
+      "h": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+      "es": "Zelenskyy se reunirá con el enviado de Estados Unidos mientras aumentan las tensiones con Trump",
+      "d": "El presidente de Ucrania, Volodymyr Zelenskyy, se reunirá con enviados especiales de Estados Unidos el martes después de que el presidente Donald Trump dirigiera nuevas críticas al líder en tiempos de guerra.",
+      "u": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T10:30:49+00:00"
+    },
+    {
+      "h": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+      "es": "Por qué las acciones más pequeñas enfrentan peores perspectivas que el S&P 500 en los próximos años",
+      "d": "El potencial de apreciación media de la línea de valor tiene un buen historial en la previsión de rentabilidad de las acciones más pequeñas. Y los próximos cuatro años parecen bajistas.",
+      "u": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-71085812",
+      "published": "2026-10-20T10:30:00+00:00"
+    },
+    {
+      "h": "'I'm fed up of swiping': The singles choosing dating events over apps",
+      "es": "'Estoy harto de deslizar': Los solteros eligen eventos de citas en lugar de aplicaciones",
+      "d": "La BBC escucha a personas que piensan que los eventos de citas tienen una mejor relación calidad-precio que las aplicaciones de citas.",
+      "u": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-20T10:28:36+00:00"
+    },
+    {
+      "h": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
+      "es": "El estratega Tom Lee dice que está comprando la caída de las acciones de IA y que Cisco tiene la clave",
+      "d": "El estratega Tom Lee dice que los inversores no deberían retroceder ante el retroceso de las acciones debido a los temores de inversión en IA. Señala la historia de Cisco como una de las razones para comprar.",
+      "u": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-32004239",
+      "published": "2026-10-20T10:15:00+00:00"
+    },
+    {
+      "h": "Early US flu season, current strain may signal risk for younger people; doctors urge shots",
+      "es": "Temprano en la temporada de gripe en EE. UU., la cepa actual puede indicar riesgo para los más jóvenes; Los médicos recomiendan vacunas.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/early-us-flu-season-current-strain-may-signal-risk-for-younger-people-doctors-urge-shots-4959381",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0R0_L.jpg",
+      "published": "2026-10-20T10:06:45+00:00"
+    },
+    {
+      "h": "Britain seeks to break Apple’s grip on contactless payments",
+      "es": "Gran Bretaña busca romper el control de Apple sobre los pagos sin contacto",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/britain-seeks-to-break-apples-grip-on-contactless-payments-4959380",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RM_L.jpg",
+      "published": "2026-10-20T10:06:28+00:00"
+    },
+    {
+      "h": "Amazon plans to invest over €16 billion in Germany in 2027",
+      "es": "Amazon planea invertir más de 16.000 millones de euros en Alemania en 2027",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-plans-to-invest-over-16-billion-in-germany-in-2027-93CH-4959379",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0O0ZC_M.jpg",
+      "published": "2026-10-20T10:06:24+00:00"
+    },
+    {
+      "h": "Google Cloud outage disrupts Revolut and other services",
+      "es": "La interrupción de Google Cloud interrumpe Revolut y otros servicios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/google-cloud-outage-disrupts-revolut-and-other-services-93CH-4959364",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE8J1MM-ORUBS_M.jpg",
+      "published": "2026-10-20T10:01:53+00:00"
+    },
+    {
+      "h": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+      "es": "Walmart lanza membresía conjunta con Sam's Club a medida que se inclina hacia la entrega y los descuentos en gasolina",
+      "d": "Walmart ahora ofrece una membresía conjunta con Sam's Club por $120 por año a medida que el minorista se inclina aún más hacia la conveniencia.",
+      "u": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T10:00:01+00:00"
+    },
     {
       "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
       "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
@@ -9,6 +99,69 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-04384503",
       "published": "2026-10-20T10:00:00+00:00"
+    },
+    {
+      "h": "Morgan Stanley turns bearish on Vonovia, LEG as Berlin housing risks mount",
+      "es": "Morgan Stanley se vuelve bajista sobre Vonovia y LEG a medida que aumentan los riesgos inmobiliarios en Berlín",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-bearish-on-vonovia-leg-as-berlin-housing-risks-mount-4959345",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE42099_M.jpg",
+      "published": "2026-10-20T09:58:34+00:00"
+    },
+    {
+      "h": "Wells Fargo issues buy signal for S&P 500 after sentiment shift",
+      "es": "Wells Fargo emite señal de compra para el S&P 500 tras cambio de sentimiento",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wells-fargo-issues-buy-signal-for-sp-500-after-sentiment-shift-93CH-4959343",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC95174_M.jpg",
+      "published": "2026-10-20T09:58:04+00:00"
+    },
+    {
+      "h": "U.S. Treasury yields move lower as investors await housing data",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. bajan mientras los inversores esperan los datos inmobiliarios",
+      "d": "Los rendimientos de los bonos del Tesoro estadounidense cayeron levemente el martes mientras los inversores esperaban datos económicos y sopesaban el contexto inflacionario antes de la decisión sobre las tasas la próxima semana.",
+      "u": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T09:57:07+00:00"
+    },
+    {
+      "h": "Footwear and apparel earnings season begins this week, BTIG previews names",
+      "es": "La temporada de resultados de calzado y confección comienza esta semana, BTIG adelanta los nombres",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/footwear-and-apparel-earnings-season-begins-this-week-btig-previews-names-93CH-4959341",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-20T09:56:25+00:00"
+    },
+    {
+      "h": "Walmart launches $120 membership bundle with Sam’s Club ahead of holidays",
+      "es": "Walmart lanza paquete de membresía de $120 con Sam's Club antes de las vacaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-launches-120-membership-bundle-with-sams-club-ahead-of-holidays-4959325",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0PV_L.jpg",
+      "published": "2026-10-20T09:54:39+00:00"
+    },
+    {
+      "h": "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
+      "es": "Zelenskiy se reunirá con Witkoff mientras Trump elogia a Rusia y reprende a Ucrania",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0Q5_L.jpg",
+      "published": "2026-10-20T09:54:23+00:00"
+    },
+    {
+      "h": "S&P, Nasdaq futures slip amid renewed pressure on tech stocks",
+      "es": "Los futuros de S&P y Nasdaq caen en medio de una renovada presión sobre las acciones tecnológicas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-20T09:52:19+00:00"
     },
     {
       "h": "Citi sees rotation from growth stocks as Europe draws inflows",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0N5_L.jpg",
       "published": "2026-10-20T09:06:32+00:00"
-    },
-    {
-      "h": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
-      "es": "La cartera inmobiliaria multimillonaria del QB de los Buffalo Bills, Josh Allen, y la actriz Hailee Steinfeld",
-      "d": "Josh Allen alcanzó otro hito en su carrera en la NFL, pero su vida fuera del fútbol es igualmente impresionante, incluida la cartera de bienes raíces que comparte con su esposa, la actriz Hailee Steinfeld.",
-      "u": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-35525360",
-      "published": "2026-10-20T09:02:00+00:00"
-    },
-    {
-      "h": "Italy to seek €5 billion from financial sector for 2027 budget",
-      "es": "Italia buscará 5.000 millones de euros del sector financiero para el presupuesto de 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italy-to-seek-5-billion-from-financial-sector-for-2027-budget-93CH-4959216",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-20T09:00:23+00:00"
-    },
-    {
-      "h": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-      "es": "Putin supuestamente propone una cumbre tripartita con Trump y Xi sobre la guerra en Ucrania, sin Zelenskyy",
-      "d": "El informe llega en medio de crecientes tensiones entre Ucrania y Estados Unidos, su mayor patrocinador militar.",
-      "u": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T08:59:25+00:00"
-    },
-    {
-      "h": "Jefferies says China online beauty sales fell 6% in September",
-      "es": "Jefferies dice que las ventas de productos de belleza en línea en China cayeron un 6% en septiembre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-says-china-online-beauty-sales-fell-6-in-september-93CH-4959213",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7G0JB_M.jpg",
-      "published": "2026-10-20T08:58:44+00:00"
-    },
-    {
-      "h": "Eni launches gas project to boost Egypt production capacity",
-      "es": "Eni lanza un proyecto de gas para impulsar la capacidad de producción de Egipto",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/eni-launches-gas-project-to-boost-egypt-production-capacity-93CH-4959212",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-20T08:57:49+00:00"
-    },
-    {
-      "h": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "es": "Burnham promete poner fin a las 'estafas de cargos de estacionamiento' bajo las nuevas reglas",
-      "d": "Los cambios se producen después de la preocupación de que las sanciones impuestas por proveedores privados sean demasiado duras y castiguen injustamente a los automovilistas.",
-      "u": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T08:55:02+00:00"
-    },
-    {
-      "h": "3M expands Amazon data center partnership, shares gain",
-      "es": "3M amplía su asociación con el centro de datos de Amazon y sus acciones suben",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/3m-expands-amazon-data-center-partnership-shares-gain-4958449",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1YH_L.jpg",
-      "published": "2026-10-20T08:54:24+00:00"
-    },
-    {
-      "h": "Alvotech shares jump premarket after FDA approves new Simlandi process",
-      "es": "Las acciones de Alvotech saltan antes de la comercialización después de que la FDA apruebe el nuevo proceso Simlandi",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alvotech-shares-jump-premarket-after-fda-approves-new-simlandi-process-4959209",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-20T08:52:53+00:00"
-    },
-    {
-      "h": "Why is Solvay stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Solvay hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-solvay-stock-sliding-today-93CH-4959199",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-20T08:49:54+00:00"
-    },
-    {
-      "h": "Job vacancies fall as small firms cut back on recruitment",
-      "es": "Las ofertas de empleo caen a medida que las pequeñas empresas reducen la contratación",
-      "d": "Las pequeñas empresas citan los costos laborales como un factor clave para reducir la contratación, dice la Oficina de Estadísticas Nacionales.",
-      "u": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
-      "published": "2026-10-20T08:49:49+00:00"
-    },
-    {
-      "h": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-      "es": "Los toques de queda en Francia calman los disturbios mientras Macron enfrenta críticas por su viaje al Golfo",
-      "d": "El primer ministro Sébastien Lecornu dijo el martes que algunas zonas permanecerían bajo toque de queda después de un fin de semana de disturbios violentos.",
-      "u": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T08:48:33+00:00"
-    },
-    {
-      "h": "Ryanair optimistic Boeing MAX 10 certification will be done in October",
-      "es": "Ryanair confía en que la certificación del Boeing MAX 10 se realizará en octubre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ryanair-optimistic-boeingmax-10-certification-will-be-done-in-october-4959193",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0M1_L.jpg",
-      "published": "2026-10-20T08:48:18+00:00"
-    },
-    {
-      "h": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "es": "La interrupción de Revolut afecta a 'múltiples servicios' mientras miles de usuarios informan problemas con la aplicación",
-      "d": "Algunos usuarios del neobanco británico informaron el martes que no podían realizar algunos pagos ni acceder a fondos en su aplicación.",
-      "u": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg",
-      "published": "2026-10-20T08:46:00+00:00"
-    },
-    {
-      "h": "Why is SoftBank stock sliding 6% today?",
-      "es": "¿Por qué las acciones de SoftBank están cayendo un 6% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-6-today-93CH-4959186",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-20T08:44:57+00:00"
-    },
-    {
-      "h": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "es": "El Canciller rechaza los llamados a aumentar el impuesto a las ganancias de capital en el presupuesto",
-      "d": "Figuras laboristas influyentes habían estado presionando para igualar el CGT y el impuesto sobre la renta, pero los críticos han dicho que esto podría expulsar a los ricos de Gran Bretaña.",
-      "u": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
-      "published": "2026-10-20T08:44:56+00:00"
-    },
-    {
-      "h": "Why is Sabre Insurance stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Sabre Insurance hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sabre-insurance-stock-sliding-today-93CH-4959171",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-20T08:40:49+00:00"
-    },
-    {
-      "h": "Why is James Cropper stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de James Cropper hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-james-cropper-stock-surging-today-93CH-4959170",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-20T08:40:16+00:00"
     }
   ],
   "sources": [
