@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T02:43:44.424515+00:00",
+  "updated": "2026-10-20T03:15:10.128822+00:00",
   "news": [
+    {
+      "h": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+      "es": "BlackRock y GIC se encuentran entre los inversores que persiguen la oferta pública inicial de Jio, la importante empresa india de telecomunicaciones, mientras las ofertas ancla superan los 26.000 millones de dólares",
+      "d": "Jio Platforms planea recaudar hasta 3.200 millones de dólares a través de una IPO, que es la mayor oferta pública inicial de la India en términos de rupias, pero la segunda más grande en términos de dólares.",
+      "u": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T02:44:35+00:00"
+    },
     {
       "h": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
       "es": "“Abran sus puertas a la IA”: la canciller alemana insta a las empresas a adoptar la IA mientras Nvidia anuncia nuevas inversiones",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEL85007_L.jpg",
       "published": "2026-10-19T21:56:05+00:00"
-    },
-    {
-      "h": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
-      "es": "Nscale, respaldado por Nvidia, y Anthropic en conversaciones para un nuevo acuerdo de nube de IA por valor de 45 mil millones de dólares, dice una fuente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1SN_L.jpg",
-      "published": "2026-10-19T21:48:21+00:00"
     }
   ],
   "sources": [
