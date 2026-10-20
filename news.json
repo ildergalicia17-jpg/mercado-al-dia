@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-20T11:10:14.216251+00:00",
+  "updated": "2026-10-20T11:45:50.699737+00:00",
   "news": [
+    {
+      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
+      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
+      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27247005",
+      "published": "2026-10-20T11:41:00+00:00"
+    },
+    {
+      "h": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+      "es": "El auge de la IA está acaparando toda la atención. Estamos a punto de descubrir cómo se está comportando el resto de la economía.",
+      "d": "La temporada de resultados se acelera, con nuevas pistas sobre el gasto de los consumidores y la salud de las empresas estadounidenses más allá del sector tecnológico.",
+      "u": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-01876000",
+      "published": "2026-10-20T11:30:00+00:00"
+    },
+    {
+      "h": "Jobless rate falls but small firms cut back hiring",
+      "es": "La tasa de desempleo cae, pero las pequeñas empresas reducen la contratación",
+      "d": "Las pequeñas empresas citan los costos laborales como un factor clave para reducir la contratación, dice la Oficina de Estadísticas Nacionales.",
+      "u": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
+      "published": "2026-10-20T11:26:48+00:00"
+    },
+    {
+      "h": "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investment",
+      "es": "Las acciones de Hertz suben un 5 % mientras la filial Oro Mobility consigue una inversión estratégica de 80 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hertz-shares-jump-5-as-subsidiary-oro-mobility-secures-80m-strategic-investment-4959756",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-20T11:22:50+00:00"
+    },
+    {
+      "h": "£30 rise in payments for crisis-hit households",
+      "es": "Aumento de £30 en los pagos para los hogares afectados por la crisis",
+      "d": "Se pone a disposición más dinero a través de un fondo de resiliencia para hogares en apuros en Sheffield.",
+      "u": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/848a/live/94646ce0-cc77-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-20T11:19:22+00:00"
+    },
+    {
+      "h": "TSX futures inch down as traders eye Bank of Canada rate path",
+      "es": "Los futuros del TSX caen lentamente a medida que los operadores observan la trayectoria de las tasas del Banco de Canadá",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-down-as-traders-eye-bank-of-canada-rate-path-4959494",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEGBN0PZ-OCABS_L.jpg",
+      "published": "2026-10-20T11:18:09+00:00"
+    },
+    {
+      "h": "Barclays cuts Vodafone on AI threats to earnings and German market exposure",
+      "es": "Barclays recorta Vodafone por amenazas de IA a sus ganancias y exposición al mercado alemán",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-cuts-vodafone-on-ai-threats-to-earnings-and-german-market-exposure-4959721",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA610E0_M.jpg",
+      "published": "2026-10-20T11:15:20+00:00"
+    },
+    {
+      "h": "US holds Nevada geothermal auction amid soaring industry interest",
+      "es": "Estados Unidos celebra subasta geotérmica en Nevada en medio del creciente interés de la industria",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-holds-nevada-geothermal-auction-amid-soaring-industry-interest-4959718",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-20T11:14:14+00:00"
+    },
+    {
+      "h": "Brazil’s Azul sees longer recovery as fuel costs squeeze margins after Chapter 11",
+      "es": "Azul de Brasil ve una recuperación más prolongada a medida que los costos del combustible reducen los márgenes después del Capítulo 11",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazils-azul-sees-longer-recovery-as-fuel-costs-squeeze-margins-after-chapter-11-4959241",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0MW_L.jpg",
+      "published": "2026-10-20T11:14:13+00:00"
+    },
+    {
+      "h": "Exclusive-Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+      "es": "Exclusivo-Qualcomm recortará empleos en todo el mundo en despidos centrados en el desempeño, según muestra un memorando interno",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivequalcomm-to-cut-jobs-worldwide-in-performancefocused-layoffs-internal-memo-shows-4959717",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0VI_L.jpg",
+      "published": "2026-10-20T11:13:27+00:00"
+    },
+    {
+      "h": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
+      "es": "Prudential vende unidades de Brasil y México a CNP por 4.000 millones de dólares mientras reduce su enfoque",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0UY_L.jpg",
+      "published": "2026-10-20T11:13:10+00:00"
+    },
+    {
+      "h": "Premarket movers: RTX rises, GE slips following quarterly results",
+      "es": "Motores previos a la comercialización: RTX sube, GE cae tras los resultados trimestrales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-rtx-rises-ge-slips-following-quarterly-results-4959693",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-20T11:13:01+00:00"
+    },
+    {
+      "h": "RTX lifts 2026 forecasts as aerospace, defense demand drives record backlog",
+      "es": "RTX eleva las previsiones para 2026 a medida que la demanda aeroespacial y de defensa genera un retraso récord",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rtx-lifts-2026-forecasts-as-aerospace-defense-demand-drives-record-backlog-4959691",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0VO_L.jpg",
+      "published": "2026-10-20T11:12:53+00:00"
+    },
+    {
+      "h": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+      "es": "Los coágulos de sangre son \"increíblemente comunes\", incluso para atletas profesionales como Jalen Hurts. Esto es lo que debe saber.",
+      "d": "Las investigaciones han descubierto que los atletas profesionales pueden tardar más de seis meses en volver a jugar después de haber sido tratados por una trombosis venosa profunda o una embolia pulmonar.",
+      "u": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-17770791",
+      "published": "2026-10-20T11:11:00+00:00"
+    },
+    {
+      "h": "Why is Genuine Parts stock sliding today?",
+      "es": "¿Por qué el stock de piezas originales está cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-genuine-parts-stock-sliding-today-93CH-4959647",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-20T11:05:55+00:00"
+    },
     {
       "h": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
       "es": "Best Buy lanza un nuevo centro de juegos antes de 'Zelda' y 'Grand Theft Auto VI'",
@@ -135,141 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-71085812",
       "published": "2026-10-20T10:30:00+00:00"
-    },
-    {
-      "h": "'I'm fed up of swiping': The singles choosing dating events over apps",
-      "es": "'Estoy harto de deslizar': Los solteros eligen eventos de citas en lugar de aplicaciones",
-      "d": "La BBC escucha a personas que piensan que los eventos de citas tienen una mejor relación calidad-precio que las aplicaciones de citas.",
-      "u": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T10:28:36+00:00"
-    },
-    {
-      "h": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
-      "es": "El estratega Tom Lee dice que está comprando la caída de las acciones de IA y que Cisco tiene la clave",
-      "d": "El estratega Tom Lee dice que los inversores no deberían retroceder ante el retroceso de las acciones debido a los temores de inversión en IA. Señala la historia de Cisco como una de las razones para comprar.",
-      "u": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-32004239",
-      "published": "2026-10-20T10:15:00+00:00"
-    },
-    {
-      "h": "Early US flu season, current strain may signal risk for younger people; doctors urge shots",
-      "es": "Temprano en la temporada de gripe en EE. UU., la cepa actual puede indicar riesgo para los más jóvenes; Los médicos recomiendan vacunas.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/early-us-flu-season-current-strain-may-signal-risk-for-younger-people-doctors-urge-shots-4959381",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0R0_L.jpg",
-      "published": "2026-10-20T10:06:45+00:00"
-    },
-    {
-      "h": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "es": "El Canciller rechaza los llamados a aumentar el impuesto a las ganancias de capital en el presupuesto",
-      "d": "Figuras laboristas influyentes habían estado presionando para igualar el CGT y el impuesto sobre la renta, pero los críticos han dicho que esto podría expulsar a los ricos de Gran Bretaña.",
-      "u": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
-      "published": "2026-10-20T10:06:34+00:00"
-    },
-    {
-      "h": "Britain seeks to break Apple’s grip on contactless payments",
-      "es": "Gran Bretaña busca romper el control de Apple sobre los pagos sin contacto",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/britain-seeks-to-break-apples-grip-on-contactless-payments-4959380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RM_L.jpg",
-      "published": "2026-10-20T10:06:28+00:00"
-    },
-    {
-      "h": "Amazon plans to invest over €16 billion in Germany in 2027",
-      "es": "Amazon planea invertir más de 16.000 millones de euros en Alemania en 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amazon-plans-to-invest-over-16-billion-in-germany-in-2027-93CH-4959379",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0O0ZC_M.jpg",
-      "published": "2026-10-20T10:06:24+00:00"
-    },
-    {
-      "h": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-      "es": "Los toques de queda en Francia calman los disturbios mientras Macron enfrenta críticas por su viaje al Golfo",
-      "d": "El primer ministro Sébastien Lecornu dijo el martes que algunas zonas permanecerían bajo toque de queda después de un fin de semana de violentos disturbios.",
-      "u": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T10:02:57+00:00"
-    },
-    {
-      "h": "Google Cloud outage disrupts Revolut and other services",
-      "es": "La interrupción de Google Cloud interrumpe Revolut y otros servicios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-cloud-outage-disrupts-revolut-and-other-services-93CH-4959364",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEE8J1MM-ORUBS_M.jpg",
-      "published": "2026-10-20T10:01:53+00:00"
-    },
-    {
-      "h": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-      "es": "Walmart lanza membresía conjunta con Sam's Club a medida que se inclina hacia la entrega y los descuentos en gasolina",
-      "d": "Walmart ahora ofrece una membresía conjunta con Sam's Club por $120 por año a medida que el minorista se inclina aún más hacia la conveniencia.",
-      "u": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T10:00:01+00:00"
-    },
-    {
-      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
-      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
-      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04384503",
-      "published": "2026-10-20T10:00:00+00:00"
-    },
-    {
-      "h": "Morgan Stanley turns bearish on Vonovia, LEG as Berlin housing risks mount",
-      "es": "Morgan Stanley se vuelve bajista sobre Vonovia y LEG a medida que aumentan los riesgos inmobiliarios en Berlín",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-bearish-on-vonovia-leg-as-berlin-housing-risks-mount-4959345",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE42099_M.jpg",
-      "published": "2026-10-20T09:58:34+00:00"
-    },
-    {
-      "h": "Wells Fargo issues buy signal for S&P 500 after sentiment shift",
-      "es": "Wells Fargo emite señal de compra para el S&P 500 tras cambio de sentimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wells-fargo-issues-buy-signal-for-sp-500-after-sentiment-shift-93CH-4959343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC95174_M.jpg",
-      "published": "2026-10-20T09:58:04+00:00"
-    },
-    {
-      "h": "U.S. Treasury yields move lower as investors await housing data",
-      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. bajan mientras los inversores esperan los datos inmobiliarios",
-      "d": "Los rendimientos de los bonos del Tesoro estadounidense cayeron levemente el martes mientras los inversores esperaban datos económicos y sopesaban el contexto inflacionario antes de la decisión sobre las tasas la próxima semana.",
-      "u": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T09:57:07+00:00"
-    },
-    {
-      "h": "Footwear and apparel earnings season begins this week, BTIG previews names",
-      "es": "La temporada de resultados de calzado y confección comienza esta semana, BTIG adelanta los nombres",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/footwear-and-apparel-earnings-season-begins-this-week-btig-previews-names-93CH-4959341",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-20T09:56:25+00:00"
-    },
-    {
-      "h": "Walmart launches $120 membership bundle with Sam’s Club ahead of holidays",
-      "es": "Walmart lanza paquete de membresía de $120 con Sam's Club antes de las vacaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/walmart-launches-120-membership-bundle-with-sams-club-ahead-of-holidays-4959325",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0PV_L.jpg",
-      "published": "2026-10-20T09:54:39+00:00"
     }
   ],
   "sources": [
