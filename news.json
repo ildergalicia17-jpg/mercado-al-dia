@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T23:49:17.466520+00:00",
+  "updated": "2026-10-20T00:11:42.663427+00:00",
   "news": [
+    {
+      "h": "Waymo plans to quintuple fleet to 20,000, Semafor reports",
+      "es": "Waymo planea quintuplicar su flota hasta 20.000, informa Semafor",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/waymo-plans-to-quintuple-fleet-to-20000-semafor-reports-4958528",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I20R_L.jpg",
+      "published": "2026-10-19T23:36:29+00:00"
+    },
     {
       "h": "Exclusive-OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
       "es": "Exclusivo-OpenAI busca acelerar la recaudación de fondos antes de la IPO de Anthropic, dicen las fuentes",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-69244333",
       "published": "2026-10-19T21:06:00+00:00"
-    },
-    {
-      "h": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "es": "Google dice que puede construir centros de datos de la manera correcta. Algunos expertos y residentes se muestran escépticos",
-      "d": "Google dice que su centro de datos de inteligencia artificial en Minnesota agregará energía limpia a la red y protegerá a los contribuyentes. Los expertos se preguntan si son necesarias mejoras en la red.",
-      "u": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-19T21:05:20+00:00"
     }
   ],
   "sources": [
