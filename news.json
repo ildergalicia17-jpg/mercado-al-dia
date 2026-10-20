@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-20T19:18:14.543668+00:00",
+  "updated": "2026-10-20T19:53:46.706242+00:00",
   "news": [
+    {
+      "h": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "es": "El director ejecutivo de OpenAI, Sam Altman, gana la desestimación de la demanda de su hermana",
+      "d": "Un juez de distrito estadounidense desestimó el caso después de que Ann Altman se negara a asistir a un examen médico independiente.",
+      "u": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/9be50560-cc9f-11f1-94e6-edd4c60b2e1d.jpg",
+      "published": "2026-10-20T19:42:32+00:00"
+    },
+    {
+      "h": "Boeing wins FAA approval for 737 Max 10 after years of delays",
+      "es": "Boeing obtiene la aprobación de la FAA para el 737 Max 10 después de años de retrasos",
+      "d": "El 737 Max 10, el modelo más grande de la familia, debía comenzar a volar en 2020, pero un mayor escrutinio y otros problemas de seguridad retrasaron su certificación.",
+      "u": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T19:41:23+00:00"
+    },
+    {
+      "h": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "es": "Los precios del petróleo caen mientras los comerciantes esperan avances diplomáticos en Medio Oriente",
+      "d": "Los acontecimientos en Oriente Medio siguen siendo el foco de atención, y en las últimas semanas se han intensificado los ataques a barcos comerciales que transitan por el Estrecho de Ormuz.",
+      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T19:40:51+00:00"
+    },
+    {
+      "h": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "es": "Los investigadores de Wall Street acaban de utilizar a Claude para diseñar un fármaco. El experimento ha generado una nueva tesis de inversión.",
+      "d": "Durante años, los evangelistas de la inteligencia artificial se han jactado de la capacidad de la tecnología para revolucionar el desarrollo de fármacos y la investigación médica.",
+      "u": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-61648062",
+      "published": "2026-10-20T19:35:00+00:00"
+    },
+    {
+      "h": "Kroger to invest $5 billion by 2029 as new CEO sharpens grocery focus",
+      "es": "Kroger invertirá 5 mil millones de dólares para 2029 a medida que el nuevo director ejecutivo agudiza el enfoque en los supermercados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/kroger-to-focus-on-grocery-business-under-new-ceo-as-competition-heats-up-4959911",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J107_L.jpg",
+      "published": "2026-10-20T19:30:19+00:00"
+    },
+    {
+      "h": "Trump sued over Canadian tariffs in latest legal challenge",
+      "es": "Trump demandado por aranceles canadienses en el último desafío legal",
+      "d": "La demanda argumenta que la Casa Blanca se excedió en su autoridad al imponer los últimos aranceles al país y causó \"daño inmediato a las empresas estadounidenses\".",
+      "u": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
+      "published": "2026-10-20T19:30:05+00:00"
+    },
+    {
+      "h": "Strong QNX backlog growth pushes BlackBerry stock up 8%",
+      "es": "El fuerte crecimiento de la cartera de pedidos de QNX hace que las acciones de BlackBerry suban un 8%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/strong-qnx-backlog-growth-pushes-blackberry-stock-up-8-4960901",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6N0W8_M.jpg",
+      "published": "2026-10-20T19:28:37+00:00"
+    },
+    {
+      "h": "Michigan Republican candidate and UAW, in rare alignment, blast GM",
+      "es": "El candidato republicano de Michigan y el UAW, en inusual alineación, critican a GM",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/michigan-republican-candidate-and-uaw-in-rare-alignment-blast-gm-4960900",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1P5_L.jpg",
+      "published": "2026-10-20T19:24:24+00:00"
+    },
+    {
+      "h": "America’s Car-Mart in sale talks as debt pressures mount - Bloomberg",
+      "es": "Car-Mart de Estados Unidos en conversaciones de venta a medida que aumentan las presiones de deuda - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/americas-carmart-in-sale-talks-as-debt-pressures-mount--bloomberg-4960899",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "published": "2026-10-20T19:23:09+00:00"
+    },
+    {
+      "h": "Dow Jones tests 52,870 resistance amid overbought signals: Live",
+      "es": "Dow Jones prueba la resistencia de 52.870 en medio de señales de sobrecompra: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dow-jones-bearish-engulfing-near-52434-resistance-live-levels-93CH-4957914",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-20T19:18:03+00:00"
+    },
+    {
+      "h": "Alphabet C teeters at $334 support in descending triangle: Live",
+      "es": "Alphabet C se tambalea en el soporte de $ 334 en un triángulo descendente: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-trapped-below-resistance-at-341-live-levels-93CH-4957926",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-20T19:18:02+00:00"
+    },
+    {
+      "h": "S&P 500 clings to 200-SMA as H&S breakdown looms: Live levels",
+      "es": "S&P 500 se aferra a 200-SMA a medida que se avecina una ruptura de salud y seguridad: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-double-top-tests-7678-support-live-levels-93CH-4957913",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-20T19:18:00+00:00"
+    },
+    {
+      "h": "Nasdaq 100 consolidates at 29,726 below key resistance: Live levels",
+      "es": "Nasdaq 100 se consolida en 29.726 por debajo de la resistencia clave: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-20T19:18:00+00:00"
+    },
+    {
+      "h": "Tesla stuck in $350-$388 range, ADX signals chop: Live levels",
+      "es": "Tesla estancado en el rango de $ 350- $ 388, las señales de ADX se cortan: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-hammer-at-35475-battles-200sma-resistance-live-levels-93CH-4957922",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL901ZZ_L.jpg",
+      "published": "2026-10-20T19:17:58+00:00"
+    },
+    {
+      "h": "NVIDIA balances at 50% Fib retracement: Live levels",
+      "es": "NVIDIA se equilibra al 50% de retroceso de Fib: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-stuck-below-200-sma-with-bearish-momentum-live-levels-93CH-4957916",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM791A9_1200_L.jpg",
+      "published": "2026-10-20T19:17:49+00:00"
+    },
     {
       "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
       "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
@@ -135,141 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/ea64c5b0-ccac-11f1-8789-fd6bb060c3f9.jpg",
       "published": "2026-10-20T18:03:19+00:00"
-    },
-    {
-      "h": "Oil inventories among economic data due Wednesday",
-      "es": "Inventarios de petróleo entre los datos económicos que se publicarán el miércoles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oil-inventories-among-economic-data-due-wednesday-93CH-4960832",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED910E7-ORUBS_M.jpg",
-      "published": "2026-10-20T18:00:55+00:00"
-    },
-    {
-      "h": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "es": "El sector inmobiliario está dando señales de advertencia justo cuando la Reserva Federal evalúa aumentar más las tasas de interés",
-      "d": "Los datos sobre vivienda se deterioraron aún más en septiembre, según informes separados del martes.",
-      "u": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T17:50:11+00:00"
-    },
-    {
-      "h": "Why is BlackBerry stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de BlackBerry hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-surging-today-93CH-4960827",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-20T17:50:06+00:00"
-    },
-    {
-      "h": "U.S. stocks rise as tech fluctuations offset by earnings moves, fall in oil prices",
-      "es": "Las acciones estadounidenses suben a medida que las fluctuaciones tecnológicas se compensan con los movimientos de ganancias y la caída de los precios del petróleo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-20T17:49:32+00:00"
-    },
-    {
-      "h": "Meta’s global affairs officer Joel Kaplan to leave company after 15 years",
-      "es": "El director de asuntos globales de Meta, Joel Kaplan, dejará la empresa después de 15 años",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/metas-global-affairs-officer-joel-kaplan-to-leave-company-after-15-years-4960807",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1KA_L.jpg",
-      "published": "2026-10-20T17:48:57+00:00"
-    },
-    {
-      "h": "ICE vs. Nasdaq: valuation edge goes to ICE, growth edge to NDAQ",
-      "es": "ICE vs Nasdaq: la ventaja de valoración va para ICE, la ventaja de crecimiento para NDAQ",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ice-vs-nasdaq-valuation-edge-goes-to-ice-growth-edge-to-ndaq-93CH-4960814",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL8E0TZ_L.jpg",
-      "published": "2026-10-20T17:39:30+00:00"
-    },
-    {
-      "h": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-      "es": "La búsqueda de seguridad por parte de los inversores ha hecho que las acciones de pasta de dientes sean más caras que las tecnológicas",
-      "d": "Wall Street está huyendo de la tecnología por pasta de dientes y champú. Incluso esas acciones se están volviendo caras.",
-      "u": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-59145136",
-      "published": "2026-10-20T17:38:00+00:00"
-    },
-    {
-      "h": "Meta tells Brazil court it treats Lula and Bolsonaro campaigns equally",
-      "es": "Meta dice a tribunal brasileño que trata las campañas de Lula y Bolsonaro por igual",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-treats-lula-and-bolsonaro-campaigns-equally-4960806",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1KC_L.jpg",
-      "published": "2026-10-20T17:36:20+00:00"
-    },
-    {
-      "h": "CME vs CBOE: comparing growth, income, and valuation",
-      "es": "CME vs CBOE: comparando crecimiento, ingresos y valoración",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cme-vs-cboe-comparing-growth-income-and-valuation-93CH-4960803",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CboeGlobalMarkets_800x533_L_1675583597.jpg",
-      "published": "2026-10-20T17:35:23+00:00"
-    },
-    {
-      "h": "Meta tells Brazil court it ensures equal treatment of campaigns",
-      "es": "Meta dice a tribunal brasileño que garantiza igualdad de trato a las campañas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-ensures-equal-treatment-of-campaigns-93CH-4960798",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/23b3a6d7de6b510be2b9089fe2badb41_M.jpg",
-      "published": "2026-10-20T17:33:46+00:00"
-    },
-    {
-      "h": "UK government to make Jackdaw gas field announcement",
-      "es": "El gobierno del Reino Unido hará un anuncio sobre el campo de gas Jackdaw",
-      "d": "El miércoles por la mañana se espera la decisión tan esperada sobre el controvertido campo del Mar del Norte.",
-      "u": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
-      "published": "2026-10-20T17:33:42+00:00"
-    },
-    {
-      "h": "Starboard’s Smith unveils stake in Solstice, presses for improvements",
-      "es": "Smith de Starboard revela su participación en Solstice y presiona para lograr mejoras",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starboards-smith-unveils-stake-in-solstice-presses-for-improvements-4960628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1B6_L.jpg",
-      "published": "2026-10-20T17:30:26+00:00"
-    },
-    {
-      "h": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-      "es": "Si Elon Musk regala acciones de SpaceX a través de Cuentas Trump, tendrá un problema",
-      "d": "La donación de acciones de SpaceX planificada por Elon Musk podría venir con condiciones si utiliza Cuentas Trump. Las nuevas reglas del Tesoro limitan cuándo los niños pueden vender acciones.",
-      "u": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T17:29:38+00:00"
-    },
-    {
-      "h": "Ananym Capital takes stake in CTS Eventim, calls it undervalued",
-      "es": "Ananym Capital adquiere participación en CTS Eventim y la considera infravalorada",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ananym-capital-takes-stake-in-cts-eventim-calls-it-undervalued-4960790",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CTSEventim_800x533_L_1616666086.jpg",
-      "published": "2026-10-20T17:27:40+00:00"
-    },
-    {
-      "h": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "es": "Mi pareja de 17 años me dejó su casa de 1 millón de dólares. Sus hijos dicen que yo lo influí para que lo hiciera. ¿Debo compartir mi herencia?",
-      "d": "“Nunca pagué alquiler, aunque invertí alrededor de $45,000 en una nueva cocina y un techo”.",
-      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-96138879",
-      "published": "2026-10-20T17:15:00+00:00"
     }
   ],
   "sources": [
