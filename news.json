@@ -1,6 +1,186 @@
 {
-  "updated": "2026-10-20T12:14:30.711774+00:00",
+  "updated": "2026-10-20T13:06:26.851869+00:00",
   "news": [
+    {
+      "h": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+      "es": "Las acciones de los centros de datos caen mientras la OPI de Corea cae un 30%, presionando el sentimiento tecnológico",
+      "d": "Las acciones de Neocloud vuelven a caer tras los problemas del sector la semana pasada",
+      "u": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:03:55+00:00"
+    },
+    {
+      "h": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+      "es": "Reino Unido desplegará aviones de combate para defender las ciudades sauditas de los ataques hutíes",
+      "d": "La Royal Air Force del Reino Unido desplegará aviones para ayudar en operaciones defensivas, pero no participará en ataques ofensivos.",
+      "u": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:58:24+00:00"
+    },
+    {
+      "h": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
+      "es": "Meta ha vuelto a la ofensiva y su próximo movimiento podría indicar un mayor gasto en inteligencia artificial en las grandes empresas tecnológicas.",
+      "d": "Meta podría ser la primera gran empresa tecnológica en esta temporada de resultados en presagiar unos costes de IA superiores a los esperados para el próximo año.",
+      "u": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-43318207",
+      "published": "2026-10-20T12:56:00+00:00"
+    },
+    {
+      "h": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+      "es": "Los inversores buscan ganancias para restablecer el mercado alcista. El nivel clave a tener en cuenta en el S&P 500",
+      "d": "El nivel clave que los operadores están observando en el S&P 500 podría significar que se avecina una caída aún mayor.",
+      "u": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:52:29+00:00"
+    },
+    {
+      "h": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "es": "El medicamento contra la obesidad de próxima generación de Novo muestra una pérdida de peso del 25% en mujeres en un análisis de última etapa",
+      "d": "Novo publicó nueva evidencia de que su inyección experimental CagriSema puede mejorar la pérdida de peso con su exitosa inyección de GLP-1 para la obesidad, Wegovy.",
+      "u": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:50:24+00:00"
+    },
+    {
+      "h": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+      "es": "Best Buy lanza un nuevo centro de juegos antes de 'Zelda' y 'Grand Theft Auto VI'",
+      "d": "Best Buy está lanzando una nueva experiencia de juego para los clientes a medida que se inclina hacia el negocio antes de los grandes lanzamientos de este otoño.",
+      "u": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:45:30+00:00"
+    },
+    {
+      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
+      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-20T12:44:27+00:00"
+    },
+    {
+      "h": "European stocks extend slide as French unrest triggers de-risking",
+      "es": "Las bolsas europeas prolongan su caída mientras los disturbios en Francia desencadenan la reducción de riesgos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-10-20T12:40:46+00:00"
+    },
+    {
+      "h": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
+      "es": "Los futuros del S&P y Nasdaq 100 caen a medida que el comercio de IA enfrenta una presión renovada y el petróleo supera los 110 dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-20T12:40:40+00:00"
+    },
+    {
+      "h": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "es": "Las familias en duelo podrían enfrentarse a una factura fiscal \"injusta\" tras los retrasos en las pensiones de la administración pública",
+      "d": "El presidente del Comité de Cuentas Públicas del Parlamento dice que las familias no deberían pagar impuestos sin que sea culpa suya.",
+      "u": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg",
+      "published": "2026-10-20T12:36:43+00:00"
+    },
+    {
+      "h": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
+      "es": "Las acciones estadounidenses se recuperan ante la prueba de ganancias de IA por delante, el euro cae por los disturbios en Francia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
+      "published": "2026-10-20T12:36:22+00:00"
+    },
+    {
+      "h": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
+      "es": "Jefferies rebaja la calificación de Zoetis y Elanco por riesgo de fijación de precios; prefiere IDEXX",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL740NT_L.jpg",
+      "published": "2026-10-20T12:36:11+00:00"
+    },
+    {
+      "h": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
+      "es": "El colapso de la oferta pública inicial de Elice pone a las acciones de infraestructura de IA bajo una nueva presión",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
+      "published": "2026-10-20T12:33:19+00:00"
+    },
+    {
+      "h": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
+      "es": "BofA Securities prefiere las empresas de semicapitalización como las mejores opciones por combinación, precios, NAND y ventajas de China",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL45106_L.jpg",
+      "published": "2026-10-20T12:33:13+00:00"
+    },
+    {
+      "h": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "es": "Los mercados de crédito han entrado en territorio inexplorado mientras los bonos basura de mayor riesgo envían una advertencia a los inversores",
+      "d": "Los mercados de crédito están enviando mensajes inusualmente contradictorios a los inversores en este momento, y eso está poniendo nerviosa a algunas personas.",
+      "u": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94180621",
+      "published": "2026-10-20T12:29:00+00:00"
+    },
+    {
+      "h": "Why is Halliburton stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Halliburton hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-20T12:26:55+00:00"
+    },
+    {
+      "h": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
+      "es": "Cartera de acciones de 4.300 millones de dólares de Harvard Endowment: más de la mitad en una empresa espacial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM541II_1200_L.jpg",
+      "published": "2026-10-20T12:26:17+00:00"
+    },
+    {
+      "h": "Salesforce to acquire Braze in a $5.66 billion deal",
+      "es": "Salesforce adquirirá Braze en un acuerdo de 5.660 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10C_L.jpg",
+      "published": "2026-10-20T12:24:57+00:00"
+    },
+    {
+      "h": "China’s CATL profit growth slows in third quarter as competition intensifies",
+      "es": "El crecimiento de las ganancias de CATL de China se desacelera en el tercer trimestre a medida que se intensifica la competencia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinas-catl-profit-growth-slows-in-third-quarter-as-competition-intensifies-4959970",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10P_L.jpg",
+      "published": "2026-10-20T12:24:26+00:00"
+    },
+    {
+      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
+      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
+      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58890018",
+      "published": "2026-10-20T12:15:00+00:00"
+    },
     {
       "h": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
       "es": "¿Qué sucede con Wall Street si CoreWeave incumple? JPMorgan revisó los cálculos.",
@@ -90,186 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a6/live/9cd3f910-cc7a-11f1-bed8-c51b95c602ec.jpg",
       "published": "2026-10-20T11:59:50+00:00"
-    },
-    {
-      "h": "Spanish bank index falls 9% since yield jump; Jefferies shifts ratings",
-      "es": "El índice bancario español cae un 9% desde el salto de rendimiento; Jefferies cambia las calificaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spanish-bank-index-falls-9-since-yield-jump-jefferies-shifts-ratings-4959866",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-20T11:58:47+00:00"
-    },
-    {
-      "h": "Wendy’s business outlook: a reset, not yet a recovery",
-      "es": "Perspectivas comerciales de Wendy's: un reinicio, aún no una recuperación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wendys-business-outlook-a-reset-not-yet-a-recovery-93CH-4959865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Wendys_800x533_L_1598193975.jpg",
-      "published": "2026-10-20T11:58:01+00:00"
-    },
-    {
-      "h": "Global chip stocks tumble on AI investment worries",
-      "es": "Las acciones mundiales de chips caen por las preocupaciones sobre la inversión en IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-tracking-asian-selloff-over-ai-investment-worries-4959012",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM320EG_L.jpg",
-      "published": "2026-10-20T11:57:21+00:00"
-    },
-    {
-      "h": "When do chip stocks tend to peak? Analyst examines historical returns",
-      "es": "¿Cuándo tienden a alcanzar su punto máximo las existencias de chips? Analista examina rentabilidades históricas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/when-do-chip-stocks-tend-to-peak-analyst-examines-historical-returns-4959861",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4R12O_L.jpg",
-      "published": "2026-10-20T11:55:42+00:00"
-    },
-    {
-      "h": "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
-      "es": "Zelenskiy se reunirá con Witkoff mientras Trump elogia a Rusia y reprende a Ucrania",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0Q5_L.jpg",
-      "published": "2026-10-20T11:54:36+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
-      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-20T11:41:00+00:00"
-    },
-    {
-      "h": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-      "es": "El repunte de la IA se desvanece en Wall Street a medida que una pequeña IPO genera grandes olas",
-      "d": "Estas son las cosas clave que los inversores deben saber para comenzar el día de negociación.",
-      "u": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T11:34:03+00:00"
-    },
-    {
-      "h": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
-      "es": "El auge de la IA está acaparando toda la atención. Estamos a punto de descubrir cómo se está comportando el resto de la economía.",
-      "d": "La temporada de resultados se acelera, con nuevas pistas sobre el gasto de los consumidores y la salud de las empresas estadounidenses más allá del sector tecnológico.",
-      "u": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-01876000",
-      "published": "2026-10-20T11:30:00+00:00"
-    },
-    {
-      "h": "Jobless rate falls but small firms cut back hiring",
-      "es": "La tasa de desempleo cae, pero las pequeñas empresas reducen la contratación",
-      "d": "Las pequeñas empresas citan los costos laborales como un factor clave para reducir la contratación, dice la Oficina de Estadísticas Nacionales.",
-      "u": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
-      "published": "2026-10-20T11:26:48+00:00"
-    },
-    {
-      "h": "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investment",
-      "es": "Las acciones de Hertz suben un 5 % mientras la filial Oro Mobility consigue una inversión estratégica de 80 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hertz-shares-jump-5-as-subsidiary-oro-mobility-secures-80m-strategic-investment-4959756",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-20T11:22:50+00:00"
-    },
-    {
-      "h": "£30 rise in payments for crisis-hit households",
-      "es": "Aumento de £30 en los pagos para los hogares afectados por la crisis",
-      "d": "Se pone a disposición más dinero a través de un fondo de resiliencia para hogares en apuros en Sheffield.",
-      "u": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/848a/live/94646ce0-cc77-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T11:19:22+00:00"
-    },
-    {
-      "h": "TSX futures inch down as traders eye Bank of Canada rate path",
-      "es": "Los futuros del TSX caen lentamente a medida que los operadores observan la trayectoria de las tasas del Banco de Canadá",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-down-as-traders-eye-bank-of-canada-rate-path-4959494",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEGBN0PZ-OCABS_L.jpg",
-      "published": "2026-10-20T11:18:09+00:00"
-    },
-    {
-      "h": "Barclays cuts Vodafone on AI threats to earnings and German market exposure",
-      "es": "Barclays recorta Vodafone por amenazas de IA a sus ganancias y exposición al mercado alemán",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/barclays-cuts-vodafone-on-ai-threats-to-earnings-and-german-market-exposure-4959721",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA610E0_M.jpg",
-      "published": "2026-10-20T11:15:20+00:00"
-    },
-    {
-      "h": "US holds Nevada geothermal auction amid soaring industry interest",
-      "es": "Estados Unidos celebra subasta geotérmica en Nevada en medio del creciente interés de la industria",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-holds-nevada-geothermal-auction-amid-soaring-industry-interest-4959718",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-20T11:14:14+00:00"
-    },
-    {
-      "h": "Brazil’s Azul sees longer recovery as fuel costs squeeze margins after Chapter 11",
-      "es": "Azul de Brasil ve una recuperación más prolongada a medida que los costos del combustible reducen los márgenes después del Capítulo 11",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazils-azul-sees-longer-recovery-as-fuel-costs-squeeze-margins-after-chapter-11-4959241",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0MW_L.jpg",
-      "published": "2026-10-20T11:14:13+00:00"
-    },
-    {
-      "h": "Exclusive-Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
-      "es": "Exclusivo-Qualcomm recortará empleos en todo el mundo en despidos centrados en el desempeño, según muestra un memorando interno",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivequalcomm-to-cut-jobs-worldwide-in-performancefocused-layoffs-internal-memo-shows-4959717",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0VI_L.jpg",
-      "published": "2026-10-20T11:13:27+00:00"
-    },
-    {
-      "h": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
-      "es": "Prudential vende unidades de Brasil y México a CNP por 4.000 millones de dólares mientras reduce su enfoque",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0UY_L.jpg",
-      "published": "2026-10-20T11:13:10+00:00"
-    },
-    {
-      "h": "Premarket movers: RTX rises, GE slips following quarterly results",
-      "es": "Motores previos a la comercialización: RTX sube, GE cae tras los resultados trimestrales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-rtx-rises-ge-slips-following-quarterly-results-4959693",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-20T11:13:01+00:00"
-    },
-    {
-      "h": "RTX lifts 2026 forecasts as aerospace, defense demand drives record backlog",
-      "es": "RTX eleva las previsiones para 2026 a medida que la demanda aeroespacial y de defensa genera un retraso récord",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rtx-lifts-2026-forecasts-as-aerospace-defense-demand-drives-record-backlog-4959691",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0VO_L.jpg",
-      "published": "2026-10-20T11:12:53+00:00"
-    },
-    {
-      "h": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-      "es": "Los coágulos de sangre son \"increíblemente comunes\", incluso para atletas profesionales como Jalen Hurts. Esto es lo que debe saber.",
-      "d": "Las investigaciones han descubierto que los atletas profesionales pueden tardar más de seis meses en volver a jugar después de haber sido tratados por una trombosis venosa profunda o una embolia pulmonar.",
-      "u": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-17770791",
-      "published": "2026-10-20T11:11:00+00:00"
     }
   ],
   "sources": [
