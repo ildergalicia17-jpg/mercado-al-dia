@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-20T05:36:38.416194+00:00",
+  "updated": "2026-10-20T06:09:15.728493+00:00",
   "news": [
+    {
+      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.26%",
+      "es": "Las bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 1,26%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-126-4958821",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE0O0L4_M.jpg",
+      "published": "2026-10-20T06:00:05+00:00"
+    },
+    {
+      "h": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+      "es": "El cobre está eclipsando al oro este año. Los inversores dicen que el repunte puede sobrevivir a una corrección de la IA",
+      "d": "El cobre aumentará un 15,8% en 2026, ya que los inversores señalan la demanda de inteligencia artificial, redes y seguridad nacional, la escasez de oferta y las reservas estadounidenses impulsadas por los aranceles.",
+      "u": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T05:57:34+00:00"
+    },
+    {
+      "h": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.33%",
+      "es": "Las bolsas de valores de Australia cierran a la baja; El S&P/ASX 200 cae un 0,33%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-033-4958781",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAL00X_M.jpg",
+      "published": "2026-10-20T05:30:05+00:00"
+    },
     {
       "h": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
       "es": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
@@ -27,6 +54,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0O3_L.jpg",
       "published": "2026-10-20T05:12:38+00:00"
+    },
+    {
+      "h": "How is the US economy really doing under President Trump?",
+      "es": "¿Cómo le está yendo realmente a la economía estadounidense bajo el presidente Trump?",
+      "d": "Antes de las elecciones intermedias, Trump se jactó del desempeño de la economía estadounidense. BBC Verify analiza la inflación, el empleo y el crecimiento económico en el país.",
+      "u": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg",
+      "published": "2026-10-20T05:00:45+00:00"
     },
     {
       "h": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM54006_L.jpg",
       "published": "2026-10-20T01:03:03+00:00"
-    },
-    {
-      "h": "Trump geothermal lease sale collides with planned Nevada solar farms",
-      "es": "La venta de arrendamiento geotérmico de Trump choca con los parques solares planificados en Nevada",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-geothermal-lease-sale-collides-with-planned-nevada-solar-farms-4957024",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YX_L.jpg",
-      "published": "2026-10-20T00:54:26+00:00"
-    },
-    {
-      "h": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
-      "es": "Los futuros de las acciones estadounidenses se mantienen estables tras el repunte de Wall Street gracias a la recuperación tecnológica",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-20T00:51:19+00:00"
-    },
-    {
-      "h": "Three big takeaways from the IMF-World Bank meetings",
-      "es": "Tres grandes conclusiones de las reuniones del FMI y el Banco Mundial",
-      "d": "La deuda, AI y Ucrania dominaron la conversación en las reuniones del FMI y el Banco Mundial en Bangkok, mientras que China, el foco de atención en 2018, pasó a un segundo plano.",
-      "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T00:33:34+00:00"
-    },
-    {
-      "h": "BHP Q1 copper output falls 19% on lower grades, disruptions",
-      "es": "La producción de cobre de BHP en el primer trimestre cae un 19% por menores leyes e interrupciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bhp-q1-copper-output-falls-19-on-lower-grades-disruptions-4958568",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/BHPGroup_800x533_L_1614011465.jpg",
-      "published": "2026-10-20T00:21:26+00:00"
     }
   ],
   "sources": [
