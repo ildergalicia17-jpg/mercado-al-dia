@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-20T01:01:35.818675+00:00",
+  "updated": "2026-10-20T01:38:14.756032+00:00",
   "news": [
+    {
+      "h": "SK Hynix plunges with RSI at 19.94 in fierce downtrend: Live",
+      "es": "SK Hynix se hunde con el RSI en 19,94 en una feroz tendencia bajista: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-20T01:05:42+00:00"
+    },
+    {
+      "h": "Nikkei 225 pivots at 64,350 with RSI nearing oversold: Live levels",
+      "es": "Nikkei 225 gira a 64.350 con el RSI acercándose a la sobreventa: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-20T01:05:37+00:00"
+    },
+    {
+      "h": "OpenAI races to raise $30 bln ahead of Anthropic IPO, Reuters reports",
+      "es": "OpenAI se apresura a recaudar 30.000 millones de dólares antes de la oferta pública inicial de Anthropic, informa Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-races-to-raise-30-bln-ahead-of-anthropic-ipo-reuters-reports-4958611",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM54006_L.jpg",
+      "published": "2026-10-20T01:03:03+00:00"
+    },
+    {
+      "h": "Trump geothermal lease sale collides with planned Nevada solar farms",
+      "es": "La venta de arrendamiento geotérmico de Trump choca con los parques solares planificados en Nevada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-geothermal-lease-sale-collides-with-planned-nevada-solar-farms-4957024",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YX_L.jpg",
+      "published": "2026-10-20T00:54:26+00:00"
+    },
+    {
+      "h": "U.S. stock futures steady after Wall Street rebounds on tech recovery",
+      "es": "Los futuros de las acciones estadounidenses se mantienen estables tras el repunte de Wall Street gracias a la recuperación tecnológica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-20T00:51:19+00:00"
+    },
+    {
+      "h": "Three big takeaways from the IMF-World Bank meetings",
+      "es": "Tres grandes conclusiones de las reuniones del FMI y el Banco Mundial",
+      "d": "La deuda, AI y Ucrania dominaron la conversación en las reuniones del FMI y el Banco Mundial en Bangkok, mientras que China, el foco de atención en 2018, pasó a un segundo plano.",
+      "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T00:33:34+00:00"
+    },
     {
       "h": "BHP Q1 copper output falls 19% on lower grades, disruptions",
       "es": "La producción de cobre de BHP en el primer trimestre cae un 19% por menores leyes e interrupciones",
@@ -54,6 +108,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
       "published": "2026-10-19T23:00:21+00:00"
+    },
+    {
+      "h": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+      "es": "Boletín The China Connection de CNBC: Navegando en un mundo lleno de tecnología",
+      "d": "Mientras economistas y ex banqueros centrales debaten sobre tecnología y política monetaria en la Cumbre del Bund, las empresas están avanzando más rápido para captar nuevos ingresos.",
+      "u": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-19T23:00:02+00:00"
     },
     {
       "h": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1VJ_L.jpg",
       "published": "2026-10-19T21:24:37+00:00"
-    },
-    {
-      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.10%",
-      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,10%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1523197619.jpg",
-      "published": "2026-10-19T21:20:03+00:00"
-    },
-    {
-      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
-      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
-      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04384503",
-      "published": "2026-10-19T21:15:00+00:00"
-    },
-    {
-      "h": "Why is Tradeweb Markets stock rising after-hours today?",
-      "es": "¿Por qué las acciones de Tradeweb Markets están subiendo hoy fuera de horario?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-tradeweb-markets-stock-rising-afterhours-today-93CH-4958385",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-19T21:13:21+00:00"
-    },
-    {
-      "h": "Why is Bitdeer Technologies stock rallying after the close today?",
-      "es": "¿Por qué las acciones de Bitdeer Technologies están subiendo después del cierre de hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-rallying-after-the-close-today-93CH-4958384",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-19T21:13:10+00:00"
-    },
-    {
-      "h": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "es": "Ex trabajador de OpenAI acusado de plantar un dispositivo contó con el apoyo de Arabia Saudita, según un documento judicial",
-      "d": "El gobierno saudita no respondió de inmediato a las solicitudes de comentarios de la BBC.",
-      "u": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-      "published": "2026-10-19T21:12:30+00:00"
-    },
-    {
-      "h": "Why is Crown stock sliding after-hours today?",
-      "es": "¿Por qué las acciones de Crown están cayendo hoy fuera de horario?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-19T21:10:17+00:00"
-    },
-    {
-      "h": "Why is Steel Dynamics stock sliding today?",
-      "es": "¿Por qué las acciones de Steel Dynamics están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4958379",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-19T21:09:42+00:00"
     }
   ],
   "sources": [
