@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-20T08:13:05.291684+00:00",
+  "updated": "2026-10-20T08:54:00.121014+00:00",
   "news": [
+    {
+      "h": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+      "es": "Los toques de queda en Francia calman los disturbios mientras Macron enfrenta críticas por su viaje al Golfo",
+      "d": "El primer ministro Sébastien Lecornu dijo el martes que algunas zonas permanecerían bajo toque de queda después de un fin de semana de disturbios violentos.",
+      "u": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T08:48:33+00:00"
+    },
+    {
+      "h": "Indonesia stocks rebound 4.8% after new market measures",
+      "es": "Las acciones de Indonesia repuntan un 4,8% tras nuevas medidas de mercado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-rebound-48-after-new-market-measures-93CH-4959166",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-20T08:38:21+00:00"
+    },
+    {
+      "h": "Why is Schneider Electric stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Schneider Electric hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-schneider-electric-stock-sliding-today-93CH-4959160",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-20T08:36:29+00:00"
+    },
+    {
+      "h": "Investors hedge AI boom with credit default swaps on tech debt",
+      "es": "Los inversores protegen el auge de la IA con swaps de incumplimiento crediticio sobre deuda tecnológica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/investors-hedge-ai-boom-with-credit-default-swaps-on-tech-debt-93CH-4959158",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+      "published": "2026-10-20T08:35:38+00:00"
+    },
+    {
+      "h": "Italy’s top court reviews steelworks shutdown case",
+      "es": "El máximo tribunal de Italia revisa el caso de cierre de una acería",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/italys-top-court-reviews-steelworks-shutdown-case-93CH-4959157",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/JSW_800x533_L_1499603420.jpg",
+      "published": "2026-10-20T08:35:29+00:00"
+    },
+    {
+      "h": "What is the Budget and what could be in it?",
+      "es": "¿Qué es el Presupuesto y qué podría contener?",
+      "d": "El Canciller John Healey expondrá sus planes en materia de impuestos en el Reino Unido el 28 de octubre.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+      "published": "2026-10-20T08:31:36+00:00"
+    },
+    {
+      "h": "GB Group shares fall as H1 profit drops, Americas writedown flagged",
+      "es": "Las acciones de GB Group caen a medida que caen las ganancias del primer semestre, se señala la amortización en América",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gb-group-shares-fall-as-h1-profit-drops-americas-writedown-flagged-93CH-4959143",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-20T08:30:51+00:00"
+    },
+    {
+      "h": "Why is W. R. Berkley stock sliding today?",
+      "es": "¿Por qué están cayendo hoy las acciones de W. R. Berkley?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-w-r-berkley-stock-sliding-today-93CH-4959140",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-20T08:30:47+00:00"
+    },
+    {
+      "h": "Why is Italian Sea Group stock sinking today?",
+      "es": "¿Por qué se están hundiendo hoy las acciones de Italian Sea Group?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-italian-sea-group-stock-sinking-today-93CH-4959139",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-20T08:30:32+00:00"
+    },
+    {
+      "h": "Indonesia stocks higher at close of trade; IDX Composite Index up 4.63%",
+      "es": "Las bolsas de Indonesia cierran al alza; El índice compuesto IDX sube un 4,63%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-463-4959135",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/IndonesiaStockExchange_800x533_L_1743078574.jpg",
+      "published": "2026-10-20T08:30:04+00:00"
+    },
+    {
+      "h": "Why is Steel Dynamics stock sliding today?",
+      "es": "¿Por qué las acciones de Steel Dynamics están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4959134",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-20T08:27:21+00:00"
+    },
+    {
+      "h": "Why is 3M stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de 3M hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-3m-stock-surging-today-93CH-4959133",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAQ1JF_M.jpg",
+      "published": "2026-10-20T08:26:19+00:00"
+    },
+    {
+      "h": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+      "es": "Es un mercado inmobiliario difícil y Goldman Sachs espera que empeore",
+      "d": "Por muy malo que sea para el mercado inmobiliario (inicios y transacciones básicamente sin cambios durante los últimos tres años con tasas hipotecarias superiores al 7%), puede empeorar aún más.",
+      "u": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-61872761",
+      "published": "2026-10-20T08:13:00+00:00"
+    },
     {
       "h": "Daiwa, Mizuho cleared to launch China securities units - Bloomberg",
       "es": "Daiwa y Mizuho autorizados a lanzar unidades de valores en China - Bloomberg",
@@ -153,123 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
       "published": "2026-10-20T06:50:52+00:00"
-    },
-    {
-      "h": "Job vacancies fall as small firms cut back on recruitment",
-      "es": "Las ofertas de empleo caen a medida que las pequeñas empresas reducen la contratación",
-      "d": "Las pequeñas empresas citan los costos laborales como un factor clave para reducir la contratación, dice la Oficina de Estadísticas Nacionales.",
-      "u": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
-      "published": "2026-10-20T06:49:02+00:00"
-    },
-    {
-      "h": "Sabre keeps 2026 profit guidance as nine-month premiums rise 14.3%",
-      "es": "Sabre mantiene su guía de ganancias para 2026 mientras las primas a nueve meses aumentan un 14,3%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sabre-keeps-2026-profit-guidance-as-ninemonth-premiums-rise-143-4958928",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-20T06:44:54+00:00"
-    },
-    {
-      "h": "AstraZeneca partners with Oracle on AI clinical research",
-      "es": "AstraZeneca se asocia con Oracle en investigación clínica de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-partners-with-oracle-on-ai-clinical-research-93CH-4958907",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7L0UO_M.jpg",
-      "published": "2026-10-20T06:33:03+00:00"
-    },
-    {
-      "h": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "es": "Burnham promete poner fin a las 'estafas de cargos de estacionamiento' bajo las nuevas reglas",
-      "d": "Las sanciones se consideran demasiado severas para los automovilistas que son sancionados por estacionar en terrenos privados.",
-      "u": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T06:28:27+00:00"
-    },
-    {
-      "h": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-      "es": "Estados Unidos prohíbe DeepSeek en los sistemas de agencias gubernamentales en medio de una ruptura de IA con China",
-      "d": "El Departamento de Seguridad Nacional de EE. UU. ha prohibido la tecnología relacionada con DeepSeek en los sistemas de TI de agencias civiles federales.",
-      "u": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T06:25:26+00:00"
-    },
-    {
-      "h": "Oil majors face spending test from Iran war windfall cash",
-      "es": "Las grandes petroleras se enfrentan a una prueba de gasto gracias al dinero extraordinario de la guerra de Irán",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oil-majors-face-spending-test-from-iran-war-windfall-cash-4958834",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0C8_L.jpg",
-      "published": "2026-10-20T06:13:14+00:00"
-    },
-    {
-      "h": "Activist Starboard prepares to nominate directors at Knife River, sources say",
-      "es": "El activista Starboard se prepara para nominar directores en Knife River, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/activist-starboard-prepares-to-nominate-directors-at-knife-river-sources-say-4958261",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TW_L.jpg",
-      "published": "2026-10-20T06:12:26+00:00"
-    },
-    {
-      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.26%",
-      "es": "Las bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 1,26%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-126-4958821",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE0O0L4_M.jpg",
-      "published": "2026-10-20T06:00:05+00:00"
-    },
-    {
-      "h": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-      "es": "El cobre está eclipsando al oro este año. Los inversores dicen que el repunte puede sobrevivir a una corrección de la IA",
-      "d": "El cobre aumentará un 15,8% en 2026, ya que los inversores señalan la demanda de inteligencia artificial, redes y seguridad nacional, la escasez de oferta y las reservas estadounidenses impulsadas por los aranceles.",
-      "u": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T05:57:34+00:00"
-    },
-    {
-      "h": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.33%",
-      "es": "Las bolsas de valores de Australia cierran a la baja; El S&P/ASX 200 cae un 0,33%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-033-4958781",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAL00X_M.jpg",
-      "published": "2026-10-20T05:30:05+00:00"
-    },
-    {
-      "h": "The world’s finance chiefs see new risks — and less China angst",
-      "es": "Los jefes de finanzas del mundo ven nuevos riesgos y menos angustia por China",
-      "d": "La deuda, AI y Ucrania dominaron la conversación en las reuniones del FMI y el Banco Mundial en Bangkok, mientras que China, el foco de atención en 2018, pasó a un segundo plano.",
-      "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T05:27:53+00:00"
-    },
-    {
-      "h": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
-      "es": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/volkswagen-bet-on-xpeng-to-save-its-china-business-its-not-going-to-plan-4958774",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J098_L.jpg",
-      "published": "2026-10-20T05:24:22+00:00"
-    },
-    {
-      "h": "Food aid charity under pressure from fuel costs",
-      "es": "Food aid charity under pressure from fuel costs",
-      "d": "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need.",
-      "u": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1b5/live/fe0e34a0-c6ff-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-20T05:15:16+00:00"
     }
   ],
   "sources": [
