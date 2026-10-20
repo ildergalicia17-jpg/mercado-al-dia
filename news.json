@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-20T13:06:26.851869+00:00",
+  "updated": "2026-10-20T13:48:40.230026+00:00",
   "news": [
+    {
+      "h": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
+      "es": "Mi pareja soltera durante 17 años me dejó su casa de 1,1 millones de dólares. Sus hijos lloran mal. ¿Debo compartir mi herencia?",
+      "d": "“Nunca pagué alquiler, aunque invertí alrededor de $45,000 en una nueva cocina y un techo”.",
+      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96138879",
+      "published": "2026-10-20T13:45:00+00:00"
+    },
+    {
+      "h": "Apple shares aren't cheap. Here's how to get long for less",
+      "es": "Las acciones de Apple no son baratas. He aquí cómo alargar el tiempo por menos",
+      "d": "El principal obstáculo para Apple es la valoración.",
+      "u": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:43:53+00:00"
+    },
+    {
+      "h": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+      "es": "Salesforce anuncia un acuerdo de 5.660 millones de dólares para Braze, lo que hace que las acciones de BRZE se disparen un 50%",
+      "d": "Se espera que la última adquisición de la compañía se cierre en el año fiscal 2028 y los accionistas de Braze recibirán 47,50 dólares en efectivo por acción.",
+      "u": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:41:30+00:00"
+    },
+    {
+      "h": "SpaceX reports after the bell. Here's what options traders expect",
+      "es": "SpaceX informa después de la campana. Esto es lo que esperan los operadores de opciones",
+      "d": "Han sido tres meses muy ocupados para SpaceX. Los operadores creen que eso significa más ganancias para la acción después de que informe sus ganancias después de la campana de hoy.",
+      "u": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:40:28+00:00"
+    },
+    {
+      "h": "FTSE 100 today: Stocks extend losses as oil hits 5-month high on Hormuz risk",
+      "es": "FTSE 100 hoy: Las acciones amplían las pérdidas a medida que el petróleo alcanza un máximo de 5 meses por el riesgo de Ormuz",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-french-unrest-iran-tensions-weigh-4959010",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7O0CS_M.jpg",
+      "published": "2026-10-20T13:24:09+00:00"
+    },
+    {
+      "h": "Meet the college students trying to reverse an obscure ban on trading onion futures",
+      "es": "Conozca a los estudiantes universitarios que intentan revertir una oscura prohibición sobre el comercio de futuros de cebolla",
+      "d": "En Estados Unidos, los inversores pueden negociar legalmente contratos de futuros vinculados a todo tipo de productos básicos, desde panza de cerdo hasta petróleo y la potencia informática necesaria para impulsar modelos de inteligencia artificial.",
+      "u": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-87106890",
+      "published": "2026-10-20T13:24:00+00:00"
+    },
+    {
+      "h": "Amazon to hire over 300,000 holiday workers, up 20% from last year",
+      "es": "Amazon contratará a más de 300.000 trabajadores vacacionales, un 20% más que el año pasado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-to-hire-over-300000-holiday-workers-up-20-from-last-year-4960284",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL380TN_L.jpg",
+      "published": "2026-10-20T13:22:20+00:00"
+    },
+    {
+      "h": "Why is Amazon stock volatile today?",
+      "es": "¿Por qué las acciones de Amazon son volátiles hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-volatile-today-93CH-4960276",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/amazon_M_1440049058.jpg",
+      "published": "2026-10-20T13:20:49+00:00"
+    },
+    {
+      "h": "Why is Lumentum stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Lumentum hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-sliding-today-93CH-4960268",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-20T13:19:43+00:00"
+    },
+    {
+      "h": "Why is Coherent stock sliding today?",
+      "es": "¿Por qué las acciones de Coherent están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-sliding-today-93CH-4960266",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-20T13:19:22+00:00"
+    },
+    {
+      "h": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "es": "Las universidades se apresuraron a construir enormes departamentos de informática. Ahora el auge se está convirtiendo en quiebra.",
+      "d": "\"La informática no es el billete hacia el sueño americano como la gente pensaba\".",
+      "u": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39955150",
+      "published": "2026-10-20T13:18:00+00:00"
+    },
+    {
+      "h": "Why is Kazia Therapeutics stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Kazia Therapeutics hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kazia-therapeutics-stock-rallying-today-93CH-4960258",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-20T13:17:52+00:00"
+    },
+    {
+      "h": "Why is Kestra Medical stock gaining today?",
+      "es": "¿Por qué están ganando las acciones de Kestra Medical hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kestra-medical-stock-gaining-today-93CH-4960256",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-20T13:16:21+00:00"
+    },
+    {
+      "h": "Q3 Preview: Mizuho Picks Top Electrical Equipment & Multi-Industry Stocks",
+      "es": "Vista previa del tercer trimestre: Mizuho elige las principales acciones multiindustriales y de equipos eléctricos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/q3-preview-mizuho-picks-top-electrical-equipment--multiindustry-stocks-4960255",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC710I9_M.jpg",
+      "published": "2026-10-20T13:16:16+00:00"
+    },
+    {
+      "h": "Why is Liberty Global stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Liberty Global hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-liberty-global-stock-rallying-today-93CH-4960245",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-20T13:15:28+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70454413",
+      "published": "2026-10-20T13:15:00+00:00"
+    },
+    {
+      "h": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+      "es": "El petróleo crudo estadounidense supera los 105 dólares y el crudo Brent alcanza máximos de cinco meses en medio de tensiones en Medio Oriente",
+      "d": "El petróleo amplió su repunte el martes mientras los inversores seguían atentos a los acontecimientos en Oriente Medio.",
+      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:11:31+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "es": "Las 10 principales cosas a tener en cuenta en el mercado de valores de Jim Cramer el martes",
+      "d": "Los futuros del Nasdaq están bajo presión esta mañana y General Motors está vendiendo sus ganancias.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:05:15+00:00"
+    },
     {
       "h": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
       "es": "Las acciones de los centros de datos caen mientras la OPI de Corea cae un 30%, presionando el sentimiento tecnológico",
@@ -9,6 +171,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-20T13:03:55+00:00"
+    },
+    {
+      "h": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+      "es": "El ex ejecutivo de OpenAI ha construido silenciosamente una startup de 1.500 millones de dólares, apostando a que la IA puede revivir la fabricación en EE. UU.",
+      "d": "El ex ejecutivo de OpenAI Bob McGrew está lanzando Arda por 1.500 millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T13:03:31+00:00"
     },
     {
       "h": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
@@ -99,177 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01C_L.jpg",
       "published": "2026-10-20T12:36:22+00:00"
-    },
-    {
-      "h": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
-      "es": "Jefferies rebaja la calificación de Zoetis y Elanco por riesgo de fijación de precios; prefiere IDEXX",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL740NT_L.jpg",
-      "published": "2026-10-20T12:36:11+00:00"
-    },
-    {
-      "h": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
-      "es": "El colapso de la oferta pública inicial de Elice pone a las acciones de infraestructura de IA bajo una nueva presión",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-20T12:33:19+00:00"
-    },
-    {
-      "h": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
-      "es": "BofA Securities prefiere las empresas de semicapitalización como las mejores opciones por combinación, precios, NAND y ventajas de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL45106_L.jpg",
-      "published": "2026-10-20T12:33:13+00:00"
-    },
-    {
-      "h": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-      "es": "Los mercados de crédito han entrado en territorio inexplorado mientras los bonos basura de mayor riesgo envían una advertencia a los inversores",
-      "d": "Los mercados de crédito están enviando mensajes inusualmente contradictorios a los inversores en este momento, y eso está poniendo nerviosa a algunas personas.",
-      "u": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-94180621",
-      "published": "2026-10-20T12:29:00+00:00"
-    },
-    {
-      "h": "Why is Halliburton stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Halliburton hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-20T12:26:55+00:00"
-    },
-    {
-      "h": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
-      "es": "Cartera de acciones de 4.300 millones de dólares de Harvard Endowment: más de la mitad en una empresa espacial",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM541II_1200_L.jpg",
-      "published": "2026-10-20T12:26:17+00:00"
-    },
-    {
-      "h": "Salesforce to acquire Braze in a $5.66 billion deal",
-      "es": "Salesforce adquirirá Braze en un acuerdo de 5.660 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10C_L.jpg",
-      "published": "2026-10-20T12:24:57+00:00"
-    },
-    {
-      "h": "China’s CATL profit growth slows in third quarter as competition intensifies",
-      "es": "El crecimiento de las ganancias de CATL de China se desacelera en el tercer trimestre a medida que se intensifica la competencia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinas-catl-profit-growth-slows-in-third-quarter-as-competition-intensifies-4959970",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10P_L.jpg",
-      "published": "2026-10-20T12:24:26+00:00"
-    },
-    {
-      "h": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "es": "Mi hermana se mudó con nuestra madre, de 78 años, y dice que merece la casa familiar de $925,000. ¿Tiene razón?",
-      "d": "\"La casa vale $925,000 y mamá es propietaria absoluta. También tiene $480,000 en inversiones\".",
-      "u": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-58890018",
-      "published": "2026-10-20T12:15:00+00:00"
-    },
-    {
-      "h": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
-      "es": "¿Qué sucede con Wall Street si CoreWeave incumple? JPMorgan revisó los cálculos.",
-      "d": "Llámelo una señal de los tiempos: un analista de JPMorgan está investigando la exposición que tendrán los bancos si CoreWeave incumple sus deudas.",
-      "u": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-94711622",
-      "published": "2026-10-20T12:10:00+00:00"
-    },
-    {
-      "h": "U.S. Treasury yields move lower as investors await housing data",
-      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. bajan mientras los inversores esperan los datos inmobiliarios",
-      "d": "Los rendimientos de los bonos del Tesoro estadounidense cayeron levemente el martes mientras los inversores esperaban datos económicos y sopesaban el contexto inflacionario antes de la decisión sobre las tasas la próxima semana.",
-      "u": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T12:08:44+00:00"
-    },
-    {
-      "h": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
-      "es": "Apple compromete hasta 100 millones de dólares para el titanio estadounidense en su impulso de fabricación nacional",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-commits-up-to-100-million-for-us-titanium-in-domestic-manufacturing-push-4959914",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J100_L.jpg",
-      "published": "2026-10-20T12:06:58+00:00"
-    },
-    {
-      "h": "Mexico revamps aviation regulator following US safety audit",
-      "es": "México renueva regulador de aviación tras auditoría de seguridad de EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-revamps-aviation-regulator-following-us-safety-audit-4959912",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J103_L.jpg",
-      "published": "2026-10-20T12:06:40+00:00"
-    },
-    {
-      "h": "Kroger to focus on grocery business under new CEO as competition heats up",
-      "es": "Kroger se centrará en el negocio de comestibles bajo el nuevo director ejecutivo a medida que aumenta la competencia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kroger-to-focus-on-grocery-business-under-new-ceo-as-competition-heats-up-4959911",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J107_L.jpg",
-      "published": "2026-10-20T12:06:24+00:00"
-    },
-    {
-      "h": "Jefferies reports New Jersey casino revenue dipped in September",
-      "es": "Jefferies informa que los ingresos de los casinos de Nueva Jersey cayeron en septiembre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-reports-new-jersey-casino-revenue-dipped-in-september-93CH-4959883",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-20T12:01:48+00:00"
-    },
-    {
-      "h": "Why is Solstice Advanced Materials stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Solstice Advanced Materials hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-solstice-advanced-materials-stock-rallying-today-93CH-4959873",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-20T12:01:08+00:00"
-    },
-    {
-      "h": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
-      "es": "Apple agrega proveedor estadounidense de titanio para iPhone Duo mientras el suministro sigue siendo limitado",
-      "d": "Apple está añadiendo un proveedor estadounidense de titanio para su nuevo iPhone Duo y ampliando la producción nacional de componentes de cámara para el iPhone 18 Pro.",
-      "u": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T12:00:02+00:00"
-    },
-    {
-      "h": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-      "es": "Draymond Green dice que \"no es Steph Curry\" y quiere jugar un año más incluso si deja Golden State Warriors",
-      "d": "La estrella de la NBA, Draymond Green, dijo que le encantaría retirarse como miembro de los Warriors, pero planea seguir jugando la próxima temporada incluso si eso significa unirse a otro equipo.",
-      "u": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T12:00:02+00:00"
-    },
-    {
-      "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
-      "d": "El gobierno aumentó los impuestos sobre los casinos en línea y las apuestas deportivas en el Presupuesto del año pasado.",
-      "u": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a6/live/9cd3f910-cc7a-11f1-bed8-c51b95c602ec.jpg",
-      "published": "2026-10-20T11:59:50+00:00"
     }
   ],
   "sources": [
