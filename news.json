@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-20T16:14:32.412353+00:00",
+  "updated": "2026-10-20T16:53:19.751645+00:00",
   "news": [
+    {
+      "h": "Salesforce deepens AI bets with $5.66 billion Braze deal",
+      "es": "Salesforce profundiza sus apuestas en IA con un acuerdo con Braze de 5.660 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10C_L.jpg",
+      "published": "2026-10-20T16:44:06+00:00"
+    },
+    {
+      "h": "Wall Street gains ground on healthcare stocks rally, oil retreat",
+      "es": "Wall Street gana terreno gracias al repunte de las acciones sanitarias y la caída del petróleo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RZ_L.jpg",
+      "published": "2026-10-20T16:43:48+00:00"
+    },
+    {
+      "h": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "es": "Trump demandó aranceles de más del 50% a Canadá en el último desafío comercial",
+      "d": "Una nueva demanda cuestiona los aranceles del presidente Donald Trump sobre una variedad de productos canadienses utilizando la Sección 338 de la Ley Arancelaria de 1930.",
+      "u": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:43:42+00:00"
+    },
+    {
+      "h": "Exclusive-Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say",
+      "es": "Exclusivo-Blackstone y Warburg exploran la venta de IntraFi por más de $ 10 mil millones, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveblackstone-warburg-explore-intrafi-sale-at-over-10-billion-sources-say-4960738",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1HL_L.jpg",
+      "published": "2026-10-20T16:43:10+00:00"
+    },
+    {
+      "h": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs",
+      "es": "Trump abandona las amenazas contra el fabricante canadiense de aviones Bombardier, citando empleos en EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-says-in-kansas-he-does-not-plan-to-hurt-bombardier-4960518",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J172_L.jpg",
+      "published": "2026-10-20T16:42:39+00:00"
+    },
+    {
+      "h": "Qiagen shares surge on report of advanced EQT takeover talks",
+      "es": "Las acciones de Qiagen suben tras el informe de conversaciones avanzadas sobre la adquisición de EQT",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/qiagen-shares-surge-on-report-of-advanced-eqt-takeover-talks-4960736",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
+      "published": "2026-10-20T16:42:25+00:00"
+    },
+    {
+      "h": "RTX vs NOC: valuation, earnings beats, and which defense stock offers more value",
+      "es": "RTX vs NOC: valoración, ganancias y qué acciones de defensa ofrecen más valor",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rtx-vs-noc-valuation-earnings-beats-and-which-defense-stock-offers-more-value-93CH-4960733",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D101_L.jpg",
+      "published": "2026-10-20T16:40:40+00:00"
+    },
+    {
+      "h": "Genuine Parts earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de piezas genuinas: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/genuine-parts-earnings-analysis-questions-answered-and-next-catalysts-93CH-4960727",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-20T16:39:02+00:00"
+    },
+    {
+      "h": "Equifax earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Equifax: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/equifax-earnings-analysis-questions-answered-and-next-catalysts-93CH-4960726",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-20T16:38:44+00:00"
+    },
+    {
+      "h": "What options traders expect from SpaceX earnings after the bell",
+      "es": "Qué esperan los comerciantes de opciones de las ganancias de SpaceX después de la campana",
+      "d": "Han sido tres meses muy ocupados para SpaceX. Los comerciantes piensan que eso significa más ganancias para la acción después de que reporte ganancias después de la campana de hoy.",
+      "u": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:34:36+00:00"
+    },
+    {
+      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
+      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
+      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04384503",
+      "published": "2026-10-20T16:25:00+00:00"
+    },
+    {
+      "h": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "es": "Los precios del petróleo caen mientras los comerciantes esperan avances diplomáticos en Medio Oriente",
+      "d": "Los acontecimientos en Oriente Medio siguen siendo el foco de atención, y en las últimas semanas se han intensificado los ataques a barcos comerciales que transitan por el Estrecho de Ormuz.",
+      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:19:38+00:00"
+    },
     {
       "h": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
       "es": "El medicamento contra la obesidad de próxima generación de Novo muestra una pérdida de peso del 25% en mujeres en un análisis de última etapa",
@@ -119,6 +227,15 @@
       "published": "2026-10-20T15:54:00+00:00"
     },
     {
+      "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
+      "d": "El gobierno aumentó los impuestos sobre los casinos en línea y las apuestas deportivas en el Presupuesto del año pasado.",
+      "u": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-20T15:53:13+00:00"
+    },
+    {
       "h": "Data center stocks remain under pressure after Korea IPO plunges 30%",
       "es": "Las acciones de los centros de datos siguen bajo presión después de que la IPO en Corea se desplome un 30%",
       "d": "Las acciones de Neocloud todavía sienten la presión después de la liquidación de la semana pasada",
@@ -153,123 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-83736801",
       "published": "2026-10-20T15:35:00+00:00"
-    },
-    {
-      "h": "Why is Loblaw stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Loblaw hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-20T15:28:32+00:00"
-    },
-    {
-      "h": "China criticizes US ban on DeepSeek AI from federal systems",
-      "es": "China critica la prohibición estadounidense de la IA DeepSeek en los sistemas federales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-20T15:28:11+00:00"
-    },
-    {
-      "h": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
-      "es": "Las acciones de Salesforce caen mientras los inversores se irritan por el coste de la última compra de IA",
-      "d": "Un analista dice que es “un poco extraño” que Salesforce planee comprar Braze con una prima tan alta respecto al precio reciente de sus acciones.",
-      "u": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-02898598",
-      "published": "2026-10-20T15:27:00+00:00"
-    },
-    {
-      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
-      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T15:23:57+00:00"
-    },
-    {
-      "h": "Twilio reiterated as large-cap software top pick by BTIG",
-      "es": "Twilio reiterado como la mejor opción de software de gran capitalización por BTIG",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Twilio_800x533_L_1602942761.jpg",
-      "published": "2026-10-20T15:22:04+00:00"
-    },
-    {
-      "h": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
-      "es": "La propuesta de paz no confirmada entre Qatar y Pakistán en Irán eleva las acciones y pesa sobre el petróleo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4O1RH_L.jpg",
-      "published": "2026-10-20T15:20:49+00:00"
-    },
-    {
-      "h": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "es": "Elon Musk prometió acciones de SpaceX a todos los niños de Estados Unidos: no contengan la respiración",
-      "d": "¿Truco o trato? Musk tiene un largo historial de decir que las cosas tienen poca relación con la realidad.",
-      "u": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21652349",
-      "published": "2026-10-20T15:17:00+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "es": "Alfozan, sospechoso de escuchas en OpenAI, detenido sin derecho a fianza después de que el gobierno saudí se ofreciera a pagar",
-      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
-      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T15:15:42+00:00"
-    },
-    {
-      "h": "Myriad Genetics stock surges on $210M prenatal unit sale",
-      "es": "Las acciones de Myriad Genetics aumentan con la venta de unidades prenatales de 210 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
-      "published": "2026-10-20T15:15:35+00:00"
-    },
-    {
-      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.07%",
-      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,07%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-007-4960630",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
-      "published": "2026-10-20T15:15:04+00:00"
-    },
-    {
-      "h": "Starboard’s Smith unveils stake in Solstice, presses for improvements",
-      "es": "Smith de Starboard revela su participación en Solstice y presiona para lograr mejoras",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starboards-smith-unveils-stake-in-solstice-presses-for-improvements-4960628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1B6_L.jpg",
-      "published": "2026-10-20T15:12:50+00:00"
-    },
-    {
-      "h": "Starboard takes stake in Solstice Advanced Materials, says trading cheap",
-      "es": "Starboard adquiere participación en Solstice Advanced Materials y dice que el comercio es barato",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starboard-takes-stake-in-solstice-advanced-materials-says-trading-cheap-4960626",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED99191_M.jpg",
-      "published": "2026-10-20T15:11:27+00:00"
-    },
-    {
-      "h": "ASI valuation hits $3 billion on $325 million Series C",
-      "es": "La valoración de ASI alcanza los 3.000 millones de dólares en la Serie C de 325 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asi-valuation-hits-3-billion-on-325-million-series-c-93CH-4960620",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-20T15:08:44+00:00"
     }
   ],
   "sources": [
