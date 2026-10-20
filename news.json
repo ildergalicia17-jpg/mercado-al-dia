@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-20T18:39:00.611497+00:00",
+  "updated": "2026-10-20T19:18:14.543668+00:00",
   "news": [
+    {
+      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
+      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-20T19:07:15+00:00"
+    },
+    {
+      "h": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "es": "Estamos obteniendo grandes ganancias en una acción de IA y recortando un banco expuesto al crédito",
+      "d": "Realizaremos dos operaciones el martes por la tarde.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T19:00:39+00:00"
+    },
+    {
+      "h": "Citi Mexico sees new opportunities with banks after Banamex split",
+      "es": "Citi México ve nuevas oportunidades con bancos tras escisión de Banamex",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/citi-mexico-sees-new-opportunities-with-banks-after-banamex-split-4960869",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1N3_L.jpg",
+      "published": "2026-10-20T18:48:55+00:00"
+    },
+    {
+      "h": "Factbox-Anthropic’s public benefit fund and how it compares with other big philanthropic efforts",
+      "es": "El fondo de beneficio público de Factbox-Anthropic y cómo se compara con otros grandes esfuerzos filantrópicos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxanthropics-public-benefit-fund-and-how-it-compares-with-other-big-philanthropic-efforts-4960868",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1N2_L.jpg",
+      "published": "2026-10-20T18:48:39+00:00"
+    },
     {
       "h": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
       "es": "Mike Bloomberg gastó 80 millones de dólares para impulsar a los demócratas en las elecciones intermedias: NYT",
@@ -72,6 +108,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1LN_L.jpg",
       "published": "2026-10-20T18:06:17+00:00"
+    },
+    {
+      "h": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "es": "Trump demandó aranceles de más del 50% a Canadá en el último desafío comercial",
+      "d": "Una nueva demanda cuestiona los aranceles del presidente Donald Trump sobre una variedad de productos canadienses utilizando la Sección 338 de la Ley Arancelaria de 1930.",
+      "u": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T18:06:13+00:00"
     },
     {
       "h": "OpenAI acquires Orchestra Bio to boost drug development AI, Axios reports",
@@ -225,51 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-96138879",
       "published": "2026-10-20T17:15:00+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
-      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-20T17:00:00+00:00"
-    },
-    {
-      "h": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "es": "No se trata sólo del impuesto a los multimillonarios de California. La riqueza está en la boleta electoral en las elecciones de mitad de período.",
-      "d": "Varios estados están lidiando con medidas electorales vinculadas a la imposición de impuestos a los ricos, y es posible que haya incluso más iniciativas en este frente en 2028.",
-      "u": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-84666384",
-      "published": "2026-10-20T16:55:00+00:00"
-    },
-    {
-      "h": "What Amazon must do to get its stumbling stock back to record highs and beyond",
-      "es": "Lo que Amazon debe hacer para que sus acciones de tropiezo vuelvan a alcanzar niveles récord y más allá",
-      "d": "El rendimiento de Amazon Web Services es la clave.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:49:28+00:00"
-    },
-    {
-      "h": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-      "es": "Salesforce profundiza sus apuestas en IA con un acuerdo con Braze de 5.660 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10C_L.jpg",
-      "published": "2026-10-20T16:44:06+00:00"
-    },
-    {
-      "h": "Wall Street gains ground on healthcare stocks rally, oil retreat",
-      "es": "Wall Street gana terreno gracias al repunte de las acciones sanitarias y la caída del petróleo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RZ_L.jpg",
-      "published": "2026-10-20T16:43:48+00:00"
     }
   ],
   "sources": [
