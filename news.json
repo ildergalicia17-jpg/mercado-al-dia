@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-20T06:09:15.728493+00:00",
+  "updated": "2026-10-20T06:53:33.448883+00:00",
   "news": [
+    {
+      "h": "Job vacancies fall as small firms cut back on recruitment",
+      "es": "Las ofertas de empleo caen a medida que las pequeñas empresas reducen la contratación",
+      "d": "Las pequeñas empresas citan los costos laborales como un factor clave para reducir la contratación, dice la Oficina de Estadísticas Nacionales.",
+      "u": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
+      "published": "2026-10-20T06:49:02+00:00"
+    },
+    {
+      "h": "AstraZeneca partners with Oracle on AI clinical research",
+      "es": "AstraZeneca se asocia con Oracle en investigación clínica de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-partners-with-oracle-on-ai-clinical-research-93CH-4958907",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7L0UO_M.jpg",
+      "published": "2026-10-20T06:33:03+00:00"
+    },
+    {
+      "h": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "es": "Burnham promete poner fin a las 'estafas de cargos de estacionamiento' bajo las nuevas reglas",
+      "d": "Las sanciones se consideran demasiado severas para los automovilistas que son sancionados por estacionar en terrenos privados.",
+      "u": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-20T06:28:27+00:00"
+    },
+    {
+      "h": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+      "es": "Estados Unidos prohíbe DeepSeek en los sistemas de agencias gubernamentales en medio de una ruptura de IA con China",
+      "d": "El Departamento de Seguridad Nacional de EE. UU. ha prohibido la tecnología relacionada con DeepSeek en los sistemas de TI de agencias civiles federales.",
+      "u": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T06:25:26+00:00"
+    },
+    {
+      "h": "Oil majors face spending test from Iran war windfall cash",
+      "es": "Las grandes petroleras se enfrentan a una prueba de gasto gracias al dinero extraordinario de la guerra de Irán",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oil-majors-face-spending-test-from-iran-war-windfall-cash-4958834",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0C8_L.jpg",
+      "published": "2026-10-20T06:13:14+00:00"
+    },
+    {
+      "h": "Activist Starboard prepares to nominate directors at Knife River, sources say",
+      "es": "El activista Starboard se prepara para nominar directores en Knife River, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/activist-starboard-prepares-to-nominate-directors-at-knife-river-sources-say-4958261",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1TW_L.jpg",
+      "published": "2026-10-20T06:12:26+00:00"
+    },
     {
       "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.26%",
       "es": "Las bolsas de Taiwán cierran a la baja; Taiwán Ponderado hacia abajo 1,26%",
@@ -27,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEDAL00X_M.jpg",
       "published": "2026-10-20T05:30:05+00:00"
+    },
+    {
+      "h": "The world’s finance chiefs see new risks — and less China angst",
+      "es": "Los jefes de finanzas del mundo ven nuevos riesgos y menos angustia por China",
+      "d": "La deuda, AI y Ucrania dominaron la conversación en las reuniones del FMI y el Banco Mundial en Bangkok, mientras que China, el foco de atención en 2018, pasó a un segundo plano.",
+      "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T05:27:53+00:00"
     },
     {
       "h": "Volkswagen bet on Xpeng to save its China business. It’s not going to plan",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
       "published": "2026-10-20T02:02:41+00:00"
-    },
-    {
-      "h": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-      "es": "JD Vance se abstiene de respaldar al líder israelí Netanyahu mientras Trump ofrece elogios",
-      "d": "El vicepresidente JD Vance se negó a seguir el ejemplo de Trump al respaldar a Netanyahu, diciendo que “no se involucrará en las elecciones israelíes” una semana antes de que los israelíes voten.",
-      "u": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T01:53:34+00:00"
-    },
-    {
-      "h": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-      "es": "La principal capitalista de riesgo Jenny Lee dice que las nuevas empresas asiáticas se están acelerando hacia las OPI",
-      "d": "El cronograma para que las nuevas empresas realicen ofertas públicas iniciales se ha acelerado, según Jenny Lee de Granite Asia.",
-      "u": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T01:52:05+00:00"
-    },
-    {
-      "h": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "es": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "d": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "u": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
-      "published": "2026-10-20T01:31:09+00:00"
-    },
-    {
-      "h": "NAB to cut 2,500 jobs as bank moves to simplify operations",
-      "es": "NAB recortará 2.500 puestos de trabajo mientras el banco toma medidas para simplificar sus operaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nab-to-cut-2500-jobs-as-bank-moves-to-simplify-operations-4958628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEE2D05D_M.jpg",
-      "published": "2026-10-20T01:29:58+00:00"
-    },
-    {
-      "h": "SK Hynix plunges with RSI at 19.94 in fierce downtrend: Live",
-      "es": "SK Hynix se hunde con el RSI en 19,94 en una feroz tendencia bajista: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-20T01:05:42+00:00"
-    },
-    {
-      "h": "Nikkei 225 pivots at 64,350 with RSI nearing oversold: Live levels",
-      "es": "Nikkei 225 gira a 64.350 con el RSI acercándose a la sobreventa: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-20T01:05:37+00:00"
-    },
-    {
-      "h": "OpenAI races to raise $30 bln ahead of Anthropic IPO, Reuters reports",
-      "es": "OpenAI se apresura a recaudar 30.000 millones de dólares antes de la oferta pública inicial de Anthropic, informa Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-races-to-raise-30-bln-ahead-of-anthropic-ipo-reuters-reports-4958611",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM54006_L.jpg",
-      "published": "2026-10-20T01:03:03+00:00"
     }
   ],
   "sources": [
