@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-20T15:01:14.479206+00:00",
+  "updated": "2026-10-20T15:35:48.348911+00:00",
   "news": [
+    {
+      "h": "Why is Loblaw stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Loblaw hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-20T15:28:32+00:00"
+    },
+    {
+      "h": "China criticizes US ban on DeepSeek AI from federal systems",
+      "es": "China critica la prohibición estadounidense de la IA DeepSeek en los sistemas federales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-20T15:28:11+00:00"
+    },
+    {
+      "h": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+      "es": "Las acciones de Salesforce caen mientras los inversores se irritan por el coste de la última compra de IA",
+      "d": "Un analista dice que es “un poco extraño” que Salesforce planee comprar Braze con una prima tan alta respecto al precio reciente de sus acciones.",
+      "u": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-02898598",
+      "published": "2026-10-20T15:27:00+00:00"
+    },
+    {
+      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
+      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-20T15:23:57+00:00"
+    },
+    {
+      "h": "Twilio reiterated as large-cap software top pick by BTIG",
+      "es": "Twilio reiterado como la mejor opción de software de gran capitalización por BTIG",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Twilio_800x533_L_1602942761.jpg",
+      "published": "2026-10-20T15:22:04+00:00"
+    },
+    {
+      "h": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
+      "es": "La propuesta de paz no confirmada entre Qatar y Pakistán en Irán eleva las acciones y pesa sobre el petróleo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4O1RH_L.jpg",
+      "published": "2026-10-20T15:20:49+00:00"
+    },
+    {
+      "h": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "es": "Elon Musk prometió acciones de SpaceX a todos los niños de Estados Unidos: no contengan la respiración",
+      "d": "¿Truco o trato? Musk tiene un largo historial de decir que las cosas tienen poca relación con la realidad.",
+      "u": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21652349",
+      "published": "2026-10-20T15:17:00+00:00"
+    },
+    {
+      "h": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+      "es": "Alfozan, sospechoso de escuchas en OpenAI, detenido sin derecho a fianza después de que el gobierno saudí se ofreciera a pagar",
+      "d": "El ciudadano saudita Abdulrahman Alfozan está acusado de colocar un dispositivo de grabación en una sala de conferencias ejecutivas en la sede de OpenAI en San Francisco.",
+      "u": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T15:15:42+00:00"
+    },
+    {
+      "h": "Myriad Genetics stock surges on $210M prenatal unit sale",
+      "es": "Las acciones de Myriad Genetics aumentan con la venta de unidades prenatales de 210 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
+      "published": "2026-10-20T15:15:35+00:00"
+    },
+    {
+      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.07%",
+      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,07%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-007-4960630",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
+      "published": "2026-10-20T15:15:04+00:00"
+    },
+    {
+      "h": "Starboard’s Smith unveils stake in Solstice, presses for improvements",
+      "es": "Smith de Starboard revela su participación en Solstice y presiona para lograr mejoras",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starboards-smith-unveils-stake-in-solstice-presses-for-improvements-4960628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1B6_L.jpg",
+      "published": "2026-10-20T15:12:50+00:00"
+    },
+    {
+      "h": "Starboard takes stake in Solstice Advanced Materials, says trading cheap",
+      "es": "Starboard adquiere participación en Solstice Advanced Materials y dice que el comercio es barato",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starboard-takes-stake-in-solstice-advanced-materials-says-trading-cheap-4960626",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED99191_M.jpg",
+      "published": "2026-10-20T15:11:27+00:00"
+    },
+    {
+      "h": "ASI valuation hits $3 billion on $325 million Series C",
+      "es": "La valoración de ASI alcanza los 3.000 millones de dólares en la Serie C de 325 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asi-valuation-hits-3-billion-on-325-million-series-c-93CH-4960620",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-20T15:08:44+00:00"
+    },
+    {
+      "h": "Why is Keel Infrastructure stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Keel Infrastructure hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-keel-infrastructure-stock-climbing-today-93CH-4960618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-20T15:06:52+00:00"
+    },
+    {
+      "h": "France to deploy military as it braces for fresh unrest this weekend",
+      "es": "Francia desplegará militares mientras se prepara para nuevos disturbios este fin de semana",
+      "d": "Francia desplegará tropas Sentinelle para las protestas del sábado, dijo el ministro del Interior, Laurent Nuñez.",
+      "u": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T15:01:38+00:00"
+    },
+    {
+      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
+      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
+      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04384503",
+      "published": "2026-10-20T15:00:00+00:00"
+    },
     {
       "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
       "published": "2026-10-20T14:28:53+00:00"
-    },
-    {
-      "h": "MCD vs YUM: McDonald’s leads on value and income, Yum Brands on growth",
-      "es": "MCD vs YUM: McDonald's lidera en valor e ingresos, Yum Brands en crecimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mcd-vs-yum-mcdonalds-leads-on-value-and-income-yum-brands-on-growth-93CH-4960539",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB3027A_M.jpg",
-      "published": "2026-10-20T14:28:00+00:00"
-    },
-    {
-      "h": "September data shows housing market in a deep freeze",
-      "es": "Los datos de septiembre muestran que el mercado inmobiliario está congelado",
-      "d": "Los nuevos datos sobre el desempeño del mercado inmobiliario en septiembre son sombríos: las ventas, la construcción y el sentimiento cayeron más de lo esperado.",
-      "u": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T14:18:58+00:00"
-    },
-    {
-      "h": "When should you dump your target-date funds?",
-      "es": "¿Cuándo debería deshacerse de sus fondos con fecha objetivo?",
-      "d": "Los fondos con fecha límite no están necesariamente diseñados para manejar muchas de las decisiones que enfrentan los jubilados.",
-      "u": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-07537762",
-      "published": "2026-10-20T14:16:00+00:00"
-    },
-    {
-      "h": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-      "es": "Anthropic en conversaciones con neocloud Nscale sobre un segundo acuerdo multimillonario, dice una fuente a CNBC",
-      "d": "Anthropic y Nscale firmaron previamente un acuerdo similar para un centro de datos en el mismo sitio en los EE. UU.",
-      "u": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T14:12:38+00:00"
-    },
-    {
-      "h": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-      "es": "Las ventas de viviendas pendientes caen a su nivel más bajo en 25 años a medida que los compradores huyen de las altas tasas hipotecarias",
-      "d": "Las firmas de contratos para comprar viviendas cayeron en septiembre al nivel más bajo registrado, ya que los compradores abandonaron el mercado inmobiliario a raíz de que la tasa hipotecaria promedio a 30 años superó el 7%.",
-      "u": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-68979535",
-      "published": "2026-10-20T14:06:00+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
-      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-20T14:00:00+00:00"
-    },
-    {
-      "h": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-      "es": "Salesforce profundiza sus apuestas en IA con un acuerdo con Braze de 5.660 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J10C_L.jpg",
-      "published": "2026-10-20T13:55:24+00:00"
-    },
-    {
-      "h": "Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows",
-      "es": "Zelenskiy se reunirá con Witkoff mientras las relaciones entre Estados Unidos y Ucrania caen a nuevos mínimos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0Q5_L.jpg",
-      "published": "2026-10-20T13:55:11+00:00"
-    },
-    {
-      "h": "Why is Hasbro stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Hasbro hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE1611O_M.jpg",
-      "published": "2026-10-20T13:55:09+00:00"
-    },
-    {
-      "h": "US judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "es": "Juez estadounidense desestima la demanda por abuso sexual de la hermana de Sam Altman",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J14F_L.jpg",
-      "published": "2026-10-20T13:54:41+00:00"
-    },
-    {
-      "h": "Housing starts drop 9% in September, miss expectations, Truist comments",
-      "es": "Los inicios de construcción de viviendas caen un 9% en septiembre, incumplen las expectativas, comenta Truist",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-20T13:54:00+00:00"
-    },
-    {
-      "h": "Why is Bloom Energy stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Bloom Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K0JU_M.jpg",
-      "published": "2026-10-20T13:53:20+00:00"
-    },
-    {
-      "h": "Money-saving habits to cope with higher prices — from our readers",
-      "es": "Hábitos de ahorro de dinero para hacer frente a precios más altos: de nuestros lectores",
-      "d": "Pregunté a la gente qué están haciendo para que la vida sea más asequible hoy. Definitivamente probaré algunos de estos.",
-      "u": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-66111298",
-      "published": "2026-10-20T13:52:00+00:00"
-    },
-    {
-      "h": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-      "es": "Las acciones de los centros de datos caen mientras la OPI de Corea se desploma un 30%, presionando el sentimiento tecnológico",
-      "d": "Las acciones de Neocloud vuelven a caer tras los problemas del sector la semana pasada",
-      "u": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T13:50:24+00:00"
-    },
-    {
-      "h": "Why is GE Aerospace stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de GE Aerospace hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-sliding-today-93CH-4960392",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0C1DU_M.jpg",
-      "published": "2026-10-20T13:50:05+00:00"
-    },
-    {
-      "h": "Why is Northrop Grumman stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Northrop Grumman hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-northrop-grumman-stock-surging-today-93CH-4960390",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-20T13:49:17+00:00"
     }
   ],
   "sources": [
