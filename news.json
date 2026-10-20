@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-20T15:35:48.348911+00:00",
+  "updated": "2026-10-20T16:14:32.412353+00:00",
   "news": [
+    {
+      "h": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "es": "El medicamento contra la obesidad de próxima generación de Novo muestra una pérdida de peso del 25% en mujeres en un análisis de última etapa",
+      "d": "Novo publicó nueva evidencia de que su inyección experimental CagriSema puede mejorar la pérdida de peso con su exitosa inyección de GLP-1 para la obesidad, Wegovy.",
+      "u": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:11:02+00:00"
+    },
+    {
+      "h": "Belgium stocks higher at close of trade; BEL 20 up 1.56%",
+      "es": "Las bolsas de valores de Bélgica cierran al alza; BEL 20 sube un 1,56%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-156-4960672",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg",
+      "published": "2026-10-20T16:05:04+00:00"
+    },
+    {
+      "h": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
+      "es": "Jim Cramer dice que este es el 'elixir mágico' que impulsa el mercado de valores el martes",
+      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:01:17+00:00"
+    },
+    {
+      "h": "Barclays shifts capital to boost hedge fund lending in Asia - Bloomberg",
+      "es": "Barclays traslada capital para impulsar los préstamos de fondos de cobertura en Asia - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-shifts-capital-to-boost-hedge-fund-lending-in-asia--bloomberg-93CH-4960667",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-20T16:00:47+00:00"
+    },
+    {
+      "h": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.89%",
+      "es": "Las Bolsas de Suecia cierran a la baja; OMX Estocolmo 30 cae un 0,89%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-089-4960666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201375.jpg",
+      "published": "2026-10-20T16:00:32+00:00"
+    },
+    {
+      "h": "Finland stocks lower at close of trade; OMX Helsinki 25 down 1.19%",
+      "es": "Las bolsas de Finlandia cierran a la baja; OMX Helsinki 25 baja un 1,19%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-119-4960663",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL3A10Q_L.jpg",
+      "published": "2026-10-20T16:00:04+00:00"
+    },
+    {
+      "h": "Here's what to expect when Netflix reports earnings after the bell",
+      "es": "Esto es lo que puede esperar cuando Netflix informe sus ganancias después del timbre",
+      "d": "Los inversores buscarán actualizaciones sobre el negocio de publicidad de Netflix, las métricas de participación y cómo el gigante del streaming continúa viendo posibles fusiones y adquisiciones.",
+      "u": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-20T16:00:01+00:00"
+    },
+    {
+      "h": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "es": "¿Busca acciones de IA que todavía sean baratas? Considere estas dos selecciones que pasan desapercibidas.",
+      "d": "Simon King de Saturna Capital nombra dos acciones vinculadas a metales básicos, para inversores que quieran mirar más allá de los caminos trillados para las operaciones relacionadas con la IA.",
+      "u": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-91198545",
+      "published": "2026-10-20T15:58:00+00:00"
+    },
+    {
+      "h": "Small businesses file new lawsuit to block Trump’s Canada tariffs",
+      "es": "Las pequeñas empresas presentan una nueva demanda para bloquear los aranceles de Trump a Canadá",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/small-businesses-file-new-lawsuit-to-block-trumps-canada-tariffs-4960660",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1E1_L.jpg",
+      "published": "2026-10-20T15:55:49+00:00"
+    },
+    {
+      "h": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
+      "es": "El sindicato Micron en Taiwán lanzará una huelga de un día a medida que se intensifica la disputa por las bonificaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates-4958678",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J03N_L.jpg",
+      "published": "2026-10-20T15:55:17+00:00"
+    },
+    {
+      "h": "3M lifts profit forecast as AI push deepens, shares rise",
+      "es": "3M eleva su pronóstico de ganancias a medida que se profundiza el impulso de la IA y suben las acciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes-4959541",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0U2_L.jpg",
+      "published": "2026-10-20T15:54:45+00:00"
+    },
+    {
+      "h": "AI startup ASI valued at $3 billion in latest funding round",
+      "es": "La startup de IA ASI valorada en 3.000 millones de dólares en la última ronda de financiación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ai-startup-asi-valued-at-3-billion-in-latest-funding-round-4960658",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1EA_L.jpg",
+      "published": "2026-10-20T15:54:33+00:00"
+    },
+    {
+      "h": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+      "es": "No es ningún secreto cuál es el mejor consejo financiero para la jubilación, pero la mayoría de la gente lo ignora de todos modos.",
+      "d": "La investigación puede probar muchos hechos, pero eso no significa que cambie la forma en que actúa la gente.",
+      "u": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00601261",
+      "published": "2026-10-20T15:54:00+00:00"
+    },
+    {
+      "h": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+      "es": "Las acciones de los centros de datos siguen bajo presión después de que la IPO en Corea se desplome un 30%",
+      "d": "Las acciones de Neocloud todavía sienten la presión después de la liquidación de la semana pasada",
+      "u": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T15:45:47+00:00"
+    },
+    {
+      "h": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
+      "es": "Prudential vende unidades de Brasil y México a CNP por 4.000 millones de dólares mientras reduce su enfoque",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0UY_L.jpg",
+      "published": "2026-10-20T15:42:59+00:00"
+    },
+    {
+      "h": "Poland stocks lower at close of trade; WIG30 down 0.20%",
+      "es": "Las bolsas de Polonia cierran a la baja; WIG30 baja un 0,20%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
+      "published": "2026-10-20T15:40:04+00:00"
+    },
+    {
+      "h": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "es": "Los constructores reducen los precios de las viviendas nuevas a medida que el tráfico de compradores cae al mínimo de los últimos 14 años",
+      "d": "Cuatro de cada 10 constructores de viviendas están recortando los precios para impulsar la demanda, incluso cuando enfrentan crecientes costos de construcción.",
+      "u": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83736801",
+      "published": "2026-10-20T15:35:00+00:00"
+    },
     {
       "h": "Why is Loblaw stock climbing today?",
       "es": "¿Por qué están subiendo las acciones de Loblaw hoy?",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
       "published": "2026-10-20T15:08:44+00:00"
-    },
-    {
-      "h": "Why is Keel Infrastructure stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Keel Infrastructure hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-keel-infrastructure-stock-climbing-today-93CH-4960618",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-20T15:06:52+00:00"
-    },
-    {
-      "h": "France to deploy military as it braces for fresh unrest this weekend",
-      "es": "Francia desplegará militares mientras se prepara para nuevos disturbios este fin de semana",
-      "d": "Francia desplegará tropas Sentinelle para las protestas del sábado, dijo el ministro del Interior, Laurent Nuñez.",
-      "u": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T15:01:38+00:00"
-    },
-    {
-      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
-      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
-      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04384503",
-      "published": "2026-10-20T15:00:00+00:00"
-    },
-    {
-      "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
-      "d": "El gobierno aumentó los impuestos sobre los casinos en línea y las apuestas deportivas en el Presupuesto del año pasado.",
-      "u": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T14:53:02+00:00"
-    },
-    {
-      "h": "Is your annuity really guaranteed? Read this before you buy one.",
-      "es": "¿Está realmente garantizada su anualidad? Lea esto antes de comprar uno.",
-      "d": "El pago de la anualidad que acaba de comprar o renovar puede ser menor que el anunciado, por lo que hay preguntas que puede hacer antes de firmar cualquier cosa para asegurarse de lo que obtendrá.",
-      "u": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-77635834",
-      "published": "2026-10-20T14:51:00+00:00"
-    },
-    {
-      "h": "Union attacks NatWest plans to reduce working from home",
-      "es": "El sindicato ataca los planes de NatWest de reducir el trabajo desde casa",
-      "d": "El banco dice que los trabajadores deberán asistir a la oficina al menos dos días a la semana a partir de febrero.",
-      "u": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ac8/live/b29c3c60-cc8b-11f1-bed8-c51b95c602ec.jpg",
-      "published": "2026-10-20T14:50:19+00:00"
-    },
-    {
-      "h": "Oil prices fall as traders monitor conflict in the Middle East",
-      "es": "Los precios del petróleo caen mientras los operadores vigilan el conflicto en Oriente Medio",
-      "d": "Los acontecimientos en Oriente Medio siguen siendo el foco de atención, y en las últimas semanas se han intensificado los ataques a barcos comerciales que transitan por el Estrecho de Ormuz.",
-      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T14:50:00+00:00"
-    },
-    {
-      "h": "Moderna leads US momentum screen with gains of over 276% in three months",
-      "es": "Moderna lidera la pantalla de impulso en EE. UU. con ganancias superiores al 276% en tres meses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/moderna-leads-us-momentum-screen-with-gains-of-over-276-in-three-months-93CH-4960566",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1606748338.jpg",
-      "published": "2026-10-20T14:38:56+00:00"
-    },
-    {
-      "h": "Aerospace and military contractors raise 2026 profit forecasts",
-      "es": "Los contratistas aeroespaciales y militares aumentan las previsiones de beneficios para 2026",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/northrop-lifts-2026-profit-forecast-on-strong-defense-demand-record-backlog-4959415",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RR_L.jpg",
-      "published": "2026-10-20T14:38:01+00:00"
-    },
-    {
-      "h": "Merck & Co, Equifax among market cap stock movers on Tuesday",
-      "es": "Merck & Co y Equifax entre las acciones que impulsaron la capitalización de mercado el martes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/merck--co-equifax-among-market-cap-stock-movers-on-tuesday-93CH-4960558",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-20T14:35:28+00:00"
-    },
-    {
-      "h": "Here’s why GM’s stock is having its worst day in over a year",
-      "es": "He aquí por qué las acciones de GM están teniendo su peor día en más de un año",
-      "d": "El fabricante de automóviles redujo sus expectativas de ganancias para todo el año, ya que planea detener parte de la producción de camiones.",
-      "u": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-738023",
-      "published": "2026-10-20T14:35:00+00:00"
-    },
-    {
-      "h": "Artivion rises as Jefferies initiates at buy, sees ’attractive entry point’",
-      "es": "Artivion sube cuando Jefferies inicia la compra y ve un \"punto de entrada atractivo\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/artivion-rises-as-jefferies-initiates-at-buy-sees-attractive-entry-point-4960556",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-20T14:32:57+00:00"
-    },
-    {
-      "h": "Why is Spotify stock rising today?",
-      "es": "¿Por qué están subiendo las acciones de Spotify hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-spotify-stock-rising-today-93CH-4960551",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC2S1J1_M.jpg",
-      "published": "2026-10-20T14:31:53+00:00"
-    },
-    {
-      "h": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
-      "es": "A medida que los consumidores de drogas para bajar de peso recurren a los suplementos dietéticos, los médicos y los reguladores levantan la alarma",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-weightloss-drug-users-turn-to-dietary-supplements-doctors-regulators-raise-flags-4960550",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0GN_L.jpg",
-      "published": "2026-10-20T14:31:07+00:00"
-    },
-    {
-      "h": "Webull to debut crypto-linked perpetual futures in November",
-      "es": "Webull debutará en noviembre con futuros perpetuos vinculados a criptomonedas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/webull-to-debut-cryptolinked-perpetual-futures-in-november-4960548",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J182_L.jpg",
-      "published": "2026-10-20T14:30:48+00:00"
-    },
-    {
-      "h": "Key stocks to watch around the SpaceX earnings report",
-      "es": "Acciones clave a tener en cuenta en torno al informe de ganancias de SpaceX",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/key-stocks-to-watch-around-the-spacex-earnings-report-93CH-4960544",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL410OP_L.jpg",
-      "published": "2026-10-20T14:30:30+00:00"
-    },
-    {
-      "h": "Freeport-McMoRan options signal 4% move on earnings next week",
-      "es": "Las opciones de Freeport-McMoRan indican un movimiento del 4% en las ganancias la próxima semana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/freeportmcmoran-options-signal-4-move-on-earnings-next-week-93CH-4960540",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-20T14:28:53+00:00"
     }
   ],
   "sources": [
