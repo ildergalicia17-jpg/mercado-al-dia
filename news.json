@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-20T16:53:19.751645+00:00",
+  "updated": "2026-10-20T18:01:49.272254+00:00",
   "news": [
+    {
+      "h": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "es": "El sector inmobiliario está dando señales de advertencia justo cuando la Reserva Federal evalúa aumentar más las tasas de interés",
+      "d": "Los datos sobre vivienda se deterioraron aún más en septiembre, según informes separados del martes.",
+      "u": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T17:50:11+00:00"
+    },
+    {
+      "h": "Why is BlackBerry stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de BlackBerry hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-surging-today-93CH-4960827",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-20T17:50:06+00:00"
+    },
+    {
+      "h": "U.S. stocks rise as tech fluctuations offset by earnings moves, fall in oil prices",
+      "es": "Las acciones estadounidenses suben a medida que las fluctuaciones tecnológicas se compensan con los movimientos de ganancias y la caída de los precios del petróleo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-20T17:49:32+00:00"
+    },
+    {
+      "h": "Meta’s global affairs officer Joel Kaplan to leave company after 15 years",
+      "es": "El director de asuntos globales de Meta, Joel Kaplan, dejará la empresa después de 15 años",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/metas-global-affairs-officer-joel-kaplan-to-leave-company-after-15-years-4960807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1KA_L.jpg",
+      "published": "2026-10-20T17:48:57+00:00"
+    },
+    {
+      "h": "ICE vs. Nasdaq: valuation edge goes to ICE, growth edge to NDAQ",
+      "es": "ICE vs Nasdaq: la ventaja de valoración va para ICE, la ventaja de crecimiento para NDAQ",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ice-vs-nasdaq-valuation-edge-goes-to-ice-growth-edge-to-ndaq-93CH-4960814",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL8E0TZ_L.jpg",
+      "published": "2026-10-20T17:39:30+00:00"
+    },
+    {
+      "h": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+      "es": "La búsqueda de seguridad por parte de los inversores ha hecho que las acciones de pasta de dientes sean más caras que las tecnológicas",
+      "d": "Wall Street está huyendo de la tecnología por pasta de dientes y champú. Incluso esas acciones se están volviendo caras.",
+      "u": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-59145136",
+      "published": "2026-10-20T17:38:00+00:00"
+    },
+    {
+      "h": "Meta tells Brazil court it treats Lula and Bolsonaro campaigns equally",
+      "es": "Meta dice a tribunal brasileño que trata las campañas de Lula y Bolsonaro por igual",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-treats-lula-and-bolsonaro-campaigns-equally-4960806",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1KC_L.jpg",
+      "published": "2026-10-20T17:36:20+00:00"
+    },
+    {
+      "h": "CME vs CBOE: comparing growth, income, and valuation",
+      "es": "CME vs CBOE: comparando crecimiento, ingresos y valoración",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cme-vs-cboe-comparing-growth-income-and-valuation-93CH-4960803",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CboeGlobalMarkets_800x533_L_1675583597.jpg",
+      "published": "2026-10-20T17:35:23+00:00"
+    },
+    {
+      "h": "Meta tells Brazil court it ensures equal treatment of campaigns",
+      "es": "Meta dice a tribunal brasileño que garantiza igualdad de trato a las campañas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-tells-brazil-court-it-ensures-equal-treatment-of-campaigns-93CH-4960798",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/23b3a6d7de6b510be2b9089fe2badb41_M.jpg",
+      "published": "2026-10-20T17:33:46+00:00"
+    },
+    {
+      "h": "UK government to make Jackdaw gas field announcement",
+      "es": "El gobierno del Reino Unido hará un anuncio sobre el campo de gas Jackdaw",
+      "d": "El miércoles por la mañana se espera la decisión tan esperada sobre el controvertido campo del Mar del Norte.",
+      "u": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
+      "published": "2026-10-20T17:33:42+00:00"
+    },
+    {
+      "h": "Starboard’s Smith unveils stake in Solstice, presses for improvements",
+      "es": "Smith de Starboard revela su participación en Solstice y presiona para lograr mejoras",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starboards-smith-unveils-stake-in-solstice-presses-for-improvements-4960628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1B6_L.jpg",
+      "published": "2026-10-20T17:30:26+00:00"
+    },
+    {
+      "h": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+      "es": "Si Elon Musk regala acciones de SpaceX a través de Cuentas Trump, tendrá un problema",
+      "d": "La donación de acciones de SpaceX planificada por Elon Musk podría venir con condiciones si utiliza Cuentas Trump. Las nuevas reglas del Tesoro limitan cuándo los niños pueden vender acciones.",
+      "u": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T17:29:38+00:00"
+    },
+    {
+      "h": "Ananym Capital takes stake in CTS Eventim, calls it undervalued",
+      "es": "Ananym Capital adquiere participación en CTS Eventim y la considera infravalorada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ananym-capital-takes-stake-in-cts-eventim-calls-it-undervalued-4960790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CTSEventim_800x533_L_1616666086.jpg",
+      "published": "2026-10-20T17:27:40+00:00"
+    },
+    {
+      "h": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "es": "Mi pareja de 17 años me dejó su casa de 1 millón de dólares. Sus hijos dicen que yo lo influí para que lo hiciera. ¿Debo compartir mi herencia?",
+      "d": "“Nunca pagué alquiler, aunque invertí alrededor de $45,000 en una nueva cocina y un techo”.",
+      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96138879",
+      "published": "2026-10-20T17:15:00+00:00"
+    },
+    {
+      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
+      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
+      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27247005",
+      "published": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "h": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "es": "No se trata sólo del impuesto a los multimillonarios de California. La riqueza está en la boleta electoral en las elecciones de mitad de período.",
+      "d": "Varios estados están lidiando con medidas electorales vinculadas a la imposición de impuestos a los ricos, y es posible que haya incluso más iniciativas en este frente en 2028.",
+      "u": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-84666384",
+      "published": "2026-10-20T16:55:00+00:00"
+    },
+    {
+      "h": "What Amazon must do to get its stumbling stock back to record highs and beyond",
+      "es": "Lo que Amazon debe hacer para que sus acciones de tropiezo vuelvan a alcanzar niveles récord y más allá",
+      "d": "El rendimiento de Amazon Web Services es la clave.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T16:49:28+00:00"
+    },
     {
       "h": "Salesforce deepens AI bets with $5.66 billion Braze deal",
       "es": "Salesforce profundiza sus apuestas en IA con un acuerdo con Braze de 5.660 millones de dólares",
@@ -117,159 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-20T16:11:02+00:00"
-    },
-    {
-      "h": "Belgium stocks higher at close of trade; BEL 20 up 1.56%",
-      "es": "Las bolsas de valores de Bélgica cierran al alza; BEL 20 sube un 1,56%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-156-4960672",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg",
-      "published": "2026-10-20T16:05:04+00:00"
-    },
-    {
-      "h": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
-      "es": "Jim Cramer dice que este es el 'elixir mágico' que impulsa el mercado de valores el martes",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:01:17+00:00"
-    },
-    {
-      "h": "Barclays shifts capital to boost hedge fund lending in Asia - Bloomberg",
-      "es": "Barclays traslada capital para impulsar los préstamos de fondos de cobertura en Asia - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/barclays-shifts-capital-to-boost-hedge-fund-lending-in-asia--bloomberg-93CH-4960667",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-20T16:00:47+00:00"
-    },
-    {
-      "h": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.89%",
-      "es": "Las Bolsas de Suecia cierran a la baja; OMX Estocolmo 30 cae un 0,89%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-089-4960666",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201375.jpg",
-      "published": "2026-10-20T16:00:32+00:00"
-    },
-    {
-      "h": "Finland stocks lower at close of trade; OMX Helsinki 25 down 1.19%",
-      "es": "Las bolsas de Finlandia cierran a la baja; OMX Helsinki 25 baja un 1,19%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-119-4960663",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL3A10Q_L.jpg",
-      "published": "2026-10-20T16:00:04+00:00"
-    },
-    {
-      "h": "Here's what to expect when Netflix reports earnings after the bell",
-      "es": "Esto es lo que puede esperar cuando Netflix informe sus ganancias después del timbre",
-      "d": "Los inversores buscarán actualizaciones sobre el negocio de publicidad de Netflix, las métricas de participación y cómo el gigante del streaming continúa viendo posibles fusiones y adquisiciones.",
-      "u": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T16:00:01+00:00"
-    },
-    {
-      "h": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "es": "¿Busca acciones de IA que todavía sean baratas? Considere estas dos selecciones que pasan desapercibidas.",
-      "d": "Simon King de Saturna Capital nombra dos acciones vinculadas a metales básicos, para inversores que quieran mirar más allá de los caminos trillados para las operaciones relacionadas con la IA.",
-      "u": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-91198545",
-      "published": "2026-10-20T15:58:00+00:00"
-    },
-    {
-      "h": "Small businesses file new lawsuit to block Trump’s Canada tariffs",
-      "es": "Las pequeñas empresas presentan una nueva demanda para bloquear los aranceles de Trump a Canadá",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/small-businesses-file-new-lawsuit-to-block-trumps-canada-tariffs-4960660",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1E1_L.jpg",
-      "published": "2026-10-20T15:55:49+00:00"
-    },
-    {
-      "h": "Micron union in Taiwan to launch one-day strike as bonus dispute escalates",
-      "es": "El sindicato Micron en Taiwán lanzará una huelga de un día a medida que se intensifica la disputa por las bonificaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates-4958678",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J03N_L.jpg",
-      "published": "2026-10-20T15:55:17+00:00"
-    },
-    {
-      "h": "3M lifts profit forecast as AI push deepens, shares rise",
-      "es": "3M eleva su pronóstico de ganancias a medida que se profundiza el impulso de la IA y suben las acciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes-4959541",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0U2_L.jpg",
-      "published": "2026-10-20T15:54:45+00:00"
-    },
-    {
-      "h": "AI startup ASI valued at $3 billion in latest funding round",
-      "es": "La startup de IA ASI valorada en 3.000 millones de dólares en la última ronda de financiación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ai-startup-asi-valued-at-3-billion-in-latest-funding-round-4960658",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1EA_L.jpg",
-      "published": "2026-10-20T15:54:33+00:00"
-    },
-    {
-      "h": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-      "es": "No es ningún secreto cuál es el mejor consejo financiero para la jubilación, pero la mayoría de la gente lo ignora de todos modos.",
-      "d": "La investigación puede probar muchos hechos, pero eso no significa que cambie la forma en que actúa la gente.",
-      "u": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00601261",
-      "published": "2026-10-20T15:54:00+00:00"
-    },
-    {
-      "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-      "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
-      "d": "El gobierno aumentó los impuestos sobre los casinos en línea y las apuestas deportivas en el Presupuesto del año pasado.",
-      "u": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg",
-      "published": "2026-10-20T15:53:13+00:00"
-    },
-    {
-      "h": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-      "es": "Las acciones de los centros de datos siguen bajo presión después de que la IPO en Corea se desplome un 30%",
-      "d": "Las acciones de Neocloud todavía sienten la presión después de la liquidación de la semana pasada",
-      "u": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T15:45:47+00:00"
-    },
-    {
-      "h": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
-      "es": "Prudential vende unidades de Brasil y México a CNP por 4.000 millones de dólares mientras reduce su enfoque",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0UY_L.jpg",
-      "published": "2026-10-20T15:42:59+00:00"
-    },
-    {
-      "h": "Poland stocks lower at close of trade; WIG30 down 0.20%",
-      "es": "Las bolsas de Polonia cierran a la baja; WIG30 baja un 0,20%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
-      "published": "2026-10-20T15:40:04+00:00"
-    },
-    {
-      "h": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "es": "Los constructores reducen los precios de las viviendas nuevas a medida que el tráfico de compradores cae al mínimo de los últimos 14 años",
-      "d": "Cuatro de cada 10 constructores de viviendas están recortando los precios para impulsar la demanda, incluso cuando enfrentan crecientes costos de construcción.",
-      "u": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-83736801",
-      "published": "2026-10-20T15:35:00+00:00"
     }
   ],
   "sources": [
