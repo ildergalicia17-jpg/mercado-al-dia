@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-20T11:45:50.699737+00:00",
+  "updated": "2026-10-20T12:14:30.711774+00:00",
   "news": [
+    {
+      "h": "What happens to Wall Street if CoreWeave defaults? JPMorgan checked the math.",
+      "es": "¿Qué sucede con Wall Street si CoreWeave incumple? JPMorgan revisó los cálculos.",
+      "d": "Llámelo una señal de los tiempos: un analista de JPMorgan está investigando la exposición que tendrán los bancos si CoreWeave incumple sus deudas.",
+      "u": "https://www.marketwatch.com/story/what-happens-to-wall-street-if-coreweave-defaults-jpmorgan-checked-the-math-cd16938c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94711622",
+      "published": "2026-10-20T12:10:00+00:00"
+    },
+    {
+      "h": "U.S. Treasury yields move lower as investors await housing data",
+      "es": "Los rendimientos de los bonos del Tesoro de EE.UU. bajan mientras los inversores esperan los datos inmobiliarios",
+      "d": "Los rendimientos de los bonos del Tesoro estadounidense cayeron levemente el martes mientras los inversores esperaban datos económicos y sopesaban el contexto inflacionario antes de la decisión sobre las tasas la próxima semana.",
+      "u": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:08:44+00:00"
+    },
+    {
+      "h": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+      "es": "Apple compromete hasta 100 millones de dólares para el titanio estadounidense en su impulso de fabricación nacional",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-commits-up-to-100-million-for-us-titanium-in-domestic-manufacturing-push-4959914",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J100_L.jpg",
+      "published": "2026-10-20T12:06:58+00:00"
+    },
+    {
+      "h": "Mexico revamps aviation regulator following US safety audit",
+      "es": "México renueva regulador de aviación tras auditoría de seguridad de EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-revamps-aviation-regulator-following-us-safety-audit-4959912",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J103_L.jpg",
+      "published": "2026-10-20T12:06:40+00:00"
+    },
+    {
+      "h": "Kroger to focus on grocery business under new CEO as competition heats up",
+      "es": "Kroger se centrará en el negocio de comestibles bajo el nuevo director ejecutivo a medida que aumenta la competencia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/kroger-to-focus-on-grocery-business-under-new-ceo-as-competition-heats-up-4959911",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J107_L.jpg",
+      "published": "2026-10-20T12:06:24+00:00"
+    },
+    {
+      "h": "Jefferies reports New Jersey casino revenue dipped in September",
+      "es": "Jefferies informa que los ingresos de los casinos de Nueva Jersey cayeron en septiembre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-reports-new-jersey-casino-revenue-dipped-in-september-93CH-4959883",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-20T12:01:48+00:00"
+    },
+    {
+      "h": "Why is Solstice Advanced Materials stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Solstice Advanced Materials hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-solstice-advanced-materials-stock-rallying-today-93CH-4959873",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-20T12:01:08+00:00"
+    },
+    {
+      "h": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+      "es": "Apple agrega proveedor estadounidense de titanio para iPhone Duo mientras el suministro sigue siendo limitado",
+      "d": "Apple está añadiendo un proveedor estadounidense de titanio para su nuevo iPhone Duo y ampliando la producción nacional de componentes de cámara para el iPhone 18 Pro.",
+      "u": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:00:02+00:00"
+    },
+    {
+      "h": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
+      "es": "Draymond Green dice que \"no es Steph Curry\" y quiere jugar un año más incluso si deja Golden State Warriors",
+      "d": "La estrella de la NBA, Draymond Green, dijo que le encantaría retirarse como miembro de los Warriors, pero planea seguir jugando la próxima temporada incluso si eso significa unirse a otro equipo.",
+      "u": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T12:00:02+00:00"
+    },
+    {
+      "h": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "es": "Paddy Power recorta 1.400 puestos de trabajo y culpa al aumento de los impuestos a las apuestas",
+      "d": "El gobierno aumentó los impuestos sobre los casinos en línea y las apuestas deportivas en el Presupuesto del año pasado.",
+      "u": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a6/live/9cd3f910-cc7a-11f1-bed8-c51b95c602ec.jpg",
+      "published": "2026-10-20T11:59:50+00:00"
+    },
+    {
+      "h": "Spanish bank index falls 9% since yield jump; Jefferies shifts ratings",
+      "es": "El índice bancario español cae un 9% desde el salto de rendimiento; Jefferies cambia las calificaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spanish-bank-index-falls-9-since-yield-jump-jefferies-shifts-ratings-4959866",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-20T11:58:47+00:00"
+    },
+    {
+      "h": "Wendy’s business outlook: a reset, not yet a recovery",
+      "es": "Perspectivas comerciales de Wendy's: un reinicio, aún no una recuperación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wendys-business-outlook-a-reset-not-yet-a-recovery-93CH-4959865",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Wendys_800x533_L_1598193975.jpg",
+      "published": "2026-10-20T11:58:01+00:00"
+    },
+    {
+      "h": "Global chip stocks tumble on AI investment worries",
+      "es": "Las acciones mundiales de chips caen por las preocupaciones sobre la inversión en IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-tracking-asian-selloff-over-ai-investment-worries-4959012",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM320EG_L.jpg",
+      "published": "2026-10-20T11:57:21+00:00"
+    },
+    {
+      "h": "When do chip stocks tend to peak? Analyst examines historical returns",
+      "es": "¿Cuándo tienden a alcanzar su punto máximo las existencias de chips? Analista examina rentabilidades históricas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/when-do-chip-stocks-tend-to-peak-analyst-examines-historical-returns-4959861",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4R12O_L.jpg",
+      "published": "2026-10-20T11:55:42+00:00"
+    },
+    {
+      "h": "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
+      "es": "Zelenskiy se reunirá con Witkoff mientras Trump elogia a Rusia y reprende a Ucrania",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0Q5_L.jpg",
+      "published": "2026-10-20T11:54:36+00:00"
+    },
     {
       "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
       "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero he aquí por qué todavía tengo esperanzas",
@@ -9,6 +144,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-27247005",
       "published": "2026-10-20T11:41:00+00:00"
+    },
+    {
+      "h": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+      "es": "El repunte de la IA se desvanece en Wall Street a medida que una pequeña IPO genera grandes olas",
+      "d": "Estas son las cosas clave que los inversores deben saber para comenzar el día de negociación.",
+      "u": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T11:34:03+00:00"
     },
     {
       "h": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
@@ -126,150 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-17770791",
       "published": "2026-10-20T11:11:00+00:00"
-    },
-    {
-      "h": "Why is Genuine Parts stock sliding today?",
-      "es": "¿Por qué el stock de piezas originales está cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-genuine-parts-stock-sliding-today-93CH-4959647",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-20T11:05:55+00:00"
-    },
-    {
-      "h": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-      "es": "Best Buy lanza un nuevo centro de juegos antes de 'Zelda' y 'Grand Theft Auto VI'",
-      "d": "Best Buy está lanzando una nueva experiencia de juego para los clientes a medida que se inclina hacia el negocio antes de los grandes lanzamientos de este otoño.",
-      "u": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T11:00:01+00:00"
-    },
-    {
-      "h": "Why is Equifax stock rising today?",
-      "es": "¿Por qué están subiendo las acciones de Equifax hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-equifax-stock-rising-today-93CH-4959589",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-20T10:57:49+00:00"
-    },
-    {
-      "h": "Why is Halliburton stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Halliburton hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-surging-today-93CH-4959587",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-20T10:56:57+00:00"
-    },
-    {
-      "h": "HSBC reviews Palantir inclusion in Islamic fund after concerns",
-      "es": "HSBC revisa la inclusión de Palantir en el fondo islámico tras preocupaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-reviews-palantir-inclusion-in-islamic-fund-after-concerns-93CH-4959585",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEGB61KW-OCATC_L.jpg",
-      "published": "2026-10-20T10:56:19+00:00"
-    },
-    {
-      "h": "Why is Rapport Therapeutics stock surging 31% today?",
-      "es": "¿Por qué las acciones de Rapport Therapeutics están subiendo un 31% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rapport-therapeutics-stock-surging-31-today-93CH-4959586",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-20T10:56:19+00:00"
-    },
-    {
-      "h": "Why is Nuscale Power stock down 6% today?",
-      "es": "¿Por qué las acciones de Nuscale Power han bajado un 6% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nuscale-power-stock-down-6-today-93CH-4959582",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8T0N4_M.jpg",
-      "published": "2026-10-20T10:54:15+00:00"
-    },
-    {
-      "h": "Why is Akamai Technologies stock rallying today?",
-      "es": "¿Por qué las acciones de Akamai Technologies están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-akamai-technologies-stock-rallying-today-93CH-4959580",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-20T10:52:39+00:00"
-    },
-    {
-      "h": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
-      "es": "El petróleo estadounidense sube hasta superar los 107 dólares y el crudo Brent alcanza su máximo de cinco meses en medio de las tensiones en Oriente Medio",
-      "d": "El petróleo amplió su repunte el martes mientras los inversores seguían atentos a los acontecimientos en Oriente Medio.",
-      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T10:48:27+00:00"
-    },
-    {
-      "h": "J.P. Morgan puts Euronext on Positive Catalyst Watch on earnings upside",
-      "es": "J.P. Morgan sitúa a Euronext en Positive Catalyst Watch por el aumento de sus beneficios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-euronext-on-positive-catalyst-watch-on-earnings-upside-4959561",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBJ0E7_M.jpg",
-      "published": "2026-10-20T10:46:48+00:00"
-    },
-    {
-      "h": "Bernstein adjusts tower stock price targets on higher debt costs",
-      "es": "Bernstein ajusta los objetivos de precios de las acciones de las torres debido a los mayores costos de la deuda",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bernstein-adjusts-tower-stock-price-targets-on-higher-debt-costs-93CH-4959560",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-20T10:46:03+00:00"
-    },
-    {
-      "h": "Why is General Motors stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de General Motors hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-general-motors-stock-sliding-today-93CH-4959549",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB602IE_M.jpg",
-      "published": "2026-10-20T10:44:53+00:00"
-    },
-    {
-      "h": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-      "es": "El CEO de HSBC advierte que el auge de la IA no hará que todos los centros de datos sean una buena apuesta",
-      "d": "Los campus de los centros de datos albergan los servidores que impulsan la inteligencia artificial y la computación en la nube.",
-      "u": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T10:39:17+00:00"
-    },
-    {
-      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
-      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T10:31:41+00:00"
-    },
-    {
-      "h": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-      "es": "Zelenskyy se reunirá con el enviado de Estados Unidos mientras aumentan las tensiones con Trump",
-      "d": "El presidente de Ucrania, Volodymyr Zelenskyy, se reunirá con enviados especiales de Estados Unidos el martes después de que el presidente Donald Trump dirigiera nuevas críticas al líder en tiempos de guerra.",
-      "u": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T10:30:49+00:00"
-    },
-    {
-      "h": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-      "es": "Por qué las acciones más pequeñas enfrentan peores perspectivas que el S&P 500 en los próximos años",
-      "d": "El potencial de apreciación media de la línea de valor tiene un buen historial en la previsión de rentabilidad de las acciones más pequeñas. Y los próximos cuatro años parecen bajistas.",
-      "u": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-71085812",
-      "published": "2026-10-20T10:30:00+00:00"
     }
   ],
   "sources": [
