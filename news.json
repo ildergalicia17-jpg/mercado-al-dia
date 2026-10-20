@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-20T21:29:22.836493+00:00",
+  "updated": "2026-10-20T22:03:23.805019+00:00",
   "news": [
+    {
+      "h": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+      "es": "Boeing obtiene la aprobación de la FAA para el 737 Max 10 después de años de retrasos, ya que Duffy dice que el proceso de certificación debería ser más rápido",
+      "d": "El 737 Max 10, el modelo más grande de la familia, debía comenzar a volar en 2020, pero un mayor escrutinio y otros problemas de seguridad retrasaron su certificación.",
+      "u": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T22:01:11+00:00"
+    },
+    {
+      "h": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+      "es": "Elon Musk dice que la fusión Tesla-SpaceX sería una \"buena idea\"",
+      "d": "Musk dice que una megafusión tendría muchos beneficios para sus empresas.",
+      "u": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published": "2026-10-20T21:50:41+00:00"
+    },
+    {
+      "h": "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
+      "es": "Vista previa de las ganancias del tercer trimestre de Waste Connections: las ganancias por acción y los ingresos aumentaron un 6%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
+      "published": "2026-10-20T21:50:40+00:00"
+    },
+    {
+      "h": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
+      "es": "Walmart apunta a Amazon y Costco con un nuevo programa de membresía, pero ¿es un buen negocio?",
+      "d": "Algunos analistas se preguntan si la gente realmente aprovechará el nuevo paquete de Walmart y qué tan fácil es entender los beneficios.",
+      "u": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-42340520",
+      "published": "2026-10-20T21:47:00+00:00"
+    },
+    {
+      "h": "Why is Agree Realty stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Agree Realty hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-20T21:45:38+00:00"
+    },
+    {
+      "h": "Why is Netflix stock sliding today?",
+      "es": "¿Por qué las acciones de Netflix están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC9G1B8_M.jpg",
+      "published": "2026-10-20T21:43:05+00:00"
+    },
+    {
+      "h": "Alaska Air forecasts bigger-than-expected fourth-quarter loss on soaring fuel costs",
+      "es": "Alaska Air pronostica pérdidas mayores de lo esperado en el cuarto trimestre debido al aumento de los costos del combustible",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-biggerthanexpected-fourthquarter-loss-on-soaring-fuel-costs-4961235",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1VE_L.jpg",
+      "published": "2026-10-20T21:30:43+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.36%",
+      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,36%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-036-4961224",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg",
+      "published": "2026-10-20T21:30:03+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 0.47%",
+      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 0,47%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-047-4961220",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
+      "published": "2026-10-20T21:25:03+00:00"
+    },
+    {
+      "h": "Aeromexico says fresh US routes to be unveiled next week",
+      "es": "Aeroméxico anuncia nuevas rutas a Estados Unidos la próxima semana",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aeromexico-says-fresh-us-routes-to-be-unveiled-next-week-4961219",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1V9_L.jpg",
+      "published": "2026-10-20T21:24:38+00:00"
+    },
     {
       "h": "Musk ordered Starlink slowdown that blindsided Ukraine, WSJ reports",
       "es": "Musk ordenó la desaceleración de Starlink que tomó por sorpresa a Ucrania, informa WSJ",
@@ -164,6 +254,15 @@
       "published": "2026-10-20T20:25:00+00:00"
     },
     {
+      "h": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+      "es": "United Airlines recorta drásticamente sus perspectivas de ganancias para 2026 debido a los precios del combustible, pero los viajeros siguen reservando a pesar de las tarifas más altas",
+      "d": "United Airlines recortó sus perspectivas de ganancias para el año debido a que los precios del combustible continuaron subiendo.",
+      "u": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T20:23:58+00:00"
+    },
+    {
       "h": "Duos Technologies stock rises on 20 MW customer deal",
       "es": "Las acciones de Duos Technologies suben gracias a un acuerdo con un cliente de 20 MW",
       "d": "",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM72155_L.jpg",
       "published": "2026-10-20T20:22:42+00:00"
-    },
-    {
-      "h": "LATAM says capacity growth tracking to lower end of guidance as fuel stays high",
-      "es": "LATAM dice que el crecimiento de la capacidad sigue hacia el extremo inferior de la guía a medida que el combustible se mantiene alto",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/latam-says-capacity-growth-tracking-to-lower-end-of-guidance-as-fuel-stays-high-4961025",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1RF_L.jpg",
-      "published": "2026-10-20T20:18:42+00:00"
-    },
-    {
-      "h": "Wall Street ends higher on surge in health care stocks, solid earnings",
-      "es": "Wall Street cierra al alza por aumento de acciones de atención médica y sólidas ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-10-20T20:15:32+00:00"
-    },
-    {
-      "h": "United Airlines forecasts fourth-quarter profit below estimates as fuel costs bite",
-      "es": "United Airlines pronostica ganancias del cuarto trimestre por debajo de las estimaciones a medida que disminuyen los costos del combustible",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/united-airlines-forecasts-fourthquarter-profit-below-estimates-as-fuel-costs-bite-4960998",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1QW_L.jpg",
-      "published": "2026-10-20T20:12:52+00:00"
-    },
-    {
-      "h": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
-      "es": "Los ingresos trimestrales de SpaceX aumentan y superan las estimaciones a medida que aumenta el negocio de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges-4960995",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1R0_L.jpg",
-      "published": "2026-10-20T20:12:37+00:00"
-    },
-    {
-      "h": "SpaceX tops Q3 estimates as revenue surges 161% on Starlink, AI compute expansion",
-      "es": "SpaceX supera las estimaciones del tercer trimestre a medida que los ingresos aumentan un 161% gracias a la expansión de la computación de IA y Starlink",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-tops-q3-estimates-as-revenue-surges-161-on-starlink-ai-compute-expansion-4960964",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741MS_1200_L.jpg",
-      "published": "2026-10-20T20:10:48+00:00"
-    },
-    {
-      "h": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
-      "es": "Salesforce anuncia un acuerdo de 5.660 millones de dólares para Braze, lo que hace que las acciones de BRZE se disparen un 51%",
-      "d": "Se espera que la última adquisición de la compañía se cierre en el año fiscal 2028 y los accionistas de Braze recibirán 47,50 dólares en efectivo por acción.",
-      "u": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T20:10:30+00:00"
-    },
-    {
-      "h": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "es": "General Motors supera las expectativas de ganancias del tercer trimestre de Wall Street y reduce las previsiones para todo el año",
-      "d": "GM redujo su guía de ganancias para 2026 y elevó su perspectiva ajustada de flujo de caja libre automotriz después de superar las estimaciones de Wall Street para el tercer trimestre.",
-      "u": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T20:08:44+00:00"
-    },
-    {
-      "h": "United Airlines falls on weak fourth quarter guidance",
-      "es": "United Airlines cae por débiles previsiones del cuarto trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/united-airlines-falls-on-weak-fourth-quarter-guidance-4960956",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC9H0RJ_M.jpg",
-      "published": "2026-10-20T20:07:03+00:00"
-    },
-    {
-      "h": "Netflix posts third-quarter earnings beat, says viewer engagement remains 'healthy'",
-      "es": "Netflix registra ganancias en el tercer trimestre y dice que la participación de los espectadores sigue siendo \"saludable\"",
-      "d": "Wall Street y los inversores buscarán que Netflix proporcione detalles adicionales sobre la estrategia de la compañía tras los recientes cambios organizativos.",
-      "u": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T20:06:55+00:00"
-    },
-    {
-      "h": "Dow leads Wall Street higher, investors focus on healthcare stocks",
-      "es": "Dow Jones lidera al alza en Wall Street, los inversores se centran en las acciones de atención sanitaria",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RZ_L.jpg",
-      "published": "2026-10-20T20:06:50+00:00"
-    },
-    {
-      "h": "FAA certifies Boeing’s 737 MAX 10, clearing way for deliveries",
-      "es": "La FAA certifica el 737 MAX 10 de Boeing, despejando el camino para las entregas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/faa-certifies-boeings-737-max-10-clearing-way-for-deliveries-4960916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1PL_L.jpg",
-      "published": "2026-10-20T20:06:37+00:00"
     }
   ],
   "sources": [
