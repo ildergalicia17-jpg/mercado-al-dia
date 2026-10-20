@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-20T01:38:14.756032+00:00",
+  "updated": "2026-10-20T02:09:14.698904+00:00",
   "news": [
+    {
+      "h": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "es": "JD Vance se abstiene de respaldar al líder israelí Netanyahu mientras Trump ofrece elogios",
+      "d": "El vicepresidente JD Vance se negó a seguir el ejemplo de Trump al respaldar a Netanyahu, diciendo que “no se involucrará en las elecciones israelíes” una semana antes de que los israelíes voten.",
+      "u": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T01:53:34+00:00"
+    },
+    {
+      "h": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+      "es": "La principal capitalista de riesgo Jenny Lee dice que las nuevas empresas asiáticas se están acelerando hacia las OPI",
+      "d": "El cronograma para que las nuevas empresas realicen ofertas públicas iniciales se ha acelerado, según Jenny Lee de Granite Asia.",
+      "u": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T01:52:05+00:00"
+    },
+    {
+      "h": "NAB to cut 2,500 jobs as bank moves to simplify operations",
+      "es": "NAB recortará 2.500 puestos de trabajo mientras el banco toma medidas para simplificar sus operaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nab-to-cut-2500-jobs-as-bank-moves-to-simplify-operations-4958628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE2D05D_M.jpg",
+      "published": "2026-10-20T01:29:58+00:00"
+    },
     {
       "h": "SK Hynix plunges with RSI at 19.94 in fierce downtrend: Live",
       "es": "SK Hynix se hunde con el RSI en 19,94 en una feroz tendencia bajista: en vivo",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEE1P09M_M.jpg",
       "published": "2026-10-19T21:30:03+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-      "es": "“No siento lástima por mí mismo”: tengo 64 años y estaré alquilando por el resto de mi vida, pero todavía tengo esperanzas",
-      "d": "\"Circunstancias inoportunas pueden cambiar nuestro futuro financiero de maneras inesperadas\".",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-19T21:30:00+00:00"
-    },
-    {
-      "h": "Colombia stocks lower at close of trade; COLCAP down 1.75%",
-      "es": "Las bolsas de Colombia cierran a la baja; COLCAP cae 1,75%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
-      "published": "2026-10-19T21:25:03+00:00"
-    },
-    {
-      "h": "California settles 23andMe data breach claims for $6 million",
-      "es": "California resuelve reclamaciones por violación de datos de 23andMe por 6 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9I1VJ_L.jpg",
-      "published": "2026-10-19T21:24:37+00:00"
     }
   ],
   "sources": [
