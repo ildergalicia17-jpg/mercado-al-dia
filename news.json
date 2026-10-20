@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-20T18:01:49.272254+00:00",
+  "updated": "2026-10-20T18:39:00.611497+00:00",
   "news": [
+    {
+      "h": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+      "es": "Mike Bloomberg gastó 80 millones de dólares para impulsar a los demócratas en las elecciones intermedias: NYT",
+      "d": "Los demócratas tienen la esperanza de recuperar el control mayoritario de la Cámara de Representantes y el Senado en las elecciones de noviembre.",
+      "u": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T18:30:53+00:00"
+    },
+    {
+      "h": "SpaceX investors, ahead of results, press Musk on Tesla merger",
+      "es": "Los inversores de SpaceX, antes de los resultados, presionan a Musk sobre la fusión de Tesla",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-investors-ahead-of-results-press-musk-on-tesla-merger-4960844",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1MI_L.jpg",
+      "published": "2026-10-20T18:18:27+00:00"
+    },
+    {
+      "h": "Casella Waste Systems shares gain after Jana Partners discloses stake",
+      "es": "Las acciones de Casella Waste Systems suben después de que Jana Partners revelara su participación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/casella-waste-systems-shares-gain-after-jana-partners-discloses-stake-4960848",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/green3_b._M_1440048377.jpg",
+      "published": "2026-10-20T18:15:06+00:00"
+    },
+    {
+      "h": "Here’s what matters most to Tesla investors heading into earnings",
+      "es": "Esto es lo que más les importa a los inversores de Tesla de cara a obtener resultados",
+      "d": "Los resultados financieros son una especie de espectáculo secundario para una base de inversores que espera ansiosamente actualizaciones sobre robotaxis, robots y el costo de todo eso.",
+      "u": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-47681442",
+      "published": "2026-10-20T18:15:00+00:00"
+    },
+    {
+      "h": "Traders are betting Netflix's stock drama may be coming to an end",
+      "es": "Los operadores apuestan que el drama bursátil de Netflix puede estar llegando a su fin",
+      "d": "Los precios actuales de las opciones implican un movimiento posterior a las ganancias del 9% para Netflix, que es el más alto desde su informe del tercer trimestre de 2022, cuando se fijó un precio para un movimiento del 11%.",
+      "u": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T18:10:13+00:00"
+    },
+    {
+      "h": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
+      "es": "Las acciones intentan obtener ganancias consecutivas; además, Qnity obtiene el negocio del iPhone de Apple",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-20T18:09:42+00:00"
+    },
+    {
+      "h": "Amgen, Equifax among market cap stock movers on Tuesday",
+      "es": "Amgen y Equifax entre las acciones que impulsaron la capitalización de mercado el martes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amgen-equifax-among-market-cap-stock-movers-on-tuesday-93CH-4960838",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4E14U_L.jpg",
+      "published": "2026-10-20T18:06:29+00:00"
+    },
+    {
+      "h": "Instacart settles US probe over foreign worker recruiting for $5 million",
+      "es": "Instacart resuelve investigación estadounidense sobre contratación de trabajadores extranjeros por 5 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/instacart-settles-us-probe-over-foreign-worker-recruiting-for-5-million-4960837",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1LN_L.jpg",
+      "published": "2026-10-20T18:06:17+00:00"
+    },
+    {
+      "h": "OpenAI acquires Orchestra Bio to boost drug development AI, Axios reports",
+      "es": "OpenAI adquiere Orchestra Bio para impulsar la IA en el desarrollo de fármacos, informa Axios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-acquires-orchestra-bio-to-boost-drug-development-ai-axios-reports-4960836",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5B1QY_L.jpg",
+      "published": "2026-10-20T18:05:44+00:00"
+    },
+    {
+      "h": "Google resolves cloud outage affecting UK banks and websites",
+      "es": "Google resuelve la interrupción de la nube que afecta a los bancos y sitios web del Reino Unido",
+      "d": "Revolut fue uno de los más afectados, ya que los servicios bancarios cayeron para muchos clientes.",
+      "u": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03a/live/ea64c5b0-ccac-11f1-8789-fd6bb060c3f9.jpg",
+      "published": "2026-10-20T18:03:19+00:00"
+    },
+    {
+      "h": "Oil inventories among economic data due Wednesday",
+      "es": "Inventarios de petróleo entre los datos económicos que se publicarán el miércoles",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oil-inventories-among-economic-data-due-wednesday-93CH-4960832",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED910E7-ORUBS_M.jpg",
+      "published": "2026-10-20T18:00:55+00:00"
+    },
     {
       "h": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
       "es": "El sector inmobiliario está dando señales de advertencia justo cuando la Reserva Federal evalúa aumentar más las tasas de interés",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RZ_L.jpg",
       "published": "2026-10-20T16:43:48+00:00"
-    },
-    {
-      "h": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-      "es": "Trump demandó aranceles de más del 50% a Canadá en el último desafío comercial",
-      "d": "Una nueva demanda cuestiona los aranceles del presidente Donald Trump sobre una variedad de productos canadienses utilizando la Sección 338 de la Ley Arancelaria de 1930.",
-      "u": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:43:42+00:00"
-    },
-    {
-      "h": "Exclusive-Blackstone, Warburg explore IntraFi sale at over $10 billion, sources say",
-      "es": "Exclusivo-Blackstone y Warburg exploran la venta de IntraFi por más de $ 10 mil millones, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveblackstone-warburg-explore-intrafi-sale-at-over-10-billion-sources-say-4960738",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1HL_L.jpg",
-      "published": "2026-10-20T16:43:10+00:00"
-    },
-    {
-      "h": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs",
-      "es": "Trump abandona las amenazas contra el fabricante canadiense de aviones Bombardier, citando empleos en EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-says-in-kansas-he-does-not-plan-to-hurt-bombardier-4960518",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J172_L.jpg",
-      "published": "2026-10-20T16:42:39+00:00"
-    },
-    {
-      "h": "Qiagen shares surge on report of advanced EQT takeover talks",
-      "es": "Las acciones de Qiagen suben tras el informe de conversaciones avanzadas sobre la adquisición de EQT",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qiagen-shares-surge-on-report-of-advanced-eqt-takeover-talks-4960736",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
-      "published": "2026-10-20T16:42:25+00:00"
-    },
-    {
-      "h": "RTX vs NOC: valuation, earnings beats, and which defense stock offers more value",
-      "es": "RTX vs NOC: valoración, ganancias y qué acciones de defensa ofrecen más valor",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rtx-vs-noc-valuation-earnings-beats-and-which-defense-stock-offers-more-value-93CH-4960733",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D101_L.jpg",
-      "published": "2026-10-20T16:40:40+00:00"
-    },
-    {
-      "h": "Genuine Parts earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de piezas genuinas: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/genuine-parts-earnings-analysis-questions-answered-and-next-catalysts-93CH-4960727",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-20T16:39:02+00:00"
-    },
-    {
-      "h": "Equifax earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Equifax: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/equifax-earnings-analysis-questions-answered-and-next-catalysts-93CH-4960726",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-20T16:38:44+00:00"
-    },
-    {
-      "h": "What options traders expect from SpaceX earnings after the bell",
-      "es": "Qué esperan los comerciantes de opciones de las ganancias de SpaceX después de la campana",
-      "d": "Han sido tres meses muy ocupados para SpaceX. Los comerciantes piensan que eso significa más ganancias para la acción después de que reporte ganancias después de la campana de hoy.",
-      "u": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:34:36+00:00"
-    },
-    {
-      "h": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "es": "“Soy escéptico por naturaleza”: recibo 10 llamadas al día ofreciéndome préstamos por valor de 15.000 dólares al 8% de interés. ¿Es esto una estafa?",
-      "d": "\"Insisten en que los detalles se proporcionarán después de haber realizado una verificación crediticia suave\".",
-      "u": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04384503",
-      "published": "2026-10-20T16:25:00+00:00"
-    },
-    {
-      "h": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-      "es": "Los precios del petróleo caen mientras los comerciantes esperan avances diplomáticos en Medio Oriente",
-      "d": "Los acontecimientos en Oriente Medio siguen siendo el foco de atención, y en las últimas semanas se han intensificado los ataques a barcos comerciales que transitan por el Estrecho de Ormuz.",
-      "u": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:19:38+00:00"
-    },
-    {
-      "h": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "es": "El medicamento contra la obesidad de próxima generación de Novo muestra una pérdida de peso del 25% en mujeres en un análisis de última etapa",
-      "d": "Novo publicó nueva evidencia de que su inyección experimental CagriSema puede mejorar la pérdida de peso con su exitosa inyección de GLP-1 para la obesidad, Wegovy.",
-      "u": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T16:11:02+00:00"
     }
   ],
   "sources": [
