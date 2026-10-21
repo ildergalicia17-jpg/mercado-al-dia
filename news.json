@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-21T00:41:35.920929+00:00",
+  "updated": "2026-10-21T01:21:40.699975+00:00",
   "news": [
+    {
+      "h": "Nikkei 225 plunges to 64,872.5 with breakdown risk at 63,600: Live",
+      "es": "Nikkei 225 cae a 64.872,5 con riesgo de ruptura en 63.600: En vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-21T01:07:15+00:00"
+    },
+    {
+      "h": "SK Hynix bounces but bearish trend holds at KRW 1,381,000: Live",
+      "es": "SK Hynix rebota pero la tendencia bajista se mantiene en KRW 1.381.000: en directo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-21T01:05:52+00:00"
+    },
+    {
+      "h": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+      "es": "Las enormes oscilaciones bursátiles de Elice muestran que el auge del gasto en IA está recibiendo un mayor escrutinio por parte de los inversores",
+      "d": "El auge de la IA está entrando en una fase más implacable, a medida que los inversores se preguntan si los miles de millones invertidos en los centros de datos se traducirán en ganancias sostenibles.",
+      "u": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T01:02:36+00:00"
+    },
     {
       "h": "NextDC shares plunge 42% to a near nine-year low after outlook cut",
       "es": "SiguienteLas acciones de DC caen un 42% a un mínimo de casi nueve años después del recorte de perspectivas",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
       "published": "2026-10-20T21:50:40+00:00"
-    },
-    {
-      "h": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-      "es": "Walmart apunta a Amazon y Costco con un nuevo programa de membresía, pero ¿es un buen negocio?",
-      "d": "Algunos analistas se preguntan si la gente realmente aprovechará el nuevo paquete de Walmart y qué tan fácil es entender los beneficios.",
-      "u": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-42340520",
-      "published": "2026-10-20T21:47:00+00:00"
-    },
-    {
-      "h": "Why is Agree Realty stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Agree Realty hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-20T21:45:38+00:00"
-    },
-    {
-      "h": "Why is Netflix stock sliding today?",
-      "es": "¿Por qué las acciones de Netflix están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC9G1B8_M.jpg",
-      "published": "2026-10-20T21:43:05+00:00"
     }
   ],
   "sources": [
