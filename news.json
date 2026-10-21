@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-21T22:16:56.995990+00:00",
+  "updated": "2026-10-21T22:53:07.967448+00:00",
   "news": [
+    {
+      "h": "Tesla beats on earnings and sales even as auto revenue declines",
+      "es": "Tesla beats on earnings and sales even as auto revenue declines",
+      "d": "Tesla reported better-than-expected third-quarter results.",
+      "u": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T22:35:36+00:00"
+    },
     {
       "h": "Australia’s Fortescue posts 6% fall in quarterly iron ore shipments",
       "es": "Australia’s Fortescue posts 6% fall in quarterly iron ore shipments",
@@ -108,6 +117,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
       "published": "2026-10-21T21:37:28+00:00"
+    },
+    {
+      "h": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "es": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "d": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
+      "u": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-03800189",
+      "published": "2026-10-21T21:31:00+00:00"
     },
     {
       "h": "Walmart launches tools for AI agents to shop for customers",
@@ -245,31 +263,13 @@
       "published": "2026-10-21T20:59:00+00:00"
     },
     {
-      "h": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
-      "es": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says-4961821",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0JS_L.jpg",
-      "published": "2026-10-21T20:54:25+00:00"
-    },
-    {
-      "h": "Why is Pinnacle Financial Partners stock slipping today?",
-      "es": "Why is Pinnacle Financial Partners stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-pinnacle-financial-partners-stock-slipping-today-93CH-4964117",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-21T20:49:40+00:00"
-    },
-    {
-      "h": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "es": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0IR_L.jpg",
-      "published": "2026-10-21T20:48:33+00:00"
+      "h": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "es": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "d": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
+      "u": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T20:57:12+00:00"
     }
   ],
   "sources": [
