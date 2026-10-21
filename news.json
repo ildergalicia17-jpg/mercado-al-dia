@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-21T18:59:21.725461+00:00",
+  "updated": "2026-10-21T19:34:11.625824+00:00",
   "news": [
+    {
+      "h": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
+      "es": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/six-flags-drops-as-mizuho-warns-of-balance-sheet-strains-and-cash-flow-deficits-4963847",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+      "published": "2026-10-21T19:15:09+00:00"
+    },
+    {
+      "h": "Factbox-Websites taken offline over PHP risks",
+      "es": "Factbox-Websites taken offline over PHP risks",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1J6_L.jpg",
+      "published": "2026-10-21T19:06:41+00:00"
+    },
+    {
+      "h": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
+      "es": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
+      "d": "SpaceX indicated there's been no slowdown in demand for AI computing.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T19:01:23+00:00"
+    },
     {
       "h": "Why is Teledyne Technologies stock slipping today?",
       "es": "Why is Teledyne Technologies stock slipping today?",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0IR_L.jpg",
       "published": "2026-10-21T17:06:25+00:00"
-    },
-    {
-      "h": "Burnham proposes plan to cut standing charges from gas bills",
-      "es": "Burnham proposes plan to cut standing charges from gas bills",
-      "d": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-      "u": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg",
-      "published": "2026-10-21T17:06:16+00:00"
-    },
-    {
-      "h": "US Treasury sanctions law firm over Iranian shipping support",
-      "es": "US Treasury sanctions law firm over Iranian shipping support",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-treasury-sanctions-law-firm-over-iranian-shipping-support-93CH-4963755",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-21T17:02:15+00:00"
-    },
-    {
-      "h": "Nvidia’s Huang hails Europe’s AI potential, flanked by robot ducks",
-      "es": "Nvidia’s Huang hails Europe’s AI potential, flanked by robot ducks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidias-huang-hails-europes-ai-potential-flanked-by-robot-ducks-4963697",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K18J_L.jpg",
-      "published": "2026-10-21T17:00:58+00:00"
     }
   ],
   "sources": [
