@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-21T20:39:59.059547+00:00",
+  "updated": "2026-10-21T21:12:42.903341+00:00",
   "news": [
+    {
+      "h": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "es": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "d": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
+      "u": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:08:22+00:00"
+    },
+    {
+      "h": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "es": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "d": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+      "u": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:07:11+00:00"
+    },
+    {
+      "h": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "es": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "d": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+      "u": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:02:24+00:00"
+    },
+    {
+      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27247005",
+      "published": "2026-10-21T21:00:00+00:00"
+    },
+    {
+      "h": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "es": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "d": "Investors have pushed the healthcare sector to a record high, and some favored stocks have high projected revenue growth rates through 2028.",
+      "u": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-71455519",
+      "published": "2026-10-21T20:59:00+00:00"
+    },
+    {
+      "h": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
+      "es": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starlink-access-in-ukraine-a-decision-for-musk-not-white-house-rubio-says-4961821",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0JS_L.jpg",
+      "published": "2026-10-21T20:54:25+00:00"
+    },
+    {
+      "h": "Why is Pinnacle Financial Partners stock slipping today?",
+      "es": "Why is Pinnacle Financial Partners stock slipping today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pinnacle-financial-partners-stock-slipping-today-93CH-4964117",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-21T20:49:40+00:00"
+    },
+    {
+      "h": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "es": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0IR_L.jpg",
+      "published": "2026-10-21T20:48:33+00:00"
+    },
+    {
+      "h": "Why is Las Vegas Sands stock sliding today?",
+      "es": "Why is Las Vegas Sands stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-las-vegas-sands-stock-sliding-today-93CH-4964103",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-21T20:45:52+00:00"
+    },
+    {
+      "h": "Analog chipmaker Texas Instruments sees quarterly sales above estimates",
+      "es": "Analog chipmaker Texas Instruments sees quarterly sales above estimates",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analog-chipmaker-texas-instruments-sees-quarterly-sales-above-estimates-4964092",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1ZQ_L.jpg",
+      "published": "2026-10-21T20:43:05+00:00"
+    },
+    {
+      "h": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "es": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "d": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
+      "u": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-03800189",
+      "published": "2026-10-21T20:37:00+00:00"
+    },
     {
       "h": "Tesla beats on earnings and sales even as auto revenue declines",
       "es": "Tesla beats on earnings and sales even as auto revenue declines",
@@ -171,105 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-00292967",
       "published": "2026-10-21T20:01:00+00:00"
-    },
-    {
-      "h": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-      "es": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-      "d": "Rick Rieder, BlackRock's CIO of global fixed income, lays out his expectations for the fourth quarter and where he sees the best opportunities.",
-      "u": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T19:54:16+00:00"
-    },
-    {
-      "h": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-      "es": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-      "d": "Elon Musk’s planned SpaceX share gift through Trump Accounts could be the start of a broader philanthropic push, says Altimeter Capital CEO Brad Gerstner.",
-      "u": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T19:52:11+00:00"
-    },
-    {
-      "h": "Why is Waste Connections stock slipping today?",
-      "es": "Why is Waste Connections stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-waste-connections-stock-slipping-today-93CH-4963879",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-21T19:45:52+00:00"
-    },
-    {
-      "h": "Nasdaq up 1% as tech lifted by SpaceX, Tesla on Musk’s hint at possible merger",
-      "es": "Nasdaq up 1% as tech lifted by SpaceX, Tesla on Musk’s hint at possible merger",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-      "published": "2026-10-21T19:36:01+00:00"
-    },
-    {
-      "h": "Fed could cut balance sheet to $4.5 trillion, paper says",
-      "es": "Fed could cut balance sheet to $4.5 trillion, paper says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fed-could-cut-balance-sheet-to-45-trillion-paper-says-93CH-4963862",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-21T19:30:09+00:00"
-    },
-    {
-      "h": "Meta eyes nonvoting shares to help fund AI spending, Semafor reports",
-      "es": "Meta eyes nonvoting shares to help fund AI spending, Semafor reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-eyes-nonvoting-shares-to-help-fund-ai-spending-semafor-reports-4963855",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
-      "published": "2026-10-21T19:25:07+00:00"
-    },
-    {
-      "h": "Meta and Tesla earnings preview: AI spending and margins in focus",
-      "es": "Meta and Tesla earnings preview: AI spending and margins in focus",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-and-tesla-earnings-preview-ai-spending-and-margins-in-focus-93CH-4963857",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
-      "published": "2026-10-21T19:24:43+00:00"
-    },
-    {
-      "h": "S&P Global earnings outlook after Moody’s report",
-      "es": "S&P Global earnings outlook after Moody’s report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-global-earnings-outlook-after-moodys-report-93CH-4963856",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-21T19:24:08+00:00"
-    },
-    {
-      "h": "‘Super’ El Niño may soon make your coffee super expensive",
-      "es": "‘Super’ El Niño may soon make your coffee super expensive",
-      "d": "Agricultural markets around the world are already dealing with record-high diesel prices and high fertilizer costs. A “super” El Niño is almost guaranteed to make matters worse for farmers and consumers.",
-      "u": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-52843333",
-      "published": "2026-10-21T19:24:00+00:00"
-    },
-    {
-      "h": "Nasdaq 100 wedged at bull trap zone near 30,225: Live levels",
-      "es": "Nasdaq 100 wedged at bull trap zone near 30,225: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-21T19:18:30+00:00"
-    },
-    {
-      "h": "Alphabet C oversold at $329.95 after $338 breakdown: Live levels",
-      "es": "Alphabet C oversold at $329.95 after $338 breakdown: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-trapped-below-resistance-at-341-live-levels-93CH-4957926",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-21T19:18:09+00:00"
     }
   ],
   "sources": [
