@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-21T21:12:42.903341+00:00",
+  "updated": "2026-10-21T21:50:36.951661+00:00",
   "news": [
+    {
+      "h": "Meta fined $25bn for 'lies' over user data privacy",
+      "es": "Meta fined $25bn for 'lies' over user data privacy",
+      "d": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "u": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-21T21:49:07+00:00"
+    },
+    {
+      "h": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "es": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "d": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
+      "u": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63500950",
+      "published": "2026-10-21T21:44:00+00:00"
+    },
+    {
+      "h": "Walmart launches tools for AI agents to shop for customers",
+      "es": "Walmart launches tools for AI agents to shop for customers",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-launches-tools-for-ai-agents-to-shop-for-customers-4964210",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K219_L.jpg",
+      "published": "2026-10-21T21:30:23+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
+      "es": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-143-4964235",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED8P25V_M.jpg",
+      "published": "2026-10-21T21:30:04+00:00"
+    },
+    {
+      "h": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+      "es": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K21K_L.jpg",
+      "published": "2026-10-21T21:25:06+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 1.07%",
+      "es": "Colombia stocks higher at close of trade; COLCAP up 1.07%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-107-4964229",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
+      "published": "2026-10-21T21:25:03+00:00"
+    },
+    {
+      "h": "Why is Texas Instruments stock slipping today?",
+      "es": "Why is Texas Instruments stock slipping today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-slipping-today-93CH-4964227",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6N1UV_M.jpg",
+      "published": "2026-10-21T21:24:19+00:00"
+    },
+    {
+      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 0.89%",
+      "es": "Russia stocks lower at close of trade; MOEX Russia Index down 0.89%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-089-4964211",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB4P087_M.jpg",
+      "published": "2026-10-21T21:20:04+00:00"
+    },
+    {
+      "h": "Why is Rollins stock sliding today?",
+      "es": "Why is Rollins stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rollins-stock-sliding-today-93CH-4964209",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-21T21:16:49+00:00"
+    },
+    {
+      "h": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "es": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "d": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
+      "u": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89005397",
+      "published": "2026-10-21T21:14:00+00:00"
+    },
+    {
+      "h": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "es": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "d": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+      "u": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:12:29+00:00"
+    },
     {
       "h": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
       "es": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
@@ -18,6 +117,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-21T21:07:11+00:00"
+    },
+    {
+      "h": "Bank of America names Jim Fitterling and Bill Thomas to board of directors",
+      "es": "Bank of America names Jim Fitterling and Bill Thomas to board of directors",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-names-jim-fitterling-and-bill-thomas-to-board-of-directors-4964181",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K20R_L.jpg",
+      "published": "2026-10-21T21:07:10+00:00"
     },
     {
       "h": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
       "published": "2026-10-21T20:30:32+00:00"
-    },
-    {
-      "h": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "es": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Y9_L.jpg",
-      "published": "2026-10-21T20:30:30+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
-      "es": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4964019",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J15I_1200_L.jpg",
-      "published": "2026-10-21T20:30:04+00:00"
-    },
-    {
-      "h": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "es": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "d": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
-      "u": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-21T20:29:47+00:00"
-    },
-    {
-      "h": "Southwest Airlines cuts 2026 profit forecast as fuel costs spike",
-      "es": "Southwest Airlines cuts 2026 profit forecast as fuel costs spike",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/southwest-airlines-cuts-2026-profit-forecast-as-fuel-costs-spike-4964000",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Z3_L.jpg",
-      "published": "2026-10-21T20:24:49+00:00"
-    },
-    {
-      "h": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
-      "es": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-beats-q3-estimates-approves-new-nonvoting-share-class-as-ai-spending-surges-4963949",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
-      "published": "2026-10-21T20:19:19+00:00"
-    },
-    {
-      "h": "IBM raises annual software revenue outlook as deal delays ease",
-      "es": "IBM raises annual software revenue outlook as deal delays ease",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ibm-raises-annual-software-revenue-outlook-as-deal-delays-ease-4963970",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1YO_L.jpg",
-      "published": "2026-10-21T20:18:25+00:00"
-    },
-    {
-      "h": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "es": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "d": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-      "u": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-14131970",
-      "published": "2026-10-21T20:18:00+00:00"
-    },
-    {
-      "h": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "es": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "d": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-      "u": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37061158",
-      "published": "2026-10-21T20:15:00+00:00"
-    },
-    {
-      "h": "SpaceX’s massive AI targets will test the limits of reality",
-      "es": "SpaceX’s massive AI targets will test the limits of reality",
-      "d": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.",
-      "u": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-89434829",
-      "published": "2026-10-21T20:15:00+00:00"
-    },
-    {
-      "h": "GM aims to develop vehicles in as little as two years with AI, software push",
-      "es": "GM aims to develop vehicles in as little as two years with AI, software push",
-      "d": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
-      "u": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T20:14:36+00:00"
-    },
-    {
-      "h": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "es": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "d": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
-      "u": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T20:04:07+00:00"
-    },
-    {
-      "h": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "es": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "d": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-      "u": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00292967",
-      "published": "2026-10-21T20:01:00+00:00"
     }
   ],
   "sources": [
