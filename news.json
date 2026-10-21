@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-21T01:21:40.699975+00:00",
+  "updated": "2026-10-21T02:00:00.117184+00:00",
   "news": [
+    {
+      "h": "U.S. stock futures rise as SpaceX surges on upbeat earnings",
+      "es": "Los futuros de acciones estadounidenses suben a medida que SpaceX aumenta gracias a ganancias optimistas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
+      "published": "2026-10-21T01:50:13+00:00"
+    },
+    {
+      "h": "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
+      "es": "Las acciones del operador australiano de centros de datos de IA NextDC cayeron un 44% por retraso en los ingresos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1WD_L.jpg",
+      "published": "2026-10-21T01:48:24+00:00"
+    },
+    {
+      "h": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "es": "Las acciones del operador australiano de centros de datos NextDC se desploman un 40% después de recortar su previsión de ganancias",
+      "d": "La compañía citó retrasos en el suministro de energía en sus instalaciones de Melbourne en medio de la oposición de la comunidad local y de las partes interesadas a la reducción de las previsiones de ganancias.",
+      "u": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T01:44:42+00:00"
+    },
     {
       "h": "Nikkei 225 plunges to 64,872.5 with breakdown risk at 63,600: Live",
       "es": "Nikkei 225 cae a 64.872,5 con riesgo de ruptura en 63.600: En vivo",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM1A1H9_L.jpg",
       "published": "2026-10-20T21:56:51+00:00"
-    },
-    {
-      "h": "FAA certifies Boeing’s 737 MAX 10, clearing way for deliveries",
-      "es": "La FAA certifica el 737 MAX 10 de Boeing, despejando el camino para las entregas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/faa-certifies-boeings-737-max-10-clearing-way-for-deliveries-4960916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1PL_L.jpg",
-      "published": "2026-10-20T21:54:51+00:00"
-    },
-    {
-      "h": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
-      "es": "Elon Musk dice que la fusión Tesla-SpaceX sería una \"buena idea\"",
-      "d": "Musk dice que una megafusión tendría muchos beneficios para sus empresas.",
-      "u": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "published": "2026-10-20T21:50:41+00:00"
-    },
-    {
-      "h": "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
-      "es": "Vista previa de las ganancias del tercer trimestre de Waste Connections: las ganancias por acción y los ingresos aumentaron un 6%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
-      "published": "2026-10-20T21:50:40+00:00"
     }
   ],
   "sources": [
