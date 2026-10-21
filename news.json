@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-21T00:00:13.591392+00:00",
+  "updated": "2026-10-21T00:41:35.920929+00:00",
   "news": [
+    {
+      "h": "NextDC shares plunge 42% to a near nine-year low after outlook cut",
+      "es": "SiguienteLas acciones de DC caen un 42% a un mínimo de casi nueve años después del recorte de perspectivas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nextdc-shares-plunge-42-to-a-near-nineyear-low-after-outlook-cut-4961425",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg",
+      "published": "2026-10-21T00:32:09+00:00"
+    },
+    {
+      "h": "Why is Nextdc stock crashing today?",
+      "es": "¿Por qué las acciones de Nextdc se están desplomando hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nextdc-stock-crashing-today-93CH-4961418",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-21T00:30:16+00:00"
+    },
+    {
+      "h": "Why is Tesla stock rising after-hours today?",
+      "es": "¿Por qué las acciones de Tesla están subiendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-rising-afterhours-today-93CH-4961414",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC602TQ_M.jpg",
+      "published": "2026-10-21T00:29:27+00:00"
+    },
+    {
+      "h": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "es": "Los mercados alcistas tienden a alcanzar su punto máximo con un gemido, no con una explosión, pero lo siguiente puede ser una corrección del 15% para el S&P 500",
+      "d": "A diferencia de los mínimos de los mercados bajistas, que normalmente terminan con un espasmo de desesperación cuando los operadores tiran la toalla, los máximos de los mercados alcistas son mucho más graduales y menos dramáticos.",
+      "u": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-43495041",
+      "published": "2026-10-21T00:24:00+00:00"
+    },
     {
       "h": "Japan exports post huge miss in September as growth slows to 16.7%",
       "es": "Las exportaciones de Japón registran un gran fracaso en septiembre mientras el crecimiento se desacelera al 16,7%",
@@ -101,21 +137,21 @@
       "published": "2026-10-20T22:33:00+00:00"
     },
     {
-      "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
-      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
-      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70454413",
-      "published": "2026-10-20T22:30:00+00:00"
-    },
-    {
       "h": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
       "es": "Netflix promete revivir las tendencias de audiencia, pero los inversores optan por \"vender\" las acciones",
       "d": "El servicio de streaming cita una “competencia intensa” y reconoce “algunas preocupaciones de los inversores sobre el crecimiento de nuestras horas de visualización”.",
       "u": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-73464745",
+      "published": "2026-10-20T22:30:00+00:00"
+    },
+    {
+      "h": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "es": "Mi esposa dice que no podemos darnos el lujo de jubilarnos. Veté su viaje de 8.000 dólares a Italia. Tenemos 60 años y tenemos 4 millones de dólares. ¿Sigo trabajando?",
+      "d": "\"Me preocupa la atención sanitaria, los cuidados a largo plazo, la inflación, un mercado bajista prolongado y vivir hasta los 95 años\".",
+      "u": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70454413",
       "published": "2026-10-20T22:30:00+00:00"
     },
     {
@@ -144,6 +180,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1QW_L.jpg",
       "published": "2026-10-20T22:18:38+00:00"
+    },
+    {
+      "h": "Musk ordered slowdown of Starlink service used by Ukraine’s military, WSJ reports",
+      "es": "Musk ordenó la desaceleración del servicio Starlink utilizado por el ejército de Ucrania, informa WSJ",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1SN_L.jpg",
+      "published": "2026-10-20T22:12:21+00:00"
     },
     {
       "h": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEC9G1B8_M.jpg",
       "published": "2026-10-20T21:43:05+00:00"
-    },
-    {
-      "h": "Alaska Air forecasts bigger-than-expected fourth-quarter loss on soaring fuel costs",
-      "es": "Alaska Air pronostica pérdidas mayores de lo esperado en el cuarto trimestre debido al aumento de los costos del combustible",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-biggerthanexpected-fourthquarter-loss-on-soaring-fuel-costs-4961235",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1VE_L.jpg",
-      "published": "2026-10-20T21:30:43+00:00"
-    },
-    {
-      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.36%",
-      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,36%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-036-4961224",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056300.jpg",
-      "published": "2026-10-20T21:30:03+00:00"
-    },
-    {
-      "h": "Colombia stocks higher at close of trade; COLCAP up 0.47%",
-      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 0,47%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-047-4961220",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
-      "published": "2026-10-20T21:25:03+00:00"
-    },
-    {
-      "h": "Aeromexico says fresh US routes to be unveiled next week",
-      "es": "Aeroméxico anuncia nuevas rutas a Estados Unidos la próxima semana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aeromexico-says-fresh-us-routes-to-be-unveiled-next-week-4961219",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1V9_L.jpg",
-      "published": "2026-10-20T21:24:38+00:00"
-    },
-    {
-      "h": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-      "es": "¿Obsesionado con CoreWeave y el comercio de IA? Te estás perdiendo algunas acciones excelentes",
-      "d": "Las ganancias de hoy muestran que hay una cohorte del mercado que puede prosperar fuera de la construcción del centro de datos.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T21:17:47+00:00"
     }
   ],
   "sources": [
