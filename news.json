@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-21T20:06:54.151146+00:00",
+  "updated": "2026-10-21T20:39:59.059547+00:00",
   "news": [
+    {
+      "h": "Tesla beats on earnings and sales even as auto revenue declines",
+      "es": "Tesla beats on earnings and sales even as auto revenue declines",
+      "d": "Tesla reported better-than-expected third-quarter results.",
+      "u": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T20:36:56+00:00"
+    },
+    {
+      "h": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "es": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "d": "Trump-aligned PACs are pouring hundreds of millions into House and Senate races as Republicans defend an expanding midterm election battleground map.",
+      "u": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T20:35:15+00:00"
+    },
+    {
+      "h": "After-Hours Movers: META, IBM, TSLA, LRCX, KLAC, AMAT, CSX, KMI, LVS",
+      "es": "After-Hours Movers: META, IBM, TSLA, LRCX, KLAC, AMAT, CSX, KMI, LVS",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-meta-ibm-tsla-lrcx-klac-amat-csx-kmi-lvs-432SI-4964053",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA6H08Q_M.jpg",
+      "published": "2026-10-21T20:35:02+00:00"
+    },
+    {
+      "h": "Anthropic unveils Claude Duet AI agent app",
+      "es": "Anthropic unveils Claude Duet AI agent app",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-unveils-claude-duet-ai-agent-app-4964042",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1YX_L.jpg",
+      "published": "2026-10-21T20:31:12+00:00"
+    },
+    {
+      "h": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.69%",
+      "es": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.69%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-069-4964039",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA01FQ_L.jpg",
+      "published": "2026-10-21T20:31:05+00:00"
+    },
+    {
+      "h": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "es": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "d": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96138879",
+      "published": "2026-10-21T20:31:00+00:00"
+    },
+    {
+      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
+      "es": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-060-4964024",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
+      "published": "2026-10-21T20:30:32+00:00"
+    },
+    {
+      "h": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+      "es": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Y9_L.jpg",
+      "published": "2026-10-21T20:30:30+00:00"
+    },
+    {
+      "h": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
+      "es": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4964019",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J15I_1200_L.jpg",
+      "published": "2026-10-21T20:30:04+00:00"
+    },
+    {
+      "h": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "es": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "d": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
+      "u": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-21T20:29:47+00:00"
+    },
+    {
+      "h": "Southwest Airlines cuts 2026 profit forecast as fuel costs spike",
+      "es": "Southwest Airlines cuts 2026 profit forecast as fuel costs spike",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/southwest-airlines-cuts-2026-profit-forecast-as-fuel-costs-spike-4964000",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Z3_L.jpg",
+      "published": "2026-10-21T20:24:49+00:00"
+    },
+    {
+      "h": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
+      "es": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-beats-q3-estimates-approves-new-nonvoting-share-class-as-ai-spending-surges-4963949",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
+      "published": "2026-10-21T20:19:19+00:00"
+    },
+    {
+      "h": "IBM raises annual software revenue outlook as deal delays ease",
+      "es": "IBM raises annual software revenue outlook as deal delays ease",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ibm-raises-annual-software-revenue-outlook-as-deal-delays-ease-4963970",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1YO_L.jpg",
+      "published": "2026-10-21T20:18:25+00:00"
+    },
+    {
+      "h": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "es": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "d": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "u": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-14131970",
+      "published": "2026-10-21T20:18:00+00:00"
+    },
+    {
+      "h": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "es": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "d": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+      "u": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37061158",
+      "published": "2026-10-21T20:15:00+00:00"
+    },
+    {
+      "h": "SpaceX’s massive AI targets will test the limits of reality",
+      "es": "SpaceX’s massive AI targets will test the limits of reality",
+      "d": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.",
+      "u": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89434829",
+      "published": "2026-10-21T20:15:00+00:00"
+    },
+    {
+      "h": "GM aims to develop vehicles in as little as two years with AI, software push",
+      "es": "GM aims to develop vehicles in as little as two years with AI, software push",
+      "d": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
+      "u": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T20:14:36+00:00"
+    },
+    {
+      "h": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "es": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "d": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
+      "u": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T20:04:07+00:00"
+    },
     {
       "h": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
       "es": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
       "published": "2026-10-21T19:18:09+00:00"
-    },
-    {
-      "h": "Tesla stalls at $388.73 resistance after Marubozu: Live levels",
-      "es": "Tesla stalls at $388.73 resistance after Marubozu: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-hammer-at-35475-battles-200sma-resistance-live-levels-93CH-4957922",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL901ZZ_L.jpg",
-      "published": "2026-10-21T19:18:04+00:00"
-    },
-    {
-      "h": "Dow Jones nears resistance at 52,870 with overbought RSI: Live levels",
-      "es": "Dow Jones nears resistance at 52,870 with overbought RSI: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-bearish-engulfing-near-52434-resistance-live-levels-93CH-4957914",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-21T19:18:01+00:00"
-    },
-    {
-      "h": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
-      "es": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/six-flags-drops-as-mizuho-warns-of-balance-sheet-strains-and-cash-flow-deficits-4963847",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
-      "published": "2026-10-21T19:15:09+00:00"
-    },
-    {
-      "h": "Factbox-Websites taken offline over PHP risks",
-      "es": "Factbox-Websites taken offline over PHP risks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1J6_L.jpg",
-      "published": "2026-10-21T19:06:41+00:00"
-    },
-    {
-      "h": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
-      "es": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
-      "d": "SpaceX indicated there's been no slowdown in demand for AI computing.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T19:01:23+00:00"
-    },
-    {
-      "h": "Why is Teledyne Technologies stock slipping today?",
-      "es": "Why is Teledyne Technologies stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-teledyne-technologies-stock-slipping-today-93CH-4963831",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-21T18:54:35+00:00"
-    },
-    {
-      "h": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
-      "es": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ea-to-shutter-bioware-studio-cut-jobs-as-it-narrows-game-slate-4963824",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1UA_L.jpg",
-      "published": "2026-10-21T18:54:33+00:00"
-    },
-    {
-      "h": "Apple's iPhone Duo in short supply — plus, the 2 stocks fueling an AI rebound",
-      "es": "Apple's iPhone Duo in short supply — plus, the 2 stocks fueling an AI rebound",
-      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/21/apples-iphone-duo-in-short-supply-plus-2-stocks-fueling-an-ai-rebound.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T18:45:28+00:00"
-    },
-    {
-      "h": "Meta fined $25bn for 'lies' over user data privacy",
-      "es": "Meta fined $25bn for 'lies' over user data privacy",
-      "d": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "u": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-21T18:40:39+00:00"
-    },
-    {
-      "h": "BofA Securities names top quantum computing stocks to watch",
-      "es": "BofA Securities names top quantum computing stocks to watch",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-quantum-computing-stocks-to-watch-4963817",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-10-21T18:36:10+00:00"
-    },
-    {
-      "h": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-      "es": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-      "d": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
-      "u": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-21T18:32:12+00:00"
-    },
-    {
-      "h": "Britain regulator ends Home REIT probe, defers to fraud office",
-      "es": "Britain regulator ends Home REIT probe, defers to fraud office",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/britain-regulator-ends-home-reit-probe-defers-to-fraud-office-93CH-4963814",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-21T18:30:44+00:00"
-    },
-    {
-      "h": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
-      "es": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/blackrock-adds-robotics-etf-to-growing-ranks-of-aithemed-products-4963809",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1SQ_L.jpg",
-      "published": "2026-10-21T18:24:20+00:00"
-    },
-    {
-      "h": "Abbott options flow points to downside caution after guidance cut",
-      "es": "Abbott options flow points to downside caution after guidance cut",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/abbott-options-flow-points-to-downside-caution-after-guidance-cut-93CH-4963811",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC2D07F_M.jpg",
-      "published": "2026-10-21T18:20:31+00:00"
-    },
-    {
-      "h": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
-      "es": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0ZP_L.jpg",
-      "published": "2026-10-21T18:18:45+00:00"
-    },
-    {
-      "h": "UAL options activity points to bullish positioning after earnings beat",
-      "es": "UAL options activity points to bullish positioning after earnings beat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ual-options-activity-points-to-bullish-positioning-after-earnings-beat-93CH-4963808",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K0OX_M.jpg",
-      "published": "2026-10-21T18:09:04+00:00"
-    },
-    {
-      "h": "Philip Morris International options activity points to institutional hedging after Q3 earnings",
-      "es": "Philip Morris International options activity points to institutional hedging after Q3 earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/philip-morris-international-options-activity-points-to-institutional-hedging-after-q3-earnings-93CH-4963806",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/phillip_morris_x_M_1440050322.jpg",
-      "published": "2026-10-21T18:06:50+00:00"
-    },
-    {
-      "h": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
-      "es": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
-      "d": "Capital One reported solid earnings, but one of our biggest concerns still remains.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-21T18:06:31+00:00"
     }
   ],
   "sources": [
