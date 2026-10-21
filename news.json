@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-21T06:02:56.118256+00:00",
+  "updated": "2026-10-21T06:44:07.891870+00:00",
   "news": [
+    {
+      "h": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "es": "La inflación del Reino Unido salta al 3,5%, consolidando las expectativas de subida de tipos",
+      "d": "La inflación del Reino Unido aumentó un 3,5% más de lo esperado en los 12 meses hasta septiembre, impulsada por el creciente costo de los combustibles para motores.",
+      "u": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T06:30:27+00:00"
+    },
+    {
+      "h": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+      "es": "El aumento de los precios del combustible eleva la tasa de inflación del Reino Unido al 3,5% antes del presupuesto",
+      "d": "La inflación se aceleró hasta el 3,5% desde el 3,1% en el año hasta septiembre, según la Oficina de Estadísticas Nacionales (ONS).",
+      "u": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a99/live/ca0d4520-cc85-11f1-bed8-c51b95c602ec.jpg",
+      "published": "2026-10-21T06:21:02+00:00"
+    },
+    {
+      "h": "Adidas shares rise after 2026 guidance hike",
+      "es": "Las acciones de Adidas suben tras el aumento de las previsiones para 2026",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/adidas-shares-rise-after-2026-guidance-hike-4961666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0DO_L.jpg",
+      "published": "2026-10-21T06:19:13+00:00"
+    },
+    {
+      "h": "Australian AI data centre operator NextDC shares shed 42% on revenue delay, future plans on hold",
+      "es": "Las acciones del operador australiano de centros de datos de IA NextDC cayeron un 42% por retrasos en los ingresos y los planes futuros están en suspenso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay-4961468",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1WD_L.jpg",
+      "published": "2026-10-21T06:18:27+00:00"
+    },
+    {
+      "h": "Beauty giants target ’Ozempic face’ as boom in obesity drugs opens new market",
+      "es": "Los gigantes de la belleza apuntan al 'rostro Ozempic' mientras el auge de los medicamentos contra la obesidad abre un nuevo mercado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/beauty-giants-target-ozempic-face-as-boom-in-obesity-drugs-opens-new-market-4961649",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0DH_L.jpg",
+      "published": "2026-10-21T06:12:41+00:00"
+    },
+    {
+      "h": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+      "es": "Europa evalúa otorgar a las empresas de infraestructura y servicios públicos más poderes para derribar los drones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones-4961648",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0DT_L.jpg",
+      "published": "2026-10-21T06:12:30+00:00"
+    },
+    {
+      "h": "MIPS reports third quarter sales of SEK 215m, up 59% year-over-year",
+      "es": "MIPS informa ventas en el tercer trimestre de 215 millones de coronas suecas, un aumento interanual del 59 %",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mips-reports-third-quarter-sales-of-sek-215m-up-59-yearoveryear-93CH-4961641",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-21T06:06:59+00:00"
+    },
+    {
+      "h": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.90%",
+      "es": "Las bolsas de Taiwán cierran al alza; Taiwán ponderó hasta un 0,90%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-090-4961637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Taiwan_M_1440053339.jpg",
+      "published": "2026-10-21T06:05:04+00:00"
+    },
+    {
+      "h": "Swedencare lowers full-year growth ambition after Q3 revenue, EBITDA miss",
+      "es": "Swedishcare reduce la ambición de crecimiento para todo el año después de los ingresos del tercer trimestre y la falta de EBITDA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/swedencare-lowers-fullyear-growth-ambition-after-q3-revenue-ebitda-miss-4961634",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
+      "published": "2026-10-21T06:03:59+00:00"
+    },
+    {
+      "h": "Neobo Fastigheter earnings capacity drops despite record occupancy",
+      "es": "La capacidad de ganancias de Neobo Fastigheter cae a pesar de la ocupación récord",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/neobo-fastigheter-earnings-capacity-drops-despite-record-occupancy-93CH-4961631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-21T06:01:55+00:00"
+    },
+    {
+      "h": "Trump says companies should pay ’dividend’ to communities to make data centers popular",
+      "es": "Trump dice que las empresas deberían pagar \"dividendos\" a las comunidades para hacer populares los centros de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-says-companies-should-pay-dividend-to-communities-to-make-data-centers-popular-4961626",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0D4_L.jpg",
+      "published": "2026-10-21T06:00:24+00:00"
+    },
+    {
+      "h": "Klepierre raises 2026 guidance after strong third quarter",
+      "es": "Klepierre eleva las previsiones para 2026 tras un sólido tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/klepierre-raises-2026-guidance-after-strong-third-quarter-93CH-4961622",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-21T05:58:41+00:00"
+    },
     {
       "h": "Elon Musk considering Tesla-SpaceX merger",
       "es": "Elon Musk considera la fusión Tesla-SpaceX",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
       "published": "2026-10-21T04:25:17+00:00"
-    },
-    {
-      "h": "Why does Elon Musk want to merge Tesla and SpaceX?",
-      "es": "¿Por qué Elon Musk quiere fusionar Tesla y SpaceX?",
-      "d": "Musk, director ejecutivo de ambas empresas, dice que hay \"mucho que ganar\" con la fusión, que sería la mayor de la historia.",
-      "u": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
-      "published": "2026-10-21T04:13:14+00:00"
-    },
-    {
-      "h": "Why is SK Hynix stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de SK Hynix hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4961533",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-21T04:12:16+00:00"
-    },
-    {
-      "h": "Gift Nifty 50 V-shaped recovery hits 23,195 resistance: Live",
-      "es": "La recuperación en forma de V del Gift Nifty 50 alcanza una resistencia de 23,195: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-faces-bull-trap-risk-at-23036-vwap-live-levels-93CH-4956292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-21T04:02:35+00:00"
-    },
-    {
-      "h": "Asian space stocks rise tracking blowout SpaceX Q3 earnings",
-      "es": "Las acciones espaciales asiáticas suben siguiendo las ganancias del tercer trimestre de SpaceX",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-space-stocks-rise-tracking-blowout-spacex-q3-earnings-4961530",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4P006_L.jpg",
-      "published": "2026-10-21T03:59:50+00:00"
-    },
-    {
-      "h": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
-      "es": "Las acciones asiáticas se recuperan a medida que los resultados de SpaceX y Super Micro impulsan a los fabricantes de chips",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA9Q076_M.jpg",
-      "published": "2026-10-21T03:47:39+00:00"
-    },
-    {
-      "h": "Woodside Energy cuts 2026 production forecast; Q3 revenue rises",
-      "es": "Woodside Energy recorta su previsión de producción para 2026; Los ingresos del tercer trimestre aumentan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/woodside-energy-cuts-2026-production-forecast-q3-revenue-rises-93CH-4961517",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/999e9d554a53b39c7e910f2945582ab5_M.jpg",
-      "published": "2026-10-21T03:09:41+00:00"
-    },
-    {
-      "h": "Why is MiniMax stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de MiniMax hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-climbing-today-93CH-4961516",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-21T03:09:20+00:00"
-    },
-    {
-      "h": "Why is Samsung Electronics stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Samsung Electronics hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4961515",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-21T03:09:16+00:00"
-    },
-    {
-      "h": "Tesla supplier CATL shares plunge after disappointing Q3 results",
-      "es": "Las acciones del proveedor de Tesla CATL se desploman tras los decepcionantes resultados del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-supplier-catl-shares-plunge-after-disappointing-q3-results-4961507",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDBA0RZ_M.jpg",
-      "published": "2026-10-21T02:48:47+00:00"
-    },
-    {
-      "h": "OpenAI says its AI agents weakened internal monitoring system",
-      "es": "OpenAI dice que sus agentes de IA debilitaron el sistema de monitoreo interno",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-says-its-ai-agents-weakened-internal-monitoring-system-4961503",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K04Y_L.jpg",
-      "published": "2026-10-21T02:42:40+00:00"
-    },
-    {
-      "h": "A possible SpaceX-Tesla merger? Here’s what people are saying",
-      "es": "¿Una posible fusión SpaceX-Tesla? Esto es lo que dice la gente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/a-possible-spacextesla-merger-heres-what-people-are-saying-4961497",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K04N_L.jpg",
-      "published": "2026-10-21T02:42:25+00:00"
-    },
-    {
-      "h": "+189%, +95% locked in: AI picks that crushed earnings, and what’s rotating next",
-      "es": "+189%, +95% bloqueado: selecciones de IA que aplastaron las ganancias y lo que sigue en rotación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/189-95-locked-in-ai-picks-that-crushed-earnings-and-whats-rotating-next-4961502",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3T1AG_1200_L.jpg",
-      "published": "2026-10-21T02:40:36+00:00"
     }
   ],
   "sources": [
