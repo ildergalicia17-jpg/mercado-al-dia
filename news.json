@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-21T04:17:10.883804+00:00",
+  "updated": "2026-10-21T04:55:25.938417+00:00",
   "news": [
+    {
+      "h": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+      "es": "Estados Unidos busca refinar el músculo del Reliance del multimillonario indio Ambani mientras Rubio visita la planta de Jamnagar",
+      "d": "Rubio dijo que la \"extraordinaria\" capacidad de refinación de Reliance podría ayudar a India a diversificar sus suministros energéticos, insinuando un mayor consumo de crudo venezolano.",
+      "u": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T04:47:43+00:00"
+    },
+    {
+      "h": "UK government expected to approve Jackdaw gas field",
+      "es": "Se espera que el gobierno del Reino Unido apruebe el campo de gas Jackdaw",
+      "d": "El miércoles por la mañana se espera la decisión tan esperada sobre el controvertido campo del Mar del Norte.",
+      "u": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
+      "published": "2026-10-21T04:41:04+00:00"
+    },
+    {
+      "h": "Starbucks China to require purchases for seating, report says",
+      "es": "Starbucks China exigirá compras para asientos, según informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starbucks-china-to-require-purchases-for-seating-report-says-93CH-4961542",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0L140_M.jpg",
+      "published": "2026-10-21T04:39:37+00:00"
+    },
+    {
+      "h": "Align Partners discloses 1.5% stake in SK, flags 75% valuation discount - report",
+      "es": "Align Partners revela una participación del 1,5% en SK y señala un descuento de valoración del 75%: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/align-partners-discloses-15-stake-in-sk-flags-75-valuation-discount--report-4961538",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-21T04:25:17+00:00"
+    },
+    {
+      "h": "Why does Elon Musk want to merge Tesla and SpaceX?",
+      "es": "¿Por qué Elon Musk quiere fusionar Tesla y SpaceX?",
+      "d": "Musk, director ejecutivo de ambas empresas, dice que hay \"mucho que ganar\" con la fusión, que sería la mayor de la historia.",
+      "u": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+      "published": "2026-10-21T04:13:14+00:00"
+    },
+    {
+      "h": "Why is SK Hynix stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de SK Hynix hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4961533",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-21T04:12:16+00:00"
+    },
+    {
+      "h": "Gift Nifty 50 V-shaped recovery hits 23,195 resistance: Live",
+      "es": "La recuperación en forma de V del Gift Nifty 50 alcanza una resistencia de 23,195: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-faces-bull-trap-risk-at-23036-vwap-live-levels-93CH-4956292",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-21T04:02:35+00:00"
+    },
+    {
+      "h": "Asian space stocks rise tracking blowout SpaceX Q3 earnings",
+      "es": "Las acciones espaciales asiáticas suben siguiendo las ganancias del tercer trimestre de SpaceX",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asian-space-stocks-rise-tracking-blowout-spacex-q3-earnings-4961530",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4P006_L.jpg",
+      "published": "2026-10-21T03:59:50+00:00"
+    },
+    {
+      "h": "Asia stocks rebound as SpaceX, Super Micro results lift chipmakers",
+      "es": "Las acciones asiáticas se recuperan a medida que los resultados de SpaceX y Super Micro impulsan a los fabricantes de chips",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-spacex-super-micro-results-lift-chipmakers-4961529",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA9Q076_M.jpg",
+      "published": "2026-10-21T03:47:39+00:00"
+    },
     {
       "h": "Woodside Energy cuts 2026 production forecast; Q3 revenue rises",
       "es": "Woodside Energy recorta su previsión de producción para 2026; Los ingresos del tercer trimestre aumentan",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC602TQ_M.jpg",
       "published": "2026-10-21T00:29:27+00:00"
-    },
-    {
-      "h": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "es": "Los mercados alcistas tienden a alcanzar su punto máximo con un gemido, no con una explosión, pero lo siguiente puede ser una corrección del 15% para el S&P 500",
-      "d": "A diferencia de los mínimos de los mercados bajistas, que normalmente terminan con un espasmo de desesperación cuando los operadores tiran la toalla, los máximos de los mercados alcistas son mucho más graduales y menos dramáticos.",
-      "u": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-43495041",
-      "published": "2026-10-21T00:24:00+00:00"
-    },
-    {
-      "h": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "es": "Las acciones de Super Micro se disparan después de una actualización sorpresa, y las acciones de Dell y HPE se unen al repunte",
-      "d": "Super Micro reveló inesperadamente que sus ingresos y rentabilidad podrían ser mucho mayores de lo previsto originalmente.",
-      "u": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31427887",
-      "published": "2026-10-21T00:15:00+00:00"
-    },
-    {
-      "h": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "es": "Las acciones de Tesla suben mientras Elon Musk arroja nuevas pistas sobre una posible fusión con SpaceX",
-      "d": "Comités especiales de ambas compañías están evaluando las perspectivas de fusión, pero una combinación no es algo seguro, dice Musk.",
-      "u": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-71362137",
-      "published": "2026-10-21T00:14:00+00:00"
-    },
-    {
-      "h": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "es": "Netflix promete revivir las tendencias de audiencia, pero los inversores optan por \"vender\" las acciones",
-      "d": "El servicio de streaming cita una “competencia intensa” y reconoce “algunas preocupaciones de los inversores sobre el crecimiento de nuestras horas de visualización”.",
-      "u": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73464745",
-      "published": "2026-10-21T00:12:00+00:00"
-    },
-    {
-      "h": "Japan exports post huge miss in September as growth slows to 16.7%",
-      "es": "Las exportaciones de Japón registran un gran fracaso en septiembre mientras el crecimiento se desacelera al 16,7%",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-20T23:55:22+00:00"
-    },
-    {
-      "h": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
-      "es": "El Dow Jones se comporta mejor mientras Wall Street sube y las acciones de atención sanitaria lideran las ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J0RZ_L.jpg",
-      "published": "2026-10-20T23:48:21+00:00"
-    },
-    {
-      "h": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "es": "El sólido trimestre de Capital One y la progresiva integración de Discover se ven recompensados ​​en Wall Street",
-      "d": "Los mejores ingresos netos por intereses y el desempeño crediticio fueron las estrellas de los resultados del banco.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-20T23:34:14+00:00"
-    },
-    {
-      "h": "Elon Musk says Tesla-SpaceX merger being considered",
-      "es": "Elon Musk dice que se está considerando la fusión Tesla-SpaceX",
-      "d": "Musk dice que se han formado comités especiales dentro de ambas empresas para analizar una posible megafusión.",
-      "u": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
-      "published": "2026-10-20T23:24:47+00:00"
-    },
-    {
-      "h": "SpaceX and Tesla’s Terafab targets 2028 for volume chip production, Musk says",
-      "es": "SpaceX y Terafab de Tesla apuntan a 2028 para la producción en volumen de chips, dice Musk",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-musk-says-4961351",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9J1ZB_L.jpg",
-      "published": "2026-10-20T23:24:19+00:00"
     }
   ],
   "sources": [
