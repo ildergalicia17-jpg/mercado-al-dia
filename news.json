@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-22T15:54:04.316046+00:00",
+  "updated": "2026-10-22T16:27:22.276057+00:00",
   "news": [
+    {
+      "h": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+      "es": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+      "d": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
+      "u": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:24:20+00:00"
+    },
+    {
+      "h": "Why governments pulled websites offline over the decades-old PHP programming language",
+      "es": "Why governments pulled websites offline over the decades-old PHP programming language",
+      "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+      "u": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:19:34+00:00"
+    },
+    {
+      "h": "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
+      "es": "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1LT_L.jpg",
+      "published": "2026-10-22T16:12:39+00:00"
+    },
+    {
+      "h": "L’Oréal stock jumps as third-quarter sales beat estimates",
+      "es": "L’Oréal stock jumps as third-quarter sales beat estimates",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/loreal-stock-jumps-as-thirdquarter-sales-beat-estimates-4966982",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC6L17U_M.jpg",
+      "published": "2026-10-22T16:11:06+00:00"
+    },
+    {
+      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
+      "es": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-033-4966981",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA6F08Z_M.jpg",
+      "published": "2026-10-22T16:09:14+00:00"
+    },
+    {
+      "h": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
+      "es": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-212-4966980",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB540RV_M.jpg",
+      "published": "2026-10-22T16:08:47+00:00"
+    },
+    {
+      "h": "Portugal stocks lower at close of trade; PSI down 1.46%",
+      "es": "Portugal stocks lower at close of trade; PSI down 1.46%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-146-4966979",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Portugal_800x533_L_1630015779.jpg",
+      "published": "2026-10-22T16:08:20+00:00"
+    },
+    {
+      "h": "Netherlands stocks lower at close of trade; AEX down 1.10%",
+      "es": "Netherlands stocks lower at close of trade; AEX down 1.10%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-110-4966978",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM0F0UJ_L.jpg",
+      "published": "2026-10-22T16:07:49+00:00"
+    },
+    {
+      "h": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.59%",
+      "es": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.59%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-259-4966977",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0CJ_L.jpg",
+      "published": "2026-10-22T16:07:21+00:00"
+    },
+    {
+      "h": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+      "es": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ai-safety-group-metr-finds-flaws-in-openais-internal-monitoring-system-4966975",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1MI_L.jpg",
+      "published": "2026-10-22T16:06:47+00:00"
+    },
+    {
+      "h": "Epic’s ’Fortnite’ to return on Apple’s app store in Australia after antitrust ruling",
+      "es": "Epic’s ’Fortnite’ to return on Apple’s app store in Australia after antitrust ruling",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling-4964596",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L07K_L.jpg",
+      "published": "2026-10-22T16:06:29+00:00"
+    },
+    {
+      "h": "Germany stocks lower at close of trade; DAX down 1.04%",
+      "es": "Germany stocks lower at close of trade; DAX down 1.04%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-104-4966974",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE160OI_M.jpg",
+      "published": "2026-10-22T16:06:22+00:00"
+    },
+    {
+      "h": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+      "es": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+      "d": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
+      "u": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:04:09+00:00"
+    },
+    {
+      "h": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "es": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "d": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+      "u": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T15:52:00+00:00"
+    },
     {
       "h": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
       "es": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
       "published": "2026-10-22T15:26:21+00:00"
-    },
-    {
-      "h": "Factbox-Governments, companies take websites offline over PHP flaws",
-      "es": "Factbox-Governments, companies take websites offline over PHP flaws",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1J6_L.jpg",
-      "published": "2026-10-22T15:24:34+00:00"
-    },
-    {
-      "h": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-      "es": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-      "d": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
-      "u": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:16:48+00:00"
-    },
-    {
-      "h": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-      "es": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-      "d": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
-      "u": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:16:05+00:00"
-    },
-    {
-      "h": "Investors’ recent money moves show a preference for quality over momentum within the S&P 500",
-      "es": "Investors’ recent money moves show a preference for quality over momentum within the S&P 500",
-      "d": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
-      "u": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80001516",
-      "published": "2026-10-22T15:10:00+00:00"
-    },
-    {
-      "h": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "es": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "d": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:08:47+00:00"
-    },
-    {
-      "h": "'I wasn't thinking straight' says five jobs civil servant",
-      "es": "'I wasn't thinking straight' says five jobs civil servant",
-      "d": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-      "u": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
-      "published": "2026-10-22T15:05:47+00:00"
-    },
-    {
-      "h": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
-      "es": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
-      "d": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-      "u": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-14131970",
-      "published": "2026-10-22T15:03:00+00:00"
-    },
-    {
-      "h": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-      "es": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-      "d": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
-      "u": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:00:25+00:00"
-    },
-    {
-      "h": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "es": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "d": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-96138879",
-      "published": "2026-10-22T15:00:00+00:00"
-    },
-    {
-      "h": "Norway stocks lower at close of trade; Oslo OBX down 0.99%",
-      "es": "Norway stocks lower at close of trade; Oslo OBX down 0.99%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-099-4966828",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM370M2_L.jpg",
-      "published": "2026-10-22T14:55:59+00:00"
-    },
-    {
-      "h": "Israel stocks lower at close of trade; TA 35 down 1.09%",
-      "es": "Israel stocks lower at close of trade; TA 35 down 1.09%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-109-4966827",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/TelAvivStockExchange_800x533_L_1644239369.jpg",
-      "published": "2026-10-22T14:55:35+00:00"
-    },
-    {
-      "h": "Greece stocks lower at close of trade; Athens General Composite down 2.11%",
-      "es": "Greece stocks lower at close of trade; Athens General Composite down 2.11%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-211-4966826",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC4O0ND_M.jpg",
-      "published": "2026-10-22T14:55:03+00:00"
-    },
-    {
-      "h": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
-      "es": "Agnico, Barrick, and Newmont fall following broad Freedom Broker downgrades",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/agnico-barrick-and-newmont-fall-following-broad-freedom-broker-downgrades-4966824",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Newmont_800x533_L_1637073622.jpg",
-      "published": "2026-10-22T14:53:49+00:00"
-    },
-    {
-      "h": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-      "es": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-      "d": "It's the fourth major U.S. carrier to cut its 2026 forecast this month because of a spike in fuel costs.",
-      "u": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-22T14:52:09+00:00"
     }
   ],
   "sources": [
