@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-22T00:59:46.945628+00:00",
+  "updated": "2026-10-22T01:37:06.157491+00:00",
   "news": [
+    {
+      "h": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
+      "es": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0ZP_L.jpg",
+      "published": "2026-10-22T01:24:22+00:00"
+    },
+    {
+      "h": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "es": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "d": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
+      "u": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T01:22:22+00:00"
+    },
+    {
+      "h": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+      "es": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+      "d": "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent.",
+      "u": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T01:21:10+00:00"
+    },
+    {
+      "h": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
+      "es": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-22T01:10:50+00:00"
+    },
+    {
+      "h": "SK Hynix bounces but stays 6% below key MA: Live levels",
+      "es": "SK Hynix bounces but stays 6% below key MA: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-22T01:05:49+00:00"
+    },
+    {
+      "h": "Nikkei 225 bear flag nears completion above 63,572: Live levels",
+      "es": "Nikkei 225 bear flag nears completion above 63,572: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-22T01:05:31+00:00"
+    },
+    {
+      "h": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "es": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "d": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "u": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T01:05:15+00:00"
+    },
     {
       "h": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
       "es": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
@@ -207,69 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-21T22:50:35+00:00"
-    },
-    {
-      "h": "Tesla beats on earnings and sales even as auto revenue declines",
-      "es": "Tesla beats on earnings and sales even as auto revenue declines",
-      "d": "Tesla reported better-than-expected third-quarter results.",
-      "u": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-21T22:35:36+00:00"
-    },
-    {
-      "h": "Australia’s Fortescue posts 6% fall in quarterly iron ore shipments",
-      "es": "Australia’s Fortescue posts 6% fall in quarterly iron ore shipments",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australias-fortescue-posts-6-fall-in-quarterly-iron-ore-shipments-4964323",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K22Z_L.jpg",
-      "published": "2026-10-21T22:12:41+00:00"
-    },
-    {
-      "h": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "es": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Y9_L.jpg",
-      "published": "2026-10-21T22:12:25+00:00"
-    },
-    {
-      "h": "Home BancShares stock rises on expanded buyback program",
-      "es": "Home BancShares stock rises on expanded buyback program",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/home-bancshares-stock-rises-on-expanded-buyback-program-4964316",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg",
-      "published": "2026-10-21T22:07:08+00:00"
-    },
-    {
-      "h": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "es": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "d": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
-      "u": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-21T22:03:37+00:00"
-    },
-    {
-      "h": "Arcus Biosciences stock falls on public offering announcement",
-      "es": "Arcus Biosciences stock falls on public offering announcement",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arcus-biosciences-stock-falls-on-public-offering-announcement-4964310",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
-      "published": "2026-10-21T22:02:47+00:00"
-    },
-    {
-      "h": "Frequency Electronics stock falls on CFO transition announcement",
-      "es": "Frequency Electronics stock falls on CFO transition announcement",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/frequency-electronics-stock-falls-on-cfo-transition-announcement-4964296",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N180_L.jpg",
-      "published": "2026-10-21T21:58:47+00:00"
     }
   ],
   "sources": [
