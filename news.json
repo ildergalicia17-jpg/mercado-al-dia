@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T09:59:05.143435+00:00",
+  "updated": "2026-10-22T10:34:06.293756+00:00",
   "news": [
+    {
+      "h": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "es": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "d": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+      "u": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T10:31:24+00:00"
+    },
     {
       "h": "Woman 'scared to turn heating on' due to oil cost",
       "es": "Woman 'scared to turn heating on' due to oil cost",
@@ -65,6 +74,15 @@
       "published": "2026-10-22T09:39:36+00:00"
     },
     {
+      "h": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "es": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "d": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "u": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+      "published": "2026-10-22T09:37:58+00:00"
+    },
+    {
       "h": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
       "es": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
       "d": "",
@@ -72,6 +90,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TS_L.jpg",
       "published": "2026-10-22T09:36:26+00:00"
+    },
+    {
+      "h": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "es": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "d": "The fund has a current value of around $2.3 trillion.",
+      "u": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T09:25:09+00:00"
     },
     {
       "h": "Barclays to slash 5,000 jobs in AI efficiency push",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-21342281",
       "published": "2026-10-22T08:46:00+00:00"
-    },
-    {
-      "h": "Why is Medpace stock sliding today?",
-      "es": "Why is Medpace stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-medpace-stock-sliding-today-93CH-4965000",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-22T08:33:53+00:00"
-    },
-    {
-      "h": "Why is Rollins stock tumbling today?",
-      "es": "Why is Rollins stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rollins-stock-tumbling-today-93CH-4964999",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-22T08:32:57+00:00"
-    },
-    {
-      "h": "Why is Hermès stock tumbling today?",
-      "es": "Why is Hermès stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hermes-stock-tumbling-today-93CH-4964997",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-22T08:32:40+00:00"
     }
   ],
   "sources": [
