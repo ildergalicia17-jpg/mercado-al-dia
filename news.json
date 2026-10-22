@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-21T23:51:05.780967+00:00",
+  "updated": "2026-10-22T00:12:20.349924+00:00",
   "news": [
+    {
+      "h": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "es": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "d": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+      "u": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T00:07:48+00:00"
+    },
+    {
+      "h": "Australia’s Santos trims 2026 output forecast on Alaska oilfield delays",
+      "es": "Australia’s Santos trims 2026 output forecast on Alaska oilfield delays",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australias-santos-trims-2026-output-forecast-on-alaska-oilfield-delays-4964437",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K24Q_L.jpg",
+      "published": "2026-10-21T23:55:14+00:00"
+    },
+    {
+      "h": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "es": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0IR_L.jpg",
+      "published": "2026-10-21T23:54:31+00:00"
+    },
+    {
+      "h": "BHP chair says Australia must compete harder for global investments",
+      "es": "BHP chair says Australia must compete harder for global investments",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bhp-chair-says-australia-must-compete-harder-for-global-investments-4964429",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K253_L.jpg",
+      "published": "2026-10-21T23:48:19+00:00"
+    },
     {
       "h": "Comcast planning significant jobs cuts, Bloomberg News reports",
       "es": "Comcast planning significant jobs cuts, Bloomberg News reports",
@@ -81,6 +117,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K241_L.jpg",
       "published": "2026-10-21T22:54:38+00:00"
+    },
+    {
+      "h": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "es": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "d": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+      "u": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T22:50:35+00:00"
     },
     {
       "h": "Tesla beats on earnings and sales even as auto revenue declines",
@@ -173,6 +218,15 @@
       "published": "2026-10-21T21:48:24+00:00"
     },
     {
+      "h": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "es": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "d": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
+      "u": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:48:02+00:00"
+    },
+    {
       "h": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
       "es": "Meta beats Q3 estimates, approves new nonvoting share class as AI spending surges",
       "d": "",
@@ -191,6 +245,15 @@
       "published": "2026-10-21T21:44:00+00:00"
     },
     {
+      "h": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "es": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "d": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+      "u": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-21T21:41:23+00:00"
+    },
+    {
       "h": "South Africa cuts bond sales, launches buyback program",
       "es": "South Africa cuts bond sales, launches buyback program",
       "d": "",
@@ -207,69 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-03800189",
       "published": "2026-10-21T21:31:00+00:00"
-    },
-    {
-      "h": "Walmart launches tools for AI agents to shop for customers",
-      "es": "Walmart launches tools for AI agents to shop for customers",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/walmart-launches-tools-for-ai-agents-to-shop-for-customers-4964210",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K219_L.jpg",
-      "published": "2026-10-21T21:30:23+00:00"
-    },
-    {
-      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
-      "es": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.43%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-143-4964235",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED8P25V_M.jpg",
-      "published": "2026-10-21T21:30:04+00:00"
-    },
-    {
-      "h": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
-      "es": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K21K_L.jpg",
-      "published": "2026-10-21T21:25:06+00:00"
-    },
-    {
-      "h": "Colombia stocks higher at close of trade; COLCAP up 1.07%",
-      "es": "Colombia stocks higher at close of trade; COLCAP up 1.07%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-107-4964229",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
-      "published": "2026-10-21T21:25:03+00:00"
-    },
-    {
-      "h": "Why is Texas Instruments stock slipping today?",
-      "es": "Why is Texas Instruments stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-slipping-today-93CH-4964227",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE6N1UV_M.jpg",
-      "published": "2026-10-21T21:24:19+00:00"
-    },
-    {
-      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 0.89%",
-      "es": "Russia stocks lower at close of trade; MOEX Russia Index down 0.89%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-089-4964211",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4P087_M.jpg",
-      "published": "2026-10-21T21:20:04+00:00"
-    },
-    {
-      "h": "Why is Rollins stock sliding today?",
-      "es": "Why is Rollins stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rollins-stock-sliding-today-93CH-4964209",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-21T21:16:49+00:00"
     }
   ],
   "sources": [
