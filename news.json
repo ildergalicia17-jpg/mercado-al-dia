@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-22T23:16:04.384900+00:00",
+  "updated": "2026-10-22T23:48:09.916718+00:00",
   "news": [
+    {
+      "h": "Japan core inflation in September surges to its highest this year at 2.1%",
+      "es": "Japan core inflation in September surges to its highest this year at 2.1%",
+      "d": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
+      "u": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T23:43:51+00:00"
+    },
+    {
+      "h": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+      "es": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysismusks-political-baggage-clouds-prospects-for-spacextesla-deal-4965229",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0WR_L.jpg",
+      "published": "2026-10-22T23:24:20+00:00"
+    },
+    {
+      "h": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "es": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "d": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "u": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+      "published": "2026-10-22T23:20:38+00:00"
+    },
+    {
+      "h": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "es": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "d": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "u": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96138879",
+      "published": "2026-10-22T23:15:00+00:00"
+    },
+    {
+      "h": "Mexico’s Bimbo lifts lower end of full-year EBITDA outlook",
+      "es": "Mexico’s Bimbo lifts lower end of full-year EBITDA outlook",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexicos-bimbo-lifts-lower-end-of-fullyearebitda-outlook-4967806",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L24Q_L.jpg",
+      "published": "2026-10-22T23:06:33+00:00"
+    },
+    {
+      "h": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports",
+      "es": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-seeks-access-to-80000-us-cell-sites-for-wireless-network-bloomberg-news-reports-4967805",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L24R_L.jpg",
+      "published": "2026-10-22T23:06:19+00:00"
+    },
     {
       "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -36,6 +90,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L22X_L.jpg",
       "published": "2026-10-22T22:30:26+00:00"
+    },
+    {
+      "h": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "es": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "d": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "u": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
+      "published": "2026-10-22T22:27:53+00:00"
     },
     {
       "h": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEB4P0E4_M.jpg",
       "published": "2026-10-22T21:20:03+00:00"
-    },
-    {
-      "h": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-      "es": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-      "d": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
-      "u": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15629837",
-      "published": "2026-10-22T21:19:00+00:00"
-    },
-    {
-      "h": "US banks are blocking third-party AI agents access to customer accounts, sources say",
-      "es": "US banks are blocking third-party AI agents access to customer accounts, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TG_L.jpg",
-      "published": "2026-10-22T21:18:35+00:00"
-    },
-    {
-      "h": "Rivian acquires Third Dimension AI to boost autonomous driving",
-      "es": "Rivian acquires Third Dimension AI to boost autonomous driving",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rivian-acquires-third-dimension-ai-to-boost-autonomous-driving-4967610",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA900E_L.jpg",
-      "published": "2026-10-22T21:12:47+00:00"
-    },
-    {
-      "h": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "es": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "d": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T21:02:07+00:00"
-    },
-    {
-      "h": "After-Hours Movers: WDC, BE, DECK, FIX, RNG",
-      "es": "After-Hours Movers: WDC, BE, DECK, FIX, RNG",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-wdc-be-deck-fix-rng-432SI-4967532",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB0R00Z_M.jpg",
-      "published": "2026-10-22T20:48:02+00:00"
-    },
-    {
-      "h": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-      "es": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-      "d": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
-      "u": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T20:47:59+00:00"
-    },
-    {
-      "h": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "es": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "d": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
-      "u": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75849474",
-      "published": "2026-10-22T20:46:00+00:00"
     }
   ],
   "sources": [
