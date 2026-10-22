@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-22T20:00:39.165296+00:00",
+  "updated": "2026-10-22T20:33:24.717389+00:00",
   "news": [
+    {
+      "h": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "es": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "d": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+      "u": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T20:16:56+00:00"
+    },
+    {
+      "h": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "es": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "d": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+      "u": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T20:15:42+00:00"
+    },
+    {
+      "h": "Nasdaq posts worst day since June as AI financing worries batter risk sentiment",
+      "es": "Nasdaq posts worst day since June as AI financing worries batter risk sentiment",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-22T20:15:00+00:00"
+    },
+    {
+      "h": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+      "es": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+      "d": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years.",
+      "u": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-93563849",
+      "published": "2026-10-22T20:14:00+00:00"
+    },
+    {
+      "h": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "es": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "d": "CoreWeave shares are down 36% in October, and the spreads in its credit default swaps are widening.",
+      "u": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T20:12:30+00:00"
+    },
+    {
+      "h": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+      "es": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+      "d": "Meta's in-house AI lab is not getting enough credit on Wall Street.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/22/meta-stock-why-were-staying-bullish-after-the-post-earnings-sell-off.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T20:11:55+00:00"
+    },
+    {
+      "h": "Western Digital beats earnings estimates, but AI selloff erases initial gains",
+      "es": "Western Digital beats earnings estimates, but AI selloff erases initial gains",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/western-digital-surges-on-earnings-beat-upbeat-guidance-as-ai-stocks-slump-4967303",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED6H12A_M.jpg",
+      "published": "2026-10-22T20:10:33+00:00"
+    },
+    {
+      "h": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "es": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
+      "published": "2026-10-22T20:07:14+00:00"
+    },
+    {
+      "h": "Moderna sheds about $24 billion as cancer vaccine data triggers ’sell-the-news’ retreat",
+      "es": "Moderna sheds about $24 billion as cancer vaccine data triggers ’sell-the-news’ retreat",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/moderna-sheds-about-24-billion-as-cancer-vaccine-data-triggers-sellthenews-retreat-4967294",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1WI_L.jpg",
+      "published": "2026-10-22T20:07:00+00:00"
+    },
+    {
+      "h": "Apple bets iPhone Duo can remake foldable market as sales begin",
+      "es": "Apple bets iPhone Duo can remake foldable market as sales begin",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin-4967289",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1WS_L.jpg",
+      "published": "2026-10-22T20:06:28+00:00"
+    },
+    {
+      "h": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+      "es": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+      "d": "Comcast is in the process of spinning off its media business into a separate publicly traded company.",
+      "u": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-22T20:04:51+00:00"
+    },
+    {
+      "h": "Why is Keel Infrastructure stock sliding today?",
+      "es": "Why is Keel Infrastructure stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-keel-infrastructure-stock-sliding-today-93CH-4967269",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-22T19:59:21+00:00"
+    },
+    {
+      "h": "Anthropic IPO set to generate massive gains for early backers - Bloomberg",
+      "es": "Anthropic IPO set to generate massive gains for early backers - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-set-to-generate-massive-gains-for-early-backers--bloomberg-4967262",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL85007_L.jpg",
+      "published": "2026-10-22T19:53:07+00:00"
+    },
+    {
+      "h": "Why is WSP Global stock rallying today?",
+      "es": "Why is WSP Global stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-wsp-global-stock-rallying-today-93CH-4967259",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-22T19:52:03+00:00"
+    },
     {
       "h": "Why is Mullen stock surging today?",
       "es": "Why is Mullen stock surging today?",
@@ -83,6 +209,15 @@
       "published": "2026-10-22T19:37:09+00:00"
     },
     {
+      "h": "Elon Musk invests about $1 billion in Skydance",
+      "es": "Elon Musk invests about $1 billion in Skydance",
+      "d": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+      "u": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T19:34:46+00:00"
+    },
+    {
       "h": "Hudbay Minerals wins backing from RBC and Scotiabank for Copper World development",
       "es": "Hudbay Minerals wins backing from RBC and Scotiabank for Copper World development",
       "d": "",
@@ -119,6 +254,15 @@
       "published": "2026-10-22T19:21:18+00:00"
     },
     {
+      "h": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
+      "es": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
+      "d": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "u": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T19:19:41+00:00"
+    },
+    {
       "h": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
       "es": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
       "d": "",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1UO_L.jpg",
       "published": "2026-10-22T19:12:25+00:00"
-    },
-    {
-      "h": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
-      "es": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-22T19:11:44+00:00"
-    },
-    {
-      "h": "Why is Celestica stock tumbling today?",
-      "es": "Why is Celestica stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-22T19:07:03+00:00"
-    },
-    {
-      "h": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "es": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "d": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T19:05:32+00:00"
-    },
-    {
-      "h": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "es": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "d": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T18:55:38+00:00"
-    },
-    {
-      "h": "Best large-cap dip buys: AT&T leads on earnings beat and rising estimates",
-      "es": "Best large-cap dip buys: AT&T leads on earnings beat and rising estimates",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE5C1HM_M.jpg",
-      "published": "2026-10-22T18:54:56+00:00"
-    },
-    {
-      "h": "Jefferies names top fashion stocks ahead of earnings season",
-      "es": "Jefferies names top fashion stocks ahead of earnings season",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED4G0UA_M.jpg",
-      "published": "2026-10-22T18:53:18+00:00"
-    },
-    {
-      "h": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
-      "es": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1H0V0_M.jpg",
-      "published": "2026-10-22T18:51:43+00:00"
-    },
-    {
-      "h": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "es": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "d": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
-      "u": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T18:51:14+00:00"
-    },
-    {
-      "h": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
-      "es": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1SI_L.jpg",
-      "published": "2026-10-22T18:48:24+00:00"
-    },
-    {
-      "h": "Why is Roper Technologies stock surging today?",
-      "es": "Why is Roper Technologies stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-roper-technologies-stock-surging-today-93CH-4967199",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-22T18:47:53+00:00"
-    },
-    {
-      "h": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "es": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "d": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
-      "u": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T18:43:32+00:00"
-    },
-    {
-      "h": "Why is GE Vernova stock tumbling today?",
-      "es": "Why is GE Vernova stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-tumbling-today-93CH-4967194",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-22T18:41:26+00:00"
-    },
-    {
-      "h": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
-      "es": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
-      "d": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
-      "u": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T18:41:00+00:00"
-    },
-    {
-      "h": "Why is Parker-Hannifin stock tumbling today?",
-      "es": "Why is Parker-Hannifin stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-parkerhannifin-stock-tumbling-today-93CH-4967189",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-22T18:38:53+00:00"
-    },
-    {
-      "h": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "es": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "d": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T18:37:18+00:00"
-    },
-    {
-      "h": "Why is Howmet Aerospace stock tumbling today?",
-      "es": "Why is Howmet Aerospace stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-22T18:35:39+00:00"
     }
   ],
   "sources": [
