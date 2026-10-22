@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-22T17:05:41.301335+00:00",
+  "updated": "2026-10-22T17:37:20.405669+00:00",
   "news": [
+    {
+      "h": "US railroads pull ahead as high fuel costs hit truckers harder",
+      "es": "US railroads pull ahead as high fuel costs hit truckers harder",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-railroads-pull-ahead-as-high-fuel-costs-hit-truckers-harder-4967105",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1QK_L.jpg",
+      "published": "2026-10-22T17:30:29+00:00"
+    },
+    {
+      "h": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
+      "es": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-22T17:29:07+00:00"
+    },
+    {
+      "h": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "es": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "d": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "u": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21652349",
+      "published": "2026-10-22T17:29:00+00:00"
+    },
+    {
+      "h": "We're dipping back into the AI trade with our first data center buy in weeks",
+      "es": "We're dipping back into the AI trade with our first data center buy in weeks",
+      "d": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T17:28:19+00:00"
+    },
+    {
+      "h": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+      "es": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L18F_L.jpg",
+      "published": "2026-10-22T17:24:37+00:00"
+    },
+    {
+      "h": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "es": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "d": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+      "u": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00292967",
+      "published": "2026-10-22T17:24:00+00:00"
+    },
+    {
+      "h": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+      "es": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+      "d": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
+      "u": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-15467377",
+      "published": "2026-10-22T17:21:00+00:00"
+    },
+    {
+      "h": "Moderna shares plunge on apparent cancer vaccine data leak",
+      "es": "Moderna shares plunge on apparent cancer vaccine data leak",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/moderna-shares-plunge-on-apparent-cancer-vaccine-data-leak-4967091",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1597823733.jpg",
+      "published": "2026-10-22T17:20:20+00:00"
+    },
+    {
+      "h": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+      "es": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+      "d": "\"We're going to have an amazing 2027,\" he said.",
+      "u": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T17:04:12+00:00"
+    },
     {
       "h": "Elon Musk reportedly invests about $1 billion in Skydance",
       "es": "Elon Musk reportedly invests about $1 billion in Skydance",
@@ -9,6 +90,42 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T17:03:06+00:00"
+    },
+    {
+      "h": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+      "es": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+      "d": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
+      "u": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T17:01:08+00:00"
+    },
+    {
+      "h": "Honeywell earnings analysis: questions answered and next catalysts",
+      "es": "Honeywell earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/honeywell-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967065",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED99191_M.jpg",
+      "published": "2026-10-22T16:56:23+00:00"
+    },
+    {
+      "h": "Spotify earnings analysis: questions answered and next catalysts",
+      "es": "Spotify earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spotify-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967064",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6P0YU_M.jpg",
+      "published": "2026-10-22T16:55:49+00:00"
+    },
+    {
+      "h": "Comcast earnings analysis: questions answered and next catalysts",
+      "es": "Comcast earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/comcast-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967062",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3G0UP_M.jpg",
+      "published": "2026-10-22T16:54:42+00:00"
     },
     {
       "h": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
@@ -20,6 +137,15 @@
       "published": "2026-10-22T16:54:26+00:00"
     },
     {
+      "h": "Procter & Gamble earnings analysis: questions answered and next catalysts",
+      "es": "Procter & Gamble earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/procter--gamble-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967061",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED1E11Z_M.jpg",
+      "published": "2026-10-22T16:54:06+00:00"
+    },
+    {
       "h": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
       "es": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
       "d": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
@@ -27,6 +153,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T16:49:56+00:00"
+    },
+    {
+      "h": "SAP earnings analysis: questions answered and next catalysts",
+      "es": "SAP earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sap-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967050",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC6J0BT_M.jpg",
+      "published": "2026-10-22T16:48:55+00:00"
+    },
+    {
+      "h": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+      "es": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
+      "published": "2026-10-22T16:48:41+00:00"
     },
     {
       "h": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1O5_L.jpg",
       "published": "2026-10-22T16:30:43+00:00"
-    },
-    {
-      "h": "Skydance shares reverse gains after report of $1 billion Musk investment",
-      "es": "Skydance shares reverse gains after report of $1 billion Musk investment",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/skydance-shares-reverse-gains-after-report-of-1-billion-musk-investment-4967006",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4B0IU_L.jpg",
-      "published": "2026-10-22T16:25:05+00:00"
-    },
-    {
-      "h": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "es": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "d": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:24:20+00:00"
-    },
-    {
-      "h": "PepsiCo locks in Taco Bell partnership through 2036 following KFC loss",
-      "es": "PepsiCo locks in Taco Bell partnership through 2036 following KFC loss",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/pepsico-locks-in-taco-bell-partnership-through-2036-following-kfc-loss-4967004",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/TacoBell_800x533_L_1614084008.jpg",
-      "published": "2026-10-22T16:21:04+00:00"
-    },
-    {
-      "h": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "es": "Why governments pulled websites offline over the decades-old PHP programming language",
-      "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
-      "u": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:19:34+00:00"
-    },
-    {
-      "h": "FTSE 100 today: Stocks fall as miners drag, Iran threat lifts oil",
-      "es": "FTSE 100 today: Stocks fall as miners drag, Iran threat lifts oil",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-gulf-war-lifts-oil-miners-slide-on-weaker-metals-4964847",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1S0OV_M.jpg",
-      "published": "2026-10-22T16:17:25+00:00"
-    },
-    {
-      "h": "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
-      "es": "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1LT_L.jpg",
-      "published": "2026-10-22T16:12:39+00:00"
-    },
-    {
-      "h": "L’Oréal stock jumps as third-quarter sales beat estimates",
-      "es": "L’Oréal stock jumps as third-quarter sales beat estimates",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/loreal-stock-jumps-as-thirdquarter-sales-beat-estimates-4966982",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC6L17U_M.jpg",
-      "published": "2026-10-22T16:11:06+00:00"
-    },
-    {
-      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
-      "es": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-033-4966981",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA6F08Z_M.jpg",
-      "published": "2026-10-22T16:09:14+00:00"
-    },
-    {
-      "h": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
-      "es": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-212-4966980",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB540RV_M.jpg",
-      "published": "2026-10-22T16:08:47+00:00"
-    },
-    {
-      "h": "Portugal stocks lower at close of trade; PSI down 1.46%",
-      "es": "Portugal stocks lower at close of trade; PSI down 1.46%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-146-4966979",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Portugal_800x533_L_1630015779.jpg",
-      "published": "2026-10-22T16:08:20+00:00"
-    },
-    {
-      "h": "Netherlands stocks lower at close of trade; AEX down 1.10%",
-      "es": "Netherlands stocks lower at close of trade; AEX down 1.10%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-110-4966978",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM0F0UJ_L.jpg",
-      "published": "2026-10-22T16:07:49+00:00"
-    },
-    {
-      "h": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.59%",
-      "es": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.59%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-259-4966977",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0CJ_L.jpg",
-      "published": "2026-10-22T16:07:21+00:00"
-    },
-    {
-      "h": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
-      "es": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ai-safety-group-metr-finds-flaws-in-openais-internal-monitoring-system-4966975",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1MI_L.jpg",
-      "published": "2026-10-22T16:06:47+00:00"
-    },
-    {
-      "h": "Epic’s ’Fortnite’ to return on Apple’s app store in Australia after antitrust ruling",
-      "es": "Epic’s ’Fortnite’ to return on Apple’s app store in Australia after antitrust ruling",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling-4964596",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L07K_L.jpg",
-      "published": "2026-10-22T16:06:29+00:00"
-    },
-    {
-      "h": "Germany stocks lower at close of trade; DAX down 1.04%",
-      "es": "Germany stocks lower at close of trade; DAX down 1.04%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-104-4966974",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE160OI_M.jpg",
-      "published": "2026-10-22T16:06:22+00:00"
-    },
-    {
-      "h": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "es": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "d": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
-      "u": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:04:43+00:00"
     }
   ],
   "sources": [
