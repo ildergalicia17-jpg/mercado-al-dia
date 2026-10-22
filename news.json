@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-22T04:33:02.811339+00:00",
+  "updated": "2026-10-22T05:11:58.798589+00:00",
   "news": [
+    {
+      "h": "Calls to cut employer National Insurance contributions for under-25s",
+      "es": "Calls to cut employer National Insurance contributions for under-25s",
+      "d": "Yorkshire businesses set out what they want from the chancellor ahead of the Budget.",
+      "u": "https://www.bbc.co.uk/news/articles/c35ynekpnz74o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d5/live/edfb85f0-cd39-11f1-935f-b9c228680c6f.jpg",
+      "published": "2026-10-22T05:10:36+00:00"
+    },
+    {
+      "h": "Axel Springer pitched deal to buy TikTok’s European arm, FT reports",
+      "es": "Axel Springer pitched deal to buy TikTok’s European arm, FT reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/axel-springer-pitched-deal-to-buy-tiktoks-european-arm-ft-reports-4964610",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL0D001_L.jpg",
+      "published": "2026-10-22T04:44:01+00:00"
+    },
+    {
+      "h": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended",
+      "es": "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/review-finds-kpmg-australia-mishandled-whistleblower-claims-pause-on-government-work-extended-4964609",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L09Y_L.jpg",
+      "published": "2026-10-22T04:43:18+00:00"
+    },
+    {
+      "h": "European auto sales rise 10% in Sept; EVs, hybrids lead",
+      "es": "European auto sales rise 10% in Sept; EVs, hybrids lead",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-auto-sales-rise-10-in-sept-evs-hybrids-lead-4964607",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE5R0P9_M.jpg",
+      "published": "2026-10-22T04:31:06+00:00"
+    },
+    {
+      "h": "Exclusive-Musk’s public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
+      "es": "Exclusive-Musk’s public endorsement of SpaceX-Tesla deal may throw a wrench in talks",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivemusks-public-endorsement-of-spacextesla-deal-may-throw-a-wrench-in-talks-4964606",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L09J_L.jpg",
+      "published": "2026-10-22T04:30:23+00:00"
+    },
     {
       "h": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
       "es": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
@@ -36,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L08L_L.jpg",
       "published": "2026-10-22T04:12:18+00:00"
+    },
+    {
+      "h": "Watch these Japanese large-cap stocks going into the Sept-qtr earnings season",
+      "es": "Watch these Japanese large-cap stocks going into the Sept-qtr earnings season",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/watch-these-japanese-largecap-stocks-going-into-the-septqtr-earnings-season-93CH-4964602",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3F013_M.jpg",
+      "published": "2026-10-22T04:10:00+00:00"
     },
     {
       "h": "Why is Resonac stock sliding today?",
@@ -146,6 +200,24 @@
       "published": "2026-10-22T02:40:13+00:00"
     },
     {
+      "h": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+      "es": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+      "d": "Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.",
+      "u": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T02:20:50+00:00"
+    },
+    {
+      "h": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+      "es": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+      "d": "Economists polled by Reuters had forecast the Bank of Korea to hold rates.",
+      "u": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T02:18:29+00:00"
+    },
+    {
       "h": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
       "es": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
       "d": "",
@@ -198,78 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0ZP_L.jpg",
       "published": "2026-10-22T01:24:22+00:00"
-    },
-    {
-      "h": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-      "es": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-      "d": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
-      "u": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T01:22:22+00:00"
-    },
-    {
-      "h": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-      "es": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-      "d": "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent.",
-      "u": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T01:21:10+00:00"
-    },
-    {
-      "h": "Australia’s Fortescue warns of possible operations hit as China state buyer talks rumble on",
-      "es": "Australia’s Fortescue warns of possible operations hit as China state buyer talks rumble on",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australias-fortescue-posts-6-fall-in-quarterly-iron-ore-shipments-4964323",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K22Z_L.jpg",
-      "published": "2026-10-22T01:12:46+00:00"
-    },
-    {
-      "h": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
-      "es": "U.S. stock futures fall as investors weigh Tesla, Meta earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-22T01:10:50+00:00"
-    },
-    {
-      "h": "SK Hynix bounces but stays 6% below key MA: Live levels",
-      "es": "SK Hynix bounces but stays 6% below key MA: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-22T01:05:49+00:00"
-    },
-    {
-      "h": "Nikkei 225 bear flag nears completion above 63,572: Live levels",
-      "es": "Nikkei 225 bear flag nears completion above 63,572: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-22T01:05:31+00:00"
-    },
-    {
-      "h": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "es": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "d": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
-      "u": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T01:05:15+00:00"
-    },
-    {
-      "h": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-      "es": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-      "d": "Investors liked what they saw.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T00:53:01+00:00"
     }
   ],
   "sources": [
