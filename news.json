@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-22T09:18:26.685544+00:00",
+  "updated": "2026-10-22T09:59:05.143435+00:00",
   "news": [
+    {
+      "h": "Woman 'scared to turn heating on' due to oil cost",
+      "es": "Woman 'scared to turn heating on' due to oil cost",
+      "d": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
+      "u": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9902/live/3df74460-cdf6-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-22T09:55:16+00:00"
+    },
+    {
+      "h": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "es": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "d": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "u": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-14136247",
+      "published": "2026-10-22T09:55:00+00:00"
+    },
+    {
+      "h": "Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26",
+      "es": "Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bernstein-says-samsung-overtook-sk-hynix-in-hbm-revenue-in-3q26-93CH-4965188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-22T09:49:07+00:00"
+    },
+    {
+      "h": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
+      "es": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
+      "published": "2026-10-22T09:48:43+00:00"
+    },
+    {
+      "h": "Why is Sartorius stock rallying today?",
+      "es": "Why is Sartorius stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sartorius-stock-rallying-today-93CH-4965187",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-22T09:48:34+00:00"
+    },
+    {
+      "h": "SAP clients increasingly worry about AI models’ origin, CFO says",
+      "es": "SAP clients increasingly worry about AI models’ origin, CFO says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sap-clients-increasingly-worry-about-ai-models-origin-cfo-says-4965179",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0US_L.jpg",
+      "published": "2026-10-22T09:42:39+00:00"
+    },
+    {
+      "h": "U.S. stock futures retreat as investors weigh Tesla, Meta earnings",
+      "es": "U.S. stock futures retreat as investors weigh Tesla, Meta earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-22T09:39:36+00:00"
+    },
+    {
+      "h": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
+      "es": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-evergrande-liquidators-recover-1-of-debt-claims-after-212-years-4965168",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TS_L.jpg",
+      "published": "2026-10-22T09:36:26+00:00"
+    },
+    {
+      "h": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "es": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "d": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
+      "u": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T09:23:59+00:00"
+    },
+    {
+      "h": "Addtech reports higher quarterly profit on strong demand",
+      "es": "Addtech reports higher quarterly profit on strong demand",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/addtech-reports-higher-quarterly-profit-on-strong-demand-93CH-4965129",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-22T09:22:25+00:00"
+    },
+    {
+      "h": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+      "es": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TG_L.jpg",
+      "published": "2026-10-22T09:18:29+00:00"
+    },
+    {
+      "h": "Telia raises 2026 guidance after strong third quarter",
+      "es": "Telia raises 2026 guidance after strong third quarter",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/telia-raises-2026-guidance-after-strong-third-quarter-93CH-4965116",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-22T09:16:32+00:00"
+    },
     {
       "h": "Panasonic Industry moves up AI sales target to fiscal 2029",
       "es": "Panasonic Industry moves up AI sales target to fiscal 2029",
@@ -27,6 +135,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629277166.jpg",
       "published": "2026-10-22T09:09:09+00:00"
+    },
+    {
+      "h": "A top strategist has a warning for retail investors chasing the AI rally",
+      "es": "A top strategist has a warning for retail investors chasing the AI rally",
+      "d": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "u": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08914573",
+      "published": "2026-10-22T09:07:00+00:00"
     },
     {
       "h": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
       "published": "2026-10-22T08:32:40+00:00"
-    },
-    {
-      "h": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "es": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T08:32:04+00:00"
-    },
-    {
-      "h": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.14%",
-      "es": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.14%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-114-4964991",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC7N1OQ_M.jpg",
-      "published": "2026-10-22T08:30:04+00:00"
-    },
-    {
-      "h": "Why is International Business Machines stock sliding today?",
-      "es": "Why is International Business Machines stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-international-business-machines-stock-sliding-today-93CH-4964990",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB3J0Z7_M.jpg",
-      "published": "2026-10-22T08:29:37+00:00"
-    },
-    {
-      "h": "Why is SAP stock sliding today?",
-      "es": "Why is SAP stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sap-stock-sliding-today-93CH-4964988",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-22T08:28:36+00:00"
-    },
-    {
-      "h": "ID Logistics shares rise 9% on strong third quarter revenue growth",
-      "es": "ID Logistics shares rise 9% on strong third quarter revenue growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/id-logistics-shares-rise-9-on-strong-third-quarter-revenue-growth-93CH-4964986",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-22T08:27:16+00:00"
-    },
-    {
-      "h": "De Tubize stock jumps on UCB guidance upgrade",
-      "es": "De Tubize stock jumps on UCB guidance upgrade",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/de-tubize-stock-jumps-on-ucb-guidance-upgrade-93CH-4964983",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-22T08:27:01+00:00"
-    },
-    {
-      "h": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "es": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "d": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-      "u": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T08:24:42+00:00"
-    },
-    {
-      "h": "Why is UCB stock surging today?",
-      "es": "Why is UCB stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ucb-stock-surging-today-93CH-4964979",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-22T08:24:20+00:00"
-    },
-    {
-      "h": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "es": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "d": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "u": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
-      "published": "2026-10-22T08:19:47+00:00"
-    },
-    {
-      "h": "Exclusive-TSMC seeks factory-equipment alternatives to thwart China’s rare earths grip, sources say",
-      "es": "Exclusive-TSMC seeks factory-equipment alternatives to thwart China’s rare earths grip, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivetsmc-seeks-factoryequipment-alternatives-to-thwart-chinas-rare-earths-grip-sources-say-4964973",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0PC_L.jpg",
-      "published": "2026-10-22T08:18:15+00:00"
-    },
-    {
-      "h": "IG Group reaffirms guidance, shifts to credit rating framework",
-      "es": "IG Group reaffirms guidance, shifts to credit rating framework",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ig-group-reaffirms-guidance-shifts-to-credit-rating-framework-93CH-4964920",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-22T07:54:13+00:00"
-    },
-    {
-      "h": "Why is Thule stock sliding today?",
-      "es": "Why is Thule stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-thule-stock-sliding-today-93CH-4964914",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-22T07:51:39+00:00"
-    },
-    {
-      "h": "Why is Swedbank stock sliding today?",
-      "es": "Why is Swedbank stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-swedbank-stock-sliding-today-93CH-4964909",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-22T07:50:33+00:00"
     }
   ],
   "sources": [
