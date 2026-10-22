@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-22T16:27:22.276057+00:00",
+  "updated": "2026-10-22T17:05:41.301335+00:00",
   "news": [
+    {
+      "h": "Elon Musk reportedly invests about $1 billion in Skydance",
+      "es": "Elon Musk reportedly invests about $1 billion in Skydance",
+      "d": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+      "u": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T17:03:06+00:00"
+    },
+    {
+      "h": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "es": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "d": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+      "u": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:54:26+00:00"
+    },
+    {
+      "h": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "es": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+      "d": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+      "u": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:49:56+00:00"
+    },
+    {
+      "h": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+      "es": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+      "d": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
+      "u": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-25886732",
+      "published": "2026-10-22T16:48:00+00:00"
+    },
+    {
+      "h": "Zuckerberg’s California tax move is a win for Meta — and for him",
+      "es": "Zuckerberg’s California tax move is a win for Meta — and for him",
+      "d": "He has bought some good PR and gets to live and work where he wants.",
+      "u": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21638670",
+      "published": "2026-10-22T16:48:00+00:00"
+    },
+    {
+      "h": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+      "es": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+      "d": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
+      "u": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:46:29+00:00"
+    },
+    {
+      "h": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "es": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "d": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+      "u": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:42:28+00:00"
+    },
+    {
+      "h": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "es": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "d": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+      "u": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T16:40:09+00:00"
+    },
+    {
+      "h": "US airlines struggle to offset soaring fuel costs with big fare hikes",
+      "es": "US airlines struggle to offset soaring fuel costs with big fare hikes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/american-airlines-forecasts-2026-loss-as-fuel-costs-outpace-fare-gains-4965492",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L13X_L.jpg",
+      "published": "2026-10-22T16:37:03+00:00"
+    },
+    {
+      "h": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+      "es": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+      "d": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+      "u": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-65999588",
+      "published": "2026-10-22T16:35:00+00:00"
+    },
+    {
+      "h": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+      "es": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/kinder-morgan-to-invest-47-billion-in-two-gas-pipeline-projects-as-demand-surges-4964384",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K241_L.jpg",
+      "published": "2026-10-22T16:33:06+00:00"
+    },
+    {
+      "h": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+      "es": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysismusks-political-baggage-clouds-prospects-for-spacextesla-deal-4965229",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0WR_L.jpg",
+      "published": "2026-10-22T16:32:43+00:00"
+    },
+    {
+      "h": "European stocks drop as French yields, mixed tech earnings weigh",
+      "es": "European stocks drop as French yields, mixed tech earnings weigh",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "published": "2026-10-22T16:32:35+00:00"
+    },
+    {
+      "h": "Exclusive-Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "es": "Exclusive-Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiverhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising-4967008",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1O5_L.jpg",
+      "published": "2026-10-22T16:30:43+00:00"
+    },
+    {
+      "h": "Skydance shares reverse gains after report of $1 billion Musk investment",
+      "es": "Skydance shares reverse gains after report of $1 billion Musk investment",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/skydance-shares-reverse-gains-after-report-of-1-billion-musk-investment-4967006",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4B0IU_L.jpg",
+      "published": "2026-10-22T16:25:05+00:00"
+    },
     {
       "h": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
       "es": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
@@ -11,6 +146,15 @@
       "published": "2026-10-22T16:24:20+00:00"
     },
     {
+      "h": "PepsiCo locks in Taco Bell partnership through 2036 following KFC loss",
+      "es": "PepsiCo locks in Taco Bell partnership through 2036 following KFC loss",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pepsico-locks-in-taco-bell-partnership-through-2036-following-kfc-loss-4967004",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/TacoBell_800x533_L_1614084008.jpg",
+      "published": "2026-10-22T16:21:04+00:00"
+    },
+    {
       "h": "Why governments pulled websites offline over the decades-old PHP programming language",
       "es": "Why governments pulled websites offline over the decades-old PHP programming language",
       "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
@@ -18,6 +162,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T16:19:34+00:00"
+    },
+    {
+      "h": "FTSE 100 today: Stocks fall as miners drag, Iran threat lifts oil",
+      "es": "FTSE 100 today: Stocks fall as miners drag, Iran threat lifts oil",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-gulf-war-lifts-oil-miners-slide-on-weaker-metals-4964847",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC1S0OV_M.jpg",
+      "published": "2026-10-22T16:17:25+00:00"
     },
     {
       "h": "Gucci sales slid further in Q3, Kering says, dampening revival hopes",
@@ -110,166 +263,13 @@
       "published": "2026-10-22T16:06:22+00:00"
     },
     {
-      "h": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-      "es": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-      "d": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
-      "u": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+      "h": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "es": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "d": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+      "u": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-10-22T16:04:09+00:00"
-    },
-    {
-      "h": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "es": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "d": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
-      "u": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:52:00+00:00"
-    },
-    {
-      "h": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "es": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "d": "\"We're going to have an amazing 2027,\" he said.",
-      "u": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:48:37+00:00"
-    },
-    {
-      "h": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-      "es": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-      "d": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
-      "u": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-22T15:45:57+00:00"
-    },
-    {
-      "h": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
-      "es": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
-      "d": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:45:57+00:00"
-    },
-    {
-      "h": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
-      "es": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
-      "d": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-      "u": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:36:13+00:00"
-    },
-    {
-      "h": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-      "es": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-      "d": "CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.",
-      "u": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:35:55+00:00"
-    },
-    {
-      "h": "Poland stocks lower at close of trade; WIG30 down 1.49%",
-      "es": "Poland stocks lower at close of trade; WIG30 down 1.49%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-149-4966924",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/WarsawStockExchange_800x533_L_1532265834.jpg",
-      "published": "2026-10-22T15:35:03+00:00"
-    },
-    {
-      "h": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "es": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "d": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
-      "u": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T15:34:44+00:00"
-    },
-    {
-      "h": "Two big reasons Micron and other chip stocks are falling on Thursday",
-      "es": "Two big reasons Micron and other chip stocks are falling on Thursday",
-      "d": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
-      "u": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15629837",
-      "published": "2026-10-22T15:33:00+00:00"
-    },
-    {
-      "h": "Why is Newmont stock sliding today?",
-      "es": "Why is Newmont stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-newmont-stock-sliding-today-93CH-4966922",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC5N1W0_M.jpg",
-      "published": "2026-10-22T15:32:15+00:00"
-    },
-    {
-      "h": "Why is Barrick Mining stock sliding today?",
-      "es": "Why is Barrick Mining stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-barrick-mining-stock-sliding-today-93CH-4966921",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-22T15:32:10+00:00"
-    },
-    {
-      "h": "Axel Springer open to role in any potential European TikTok deal, spokesperson says",
-      "es": "Axel Springer open to role in any potential European TikTok deal, spokesperson says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/axel-springer-open-to-role-in-any-potential-european-tiktok-deal-spokesperson-says-4965380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L114_L.jpg",
-      "published": "2026-10-22T15:31:01+00:00"
-    },
-    {
-      "h": "Turkey stocks lower at close of trade; BIST 100 down 3.08%",
-      "es": "Turkey stocks lower at close of trade; BIST 100 down 3.08%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-308-4966918",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Istanbul_Stock_Exchange_M_1440056248.jpg",
-      "published": "2026-10-22T15:30:32+00:00"
-    },
-    {
-      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.34%",
-      "es": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.34%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-034-4966913",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Traders_800x533_L_1644202045.jpg",
-      "published": "2026-10-22T15:30:05+00:00"
-    },
-    {
-      "h": "Why is Johnson & Johnson stock rallying today?",
-      "es": "Why is Johnson & Johnson stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-johnson--johnson-stock-rallying-today-93CH-4966908",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-22T15:26:45+00:00"
-    },
-    {
-      "h": "Why is Auna stock dropping today?",
-      "es": "Why is Auna stock dropping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-auna-stock-dropping-today-93CH-4966907",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-22T15:26:38+00:00"
-    },
-    {
-      "h": "Why is Agnico Eagle stock sliding today?",
-      "es": "Why is Agnico Eagle stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-agnico-eagle-stock-sliding-today-93CH-4966906",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-22T15:26:21+00:00"
+      "published": "2026-10-22T16:04:43+00:00"
     }
   ],
   "sources": [
