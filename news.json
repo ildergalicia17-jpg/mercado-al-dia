@@ -1,6 +1,141 @@
 {
-  "updated": "2026-10-22T11:11:21.758717+00:00",
+  "updated": "2026-10-22T11:47:41.372752+00:00",
   "news": [
+    {
+      "h": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+      "es": "American Airlines pronostica mayores pérdidas en 2026 por el aumento de combustible, planea desacelerar el crecimiento el próximo año",
+      "d": "Es la cuarta gran aerolínea estadounidense que recorta su pronóstico para 2026 este mes debido a un aumento en los costos del combustible.",
+      "u": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-22T11:44:02+00:00"
+    },
+    {
+      "h": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+      "es": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+      "d": "Comcast está en proceso de escindir su negocio de medios en una empresa independiente que cotiza en bolsa.",
+      "u": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T11:42:26+00:00"
+    },
+    {
+      "h": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "es": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "d": "Ocho de cada 10 estadounidenses califican ahora la economía como regular o mala, uno de los varios hallazgos de una encuesta de CNBC que muestra por qué los candidatos republicanos enfrentan batallas cuesta arriba.",
+      "u": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T11:40:01+00:00"
+    },
+    {
+      "h": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
+      "es": "Las exportaciones de petróleo de Medio Oriente se están recuperando. Nuevos ataques en Arabia Saudita muestran que los riesgos persisten.",
+      "d": "Está saliendo nuevamente más petróleo del Golfo Pérsico y las exportaciones se acercan a los niveles anteriores a la guerra. Entonces, ¿por qué los precios son tan obstinadamente altos?",
+      "u": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-97344316",
+      "published": "2026-10-22T11:35:00+00:00"
+    },
+    {
+      "h": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+      "es": "Las ganancias de Procter & Gamble superan al aumentar las ventas un 4%, impulsadas por los productos de lavandería y hogar",
+      "d": "Procter & Gamble superó las estimaciones de Wall Street en cuanto a ganancias e ingresos trimestrales.",
+      "u": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-22T11:30:40+00:00"
+    },
+    {
+      "h": "Meta dips 3% despite earnings beat; capex outlook narrowed amid AI spending surge",
+      "es": "Meta cae un 3% a pesar de superar las ganancias; Las perspectivas de gasto de capital se redujeron en medio del aumento del gasto en IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-beats-q3-estimates-approves-new-nonvoting-share-class-as-ai-spending-surges-4963949",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
+      "published": "2026-10-22T11:30:23+00:00"
+    },
+    {
+      "h": "Why is TTM Technologies stock sliding today?",
+      "es": "¿Por qué las acciones de TTM Technologies están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4965637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-22T11:29:46+00:00"
+    },
+    {
+      "h": "J.P. Morgan backs Benelux insurers on valuation discount, shareholder returns",
+      "es": "J.P. Morgan respalda a las aseguradoras del Benelux con descuentos de valoración y rentabilidad para los accionistas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jp-morgan-backs-benelux-insurers-on-valuation-discount-shareholder-returns-4965635",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-22T11:27:46+00:00"
+    },
+    {
+      "h": "Spotify forecasts fourth-quarter profit above estimates on AI bets",
+      "es": "Spotify pronostica ganancias en el cuarto trimestre por encima de las estimaciones en apuestas de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spotify-forecasts-fourthquarter-profit-above-estimates-on-ai-bets-4965232",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0X0_L.jpg",
+      "published": "2026-10-22T11:24:57+00:00"
+    },
+    {
+      "h": "Why is Snap-on stock tumbling today?",
+      "es": "¿Por qué están cayendo las acciones de Snap-on hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-snapon-stock-tumbling-today-93CH-4965617",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB27088_M.jpg",
+      "published": "2026-10-22T11:24:40+00:00"
+    },
+    {
+      "h": "Factbox-Governments, companies take websites offline over PHP flaws",
+      "es": "Factbox-Gobiernos y empresas desconectan sitios web por fallas de PHP",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1J6_L.jpg",
+      "published": "2026-10-22T11:24:32+00:00"
+    },
+    {
+      "h": "Why is Biohaven stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Biohaven hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-biohaven-stock-surging-today-93CH-4965603",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-22T11:23:22+00:00"
+    },
+    {
+      "h": "Premarket movers: Tesla, IBM slide; Meta earnings fail to lift sentiment",
+      "es": "Motores previos a la comercialización: caída de Tesla e IBM; Los metabeneficios no logran mejorar el sentimiento",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-tesla-ibm-slide-meta-earnings-fail-to-lift-sentiment-4965382",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-22T11:21:35+00:00"
+    },
+    {
+      "h": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
+      "es": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
+      "d": "Francia enfrenta una creciente crisis económica que elevó el jueves el rendimiento de sus bonos gubernamentales a 10 años a un nuevo máximo en 24 años.",
+      "u": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T11:21:02+00:00"
+    },
+    {
+      "h": "What is PHP and why did it spark a global cyber-security scramble?",
+      "es": "¿Qué es PHP y por qué desató una lucha global por la ciberseguridad?",
+      "d": "La IA descubrió fallas de programación ocultas durante mucho tiempo, lo que desencadenó una rara respuesta global de ciberseguridad.",
+      "u": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-22T11:15:58+00:00"
+    },
     {
       "h": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
       "es": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
@@ -135,141 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T10:30:01+00:00"
-    },
-    {
-      "h": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-      "es": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-      "d": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
-      "u": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T10:00:01+00:00"
-    },
-    {
-      "h": "Woman 'scared to turn heating on' due to oil cost",
-      "es": "Woman 'scared to turn heating on' due to oil cost",
-      "d": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
-      "u": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9902/live/3df74460-cdf6-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-22T09:55:16+00:00"
-    },
-    {
-      "h": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
-      "es": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
-      "d": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
-      "u": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-14136247",
-      "published": "2026-10-22T09:55:00+00:00"
-    },
-    {
-      "h": "Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26",
-      "es": "Bernstein says Samsung overtook SK hynix in HBM revenue in 3Q26",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bernstein-says-samsung-overtook-sk-hynix-in-hbm-revenue-in-3q26-93CH-4965188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-22T09:49:07+00:00"
-    },
-    {
-      "h": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
-      "es": "Nasdaq futures drop over 1% as AI worries resurface, oil climbs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
-      "published": "2026-10-22T09:48:43+00:00"
-    },
-    {
-      "h": "Why is Sartorius stock rallying today?",
-      "es": "Why is Sartorius stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sartorius-stock-rallying-today-93CH-4965187",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-22T09:48:34+00:00"
-    },
-    {
-      "h": "SAP clients increasingly worry about AI models’ origin, CFO says",
-      "es": "SAP clients increasingly worry about AI models’ origin, CFO says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sap-clients-increasingly-worry-about-ai-models-origin-cfo-says-4965179",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0US_L.jpg",
-      "published": "2026-10-22T09:42:39+00:00"
-    },
-    {
-      "h": "U.S. stock futures retreat as investors weigh Tesla, Meta earnings",
-      "es": "U.S. stock futures retreat as investors weigh Tesla, Meta earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-22T09:39:36+00:00"
-    },
-    {
-      "h": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "es": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "d": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "u": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
-      "published": "2026-10-22T09:37:58+00:00"
-    },
-    {
-      "h": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
-      "es": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/china-evergrande-liquidators-recover-1-of-debt-claims-after-212-years-4965168",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TS_L.jpg",
-      "published": "2026-10-22T09:36:26+00:00"
-    },
-    {
-      "h": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "es": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "d": "The fund has a current value of around $2.3 trillion.",
-      "u": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T09:25:09+00:00"
-    },
-    {
-      "h": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "es": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "d": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
-      "u": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T09:23:59+00:00"
-    },
-    {
-      "h": "Addtech reports higher quarterly profit on strong demand",
-      "es": "Addtech reports higher quarterly profit on strong demand",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/addtech-reports-higher-quarterly-profit-on-strong-demand-93CH-4965129",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-22T09:22:25+00:00"
-    },
-    {
-      "h": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
-      "es": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports-4965122",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0TG_L.jpg",
-      "published": "2026-10-22T09:18:29+00:00"
-    },
-    {
-      "h": "Telia raises 2026 guidance after strong third quarter",
-      "es": "Telia raises 2026 guidance after strong third quarter",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/telia-raises-2026-guidance-after-strong-third-quarter-93CH-4965116",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-22T09:16:32+00:00"
     }
   ],
   "sources": [
