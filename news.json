@@ -1,6 +1,186 @@
 {
-  "updated": "2026-10-22T12:19:45.690511+00:00",
+  "updated": "2026-10-22T13:12:56.775806+00:00",
   "news": [
+    {
+      "h": "Why is Direxion Daily Semiconductor Bull 3X Shares ETF tumbling today?",
+      "es": "¿Por qué el ETF Direxion Daily Semiconductor Bull 3X Shares está cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-etf-tumbling-today-93CH-4966122",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-22T12:54:59+00:00"
+    },
+    {
+      "h": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "es": "Barclays elimina 5.000 puestos de trabajo a medida que aumenta su dependencia de la IA",
+      "d": "El banco dice que está utilizando más IA, lo que llevará a una reducción del 5% en su fuerza laboral.",
+      "u": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+      "published": "2026-10-22T12:54:36+00:00"
+    },
+    {
+      "h": "Spain accuses Trump ally Milei of ‘disgraceful’ election interference",
+      "es": "España acusa a Milei, aliado de Trump, de \"vergonzosa\" interferencia electoral",
+      "d": "Argentinia's Javier Milei launched a barrage of insults at Spain’s left-wing Prime Minister Pedro Sanchez on a visit to Madrid, calling on voters to oust him.",
+      "u": "https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:52:41+00:00"
+    },
+    {
+      "h": "Goldman Sachs forecasts 9% of workers could face AI displacement",
+      "es": "Goldman Sachs pronostica que el 9% de los trabajadores podrían enfrentarse al desplazamiento de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-forecasts-9-of-workers-could-face-ai-displacement-93CH-4966116",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ5M0G9_L.jpg",
+      "published": "2026-10-22T12:52:17+00:00"
+    },
+    {
+      "h": "Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
+      "es": "El crudo Brent se acerca a los 112 dólares mientras Estados Unidos e Israel sopesan nuevos ataques a Irán",
+      "d": "El conflicto de Medio Oriente podría estallar nuevamente ya que, según se informa, Estados Unidos planea reanudar los ataques contra Irán.",
+      "u": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:51:48+00:00"
+    },
+    {
+      "h": "Coinbase Ireland fined €3.25M by Irish regulators over safeguarding breaches",
+      "es": "Coinbase Irlanda multada con 3,25 millones de euros por parte de los reguladores irlandeses por infracciones de salvaguardia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coinbase-ireland-fined-325m-by-irish-regulators-over-safeguarding-breaches-4966112",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T1V4_L.jpg",
+      "published": "2026-10-22T12:50:58+00:00"
+    },
+    {
+      "h": "JPMorgan says tech stocks lead U.S. futures lower on risks",
+      "es": "JPMorgan dice que las acciones tecnológicas hacen bajar los futuros de EE.UU. por los riesgos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-says-tech-stocks-lead-us-futures-lower-on-risks-93CH-4966107",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0H1GV_M.jpg",
+      "published": "2026-10-22T12:50:45+00:00"
+    },
+    {
+      "h": "Why is Invesco QQQ Trust ETF sliding today?",
+      "es": "¿Por qué el ETF de Invesco QQQ Trust está cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-sliding-today-93CH-4966102",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-22T12:48:02+00:00"
+    },
+    {
+      "h": "Asian stocks fall sharply as oil prices surge and AI trade wobbles, Goldman comments",
+      "es": "Las acciones asiáticas caen bruscamente a medida que aumentan los precios del petróleo y se tambalea el comercio de IA, comenta Goldman",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-sharply-as-oil-prices-surge-and-ai-trade-wobbles-goldman-comments-93CH-4966100",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8015H_M.jpg",
+      "published": "2026-10-22T12:46:49+00:00"
+    },
+    {
+      "h": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "es": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "d": "Los fallos críticos de seguridad de PHP desencadenan advertencias globales a medida que Google, OpenAI y Amazon responden a posibles amenazas cibernéticas.",
+      "u": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:46:15+00:00"
+    },
+    {
+      "h": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+      "es": "Meta presentó una ambiciosa hoja de ruta para la monetización de Muse después de un sólido trimestre y guía",
+      "d": "A los inversores les gustó lo que vieron.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-22T12:45:06+00:00"
+    },
+    {
+      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.32%",
+      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 2,32%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-232-4966093",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9D0YP_M.jpg",
+      "published": "2026-10-22T12:45:03+00:00"
+    },
+    {
+      "h": "Why is NVE stock plummeting 25% today?",
+      "es": "¿Por qué las acciones de NVE están cayendo hoy un 25%?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nve-stock-plummeting-25-today-93CH-4966091",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-22T12:45:01+00:00"
+    },
+    {
+      "h": "How should investors position for further equity gains, according to UBS?",
+      "es": "¿Cómo deberían posicionarse los inversores para obtener mayores ganancias de capital, según la UBS?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/how-should-investors-position-for-further-equity-gains-according-to-ubs-4966092",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
+      "published": "2026-10-22T12:45:01+00:00"
+    },
+    {
+      "h": "Why is Alcoa stock sliding 3% today?",
+      "es": "¿Por qué las acciones de Alcoa están cayendo hoy un 3%?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-sliding-3-today-93CH-4966079",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-22T12:43:25+00:00"
+    },
+    {
+      "h": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "es": "Southwest Airlines recorta su previsión de beneficios para 2026 por el aumento del combustible",
+      "d": "Southwest Airlines se convirtió este mes en la tercera aerolínea importante de Estados Unidos en recortar su previsión de ganancias para 2026 debido al aumento de los precios del combustible.",
+      "u": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-22T12:42:01+00:00"
+    },
+    {
+      "h": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
+      "es": "Los mercados están valorando a los ganadores de la IA a largo plazo. Este inversor veterano dice que la historia demuestra que los clientes ganan más que los innovadores.",
+      "d": "Rob Arnott, presidente de Syzygy Asset Management, dice que los que hoy se perciben como ganadores de la IA pueden estar lejos de la realidad.",
+      "u": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-66633340",
+      "published": "2026-10-22T12:40:00+00:00"
+    },
+    {
+      "h": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "es": "Ahora el petróleo fluye desde el Golfo Pérsico como antes de la guerra con Irán. Por qué es posible que los precios aún no bajen pronto.",
+      "d": "Los flujos de petróleo que salen del Golfo Pérsico en octubre casi regresaron a los niveles observados antes del inicio de la guerra con Irán, pero los operadores siguen cautelosos ante una frágil recuperación.",
+      "u": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89005397",
+      "published": "2026-10-22T12:35:00+00:00"
+    },
+    {
+      "h": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "es": "Moderna está a punto de publicar los resultados del ensayo de su vacuna contra el cáncer. Mucho depende de estos datos.",
+      "d": "Moderna es una de las acciones más populares del año debido a su tratamiento personalizado contra el cáncer. Los datos completos de la Fase 3 se revelarán este fin de semana.",
+      "u": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-14131970",
+      "published": "2026-10-22T12:22:00+00:00"
+    },
+    {
+      "h": "Tank barrel production returns to UK after 20 years",
+      "es": "La producción de barriles cisterna regresa al Reino Unido después de 20 años",
+      "d": "El secretario de Defensa dice que el Reino Unido está \"de vuelta en el negocio de fabricar armas\" para sus fuerzas armadas.",
+      "u": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg",
+      "published": "2026-10-22T12:14:19+00:00"
+    },
     {
       "h": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
       "es": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
@@ -56,19 +236,19 @@
       "published": "2026-10-22T12:02:04+00:00"
     },
     {
-      "h": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-      "es": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-      "d": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
-      "u": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
+      "h": "Why governments pulled websites offline over a decades-old programming language",
+      "es": "Why governments pulled websites offline over a decades-old programming language",
+      "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+      "u": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T12:00:02+00:00"
     },
     {
-      "h": "Why governments pulled websites offline over a decades-old programming language",
-      "es": "Why governments pulled websites offline over a decades-old programming language",
-      "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
-      "u": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+      "h": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+      "es": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+      "d": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
+      "u": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T12:00:02+00:00"
@@ -90,186 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1NY_L.jpg",
       "published": "2026-10-22T11:55:26+00:00"
-    },
-    {
-      "h": "US railroad operator Union Pacific’s quarterly profit rises",
-      "es": "US railroad operator Union Pacific’s quarterly profit rises",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-railroad-operator-union-pacifics-quarterly-profit-rises-4965779",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L170_L.jpg",
-      "published": "2026-10-22T11:55:07+00:00"
-    },
-    {
-      "h": "Why is American Airlines stock sliding today?",
-      "es": "Why is American Airlines stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-american-airlines-stock-sliding-today-93CH-4965765",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB3N0GT_M.jpg",
-      "published": "2026-10-22T11:54:15+00:00"
-    },
-    {
-      "h": "Could French banks face fresh earnings pressure from a Livret A rate hike?",
-      "es": "Could French banks face fresh earnings pressure from a Livret A rate hike?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/could-french-banks-face-fresh-earnings-pressure-from-a-livret-a-rate-hike-4965763",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3Q0HO_1200_L.jpg",
-      "published": "2026-10-22T11:53:08+00:00"
-    },
-    {
-      "h": "BMO lifts Block to Outperform, sees multiple rerating catalysts ahead",
-      "es": "BMO lifts Block to Outperform, sees multiple rerating catalysts ahead",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bmo-lifts-block-to-outperform-sees-multiple-rerating-catalysts-ahead-4965740",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL410N2_L.jpg",
-      "published": "2026-10-22T11:47:13+00:00"
-    },
-    {
-      "h": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-      "es": "American Airlines pronostica mayores pérdidas en 2026 por el aumento de combustible, planea desacelerar el crecimiento el próximo año",
-      "d": "Es la cuarta gran aerolínea estadounidense que recorta su pronóstico para 2026 este mes debido a un aumento en los costos del combustible.",
-      "u": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-22T11:44:02+00:00"
-    },
-    {
-      "h": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-      "es": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-      "d": "Comcast está en proceso de escindir su negocio de medios en una empresa independiente que cotiza en bolsa.",
-      "u": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T11:42:26+00:00"
-    },
-    {
-      "h": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-      "es": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-      "d": "Ocho de cada 10 estadounidenses califican ahora la economía como regular o mala, uno de los varios hallazgos de una encuesta de CNBC que muestra por qué los candidatos republicanos enfrentan batallas cuesta arriba.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T11:40:01+00:00"
-    },
-    {
-      "h": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "es": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "d": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
-      "u": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T11:38:05+00:00"
-    },
-    {
-      "h": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
-      "es": "Las exportaciones de petróleo de Medio Oriente se están recuperando. Nuevos ataques en Arabia Saudita muestran que los riesgos persisten.",
-      "d": "Está saliendo nuevamente más petróleo del Golfo Pérsico y las exportaciones se acercan a los niveles anteriores a la guerra. Entonces, ¿por qué los precios son tan obstinadamente altos?",
-      "u": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-97344316",
-      "published": "2026-10-22T11:35:00+00:00"
-    },
-    {
-      "h": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-      "es": "Las ganancias de Procter & Gamble superan al aumentar las ventas un 4%, impulsadas por los productos de lavandería y hogar",
-      "d": "Procter & Gamble superó las estimaciones de Wall Street en cuanto a ganancias e ingresos trimestrales.",
-      "u": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-22T11:30:40+00:00"
-    },
-    {
-      "h": "Meta dips 3% despite earnings beat; capex outlook narrowed amid AI spending surge",
-      "es": "Meta cae un 3% a pesar de superar las ganancias; Las perspectivas de gasto de capital se redujeron en medio del aumento del gasto en IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-beats-q3-estimates-approves-new-nonvoting-share-class-as-ai-spending-surges-4963949",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
-      "published": "2026-10-22T11:30:23+00:00"
-    },
-    {
-      "h": "Why is TTM Technologies stock sliding today?",
-      "es": "¿Por qué las acciones de TTM Technologies están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4965637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-22T11:29:46+00:00"
-    },
-    {
-      "h": "J.P. Morgan backs Benelux insurers on valuation discount, shareholder returns",
-      "es": "J.P. Morgan respalda a las aseguradoras del Benelux con descuentos de valoración y rentabilidad para los accionistas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jp-morgan-backs-benelux-insurers-on-valuation-discount-shareholder-returns-4965635",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-22T11:27:46+00:00"
-    },
-    {
-      "h": "Spotify forecasts fourth-quarter profit above estimates on AI bets",
-      "es": "Spotify pronostica ganancias en el cuarto trimestre por encima de las estimaciones en apuestas de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spotify-forecasts-fourthquarter-profit-above-estimates-on-ai-bets-4965232",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0X0_L.jpg",
-      "published": "2026-10-22T11:24:57+00:00"
-    },
-    {
-      "h": "Why is Snap-on stock tumbling today?",
-      "es": "¿Por qué están cayendo las acciones de Snap-on hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-snapon-stock-tumbling-today-93CH-4965617",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB27088_M.jpg",
-      "published": "2026-10-22T11:24:40+00:00"
-    },
-    {
-      "h": "Factbox-Governments, companies take websites offline over PHP flaws",
-      "es": "Factbox-Gobiernos y empresas desconectan sitios web por fallas de PHP",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1J6_L.jpg",
-      "published": "2026-10-22T11:24:32+00:00"
-    },
-    {
-      "h": "Why is Biohaven stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Biohaven hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-biohaven-stock-surging-today-93CH-4965603",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-22T11:23:22+00:00"
-    },
-    {
-      "h": "Premarket movers: Tesla, IBM slide; Meta earnings fail to lift sentiment",
-      "es": "Motores previos a la comercialización: caída de Tesla e IBM; Los metabeneficios no logran mejorar el sentimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-tesla-ibm-slide-meta-earnings-fail-to-lift-sentiment-4965382",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-22T11:21:35+00:00"
-    },
-    {
-      "h": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
-      "es": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
-      "d": "Francia enfrenta una creciente crisis económica que elevó el jueves el rendimiento de sus bonos gubernamentales a 10 años a un nuevo máximo en 24 años.",
-      "u": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T11:21:02+00:00"
-    },
-    {
-      "h": "What is PHP and why did it spark a global cyber-security scramble?",
-      "es": "¿Qué es PHP y por qué desató una lucha global por la ciberseguridad?",
-      "d": "La IA descubrió fallas de programación ocultas durante mucho tiempo, lo que desencadenó una rara respuesta global de ciberseguridad.",
-      "u": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-10-22T11:15:58+00:00"
     }
   ],
   "sources": [
