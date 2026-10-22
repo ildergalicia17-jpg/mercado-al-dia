@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-22T11:47:41.372752+00:00",
+  "updated": "2026-10-22T12:19:45.690511+00:00",
   "news": [
+    {
+      "h": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
+      "es": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-could-join-the-nasdaq-100-if-it-expands-its-adr-float-goldman-4965914",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3S0OL_M.jpg",
+      "published": "2026-10-22T12:13:16+00:00"
+    },
+    {
+      "h": "Meta falls as investors balance Muse growth with rising AI costs",
+      "es": "Meta falls as investors balance Muse growth with rising AI costs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L18F_L.jpg",
+      "published": "2026-10-22T12:12:38+00:00"
+    },
+    {
+      "h": "Why is Arbutus Biopharma stock climbing today?",
+      "es": "Why is Arbutus Biopharma stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-arbutus-biopharma-stock-climbing-today-93CH-4965860",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-22T12:06:49+00:00"
+    },
+    {
+      "h": "California's Proposition 40: What voters need to know about the billionaire wealth tax",
+      "es": "California's Proposition 40: What voters need to know about the billionaire wealth tax",
+      "d": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
+      "u": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:05:42+00:00"
+    },
+    {
+      "h": "IBM’s stock falls as investors struggle to shake off July earnings miss",
+      "es": "IBM’s stock falls as investors struggle to shake off July earnings miss",
+      "d": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
+      "u": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-92733600",
+      "published": "2026-10-22T12:04:00+00:00"
+    },
+    {
+      "h": "Why is Sonoco Products stock tumbling today?",
+      "es": "Why is Sonoco Products stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sonoco-products-stock-tumbling-today-93CH-4965812",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-22T12:02:04+00:00"
+    },
+    {
+      "h": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+      "es": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+      "d": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
+      "u": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:00:02+00:00"
+    },
+    {
+      "h": "Why governments pulled websites offline over a decades-old programming language",
+      "es": "Why governments pulled websites offline over a decades-old programming language",
+      "d": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+      "u": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T12:00:02+00:00"
+    },
+    {
+      "h": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
+      "es": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
+      "d": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "u": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-51837852",
+      "published": "2026-10-22T11:57:00+00:00"
+    },
+    {
+      "h": "Factbox-Companies cutting jobs as investments shift toward AI",
+      "es": "Factbox-Companies cutting jobs as investments shift toward AI",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxcompanies-cutting-jobs-as-investments-shift-toward-ai-4965744",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9B1NY_L.jpg",
+      "published": "2026-10-22T11:55:26+00:00"
+    },
+    {
+      "h": "US railroad operator Union Pacific’s quarterly profit rises",
+      "es": "US railroad operator Union Pacific’s quarterly profit rises",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-railroad-operator-union-pacifics-quarterly-profit-rises-4965779",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L170_L.jpg",
+      "published": "2026-10-22T11:55:07+00:00"
+    },
+    {
+      "h": "Why is American Airlines stock sliding today?",
+      "es": "Why is American Airlines stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-american-airlines-stock-sliding-today-93CH-4965765",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3N0GT_M.jpg",
+      "published": "2026-10-22T11:54:15+00:00"
+    },
+    {
+      "h": "Could French banks face fresh earnings pressure from a Livret A rate hike?",
+      "es": "Could French banks face fresh earnings pressure from a Livret A rate hike?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/could-french-banks-face-fresh-earnings-pressure-from-a-livret-a-rate-hike-4965763",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3Q0HO_1200_L.jpg",
+      "published": "2026-10-22T11:53:08+00:00"
+    },
+    {
+      "h": "BMO lifts Block to Outperform, sees multiple rerating catalysts ahead",
+      "es": "BMO lifts Block to Outperform, sees multiple rerating catalysts ahead",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bmo-lifts-block-to-outperform-sees-multiple-rerating-catalysts-ahead-4965740",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL410N2_L.jpg",
+      "published": "2026-10-22T11:47:13+00:00"
+    },
     {
       "h": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
       "es": "American Airlines pronostica mayores pérdidas en 2026 por el aumento de combustible, planea desacelerar el crecimiento el próximo año",
@@ -27,6 +153,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T11:40:01+00:00"
+    },
+    {
+      "h": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "es": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "d": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
+      "u": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T11:38:05+00:00"
     },
     {
       "h": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
@@ -135,141 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
       "published": "2026-10-22T11:15:58+00:00"
-    },
-    {
-      "h": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-      "es": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-      "d": "David's Bridal told CNBC exclusively that it's planning to spin off its AI platform, Pearl, into a stand-alone publicly traded company.",
-      "u": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T11:00:02+00:00"
-    },
-    {
-      "h": "Pearson narrows profit guidance, reorganises into four units; shares slip",
-      "es": "Pearson narrows profit guidance, reorganises into four units; shares slip",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/pearson-shares-fall-3-as-profit-outlook-narrows-50-mln-restructuring-looms-4965197",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED730WX_M.jpg",
-      "published": "2026-10-22T10:53:02+00:00"
-    },
-    {
-      "h": "Dow beats profit estimates on higher polyethylene prices, cost cuts",
-      "es": "Dow beats profit estimates on higher polyethylene prices, cost cuts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chemicals-maker-dow-beats-thirdquarter-profit-estimates-4965314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0ZU_L.jpg",
-      "published": "2026-10-22T10:44:51+00:00"
-    },
-    {
-      "h": "Lockheed lifts annual forecast as missile, jet production ramps up",
-      "es": "Lockheed lifts annual forecast as missile, jet production ramps up",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lockheed-lifts-annual-forecast-as-missile-jet-production-ramps-up-4965313",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0ZT_L.jpg",
-      "published": "2026-10-22T10:44:35+00:00"
-    },
-    {
-      "h": "Axel Springer open to role in any potential European TikTok deal, spokesperson says",
-      "es": "Axel Springer open to role in any potential European TikTok deal, spokesperson says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/axel-springer-open-to-role-in-any-potential-european-tiktok-deal-spokesperson-says-4965380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L114_L.jpg",
-      "published": "2026-10-22T10:44:12+00:00"
-    },
-    {
-      "h": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets",
-      "es": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lockheed-pentagon-strike-initial-deal-to-produce-850-f35-jets-4965262",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0Y8_L.jpg",
-      "published": "2026-10-22T10:43:39+00:00"
-    },
-    {
-      "h": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
-      "es": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
-      "d": "Suspension of Starlink service in Ukraine reinforces the uniquely elevated business risk of dealing with Musk as competitors circle.",
-      "u": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T10:43:38+00:00"
-    },
-    {
-      "h": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
-      "es": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysismusks-political-baggage-clouds-prospects-for-spacextesla-deal-4965229",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0WR_L.jpg",
-      "published": "2026-10-22T10:43:13+00:00"
-    },
-    {
-      "h": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "es": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "d": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-      "u": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T10:42:21+00:00"
-    },
-    {
-      "h": "Citi downgrades Motiva stock rating on valuation after election rally",
-      "es": "Citi downgrades Motiva stock rating on valuation after election rally",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-downgrades-motiva-stock-rating-on-valuation-after-election-rally-93CH-4965361",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-22T10:40:16+00:00"
-    },
-    {
-      "h": "European stocks buckle under French yields, mixed earnings",
-      "es": "European stocks buckle under French yields, mixed earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "published": "2026-10-22T10:38:42+00:00"
-    },
-    {
-      "h": "Meta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say",
-      "es": "Meta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-has-strong-chance-of-getting-25-billion-new-mexico-penalty-slashed-on-appeal-experts-say-4965230",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0WJ_L.jpg",
-      "published": "2026-10-22T10:31:59+00:00"
-    },
-    {
-      "h": "Why is Gentherm stock sliding today?",
-      "es": "Why is Gentherm stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-gentherm-stock-sliding-today-93CH-4965339",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-22T10:31:45+00:00"
-    },
-    {
-      "h": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-      "es": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-      "d": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
-      "u": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T10:31:24+00:00"
-    },
-    {
-      "h": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
-      "es": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
-      "d": "A new bipartisan bill aims to speed rare disease drug development by making clinical trials faster, cheaper and more accessible to patients.",
-      "u": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T10:30:01+00:00"
     }
   ],
   "sources": [
