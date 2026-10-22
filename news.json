@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-22T18:08:24.253850+00:00",
+  "updated": "2026-10-22T18:47:27.903889+00:00",
   "news": [
+    {
+      "h": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "es": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "d": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+      "u": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T18:43:32+00:00"
+    },
+    {
+      "h": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
+      "es": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
+      "d": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+      "u": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T18:41:00+00:00"
+    },
+    {
+      "h": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "es": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "d": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+      "u": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T18:37:18+00:00"
+    },
+    {
+      "h": "Why is Howmet Aerospace stock tumbling today?",
+      "es": "Why is Howmet Aerospace stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-howmet-aerospace-stock-tumbling-today-93CH-4967185",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-22T18:35:39+00:00"
+    },
+    {
+      "h": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "es": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "d": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "u": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+      "published": "2026-10-22T18:26:56+00:00"
+    },
+    {
+      "h": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+      "es": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T18:23:05+00:00"
+    },
+    {
+      "h": "Why is JetBlue Airways stock sliding today?",
+      "es": "Why is JetBlue Airways stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-sliding-today-93CH-4967168",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6A0CU_M.jpg",
+      "published": "2026-10-22T18:15:07+00:00"
+    },
+    {
+      "h": "AI debt and French bonds face a stress test — why it may not be over",
+      "es": "AI debt and French bonds face a stress test — why it may not be over",
+      "d": "Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.",
+      "u": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T18:13:37+00:00"
+    },
+    {
+      "h": "US blocks two devices with Chinese-made surveillance chips",
+      "es": "US blocks two devices with Chinese-made surveillance chips",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-blocks-two-devices-with-chinesemade-surveillance-chips-4967157",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1RL_L.jpg",
+      "published": "2026-10-22T18:06:42+00:00"
+    },
+    {
+      "h": "AMD, Marvell among market cap stock movers on Thursday",
+      "es": "AMD, Marvell among market cap stock movers on Thursday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amd-marvell-among-market-cap-stock-movers-on-thursday-93CH-4967156",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3F137_M.jpg",
+      "published": "2026-10-22T18:06:02+00:00"
+    },
     {
       "h": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
       "es": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
@@ -9,6 +99,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-76278545",
       "published": "2026-10-22T18:03:00+00:00"
+    },
+    {
+      "h": "PMI data and consumer sentiment among economic releases due Friday",
+      "es": "PMI data and consumer sentiment among economic releases due Friday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pmi-data-and-consumer-sentiment-among-economic-releases-due-friday-93CH-4967147",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-22T18:00:37+00:00"
     },
     {
       "h": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
@@ -20,6 +119,24 @@
       "published": "2026-10-22T18:00:29+00:00"
     },
     {
+      "h": "Paraguay’s central bank under pressure over politically connected lender",
+      "es": "Paraguay’s central bank under pressure over politically connected lender",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/paraguays-central-bank-under-pressure-over-politically-connected-lender-4967146",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0WG_L.jpg",
+      "published": "2026-10-22T18:00:27+00:00"
+    },
+    {
+      "h": "ICEYE and Nokia sign letter of intent with Ukraine ministry",
+      "es": "ICEYE and Nokia sign letter of intent with Ukraine ministry",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/iceye-and-nokia-sign-letter-of-intent-with-ukraine-ministry-93CH-4967138",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB2105P_M.jpg",
+      "published": "2026-10-22T17:57:26+00:00"
+    },
+    {
       "h": "Why is Merck stock sliding today?",
       "es": "Why is Merck stock sliding today?",
       "d": "",
@@ -27,6 +144,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
       "published": "2026-10-22T17:55:34+00:00"
+    },
+    {
+      "h": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "es": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiverhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising-4967008",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1O5_L.jpg",
+      "published": "2026-10-22T17:54:52+00:00"
     },
     {
       "h": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast",
@@ -63,6 +189,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1LT_L.jpg",
       "published": "2026-10-22T17:42:27+00:00"
+    },
+    {
+      "h": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "es": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "d": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+      "u": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T17:39:03+00:00"
     },
     {
       "h": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
@@ -135,141 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-15467377",
       "published": "2026-10-22T17:21:00+00:00"
-    },
-    {
-      "h": "Moderna shares plunge on apparent cancer vaccine data leak",
-      "es": "Moderna shares plunge on apparent cancer vaccine data leak",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/moderna-shares-plunge-on-apparent-cancer-vaccine-data-leak-4967091",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1597823733.jpg",
-      "published": "2026-10-22T17:20:20+00:00"
-    },
-    {
-      "h": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "es": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "d": "\"We're going to have an amazing 2027,\" he said.",
-      "u": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T17:04:12+00:00"
-    },
-    {
-      "h": "Elon Musk reportedly invests about $1 billion in Skydance",
-      "es": "Elon Musk reportedly invests about $1 billion in Skydance",
-      "d": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T17:03:06+00:00"
-    },
-    {
-      "h": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "es": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "d": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
-      "u": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T17:01:08+00:00"
-    },
-    {
-      "h": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "es": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
-      "d": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:59:00+00:00"
-    },
-    {
-      "h": "Honeywell earnings analysis: questions answered and next catalysts",
-      "es": "Honeywell earnings analysis: questions answered and next catalysts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/honeywell-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967065",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED99191_M.jpg",
-      "published": "2026-10-22T16:56:23+00:00"
-    },
-    {
-      "h": "Spotify earnings analysis: questions answered and next catalysts",
-      "es": "Spotify earnings analysis: questions answered and next catalysts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spotify-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967064",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE6P0YU_M.jpg",
-      "published": "2026-10-22T16:55:49+00:00"
-    },
-    {
-      "h": "Comcast earnings analysis: questions answered and next catalysts",
-      "es": "Comcast earnings analysis: questions answered and next catalysts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/comcast-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967062",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB3G0UP_M.jpg",
-      "published": "2026-10-22T16:54:42+00:00"
-    },
-    {
-      "h": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "es": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "d": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:54:26+00:00"
-    },
-    {
-      "h": "Procter & Gamble earnings analysis: questions answered and next catalysts",
-      "es": "Procter & Gamble earnings analysis: questions answered and next catalysts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/procter--gamble-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967061",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED1E11Z_M.jpg",
-      "published": "2026-10-22T16:54:06+00:00"
-    },
-    {
-      "h": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-      "es": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-      "d": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T16:49:56+00:00"
-    },
-    {
-      "h": "SAP earnings analysis: questions answered and next catalysts",
-      "es": "SAP earnings analysis: questions answered and next catalysts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sap-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967050",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC6J0BT_M.jpg",
-      "published": "2026-10-22T16:48:55+00:00"
-    },
-    {
-      "h": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
-      "es": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
-      "published": "2026-10-22T16:48:41+00:00"
-    },
-    {
-      "h": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-      "es": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-      "d": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-      "u": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25886732",
-      "published": "2026-10-22T16:48:00+00:00"
-    },
-    {
-      "h": "Zuckerberg’s California tax move is a win for Meta — and for him",
-      "es": "Zuckerberg’s California tax move is a win for Meta — and for him",
-      "d": "He has bought some good PR and gets to live and work where he wants.",
-      "u": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21638670",
-      "published": "2026-10-22T16:48:00+00:00"
     }
   ],
   "sources": [
