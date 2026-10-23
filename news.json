@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-23T00:10:55.536014+00:00",
+  "updated": "2026-10-23T01:00:56.941077+00:00",
   "news": [
+    {
+      "h": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "es": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "d": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
+      "u": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T00:53:36+00:00"
+    },
+    {
+      "h": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+      "es": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+      "d": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+      "u": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T00:46:09+00:00"
+    },
+    {
+      "h": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor",
+      "es": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M018_L.jpg",
+      "published": "2026-10-23T00:42:24+00:00"
+    },
+    {
+      "h": "U.S. stock futures steady after Nasdaq posts worst day since June",
+      "es": "U.S. stock futures steady after Nasdaq posts worst day since June",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE2R1CK_M.jpg",
+      "published": "2026-10-23T00:23:50+00:00"
+    },
     {
       "h": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
       "es": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T21:52:02+00:00"
-    },
-    {
-      "h": "SpaceX in talks for 80,000 cell sites to build nationwide wireless network -report",
-      "es": "SpaceX in talks for 80,000 cell sites to build nationwide wireless network -report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacex-in-talks-for-80000-cell-sites-to-build-nationwide-wireless-network-report-4967701",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L0RX_L.jpg",
-      "published": "2026-10-22T21:50:51+00:00"
-    },
-    {
-      "h": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
-      "es": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L21R_L.jpg",
-      "published": "2026-10-22T21:48:43+00:00"
-    },
-    {
-      "h": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
-      "es": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
-      "d": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
-      "u": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-46225712",
-      "published": "2026-10-22T21:32:00+00:00"
-    },
-    {
-      "h": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.51%",
-      "es": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.51%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-051-4967645",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg",
-      "published": "2026-10-22T21:30:03+00:00"
     }
   ],
   "sources": [
