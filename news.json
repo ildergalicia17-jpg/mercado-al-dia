@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-23T16:40:49.913646+00:00",
+  "updated": "2026-10-23T17:16:54.429612+00:00",
   "news": [
+    {
+      "h": "FCC grants Intel waiver to use existing foreign-made robotic devices",
+      "es": "FCC grants Intel waiver to use existing foreign-made robotic devices",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1ZL_L.jpg",
+      "published": "2026-10-23T17:06:25+00:00"
+    },
+    {
+      "h": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "es": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "d": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+      "u": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:04:14+00:00"
+    },
+    {
+      "h": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "es": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "d": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+      "u": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:04:10+00:00"
+    },
+    {
+      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "es": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "d": "”I earn $110,000 a year.”",
+      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-81504476",
+      "published": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "h": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "es": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "d": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+      "u": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T16:55:37+00:00"
+    },
+    {
+      "h": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "es": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "d": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+      "u": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T16:51:21+00:00"
+    },
+    {
+      "h": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
+      "es": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stoxx-600-extends-fall-as-kering-slumps-oil-climbs-4968205",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0I3_L.jpg",
+      "published": "2026-10-23T16:48:37+00:00"
+    },
+    {
+      "h": "US telecom operators wobble after report SpaceX in talks for cell sites",
+      "es": "US telecom operators wobble after report SpaceX in talks for cell sites",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-telecom-operators-wobble-after-report-spacex-in-talks-for-cell-sites-4970138",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1KX_L.jpg",
+      "published": "2026-10-23T16:43:32+00:00"
+    },
+    {
+      "h": "US fines Air France, KLM over flights in prohibited Iraqi airspace",
+      "es": "US fines Air France, KLM over flights in prohibited Iraqi airspace",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-fines-air-france-klm-over-flights-in-prohibited-iraqi-airspace-4970137",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1LA_L.jpg",
+      "published": "2026-10-23T16:42:44+00:00"
+    },
+    {
+      "h": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "es": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "d": "Store aisles are getting a digital makeover.",
+      "u": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37834610",
+      "published": "2026-10-23T16:41:00+00:00"
+    },
+    {
+      "h": "Lycia Therapeutics surges in debut following upsized $317.5M IPO",
+      "es": "Lycia Therapeutics surges in debut following upsized $317.5M IPO",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lycia-therapeutics-surges-in-debut-following-upsized-3175m-ipo-4970135",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg",
+      "published": "2026-10-23T16:33:47+00:00"
+    },
+    {
+      "h": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "es": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "d": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+      "u": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T16:32:44+00:00"
+    },
+    {
+      "h": "FTSE 100: Stocks extend fall, set to snap 2-week gain on retail slump, oil",
+      "es": "FTSE 100: Stocks extend fall, set to snap 2-week gain on retail slump, oil",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-retail-sales-miss-oil-hits-fivemonth-high-4968213",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
+      "published": "2026-10-23T16:32:38+00:00"
+    },
+    {
+      "h": "First Quantum readies Argentina tax-break plans for $5.3 billion Taca Taca copper project",
+      "es": "First Quantum readies Argentina tax-break plans for $5.3 billion Taca Taca copper project",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/first-quantum-readies-argentina-taxbreak-plans-for-53-billion-taca-taca-copper-project-4970134",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1JF_L.jpg",
+      "published": "2026-10-23T16:31:47+00:00"
+    },
+    {
+      "h": "Why is Palo Alto Networks stock surging today?",
+      "es": "Why is Palo Alto Networks stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-surging-today-93CH-4970133",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL510X7_L.jpg",
+      "published": "2026-10-23T16:31:16+00:00"
+    },
+    {
+      "h": "Nasdaq ticks up as tech stocks steady; SpaceX worries hit telecoms",
+      "es": "Nasdaq ticks up as tech stocks steady; SpaceX worries hit telecoms",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0WN_L.jpg",
+      "published": "2026-10-23T16:31:06+00:00"
+    },
+    {
+      "h": "Why is Check Point Software stock rallying today?",
+      "es": "Why is Check Point Software stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-check-point-software-stock-rallying-today-93CH-4970130",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEA9M0NO_M.jpg",
+      "published": "2026-10-23T16:29:41+00:00"
+    },
     {
       "h": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
       "es": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED4M0K0_M.jpg",
       "published": "2026-10-23T16:08:50+00:00"
-    },
-    {
-      "h": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-      "es": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-      "d": "College students are spending less time socializing, which has implications for later in life and the workplace.",
-      "u": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T16:06:46+00:00"
-    },
-    {
-      "h": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "es": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "d": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
-      "u": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-45881566",
-      "published": "2026-10-23T15:56:00+00:00"
-    },
-    {
-      "h": "We're exiting our position in this chipmaker and right-sizing another winner",
-      "es": "We're exiting our position in this chipmaker and right-sizing another winner",
-      "d": "We're making two trades in Friday's tough broader market.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/23/were-exiting-our-position-in-this-chipmaker-and-right-sizing-another-winner.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T15:48:07+00:00"
-    },
-    {
-      "h": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
-      "es": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/micron-sandisk-gain-as-sk-hynix-scraps-solidigm-ipo-lynx-says-4970053",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5O0TY_L.jpg",
-      "published": "2026-10-23T15:43:09+00:00"
-    },
-    {
-      "h": "Why is WhiteHorse Finance stock slipping today?",
-      "es": "Why is WhiteHorse Finance stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-whitehorse-finance-stock-slipping-today-93CH-4970052",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-23T15:41:48+00:00"
-    },
-    {
-      "h": "The little-known investment Martin Lewis wants you to understand...",
-      "es": "The little-known investment Martin Lewis wants you to understand...",
-      "d": "The little-known investment Martin Lewis wants you to understand",
-      "u": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723e/live/4b75a380-ced6-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-23T15:41:28+00:00"
-    },
-    {
-      "h": "Volvo Cars plunges 24% as CEO says China sales slump came 'faster than we thought'",
-      "es": "Volvo Cars plunges 24% as CEO says China sales slump came 'faster than we thought'",
-      "d": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-      "u": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-23T15:40:54+00:00"
-    },
-    {
-      "h": "Wells Fargo Names Top Pick Ahead of Q3 Earnings",
-      "es": "Wells Fargo Names Top Pick Ahead of Q3 Earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
-      "published": "2026-10-23T15:39:59+00:00"
-    },
-    {
-      "h": "Truist names top clean energy stocks to watch ahead of Q3 earnings season",
-      "es": "Truist names top clean energy stocks to watch ahead of Q3 earnings season",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1O0TY_L.jpg",
-      "published": "2026-10-23T15:39:19+00:00"
-    },
-    {
-      "h": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
-      "es": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
-      "d": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
-      "u": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T15:35:36+00:00"
-    },
-    {
-      "h": "Poland stocks lower at close of trade; WIG30 down 0.59%",
-      "es": "Poland stocks lower at close of trade; WIG30 down 0.59%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-059-4970043",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
-      "published": "2026-10-23T15:35:03+00:00"
-    },
-    {
-      "h": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "es": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "d": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
-      "u": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T15:33:47+00:00"
-    },
-    {
-      "h": "Explainer-What is going on with SpaceX’s Starlink and Starshield in Ukraine?",
-      "es": "Explainer-What is going on with SpaceX’s Starlink and Starshield in Ukraine?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerwhat-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine-4970042",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9D200_L.jpg",
-      "published": "2026-10-23T15:31:21+00:00"
-    },
-    {
-      "h": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "es": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "d": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-      "u": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78876477",
-      "published": "2026-10-23T15:31:00+00:00"
-    },
-    {
-      "h": "Turkey stocks lower at close of trade; BIST 100 down 0.92%",
-      "es": "Turkey stocks lower at close of trade; BIST 100 down 0.92%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-092-4970040",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/IstanbulStockExchange_800x533_L_1710858570.jpg",
-      "published": "2026-10-23T15:30:32+00:00"
-    },
-    {
-      "h": "SLB signals stronger 2027 on Middle East rebound, beats estimates",
-      "es": "SLB signals stronger 2027 on Middle East rebound, beats estimates",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-oilfield-services-firm-slb-beats-quarterly-profit-estimates-4969103",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0XC_L.jpg",
-      "published": "2026-10-23T15:30:31+00:00"
-    },
-    {
-      "h": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.91%",
-      "es": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.91%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-091-4970038",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL3A10R_L.jpg",
-      "published": "2026-10-23T15:30:04+00:00"
     }
   ],
   "sources": [
