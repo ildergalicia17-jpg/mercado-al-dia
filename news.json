@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-23T05:12:58.520668+00:00",
+  "updated": "2026-10-23T05:48:22.798741+00:00",
   "news": [
+    {
+      "h": "Renting in London - 'I pay £2,000 for one bedroom'",
+      "es": "Renting in London - 'I pay £2,000 for one bedroom'",
+      "d": "We ask people in the capital how much they pay for their homes.",
+      "u": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a2e/live/4cb6a370-b676-11f1-a430-4d16ee157c41.jpg",
+      "published": "2026-10-23T05:45:54+00:00"
+    },
+    {
+      "h": "'I live in the dark': How rising bills are shaping daily life",
+      "es": "'I live in the dark': How rising bills are shaping daily life",
+      "d": "Errol McGuiness says he has changed his daily routine to cope with higher household bills.",
+      "u": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7d/live/f4c36480-cd5b-11f1-b962-b7ff822cde72.jpg",
+      "published": "2026-10-23T05:35:35+00:00"
+    },
+    {
+      "h": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.02%",
+      "es": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.02%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4968037",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7A004_M.jpg",
+      "published": "2026-10-23T05:30:04+00:00"
+    },
+    {
+      "h": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
+      "es": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws-4968036",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1CP_L.jpg",
+      "published": "2026-10-23T05:24:36+00:00"
+    },
+    {
+      "h": "Samsung begins investing in additional capacity at Texas chip plant- report",
+      "es": "Samsung begins investing in additional capacity at Texas chip plant- report",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/samsung-begins-investing-in-additional-capacity-at-texas-chip-plant-report-93CH-4968031",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-23T05:13:11+00:00"
+    },
+    {
+      "h": "Oppenheimer names top SMID software stocks ahead of Q3 earnings",
+      "es": "Oppenheimer names top SMID software stocks ahead of Q3 earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oppenheimer-names-top-smid-software-stocks-ahead-of-q3-earnings-4968030",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK34089_L.jpg",
+      "published": "2026-10-23T05:12:56+00:00"
+    },
+    {
+      "h": "Trump-Kim meeting seen unlikely this year by U.S. officials, Reuters reports",
+      "es": "Trump-Kim meeting seen unlikely this year by U.S. officials, Reuters reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trumpkim-meeting-seen-unlikely-this-year-by-us-officials-reuters-reports-93CH-4968029",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-23T05:08:32+00:00"
+    },
+    {
+      "h": "Why is Pony AI HK stock climbing today?",
+      "es": "Why is Pony AI HK stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pony-ai-hk-stock-climbing-today-93CH-4968028",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-23T05:08:24+00:00"
+    },
+    {
+      "h": "Why is MiniMax stock rising today?",
+      "es": "Why is MiniMax stock rising today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-rising-today-93CH-4968027",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-23T05:08:14+00:00"
+    },
     {
       "h": "Trump touts $270 mln Bombardier investment after threatening U.S. sales ban",
       "es": "Trump touts $270 mln Bombardier investment after threatening U.S. sales ban",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M01Q_L.jpg",
       "published": "2026-10-23T01:00:23+00:00"
-    },
-    {
-      "h": "Why is SK Hynix stock sliding today?",
-      "es": "Why is SK Hynix stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-23T00:56:16+00:00"
-    },
-    {
-      "h": "Why is Samsung Electronics stock declining today?",
-      "es": "Why is Samsung Electronics stock declining today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-declining-today-93CH-4967897",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-23T00:56:12+00:00"
-    },
-    {
-      "h": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-      "es": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-      "d": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
-      "u": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T00:53:36+00:00"
-    },
-    {
-      "h": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-      "es": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-      "d": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
-      "u": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T00:46:09+00:00"
-    },
-    {
-      "h": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor",
-      "es": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M018_L.jpg",
-      "published": "2026-10-23T00:42:24+00:00"
-    },
-    {
-      "h": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
-      "es": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L21R_L.jpg",
-      "published": "2026-10-23T00:37:22+00:00"
-    },
-    {
-      "h": "U.S. stock futures steady after Nasdaq posts worst day since June",
-      "es": "U.S. stock futures steady after Nasdaq posts worst day since June",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE2R1CK_M.jpg",
-      "published": "2026-10-23T00:23:50+00:00"
-    },
-    {
-      "h": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-      "es": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
-      "published": "2026-10-23T00:00:46+00:00"
-    },
-    {
-      "h": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-      "es": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-      "d": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.",
-      "u": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T23:45:50+00:00"
     }
   ],
   "sources": [
