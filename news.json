@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-23T17:16:54.429612+00:00",
+  "updated": "2026-10-23T17:52:05.624021+00:00",
   "news": [
+    {
+      "h": "Why is Accenture stock sliding today?",
+      "es": "Why is Accenture stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4970187",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI5M0F3_L.jpg",
+      "published": "2026-10-23T17:42:38+00:00"
+    },
+    {
+      "h": "Investors are starting to find opportunities in the battered bond market",
+      "es": "Investors are starting to find opportunities in the battered bond market",
+      "d": "Some market participants see reason for hope in a market bludgeoned this year.",
+      "u": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:40:31+00:00"
+    },
+    {
+      "h": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "es": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "d": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into government bonds.",
+      "u": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:26:23+00:00"
+    },
+    {
+      "h": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "es": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "d": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+      "u": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:26:12+00:00"
+    },
+    {
+      "h": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "es": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "d": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquified natural gas exporters.",
+      "u": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:25:29+00:00"
+    },
+    {
+      "h": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "es": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "d": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+      "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T17:21:10+00:00"
+    },
+    {
+      "h": "BP, Louisiana agree to resolve Deepwater Horizon disputes",
+      "es": "BP, Louisiana agree to resolve Deepwater Horizon disputes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bp-louisiana-agree-to-resolve-deepwater-horizon-disputes-4970169",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1LX_L.jpg",
+      "published": "2026-10-23T17:12:55+00:00"
+    },
+    {
+      "h": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts",
+      "es": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-stocks-dip-on-tech-earnings-and-macro-shifts-93CH-4970167",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3A0VW_M.jpg",
+      "published": "2026-10-23T17:11:27+00:00"
+    },
     {
       "h": "FCC grants Intel waiver to use existing foreign-made robotic devices",
       "es": "FCC grants Intel waiver to use existing foreign-made robotic devices",
@@ -63,6 +135,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0I3_L.jpg",
       "published": "2026-10-23T16:48:37+00:00"
+    },
+    {
+      "h": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+      "es": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+      "d": "College students are spending less time socializing, which has implications for later in life and the workplace.",
+      "u": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T16:44:35+00:00"
     },
     {
       "h": "US telecom operators wobble after report SpaceX in talks for cell sites",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
       "published": "2026-10-23T16:21:23+00:00"
-    },
-    {
-      "h": "European shares close lower as French fiscal turmoil drives weekly loss",
-      "es": "European shares close lower as French fiscal turmoil drives weekly loss",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-french-fiscal-turmoil-drives-weekly-loss-4968153",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "published": "2026-10-23T16:19:46+00:00"
-    },
-    {
-      "h": "Why is Genmab stock surging today?",
-      "es": "Why is Genmab stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-genmab-stock-surging-today-93CH-4970120",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-23T16:18:43+00:00"
-    },
-    {
-      "h": "Wall Street mixed as Nasdaq rebounds, Dow slides on oil price surge",
-      "es": "Wall Street mixed as Nasdaq rebounds, Dow slides on oil price surge",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-23T16:16:55+00:00"
-    },
-    {
-      "h": "What we want to see when this data center stock reports earnings next week",
-      "es": "What we want to see when this data center stock reports earnings next week",
-      "d": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T16:15:59+00:00"
-    },
-    {
-      "h": "Genmab stock surges 9% following positive phase 3 ovarian cancer trial results",
-      "es": "Genmab stock surges 9% following positive phase 3 ovarian cancer trial results",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/genmab-stock-surges-9-following-positive-phase-3-ovarian-cancer-trial-results-4970113",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
-      "published": "2026-10-23T16:14:34+00:00"
-    },
-    {
-      "h": "GM stock analysis: cheap valuation meets falling estimates after earnings drop",
-      "es": "GM stock analysis: cheap valuation meets falling estimates after earnings drop",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gm-stock-analysis-cheap-valuation-meets-falling-estimates-after-earnings-drop-93CH-4970119",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM2O07Q_1200_L.jpg",
-      "published": "2026-10-23T16:14:20+00:00"
-    },
-    {
-      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.39%",
-      "es": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.39%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-039-4970108",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB790CI_M.jpg",
-      "published": "2026-10-23T16:09:45+00:00"
-    },
-    {
-      "h": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
-      "es": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-041-4970107",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBA00PL_M.jpg",
-      "published": "2026-10-23T16:09:16+00:00"
-    },
-    {
-      "h": "Spain stocks higher at close of trade; IBEX 35 up 0.40%",
-      "es": "Spain stocks higher at close of trade; IBEX 35 up 0.40%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-040-4970105",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED4M0K0_M.jpg",
-      "published": "2026-10-23T16:08:50+00:00"
     }
   ],
   "sources": [
