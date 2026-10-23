@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-23T22:52:21.286631+00:00",
+  "updated": "2026-10-23T23:16:57.714896+00:00",
   "news": [
+    {
+      "h": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "es": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "d": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "u": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+      "published": "2026-10-23T22:54:57+00:00"
+    },
+    {
+      "h": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+      "es": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1XS_L.jpg",
+      "published": "2026-10-23T22:54:20+00:00"
+    },
     {
       "h": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
       "es": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
@@ -9,6 +27,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T22:49:42+00:00"
+    },
+    {
+      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27247005",
+      "published": "2026-10-23T22:49:00+00:00"
     },
     {
       "h": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-33553242",
       "published": "2026-10-23T20:19:00+00:00"
-    },
-    {
-      "h": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "es": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "d": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-      "u": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04330857",
-      "published": "2026-10-23T20:19:00+00:00"
-    },
-    {
-      "h": "Instacart in talks for sale, The Information reports",
-      "es": "Instacart in talks for sale, The Information reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/instacart-in-talks-for-sale-the-information-reports-4970302",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TB_L.jpg",
-      "published": "2026-10-23T20:18:22+00:00"
-    },
-    {
-      "h": "Earnings review: AI-driven names rewarded as guidance trumps beats",
-      "es": "Earnings review: AI-driven names rewarded as guidance trumps beats",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/earnings-review-aidriven-names-rewarded-as-guidance-trumps-beats-93CH-4970313",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-23T20:16:19+00:00"
     }
   ],
   "sources": [
