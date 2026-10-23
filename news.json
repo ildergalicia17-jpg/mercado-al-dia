@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-23T01:00:56.941077+00:00",
+  "updated": "2026-10-23T01:41:29.805546+00:00",
   "news": [
+    {
+      "h": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+      "es": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+      "d": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+      "u": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T01:23:12+00:00"
+    },
+    {
+      "h": "Nikkei 225 deeply oversold at 62,287 after breakdown: Live levels",
+      "es": "Nikkei 225 deeply oversold at 62,287 after breakdown: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-23T01:05:29+00:00"
+    },
+    {
+      "h": "SK Hynix bounces from oversold low amid bearish trend: Live levels",
+      "es": "SK Hynix bounces from oversold low amid bearish trend: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-23T01:05:29+00:00"
+    },
+    {
+      "h": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "es": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hd-hyundai-to-build-us-shipyard-with-kiewit-create-3000-jobs-4967906",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M01Q_L.jpg",
+      "published": "2026-10-23T01:00:23+00:00"
+    },
+    {
+      "h": "Why is SK Hynix stock sliding today?",
+      "es": "Why is SK Hynix stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4967898",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-23T00:56:16+00:00"
+    },
+    {
+      "h": "Why is Samsung Electronics stock declining today?",
+      "es": "Why is Samsung Electronics stock declining today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-declining-today-93CH-4967897",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-23T00:56:12+00:00"
+    },
     {
       "h": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
       "es": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
@@ -27,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M018_L.jpg",
       "published": "2026-10-23T00:42:24+00:00"
+    },
+    {
+      "h": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
+      "es": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L21R_L.jpg",
+      "published": "2026-10-23T00:37:22+00:00"
     },
     {
       "h": "U.S. stock futures steady after Nasdaq posts worst day since June",
@@ -207,69 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L22B_L.jpg",
       "published": "2026-10-22T22:13:00+00:00"
-    },
-    {
-      "h": "Canadian oil explorer Logan Energy weighs sale options, Bloomberg reports",
-      "es": "Canadian oil explorer Logan Energy weighs sale options, Bloomberg reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canadian-oil-explorer-logan-energy-weighs-sale-options-bloomberg-reports-4967722",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg",
-      "published": "2026-10-22T22:03:15+00:00"
-    },
-    {
-      "h": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-      "es": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-      "d": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
-      "u": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T22:02:34+00:00"
-    },
-    {
-      "h": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
-      "es": "SK Hynix drops US IPO plan for Solidigm, newspaper reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L21Z_L.jpg",
-      "published": "2026-10-22T22:00:46+00:00"
-    },
-    {
-      "h": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "es": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "d": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
-      "u": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T21:58:42+00:00"
-    },
-    {
-      "h": "Huron Consulting stock rises on S&P SmallCap 600 addition",
-      "es": "Huron Consulting stock rises on S&P SmallCap 600 addition",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/huron-consulting-stock-rises-on-sp-smallcap-600-addition-4967707",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg",
-      "published": "2026-10-22T21:57:24+00:00"
-    },
-    {
-      "h": "Brazil’s Bradesco meets profit estimates despite slower credit revenue",
-      "es": "Brazil’s Bradesco meets profit estimates despite slower credit revenue",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazils-bradesco-meets-profit-estimates-despite-slower-credit-revenue-4967704",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L21T_L.jpg",
-      "published": "2026-10-22T21:54:35+00:00"
-    },
-    {
-      "h": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-      "es": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-      "d": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
-      "u": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-22T21:52:02+00:00"
     }
   ],
   "sources": [
