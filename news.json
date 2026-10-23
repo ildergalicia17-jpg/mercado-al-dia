@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-23T19:04:17.416601+00:00",
+  "updated": "2026-10-23T19:38:20.505326+00:00",
   "news": [
+    {
+      "h": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+      "es": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+      "d": "Meta shares just had their worst week in four years. Here's why Mike Khouw is buying now",
+      "u": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T19:25:18+00:00"
+    },
+    {
+      "h": "Tesla consolidates at $372 in tight range: Live levels",
+      "es": "Tesla consolidates at $372 in tight range: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-hammer-at-35475-battles-200sma-resistance-live-levels-93CH-4957922",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL901ZZ_L.jpg",
+      "published": "2026-10-23T19:17:45+00:00"
+    },
+    {
+      "h": "Alphabet C clings to $318.61 support amid oversold RSI: Live",
+      "es": "Alphabet C clings to $318.61 support amid oversold RSI: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-trapped-below-resistance-at-341-live-levels-93CH-4957926",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-23T19:17:45+00:00"
+    },
+    {
+      "h": "Dow Jones clings to 52,200 support as bears press: Live levels",
+      "es": "Dow Jones clings to 52,200 support as bears press: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dow-jones-bearish-engulfing-near-52434-resistance-live-levels-93CH-4957914",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-23T19:17:42+00:00"
+    },
+    {
+      "h": "Nasdaq 100 teeters above 29,100 support: Live levels",
+      "es": "Nasdaq 100 teeters above 29,100 support: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-23T19:17:38+00:00"
+    },
+    {
+      "h": "S&P 500 clings to 7,660 support above double top neckline: Live",
+      "es": "S&P 500 clings to 7,660 support above double top neckline: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-double-top-tests-7678-support-live-levels-93CH-4957913",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-23T19:17:36+00:00"
+    },
+    {
+      "h": "Microsoft clings to Ichimoku cloud support at $523: Live levels",
+      "es": "Microsoft clings to Ichimoku cloud support at $523: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-stalls-at-534-after-failed-breakout-live-levels-93CH-4957912",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6J0DL_M.jpg",
+      "published": "2026-10-23T19:17:33+00:00"
+    },
+    {
+      "h": "Dollar Index stuck in tight range at 101.637: Live levels",
+      "es": "Dollar Index stuck in tight range at 101.637: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dollar-index-doubletop-below-20sma-eyes-10140-live-levels-93CH-4957919",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-23T19:17:10+00:00"
+    },
+    {
+      "h": "Micron bear flag 80% complete near $849 support: Live levels",
+      "es": "Micron bear flag 80% complete near $849 support: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/micron-clings-to-910-support-in-active-downtrend-live-levels-93CH-4957911",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
+      "published": "2026-10-23T19:17:09+00:00"
+    },
+    {
+      "h": "NVIDIA tests $210 support with bearish momentum: Live levels",
+      "es": "NVIDIA tests $210 support with bearish momentum: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-stuck-below-200-sma-with-bearish-momentum-live-levels-93CH-4957916",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM791A9_1200_L.jpg",
+      "published": "2026-10-23T19:17:00+00:00"
+    },
+    {
+      "h": "SanDisk tests make-or-break $1,244 support: Live levels",
+      "es": "SanDisk tests make-or-break $1,244 support: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sandisk-tests-1346-fibonacci-support-in-fierce-downtrend-live-93CH-4957918",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-23T19:16:52+00:00"
+    },
+    {
+      "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "es": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "d": "“My late father bought our house for $250,000 in the 1990s.”",
+      "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-92522168",
+      "published": "2026-10-23T19:16:00+00:00"
+    },
+    {
+      "h": "Even the wealthy increasingly want all-inclusive resorts",
+      "es": "Even the wealthy increasingly want all-inclusive resorts",
+      "d": "Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation",
+      "u": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19528088",
+      "published": "2026-10-23T19:13:00+00:00"
+    },
     {
       "h": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
       "es": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
@@ -20,6 +137,15 @@
       "published": "2026-10-23T18:54:16+00:00"
     },
     {
+      "h": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "es": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "d": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+      "u": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T18:52:37+00:00"
+    },
+    {
       "h": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
       "es": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
       "d": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
@@ -27,6 +153,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T18:51:36+00:00"
+    },
+    {
+      "h": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
+      "es": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
+      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T18:49:56+00:00"
     },
     {
       "h": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
@@ -135,141 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T17:40:31+00:00"
-    },
-    {
-      "h": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-      "es": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-      "d": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into government bonds.",
-      "u": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:26:23+00:00"
-    },
-    {
-      "h": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-      "es": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-      "d": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-      "u": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:26:12+00:00"
-    },
-    {
-      "h": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-      "es": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-      "d": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquified natural gas exporters.",
-      "u": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:25:29+00:00"
-    },
-    {
-      "h": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "es": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "d": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-      "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:21:10+00:00"
-    },
-    {
-      "h": "BP, Louisiana agree to resolve Deepwater Horizon disputes",
-      "es": "BP, Louisiana agree to resolve Deepwater Horizon disputes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bp-louisiana-agree-to-resolve-deepwater-horizon-disputes-4970169",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1LX_L.jpg",
-      "published": "2026-10-23T17:12:55+00:00"
-    },
-    {
-      "h": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts",
-      "es": "Goldman Sachs sees US stocks dip on tech earnings and macro shifts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-stocks-dip-on-tech-earnings-and-macro-shifts-93CH-4970167",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3A0VW_M.jpg",
-      "published": "2026-10-23T17:11:27+00:00"
-    },
-    {
-      "h": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "es": "FCC grants Intel waiver to use existing foreign-made robotic devices",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fcc-grants-intel-waiver-for-foreignmade-robotic-devices-4967773",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1ZL_L.jpg",
-      "published": "2026-10-23T17:06:25+00:00"
-    },
-    {
-      "h": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "es": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "d": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-      "u": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:04:14+00:00"
-    },
-    {
-      "h": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "es": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "d": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-      "u": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:04:10+00:00"
-    },
-    {
-      "h": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "es": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "d": "”I earn $110,000 a year.”",
-      "u": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-81504476",
-      "published": "2026-10-23T17:00:00+00:00"
-    },
-    {
-      "h": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-      "es": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-      "d": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-      "u": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T16:55:37+00:00"
-    },
-    {
-      "h": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "es": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "d": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-      "u": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T16:51:21+00:00"
-    },
-    {
-      "h": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
-      "es": "European stocks post weekly loss as France turmoil, oil prices dent earnings optimism",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/stoxx-600-extends-fall-as-kering-slumps-oil-climbs-4968205",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0I3_L.jpg",
-      "published": "2026-10-23T16:48:37+00:00"
-    },
-    {
-      "h": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-      "es": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-      "d": "College students are spending less time socializing, which has implications for later in life and the workplace.",
-      "u": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T16:44:35+00:00"
-    },
-    {
-      "h": "US telecom operators wobble after report SpaceX in talks for cell sites",
-      "es": "US telecom operators wobble after report SpaceX in talks for cell sites",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-telecom-operators-wobble-after-report-spacex-in-talks-for-cell-sites-4970138",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1KX_L.jpg",
-      "published": "2026-10-23T16:43:32+00:00"
     }
   ],
   "sources": [
