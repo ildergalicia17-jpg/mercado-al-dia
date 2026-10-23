@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-23T14:46:47.873134+00:00",
+  "updated": "2026-10-23T15:22:22.518482+00:00",
   "news": [
+    {
+      "h": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "es": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T15:19:07+00:00"
+    },
+    {
+      "h": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "es": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "d": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+      "u": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T15:18:06+00:00"
+    },
+    {
+      "h": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "es": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "d": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+      "u": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
+      "published": "2026-10-23T15:15:13+00:00"
+    },
+    {
+      "h": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "es": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "d": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+      "u": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T15:11:17+00:00"
+    },
+    {
+      "h": "Why is Mobileye stock sliding today?",
+      "es": "Why is Mobileye stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-sliding-today-93CH-4970015",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-23T15:06:07+00:00"
+    },
+    {
+      "h": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "es": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "d": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
+      "u": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T15:04:09+00:00"
+    },
+    {
+      "h": "Canadian jet maker Bombardier says it plans new $270 million US investment",
+      "es": "Canadian jet maker Bombardier says it plans new $270 million US investment",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-says-bombardier-to-invest-270-million-in-the-us-4968002",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M07W_L.jpg",
+      "published": "2026-10-23T15:00:51+00:00"
+    },
+    {
+      "h": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+      "es": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+      "d": "Analysts say the fears that AI agents could disrupt the banking industry are overblown, for now.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T15:00:49+00:00"
+    },
+    {
+      "h": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+      "es": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+      "d": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+      "u": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-02166585",
+      "published": "2026-10-23T15:00:00+00:00"
+    },
+    {
+      "h": "Wells Fargo, Intuit others object to their shares being tokenized- regulatory document",
+      "es": "Wells Fargo, Intuit others object to their shares being tokenized- regulatory document",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wells-fargo-intuit-others-object-to-their-shares-being-tokenized-regulatory-document-4969995",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1DA_L.jpg",
+      "published": "2026-10-23T14:55:48+00:00"
+    },
+    {
+      "h": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "es": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "d": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+      "u": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T14:55:36+00:00"
+    },
+    {
+      "h": "Norway stocks higher at close of trade; Oslo OBX up 0.85%",
+      "es": "Norway stocks higher at close of trade; Oslo OBX up 0.85%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-085-4969994",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL530PP_L.jpg",
+      "published": "2026-10-23T14:55:32+00:00"
+    },
+    {
+      "h": "Israel stocks lower at close of trade; TA 35 down 1.01%",
+      "es": "Israel stocks lower at close of trade; TA 35 down 1.01%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-101-4969992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPED2R120_L.jpg",
+      "published": "2026-10-23T14:55:04+00:00"
+    },
+    {
+      "h": "Greece stocks lower at close of trade; Athens General Composite down 2.22%",
+      "es": "Greece stocks lower at close of trade; Athens General Composite down 2.22%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-222-4969978",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEAB80S6_M.jpg",
+      "published": "2026-10-23T14:50:04+00:00"
+    },
+    {
+      "h": "Ambani’s Jio becomes most subscribed Indian IPO with $77 billion in bids",
+      "es": "Ambani’s Jio becomes most subscribed Indian IPO with $77 billion in bids",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0E6_L.jpg",
+      "published": "2026-10-23T14:43:41+00:00"
+    },
+    {
+      "h": "Why is Energizer stock sliding 4% today?",
+      "es": "Why is Energizer stock sliding 4% today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-energizer-stock-sliding-4-today-93CH-4969962",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
+      "published": "2026-10-23T14:43:40+00:00"
+    },
     {
       "h": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
       "es": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
@@ -18,6 +162,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T14:36:34+00:00"
+    },
+    {
+      "h": "LyondellBasell stock may move 5.7% on Oct. 30 earnings",
+      "es": "LyondellBasell stock may move 5.7% on Oct. 30 earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lyondellbasell-stock-may-move-57-on-oct-30-earnings-93CH-4969946",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-23T14:36:11+00:00"
+    },
+    {
+      "h": "GE, Palo Alto Networks among market cap stock movers on Friday",
+      "es": "GE, Palo Alto Networks among market cap stock movers on Friday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ge-palo-alto-networks-among-market-cap-stock-movers-on-friday-93CH-4969945",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-23T14:35:51+00:00"
     },
     {
       "h": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
       "published": "2026-10-23T14:19:18+00:00"
-    },
-    {
-      "h": "Capri Holdings shares may move 1.9% on earnings release",
-      "es": "Capri Holdings shares may move 1.9% on earnings release",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/capri-holdings-shares-may-move-19-on-earnings-release-93CH-4969888",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-10-23T14:18:43+00:00"
-    },
-    {
-      "h": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
-      "es": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0WN_L.jpg",
-      "published": "2026-10-23T14:18:21+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-23T14:15:00+00:00"
-    },
-    {
-      "h": "Volvo Cars plunges 22% as CEO says China sales slump came 'faster than we thought'",
-      "es": "Volvo Cars plunges 22% as CEO says China sales slump came 'faster than we thought'",
-      "d": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-      "u": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-23T14:03:02+00:00"
-    },
-    {
-      "h": "Why is Sallie Mae stock plunging today?",
-      "es": "Why is Sallie Mae stock plunging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sallie-mae-stock-plunging-today-93CH-4969822",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-23T14:03:01+00:00"
-    },
-    {
-      "h": "’Truly something cool’: Apple fans react as iPhone Duo hits stores",
-      "es": "’Truly something cool’: Apple fans react as iPhone Duo hits stores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-fans-customers-react-as-iphone-duo-hits-stores-4969372",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M13R_L.jpg",
-      "published": "2026-10-23T14:01:46+00:00"
-    },
-    {
-      "h": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "es": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "d": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
-      "u": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T14:01:42+00:00"
-    },
-    {
-      "h": "Texas Senate race: Talarico campaign turns its fire on Elon Musk",
-      "es": "Texas Senate race: Talarico campaign turns its fire on Elon Musk",
-      "d": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-      "u": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T14:00:27+00:00"
-    },
-    {
-      "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "es": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "d": "“My late father bought our house for $250,000 in the 1990s.”",
-      "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92522168",
-      "published": "2026-10-23T14:00:00+00:00"
-    },
-    {
-      "h": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "es": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "d": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-      "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T13:59:42+00:00"
-    },
-    {
-      "h": "Why is Zai Lab stock surging today?",
-      "es": "Why is Zai Lab stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-zai-lab-stock-surging-today-93CH-4969806",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-23T13:59:42+00:00"
-    },
-    {
-      "h": "Why is SBA Communications stock surging today?",
-      "es": "Why is SBA Communications stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sba-communications-stock-surging-today-93CH-4969797",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-23T13:56:09+00:00"
-    },
-    {
-      "h": "Restaurant earnings will test whether owning more brands pays off",
-      "es": "Restaurant earnings will test whether owning more brands pays off",
-      "d": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
-      "u": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T13:55:46+00:00"
-    },
-    {
-      "h": "Exclusive-Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe",
-      "es": "Exclusive-Fast-fashion group Shein agrees to pay $100 million to settle US FTC probe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivefastfashion-group-shein-agrees-to-pay-100-million-to-settle-us-ftc-probe-4969789",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M18M_L.jpg",
-      "published": "2026-10-23T13:55:17+00:00"
-    },
-    {
-      "h": "Why is AT&T stock sliding today?",
-      "es": "Why is AT&T stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-att-stock-sliding-today-93CH-4969783",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE5C1HM_M.jpg",
-      "published": "2026-10-23T13:52:52+00:00"
-    },
-    {
-      "h": "Meta’s new non-voting shares aim to protect Zuckerberg’s control: Oppenheimer",
-      "es": "Meta’s new non-voting shares aim to protect Zuckerberg’s control: Oppenheimer",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/metas-new-nonvoting-shares-aim-to-protect-zuckerbergs-control-oppenheimer-4969777",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL2Q10Z_L.jpg",
-      "published": "2026-10-23T13:50:16+00:00"
-    },
-    {
-      "h": "Why is Moderna stock sliding today?",
-      "es": "Why is Moderna stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4969776",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1633293221.jpg",
-      "published": "2026-10-23T13:50:04+00:00"
-    },
-    {
-      "h": "U.S. stocks open lower amid AI-driven tech jitters, oil price spike",
-      "es": "U.S. stocks open lower amid AI-driven tech jitters, oil price spike",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-23T13:48:11+00:00"
     }
   ],
   "sources": [
