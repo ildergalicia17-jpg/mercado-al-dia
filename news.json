@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-22T23:48:09.916718+00:00",
+  "updated": "2026-10-23T00:10:55.536014+00:00",
   "news": [
+    {
+      "h": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "es": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9L0UP_L.jpg",
+      "published": "2026-10-23T00:00:46+00:00"
+    },
+    {
+      "h": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "es": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "d": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.",
+      "u": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T23:45:50+00:00"
+    },
     {
       "h": "Japan core inflation in September surges to its highest this year at 2.1%",
       "es": "Japan core inflation in September surges to its highest this year at 2.1%",
@@ -9,6 +27,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-22T23:43:51+00:00"
+    },
+    {
+      "h": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+      "es": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM690CN_1200_L.jpg",
+      "published": "2026-10-22T23:39:12+00:00"
     },
     {
       "h": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
@@ -56,6 +83,15 @@
       "published": "2026-10-22T23:06:19+00:00"
     },
     {
+      "h": "Grid operator says lights will stay on this winter after concerns",
+      "es": "Grid operator says lights will stay on this winter after concerns",
+      "d": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "u": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+      "published": "2026-10-22T23:04:38+00:00"
+    },
+    {
       "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
@@ -99,6 +135,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
       "published": "2026-10-22T22:27:53+00:00"
+    },
+    {
+      "h": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "es": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "d": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+      "u": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-22T22:21:08+00:00"
     },
     {
       "h": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg",
       "published": "2026-10-22T21:30:03+00:00"
-    },
-    {
-      "h": "Americans are having fewer babies — and pampering them with luxury diapers",
-      "es": "Americans are having fewer babies — and pampering them with luxury diapers",
-      "d": "“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.",
-      "u": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12925124",
-      "published": "2026-10-22T21:28:00+00:00"
-    },
-    {
-      "h": "Aardvark Therapeutics stock surges as FDA lifts clinical hold",
-      "es": "Aardvark Therapeutics stock surges as FDA lifts clinical hold",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aardvark-therapeutics-stock-surges-as-fda-lifts-clinical-hold-4967643",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3C1A3_1200_L.jpg",
-      "published": "2026-10-22T21:27:46+00:00"
-    },
-    {
-      "h": "Colombia stocks lower at close of trade; COLCAP down 1.25%",
-      "es": "Colombia stocks lower at close of trade; COLCAP down 1.25%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-125-4967641",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
-      "published": "2026-10-22T21:25:03+00:00"
-    },
-    {
-      "h": "Citigroup convenes analysts in Mexico City to prepare Banamex IPO model -Bloomberg",
-      "es": "Citigroup convenes analysts in Mexico City to prepare Banamex IPO model -Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citigroup-convenes-analysts-in-mexico-city-to-prepare-banamex-ipo-model-bloomberg-4967637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5F1RU_L.jpg",
-      "published": "2026-10-22T21:23:21+00:00"
-    },
-    {
-      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 0.82%",
-      "es": "Russia stocks lower at close of trade; MOEX Russia Index down 0.82%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-082-4967628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4P0E4_M.jpg",
-      "published": "2026-10-22T21:20:03+00:00"
     }
   ],
   "sources": [
