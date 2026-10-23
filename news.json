@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T23:16:57.714896+00:00",
+  "updated": "2026-10-23T23:48:37.028804+00:00",
   "news": [
+    {
+      "h": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "es": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1Y6_L.jpg",
+      "published": "2026-10-23T23:12:17+00:00"
+    },
     {
       "h": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "es": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -29,6 +38,15 @@
       "published": "2026-10-23T22:49:42+00:00"
     },
     {
+      "h": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "es": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "d": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "u": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T22:49:04+00:00"
+    },
+    {
       "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
       "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
@@ -45,6 +63,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T22:27:06+00:00"
+    },
+    {
+      "h": "Instacart in talks with DoorDash and Uber for sale, The Information reports",
+      "es": "Instacart in talks with DoorDash and Uber for sale, The Information reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/instacart-in-talks-for-sale-the-information-reports-4970302",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TB_L.jpg",
+      "published": "2026-10-23T22:12:41+00:00"
     },
     {
       "h": "France spared Moody’s ratings downgrade as it struggles with unrest",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEE7119M_M.jpg",
       "published": "2026-10-23T20:30:04+00:00"
-    },
-    {
-      "h": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-      "es": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TJ_L.jpg",
-      "published": "2026-10-23T20:24:37+00:00"
-    },
-    {
-      "h": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-      "es": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-      "d": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
-      "u": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T20:20:58+00:00"
-    },
-    {
-      "h": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
-      "es": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
-      "d": "A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out.",
-      "u": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-33553242",
-      "published": "2026-10-23T20:19:00+00:00"
     }
   ],
   "sources": [
