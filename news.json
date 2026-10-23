@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-23T19:38:20.505326+00:00",
+  "updated": "2026-10-23T20:07:08.872060+00:00",
   "news": [
+    {
+      "h": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "es": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "d": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+      "u": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-36620363",
+      "published": "2026-10-23T20:02:00+00:00"
+    },
+    {
+      "h": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "es": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "d": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "u": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-78876477",
+      "published": "2026-10-23T20:00:00+00:00"
+    },
+    {
+      "h": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "es": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "d": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+      "u": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T19:53:13+00:00"
+    },
+    {
+      "h": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "es": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "d": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+      "u": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T19:50:26+00:00"
+    },
+    {
+      "h": "After previous day’s slump, trading is quieter among AI shares",
+      "es": "After previous day’s slump, trading is quieter among AI shares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/after-previous-days-slump-trading-is-quieter-among-ai-shares-4970254",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1RK_L.jpg",
+      "published": "2026-10-23T19:36:19+00:00"
+    },
+    {
+      "h": "OpenAI mandates offline training for frontier models to prevent AI escapes",
+      "es": "OpenAI mandates offline training for frontier models to prevent AI escapes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-mandates-offline-training-for-frontier-models-to-prevent-ai-escapes-4970247",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5B1QY_L.jpg",
+      "published": "2026-10-23T19:28:50+00:00"
+    },
     {
       "h": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
       "es": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
@@ -9,6 +63,33 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T19:25:18+00:00"
+    },
+    {
+      "h": "TSX stocks to watch next week as analysts see triple-digit upside",
+      "es": "TSX stocks to watch next week as analysts see triple-digit upside",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-stocks-to-watch-next-week-as-analysts-see-tripledigit-upside-93CH-4970246",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
+      "published": "2026-10-23T19:24:15+00:00"
+    },
+    {
+      "h": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+      "es": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+      "d": "College students are spending less time socializing, which has implications for later in life and the workplace.",
+      "u": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T19:21:38+00:00"
+    },
+    {
+      "h": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "es": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "d": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
+      "u": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T19:19:08+00:00"
     },
     {
       "h": "Tesla consolidates at $372 in tight range: Live levels",
@@ -128,6 +209,15 @@
       "published": "2026-10-23T18:58:00+00:00"
     },
     {
+      "h": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "es": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "d": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+      "u": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-23T18:57:48+00:00"
+    },
+    {
       "h": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
       "es": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
       "d": "The U.S. will issue tariff exemptions on several categories of Canadian imports, Sen. Susan Collins announced Friday.",
@@ -180,96 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1OP_L.jpg",
       "published": "2026-10-23T18:30:25+00:00"
-    },
-    {
-      "h": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "es": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "d": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-      "u": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04330857",
-      "published": "2026-10-23T18:30:00+00:00"
-    },
-    {
-      "h": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-      "es": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-      "d": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-      "u": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T18:23:35+00:00"
-    },
-    {
-      "h": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
-      "es": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
-      "d": "Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.",
-      "u": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-16739210",
-      "published": "2026-10-23T18:19:00+00:00"
-    },
-    {
-      "h": "Top restaurant stocks to watch, according to Raymond James",
-      "es": "Top restaurant stocks to watch, according to Raymond James",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-restaurant-stocks-to-watch-according-to-raymond-james-4970217",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED041FD_M.jpg",
-      "published": "2026-10-23T18:14:24+00:00"
-    },
-    {
-      "h": "Senator says planned Meta commercial terms update could harm US businesses",
-      "es": "Senator says planned Meta commercial terms update could harm US businesses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-4970215",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1OQ_L.jpg",
-      "published": "2026-10-23T18:12:17+00:00"
-    },
-    {
-      "h": "Crowdstrike, Micron among market cap stock movers on Friday",
-      "es": "Crowdstrike, Micron among market cap stock movers on Friday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crowdstrike-micron-among-market-cap-stock-movers-on-friday-93CH-4970208",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Micron_800x533_L_1634733971.jpg",
-      "published": "2026-10-23T18:06:13+00:00"
-    },
-    {
-      "h": "Economic data and Treasury auctions highlight Monday’s schedule",
-      "es": "Datos económicos y subastas del Tesoro destacan la agenda del lunes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/economic-data-and-treasury-auctions-highlight-mondays-schedule-93CH-4970204",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-23T18:00:34+00:00"
-    },
-    {
-      "h": "Investing.com’s stocks of the week",
-      "es": "Acciones de la semana de Investing.com",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4970198",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM230X4_1200_L.jpg",
-      "published": "2026-10-23T17:59:33+00:00"
-    },
-    {
-      "h": "Why is Accenture stock sliding today?",
-      "es": "Why is Accenture stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-sliding-today-93CH-4970187",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI5M0F3_L.jpg",
-      "published": "2026-10-23T17:42:38+00:00"
-    },
-    {
-      "h": "Investors are starting to find opportunities in the battered bond market",
-      "es": "Investors are starting to find opportunities in the battered bond market",
-      "d": "Some market participants see reason for hope in a market bludgeoned this year.",
-      "u": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T17:40:31+00:00"
     }
   ],
   "sources": [
