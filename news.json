@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-23T23:48:37.028804+00:00",
+  "updated": "2026-10-24T00:10:34.381537+00:00",
   "news": [
+    {
+      "h": "How does the UK state pension compare with other countries?",
+      "es": "How does the UK state pension compare with other countries?",
+      "d": "Do British pensioners have it better or worse than those in other countries?",
+      "u": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
+      "published": "2026-10-24T00:09:12+00:00"
+    },
+    {
+      "h": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "es": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "d": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "u": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef86/live/f04a5c10-cdf6-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-23T23:50:45+00:00"
+    },
+    {
+      "h": "Exclusive-Boeing supplier dispute has halted 777 freighter production for two months, sources say",
+      "es": "Exclusive-Boeing supplier dispute has halted 777 freighter production for two months, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveboeing-supplier-dispute-has-halted-777-freighter-production-for-two-months-sources-say-4970513",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1YC_L.jpg",
+      "published": "2026-10-23T23:48:39+00:00"
+    },
+    {
+      "h": "Wall Street closes lower to end rocky week",
+      "es": "Wall Street closes lower to end rocky week",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0WN_L.jpg",
+      "published": "2026-10-23T23:48:23+00:00"
+    },
     {
       "h": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
       "es": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M188_L.jpg",
       "published": "2026-10-23T20:42:37+00:00"
-    },
-    {
-      "h": "Cumberland Pharmaceuticals stock tumbles on trial results",
-      "es": "Cumberland Pharmaceuticals stock tumbles on trial results",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cumberland-pharmaceuticals-stock-tumbles-on-trial-results-4970365",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "published": "2026-10-23T20:38:19+00:00"
-    },
-    {
-      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.24%",
-      "es": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.24%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-124-4970357",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg",
-      "published": "2026-10-23T20:31:00+00:00"
-    },
-    {
-      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.52%",
-      "es": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.52%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-052-4970347",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
-      "published": "2026-10-23T20:30:31+00:00"
-    },
-    {
-      "h": "Brazil stocks higher at close of trade; Bovespa up 0.47%",
-      "es": "Brazil stocks higher at close of trade; Bovespa up 0.47%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4970343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE7119M_M.jpg",
-      "published": "2026-10-23T20:30:04+00:00"
     }
   ],
   "sources": [
