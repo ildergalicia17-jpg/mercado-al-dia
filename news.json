@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-24T12:40:32.538710+00:00",
+  "updated": "2026-10-24T13:19:29.990725+00:00",
   "news": [
+    {
+      "h": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "es": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "d": "As peptides gain popularity among some wellness influencers and federal government officials, doctors share what you need to know.",
+      "u": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T13:05:01+00:00"
+    },
+    {
+      "h": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+      "es": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+      "d": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+      "u": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T13:00:35+00:00"
+    },
+    {
+      "h": "Berkshire shares shake the Buffett blues with new all-time highs",
+      "es": "Berkshire shares shake the Buffett blues with new all-time highs",
+      "d": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
+      "u": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T12:48:32+00:00"
+    },
     {
       "h": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
       "es": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
@@ -137,6 +164,15 @@
       "published": "2026-10-24T06:54:22+00:00"
     },
     {
+      "h": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "es": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "d": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "u": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T06:41:14+00:00"
+    },
+    {
       "h": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
       "es": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
       "d": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0WN_L.jpg",
       "published": "2026-10-23T23:48:23+00:00"
-    },
-    {
-      "h": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "es": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1Y6_L.jpg",
-      "published": "2026-10-23T23:12:17+00:00"
-    },
-    {
-      "h": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "es": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "d": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "u": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-      "published": "2026-10-23T22:54:57+00:00"
-    },
-    {
-      "h": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
-      "es": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1XS_L.jpg",
-      "published": "2026-10-23T22:54:20+00:00"
-    },
-    {
-      "h": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-      "es": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-      "d": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-      "u": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T22:49:42+00:00"
     }
   ],
   "sources": [
