@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:10:34.381537+00:00",
+  "updated": "2026-10-24T01:01:39.080671+00:00",
   "news": [
     {
       "h": "How does the UK state pension compare with other countries?",
@@ -9,6 +9,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
       "published": "2026-10-24T00:09:12+00:00"
+    },
+    {
+      "h": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "es": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "d": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "u": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+      "published": "2026-10-24T00:05:45+00:00"
     },
     {
       "h": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T20:48:01+00:00"
-    },
-    {
-      "h": "Apple’s foldable iPhone hits stores with $2,000 price tag and scarce supply",
-      "es": "Apple’s foldable iPhone hits stores with $2,000 price tag and scarce supply",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apples-foldable-iphone-hits-stores-with-2000-price-tag-and-scarce-supply-4970368",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M188_L.jpg",
-      "published": "2026-10-23T20:42:37+00:00"
     }
   ],
   "sources": [
