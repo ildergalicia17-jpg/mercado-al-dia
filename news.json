@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-24T13:51:03.830373+00:00",
+  "updated": "2026-10-24T14:13:23.297546+00:00",
   "news": [
+    {
+      "h": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "es": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "d": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "u": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-25886732",
+      "published": "2026-10-24T14:06:00+00:00"
+    },
+    {
+      "h": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "es": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "d": "“Nothing has been set aside for his needs.”",
+      "u": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-40456327",
+      "published": "2026-10-24T14:00:00+00:00"
+    },
     {
       "h": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
       "es": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
@@ -117,6 +135,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-19616422",
       "published": "2026-10-24T11:00:00+00:00"
+    },
+    {
+      "h": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
+      "es": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
+      "d": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
+      "u": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T10:58:30+00:00"
     },
     {
       "h": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TJ_L.jpg",
       "published": "2026-10-24T00:55:01+00:00"
-    },
-    {
-      "h": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "es": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "d": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "u": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-      "published": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "h": "France spared Moody’s ratings downgrade as it struggles with unrest",
-      "es": "France spared Moody’s ratings downgrade as it struggles with unrest",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/unresthit-france-poised-for-moodys-ratings-verdict-4968793",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0VX_L.jpg",
-      "published": "2026-10-24T00:24:22+00:00"
-    },
-    {
-      "h": "How does the UK state pension compare with other countries?",
-      "es": "How does the UK state pension compare with other countries?",
-      "d": "Do British pensioners have it better or worse than those in other countries?",
-      "u": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
-      "published": "2026-10-24T00:09:12+00:00"
     }
   ],
   "sources": [
