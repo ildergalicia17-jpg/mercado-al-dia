@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T20:31:00.091606+00:00",
+  "updated": "2026-10-24T21:00:04.802478+00:00",
   "news": [
+    {
+      "h": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+      "es": "Después de que SpaceX restableciera el servicio de alta velocidad, Musk afirma que Ucrania violó el acuerdo Starlink",
+      "d": "Ucrania dice que se han levantado las restricciones a Starlink y Starshield, restableciendo la conectividad a los sistemas militares de rápido movimiento después de las interrupciones.",
+      "u": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T20:38:30+00:00"
+    },
     {
       "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
       "es": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -117,6 +126,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-96138879",
       "published": "2026-10-24T16:00:00+00:00"
+    },
+    {
+      "h": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "es": "Cada vez menos personas vuelan a medida que aumentan los precios de los billetes de avión. He aquí por qué las aerolíneas no están preocupadas",
+      "d": "Las aerolíneas informan que menos personas volaron en el tercer trimestre debido a que las tarifas aéreas aumentaron debido a los costos del combustible, pero los ejecutivos dicen que los viajeros en su mayoría están aceptando tarifas más altas.",
+      "u": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T15:53:30+00:00"
     },
     {
       "h": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-80001516",
       "published": "2026-10-24T13:37:00+00:00"
-    },
-    {
-      "h": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?",
-      "es": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?",
-      "d": "“We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”",
-      "u": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-46638874",
-      "published": "2026-10-24T13:28:00+00:00"
-    },
-    {
-      "h": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-      "es": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-      "d": "As peptides gain popularity among some wellness influencers and federal government officials, doctors share what you need to know.",
-      "u": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-24T13:05:01+00:00"
     }
   ],
   "sources": [
