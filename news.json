@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-24T12:04:17.525217+00:00",
+  "updated": "2026-10-24T12:40:32.538710+00:00",
   "news": [
+    {
+      "h": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+      "es": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+      "d": "The first Phase 3 data for a custom cancer vaccine has raised questions about whether the potential new treatment is needed.",
+      "u": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-30668986",
+      "published": "2026-10-24T12:25:00+00:00"
+    },
+    {
+      "h": "Why popular airplanes are getting scrapped years early",
+      "es": "Why popular airplanes are getting scrapped years early",
+      "d": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+      "u": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-24T12:20:22+00:00"
+    },
     {
       "h": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
       "es": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
@@ -164,6 +182,15 @@
       "published": "2026-10-24T00:55:01+00:00"
     },
     {
+      "h": "France spared Moody’s ratings downgrade as it struggles with unrest",
+      "es": "France spared Moody’s ratings downgrade as it struggles with unrest",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/unresthit-france-poised-for-moodys-ratings-verdict-4968793",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0VX_L.jpg",
+      "published": "2026-10-24T00:24:22+00:00"
+    },
+    {
       "h": "How does the UK state pension compare with other countries?",
       "es": "How does the UK state pension compare with other countries?",
       "d": "Do British pensioners have it better or worse than those in other countries?",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-23T22:49:42+00:00"
-    },
-    {
-      "h": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "es": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "d": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-      "u": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T22:49:04+00:00"
-    },
-    {
-      "h": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "es": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "d": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "u": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27247005",
-      "published": "2026-10-23T22:49:00+00:00"
-    },
-    {
-      "h": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-      "es": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-      "d": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-      "u": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T22:27:06+00:00"
     }
   ],
   "sources": [
