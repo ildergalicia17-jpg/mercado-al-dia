@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T01:01:39.080671+00:00",
+  "updated": "2026-10-24T01:43:18.459769+00:00",
   "news": [
+    {
+      "h": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "es": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TJ_L.jpg",
+      "published": "2026-10-24T00:55:01+00:00"
+    },
     {
       "h": "How does the UK state pension compare with other countries?",
       "es": "How does the UK state pension compare with other countries?",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-20078796",
       "published": "2026-10-23T20:50:00+00:00"
-    },
-    {
-      "h": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-      "es": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-      "d": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-      "u": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-23T20:48:01+00:00"
     }
   ],
   "sources": [
