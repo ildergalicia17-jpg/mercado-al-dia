@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24T08:28:32.138356+00:00",
+  "updated": "2026-10-24T10:03:39.649126+00:00",
   "news": [
+    {
+      "h": "Charity expects demand for Christmas present campaign",
+      "es": "La organización benéfica espera demanda para la campaña de regalos de Navidad",
+      "d": "La campaña, dirigida por Little Stars, estará vigente desde hoy hasta el 4 de diciembre.",
+      "u": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dba/live/8e4c4780-cf90-11f1-bef0-7f8eb636c50b.jpg",
+      "published": "2026-10-24T09:53:42+00:00"
+    },
     {
       "h": "Johnson & Johnson’s prostate cancer drug shrinks tumors in early-stage trial",
       "es": "El fármaco de Johnson & Johnson contra el cáncer de próstata reduce los tumores en un ensayo en fase inicial",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
       "published": "2026-10-23T21:38:53+00:00"
-    },
-    {
-      "h": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.01%",
-      "es": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.01%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-001-4970435",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg",
-      "published": "2026-10-23T21:30:03+00:00"
     }
   ],
   "sources": [
