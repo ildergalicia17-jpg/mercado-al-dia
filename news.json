@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-25T09:11:38.955322+00:00",
+  "updated": "2026-10-25T10:45:55.780870+00:00",
   "news": [
+    {
+      "h": "Street Calls of the Week",
+      "es": "Llamadas callejeras de la semana",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4970904",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/world_news_2_108x81.jpg",
+      "published": "2026-10-25T10:05:01+00:00"
+    },
+    {
+      "h": "Recent labor market data show some signs of AI-related hiring headwinds",
+      "es": "Los datos recientes del mercado laboral muestran algunos signos de obstáculos en la contratación relacionados con la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
+      "published": "2026-10-25T10:02:43+00:00"
+    },
     {
       "h": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
       "es": "Goldman Sachs recorta el objetivo de Kospi en un 25% en medio de la venta masiva de acciones de IA",
@@ -54,6 +72,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4275/live/b92b23a0-cfad-11f1-aadb-297fd0a130b9.jpg",
       "published": "2026-10-25T07:06:12+00:00"
+    },
+    {
+      "h": "Will a new code end 'rip-off parking charges'?",
+      "es": "¿Un nuevo código acabará con las 'estafas de cargos de estacionamiento'?",
+      "d": "El primer ministro dice que un nuevo código acabará con las \"estafas de tarifas de estacionamiento\", pero ¿funcionará?",
+      "u": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+      "published": "2026-10-25T07:05:30+00:00"
     },
     {
       "h": "Budget 2026: No more fat to trim for 'squeezed middle'",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-36620363",
       "published": "2026-10-24T17:39:00+00:00"
-    },
-    {
-      "h": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-      "es": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-      "d": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
-      "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73908727",
-      "published": "2026-10-24T17:23:00+00:00"
-    },
-    {
-      "h": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "es": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-      "d": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-      "u": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21652349",
-      "published": "2026-10-24T16:59:00+00:00"
-    },
-    {
-      "h": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "es": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "d": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-      "u": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00292967",
-      "published": "2026-10-24T16:46:00+00:00"
     }
   ],
   "sources": [
