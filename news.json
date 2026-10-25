@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T14:53:16.299558+00:00",
+  "updated": "2026-10-25T15:17:35.461993+00:00",
   "news": [
+    {
+      "h": "Here are 4 big things we're watching in the stock market this week",
+      "es": "Here are 4 big things we're watching in the stock market this week",
+      "d": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T14:58:26+00:00"
+    },
     {
       "h": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
       "es": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
@@ -200,6 +209,15 @@
       "published": "2026-10-25T07:40:11+00:00"
     },
     {
+      "h": "Rosebank: Life on the oil field at the centre of a political storm",
+      "es": "Rosebank: Life on the oil field at the centre of a political storm",
+      "d": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "u": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+      "published": "2026-10-25T07:15:38+00:00"
+    },
+    {
       "h": "Heating oil costs 'more than double' ahead of winter",
       "es": "Heating oil costs 'more than double' ahead of winter",
       "d": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
@@ -252,24 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg",
       "published": "2026-10-25T06:00:15+00:00"
-    },
-    {
-      "h": "Budget to include £1bn for social and affordable housing",
-      "es": "Budget to include £1bn for social and affordable housing",
-      "d": "The move will take funding for the 10-year programme to more than £40bn.",
-      "u": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
-      "published": "2026-10-25T02:57:30+00:00"
-    },
-    {
-      "h": "HSBC sees cautious optimism in VC and PE activity",
-      "es": "HSBC sees cautious optimism in VC and PE activity",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC9I0KP_M.jpg",
-      "published": "2026-10-25T02:48:10+00:00"
     }
   ],
   "sources": [
