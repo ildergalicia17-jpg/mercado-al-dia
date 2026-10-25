@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T15:17:35.461993+00:00",
+  "updated": "2026-10-25T15:50:52.990843+00:00",
   "news": [
+    {
+      "h": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
+      "es": "¿Existe suficiente capital para financiar los ambiciosos planes de gasto en IA de todos?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED8K13A_M.jpg",
+      "published": "2026-10-25T15:27:32+00:00"
+    },
     {
       "h": "Here are 4 big things we're watching in the stock market this week",
       "es": "Here are 4 big things we're watching in the stock market this week",
@@ -173,6 +182,15 @@
       "published": "2026-10-25T10:05:01+00:00"
     },
     {
+      "h": "Budget to include £1bn for social and affordable housing",
+      "es": "El presupuesto incluirá mil millones de libras esterlinas para viviendas sociales y asequibles",
+      "d": "La medida elevará la financiación para el programa de 10 años a más de £40 mil millones.",
+      "u": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
+      "published": "2026-10-25T10:03:17+00:00"
+    },
+    {
       "h": "Recent labor market data show some signs of AI-related hiring headwinds",
       "es": "Los datos recientes del mercado laboral muestran algunos signos de obstáculos en la contratación relacionados con la IA",
       "d": "",
@@ -252,24 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
       "published": "2026-10-25T07:05:30+00:00"
-    },
-    {
-      "h": "Budget 2026: No more fat to trim for 'squeezed middle'",
-      "es": "Presupuesto 2026: No más grasa que recortar para el 'centro apretado'",
-      "d": "Mientras el Canciller ultima su primer presupuesto, ¿cómo se siente el \"centro apretado\" respecto a los costos?",
-      "u": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f53/live/23912960-cebe-11f1-ae9c-0303957c36f8.jpg",
-      "published": "2026-10-25T06:21:23+00:00"
-    },
-    {
-      "h": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "es": "Cuatro formas en que los laboristas podrían recaudar dinero en el presupuesto sin aumentar el impuesto sobre la renta",
-      "d": "Es posible que el canciller John Healey necesite recaudar dinero para aumentar su margen fiscal: BBC Verify examina qué opciones podrían estar sobre la mesa.",
-      "u": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-10-25T06:00:15+00:00"
     }
   ],
   "sources": [
