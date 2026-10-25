@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-25T12:49:28.415972+00:00",
+  "updated": "2026-10-25T13:21:52.895841+00:00",
   "news": [
+    {
+      "h": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+      "es": "¿Preocupado por esta liquidación del mercado de valores? El alivio podría llegar después de las elecciones intermedias, sin importar quién gane.",
+      "d": "En los nueve meses transcurridos entre el día de las elecciones y el 30 de junio, el S&P 500 ha obtenido una rentabilidad media del 15,5% desde 1950.",
+      "u": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63364096",
+      "published": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "h": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "es": "Arabia Saudita dice que interceptó misiles y drones de los hutíes respaldados por Irán",
+      "d": "Arabia Saudita dice que interceptó misiles y drones hutíes, mientras que los hutíes reivindicaron ataques contra aeropuertos y sitios de energía en medio de crecientes riesgos de suministro regional.",
+      "u": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T12:49:33+00:00"
+    },
+    {
+      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 2,65%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
+      "published": "2026-10-25T12:45:03+00:00"
+    },
     {
       "h": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
       "es": "Las “faltas de respuesta” no funcionan. Esto es lo que los inversores realmente necesitan de la Reserva Federal.",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-24T21:07:01+00:00"
-    },
-    {
-      "h": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-      "es": "Después de que SpaceX restableciera el servicio de alta velocidad, Musk afirma que Ucrania violó el acuerdo Starlink",
-      "d": "Ucrania dice que se han levantado las restricciones a Starlink y Starshield, restableciendo la conectividad a los sistemas militares de rápido movimiento después de las interrupciones.",
-      "u": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-24T20:38:30+00:00"
-    },
-    {
-      "h": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-      "es": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-      "d": "“Nothing has been set aside for his needs.”",
-      "u": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40456327",
-      "published": "2026-10-24T20:15:00+00:00"
-    },
-    {
-      "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "es": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "d": "“My late father bought our house for $250,000 in the 1990s.”",
-      "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92522168",
-      "published": "2026-10-24T20:00:00+00:00"
     }
   ],
   "sources": [
