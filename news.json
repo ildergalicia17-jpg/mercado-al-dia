@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-25T11:43:42.643717+00:00",
+  "updated": "2026-10-25T12:09:05.781535+00:00",
   "news": [
+    {
+      "h": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+      "es": "Lo que más temen demócratas y republicanos unos de otros: la encuesta de CNBC tiene las respuestas",
+      "d": "La economía sigue siendo un tema clave en las elecciones de 2026, pero a los votantes les preocupa que Trump ponga a prueba los límites del cargo y las políticas socialdemócratas.",
+      "u": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T12:00:01+00:00"
+    },
+    {
+      "h": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+      "es": "Wonder de Marc Lore apuesta por Texas, la automatización y los restaurantes creados por usuarios mientras reflexiona sobre su salida a bolsa",
+      "d": "Wonder se está inclinando hacia la automatización y los restaurantes creados por usuarios mientras el fundador Marc Lore prepara la startup para una posible IPO.",
+      "u": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T12:00:01+00:00"
+    },
+    {
+      "h": "Why economic health no longer dictates stock-market returns",
+      "es": "Por qué la salud económica ya no dicta la rentabilidad del mercado de valores",
+      "d": "Existe una gran desconexión entre Wall Street y Main Street, y la IA podría separarlos aún más",
+      "u": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-16022613",
+      "published": "2026-10-25T12:00:00+00:00"
+    },
     {
       "h": "Here’s the real signal to watch for the Fed’s next move",
       "es": "Aquí está la verdadera señal a la que debemos estar atentos al próximo movimiento de la Reserva Federal",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-24T19:57:24+00:00"
-    },
-    {
-      "h": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-      "es": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-      "d": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-      "u": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80913840",
-      "published": "2026-10-24T19:45:00+00:00"
-    },
-    {
-      "h": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-      "es": "Las acciones de biotecnología están aumentando. Cómo pueden los inversores aprovechar el auge de la innovación en nuevos fármacos",
-      "d": "Las acciones de biotecnología están subiendo a medida que los éxitos clínicos, las fusiones y adquisiciones y las nuevas tecnologías farmacéuticas reviven el sector. Estos son los ETF y los analistas de acciones preferidos.",
-      "u": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-24T18:56:29+00:00"
-    },
-    {
-      "h": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
-      "es": "Los jóvenes estadounidenses están renunciando a ser propietarios de automóviles. Es un camino hacia la libertad financiera para algunos.",
-      "d": "Con los precios de los vehículos en alza y la propiedad cada vez más fuera de su alcance, algunos adultos jóvenes están descubriendo que la vida sin un automóvil les deja un respiro para gastar en otras cosas.",
-      "u": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25886732",
-      "published": "2026-10-24T18:45:00+00:00"
     }
   ],
   "sources": [
