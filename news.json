@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T06:15:47.682927+00:00",
+  "updated": "2026-10-25T07:03:36.956868+00:00",
   "news": [
+    {
+      "h": "Budget 2026: No more fat to trim for 'squeezed middle'",
+      "es": "Presupuesto 2026: No más grasa que recortar para el 'centro apretado'",
+      "d": "Mientras el Canciller ultima su primer presupuesto, ¿cómo se siente el \"centro apretado\" respecto a los costos?",
+      "u": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f53/live/23912960-cebe-11f1-ae9c-0303957c36f8.jpg",
+      "published": "2026-10-25T06:21:23+00:00"
+    },
     {
       "h": "Four ways Labour could raise money in the Budget without hiking income tax",
       "es": "Cuatro formas en que los laboristas podrían recaudar dinero en el presupuesto sin aumentar el impuesto sobre la renta",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-66111298",
       "published": "2026-10-24T15:27:00+00:00"
-    },
-    {
-      "h": "Why popular airplanes are getting scrapped years early",
-      "es": "Why popular airplanes are getting scrapped years early",
-      "d": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
-      "u": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-24T15:18:30+00:00"
     }
   ],
   "sources": [
