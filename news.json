@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-25T21:03:28.126053+00:00",
+  "updated": "2026-10-25T23:11:44.829696+00:00",
   "news": [
+    {
+      "h": "Anthropic’s Claude accessed public US state of Georgia voter information, Axios reports",
+      "es": "Claude de Anthropic accedió a información pública de votantes del estado estadounidense de Georgia, informa Axios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports-4971291",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0PU_L.jpg",
+      "published": "2026-10-25T22:54:37+00:00"
+    },
+    {
+      "h": "Australia’s NEXTDC CEO to forgo fiscal 2027 bonuses after forecast cut, project delay",
+      "es": "El director ejecutivo de NEXTDC de Australia renunciará a las bonificaciones del año fiscal 2027 tras el recorte de previsiones y el retraso del proyecto",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australias-nextdc-ceo-to-forgo-fiscal-2027-bonuses-after-forecast-cut-project-delay-4971278",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0P5_L.jpg",
+      "published": "2026-10-25T22:31:01+00:00"
+    },
+    {
+      "h": "Proxy advisory firm Glass Lewis backs Bergeron in Ethan Allen fight",
+      "es": "La firma de asesoría de poderes Glass Lewis respalda a Bergeron en la pelea con Ethan Allen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/proxy-advisory-firm-glass-lewis-backs-bergeron-in-ethan-allen-fight-4971264",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0MM_L.jpg",
+      "published": "2026-10-25T21:18:19+00:00"
+    },
+    {
+      "h": "More pain may be coming for the AI trade. Why I’m not giving up on it",
+      "es": "Es posible que se avecinan más problemas para el comercio de IA. ¿Por qué no me rendiré?",
+      "d": "En su columna dominical para los suscriptores del Investing Club, Jim Cramer explica por qué el sector de la IA se ha quebrado y qué está haciendo al respecto.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T21:13:50+00:00"
+    },
     {
       "h": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
       "es": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
@@ -227,15 +263,6 @@
       "published": "2026-10-25T12:44:00+00:00"
     },
     {
-      "h": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "es": "Wonder de Marc Lore apuesta por Texas, la automatización y los restaurantes creados por usuarios mientras reflexiona sobre su salida a bolsa",
-      "d": "Wonder se está inclinando hacia la automatización y los restaurantes creados por usuarios mientras el fundador Marc Lore prepara la startup para una posible IPO.",
-      "u": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-25T12:00:01+00:00"
-    },
-    {
       "h": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
       "es": "Lo que más temen demócratas y republicanos unos de otros: la encuesta de CNBC tiene las respuestas",
       "d": "La economía sigue siendo un tema clave en las elecciones de 2026, pero a los votantes les preocupa que Trump ponga a prueba los límites del cargo y las políticas socialdemócratas.",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-25T12:00:01+00:00"
-    },
-    {
-      "h": "Why economic health no longer dictates stock-market returns",
-      "es": "Por qué la salud económica ya no dicta la rentabilidad del mercado de valores",
-      "d": "Existe una gran desconexión entre Wall Street y Main Street, y la IA podría separarlos aún más",
-      "u": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-16022613",
-      "published": "2026-10-25T12:00:00+00:00"
-    },
-    {
-      "h": "Here’s the real signal to watch for the Fed’s next move",
-      "es": "Aquí está la verdadera señal a la que debemos estar atentos al próximo movimiento de la Reserva Federal",
-      "d": "Los inversores no deberían centrarse en la tasa en sí, sino en dónde están las condiciones financieras.",
-      "u": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-02259041",
-      "published": "2026-10-25T11:30:00+00:00"
-    },
-    {
-      "h": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
-      "es": "La UBS podría eliminar 12.000 puestos de trabajo en Suiza si se endurecen las normas de capital: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEEA70L9_M.jpg",
-      "published": "2026-10-25T10:45:31+00:00"
     }
   ],
   "sources": [
