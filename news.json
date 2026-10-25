@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T18:09:57.383257+00:00",
+  "updated": "2026-10-25T18:47:42.139141+00:00",
   "news": [
+    {
+      "h": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "es": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "d": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
+      "u": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T18:18:49+00:00"
+    },
     {
       "h": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
       "es": "Mi suegro, de 81 años, vendió su casa de 75.000 dólares para pagar la deuda de 50.000 dólares de su hija. ¿Cómo puedo evitar que se vuelva indigente?",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
       "published": "2026-10-25T10:02:43+00:00"
-    },
-    {
-      "h": "Goldman Sachs cuts Kospi target by 25% amid AI stock selloff",
-      "es": "Goldman Sachs recorta el objetivo de Kospi en un 25% en medio de la venta masiva de acciones de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-kospi-target-by-25-amid-ai-stock-selloff-4971079",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEB7B0FP_L.jpg",
-      "published": "2026-10-25T08:50:52+00:00"
     }
   ],
   "sources": [
