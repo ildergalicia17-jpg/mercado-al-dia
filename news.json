@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-25T19:46:10.547295+00:00",
+  "updated": "2026-10-25T20:34:58.760861+00:00",
   "news": [
+    {
+      "h": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "es": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "d": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+      "u": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T20:28:55+00:00"
+    },
+    {
+      "h": "Musk says SpaceX raised $40 billion in debt for GPUs",
+      "es": "Musk says SpaceX raised $40 billion in debt for GPUs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0KK_L.jpg",
+      "published": "2026-10-25T20:06:24+00:00"
+    },
     {
       "h": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
       "es": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
@@ -200,19 +218,19 @@
       "published": "2026-10-25T12:44:00+00:00"
     },
     {
-      "h": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-      "es": "Lo que más temen demócratas y republicanos unos de otros: la encuesta de CNBC tiene las respuestas",
-      "d": "La economía sigue siendo un tema clave en las elecciones de 2026, pero a los votantes les preocupa que Trump ponga a prueba los límites del cargo y las políticas socialdemócratas.",
-      "u": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+      "h": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+      "es": "Wonder de Marc Lore apuesta por Texas, la automatización y los restaurantes creados por usuarios mientras reflexiona sobre su salida a bolsa",
+      "d": "Wonder se está inclinando hacia la automatización y los restaurantes creados por usuarios mientras el fundador Marc Lore prepara la startup para una posible IPO.",
+      "u": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
       "s": "CNBC",
       "img": "",
       "published": "2026-10-25T12:00:01+00:00"
     },
     {
-      "h": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "es": "Wonder de Marc Lore apuesta por Texas, la automatización y los restaurantes creados por usuarios mientras reflexiona sobre su salida a bolsa",
-      "d": "Wonder se está inclinando hacia la automatización y los restaurantes creados por usuarios mientras el fundador Marc Lore prepara la startup para una posible IPO.",
-      "u": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+      "h": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+      "es": "Lo que más temen demócratas y republicanos unos de otros: la encuesta de CNBC tiene las respuestas",
+      "d": "La economía sigue siendo un tema clave en las elecciones de 2026, pero a los votantes les preocupa que Trump ponga a prueba los límites del cargo y las políticas socialdemócratas.",
+      "u": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
       "s": "CNBC",
       "img": "",
       "published": "2026-10-25T12:00:01+00:00"
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/world_news_2_108x81.jpg",
       "published": "2026-10-25T10:05:01+00:00"
-    },
-    {
-      "h": "Budget to include £1bn for social and affordable housing",
-      "es": "El presupuesto incluirá mil millones de libras esterlinas para viviendas sociales y asequibles",
-      "d": "La medida elevará la financiación para el programa de 10 años a más de £40 mil millones.",
-      "u": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
-      "published": "2026-10-25T10:03:17+00:00"
-    },
-    {
-      "h": "Recent labor market data show some signs of AI-related hiring headwinds",
-      "es": "Los datos recientes del mercado laboral muestran algunos signos de obstáculos en la contratación relacionados con la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/recent-labor-market-data-show-some-signs-of-airelated-hiring-headwinds-4971102",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
-      "published": "2026-10-25T10:02:43+00:00"
     }
   ],
   "sources": [
