@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T15:50:52.990843+00:00",
+  "updated": "2026-10-25T16:15:29.251664+00:00",
   "news": [
+    {
+      "h": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "es": "Audi defiende planes para una planta de 4.000 millones de dólares en Georgia en medio de la reestructuración y los aranceles de VW",
+      "d": "El director ejecutivo de Audi defendió los planes de la compañía para una planta de 4 mil millones de dólares en Georgia, calificándola de una decisión comercial para aumentar las ventas y reducir la exposición a los aranceles estadounidenses.",
+      "u": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-25T16:02:56+00:00"
+    },
     {
       "h": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
       "es": "¿Existe suficiente capital para financiar los ambiciosos planes de gasto en IA de todos?",
@@ -261,15 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4275/live/b92b23a0-cfad-11f1-aadb-297fd0a130b9.jpg",
       "published": "2026-10-25T07:06:12+00:00"
-    },
-    {
-      "h": "Will a new code end 'rip-off parking charges'?",
-      "es": "¿Un nuevo código acabará con las 'estafas de cargos de estacionamiento'?",
-      "d": "El primer ministro dice que un nuevo código acabará con las \"estafas de tarifas de estacionamiento\", pero ¿funcionará?",
-      "u": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
-      "published": "2026-10-25T07:05:30+00:00"
     }
   ],
   "sources": [
