@@ -1,6 +1,240 @@
 {
-  "updated": "2026-10-26T18:49:09.802091+00:00",
+  "updated": "2026-10-26T22:27:25.532007+00:00",
   "news": [
+    {
+      "h": "DOJ charges ex-FBI Director James Comey in new case",
+      "es": "El Departamento de Justicia acusa al exdirector del FBI James Comey en un nuevo caso",
+      "d": "Comey ha sido durante años el objetivo del presidente Donald Trump, quien lo despidió como director del FBI en 2017.",
+      "u": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T22:24:36+00:00"
+    },
+    {
+      "h": "Dividend stocks are having an excellent October as tech sector struggles",
+      "es": "Las acciones de dividendos están teniendo un octubre excelente mientras el sector tecnológico lucha",
+      "d": "Los ETF centrados en acciones con dividendos están experimentando un poderoso repunte en octubre, lo que se sumará a enormes ganancias en 2026.",
+      "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05706147",
+      "published": "2026-10-26T22:10:00+00:00"
+    },
+    {
+      "h": "Options traders are seizing control of the S&P 500",
+      "es": "Los operadores de opciones están tomando el control del S&P 500",
+      "d": "Hay una razón por la que el índice no se ha movido mucho desde junio, según un equipo de la UBS.",
+      "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-64453953",
+      "published": "2026-10-26T22:03:00+00:00"
+    },
+    {
+      "h": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "es": "El chatbot de ByteDance, matriz de TikTok, ahora está dando una oportunidad a los sitios de reserva de viajes. Y el tuyo.",
+      "d": "Los consumidores en China están empezando a preguntarse, con razón, si los agentes de viajes emergentes con IA tienen una agenda oculta.",
+      "u": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08834496",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "h": "Pimco buys $4 billion of SpaceX AI debt package led by Apollo - Bloomberg",
+      "es": "Pimco compra 4.000 millones de dólares del paquete de deuda de IA de SpaceX liderado por Apollo - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pimco-buys-4-billion-of-spacex-ai-debt-package-led-by-apollo--bloomberg-93CH-4973850",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-26T21:59:50+00:00"
+    },
+    {
+      "h": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "es": "Más del 40% de los estadounidenses se dirigen hacia la jubilación \"a ciegas\", sin ningún plan",
+      "d": "Casi la mitad de los estadounidenses no han calculado lo que necesitarán durante la jubilación.",
+      "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-73908727",
+      "published": "2026-10-26T21:55:00+00:00"
+    },
+    {
+      "h": "Ben & Jerry’s founders explore deal to separate brand from owner, WSJ reports",
+      "es": "Los fundadores de Ben & Jerry's exploran un acuerdo para separar la marca del propietario, informa el WSJ",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ben--jerrys-exploring-deal-with-kkr-executive-to-separate-ice-cream-brand-from-owner-wsj-reports-4973492",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1S0_L.jpg",
+      "published": "2026-10-26T21:54:53+00:00"
+    },
+    {
+      "h": "JetBlue posts wider quarterly loss, raises annual forecast as it seeks to ease debt worries",
+      "es": "JetBlue registra pérdidas trimestrales más amplias y eleva el pronóstico anual mientras busca aliviar las preocupaciones sobre la deuda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jetblue-airways-posts-wider-quarterly-loss-on-surging-fuel-costs-4973617",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1TU_L.jpg",
+      "published": "2026-10-26T21:49:14+00:00"
+    },
+    {
+      "h": "US judge refuses to block Eli Lilly weight-loss drug ads, rules against Novo Nordisk",
+      "es": "Juez estadounidense se niega a bloquear los anuncios de medicamentos para bajar de peso de Eli Lilly y falla en contra de Novo Nordisk",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-judge-lets-eli-lilly-continue-ads-for-weightloss-drugs-rules-against-novo-nordisk-4973544",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1SD_L.jpg",
+      "published": "2026-10-26T21:48:58+00:00"
+    },
+    {
+      "h": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says",
+      "es": "DoorDash en conversaciones para comprar Instacart en un acuerdo de aproximadamente $ 17 mil millones, dice una fuente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/doordash-in-talks-to-buy-instacart-wsj-reports-4973478",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1R7_L.jpg",
+      "published": "2026-10-26T21:48:30+00:00"
+    },
+    {
+      "h": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+      "es": "Un posible acuerdo entre DoorDash e Instacart tiene que ver con mantenerse al día con Walmart y Amazon, dicen los analistas",
+      "d": "El Wall Street Journal informa que DoorDash estaba en \"conversaciones avanzadas\" para comprar Instacart en un acuerdo que valoraría Instacart en aproximadamente 17 mil millones de dólares.",
+      "u": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-267589",
+      "published": "2026-10-26T21:46:00+00:00"
+    },
+    {
+      "h": "Universal Music discussed buyout options with private equity giants - Bloomberg",
+      "es": "Universal Music discutió opciones de compra con gigantes del capital privado - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/universal-music-discussed-buyout-options-with-private-equity-giants--bloomberg-4973836",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T1SG_L.jpg",
+      "published": "2026-10-26T21:45:14+00:00"
+    },
+    {
+      "h": "Ex-FBI chief James Comey charged again by Trump administration’s DOJ",
+      "es": "El exjefe del FBI James Comey acusado nuevamente por el Departamento de Justicia de la administración Trump",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-26T21:42:35+00:00"
+    },
+    {
+      "h": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
+      "es": "La oferta pública inicial de Anthropic pone el poder en manos de los fundadores, dando a los accionistas cotidianos poca voz",
+      "d": "Founder LLC es un componente de la \"nueva estructura de capital y gobierno corporativo\" que Anthropic describió en su presentación pública S-1.",
+      "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T21:41:26+00:00"
+    },
+    {
+      "h": "Fitch affirms Flagstar Bank at ’BB+’ but lowers outlook on delayed recovery",
+      "es": "Fitch afirma a Flagstar Bank en 'BB+' pero reduce perspectiva por recuperación retrasada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fitch-affirms-flagstar-bank-at-bb-but-lowers-outlook-on-delayed-recovery-4973827",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg",
+      "published": "2026-10-26T21:39:06+00:00"
+    },
+    {
+      "h": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.58%",
+      "es": "Las bolsas de México cierran a la baja; S&P/BMV IPC baja 0,58%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-058-4973801",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED8P25V_M.jpg",
+      "published": "2026-10-26T21:30:04+00:00"
+    },
+    {
+      "h": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+      "es": "JetBlue registra mayores pérdidas en costos de combustible, pero el director ejecutivo dice que los márgenes mejoran",
+      "d": "JetBlue Airways se encuentra en medio de un plan que apunta a reducir costos y aumentar los ingresos por primas.",
+      "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T21:18:07+00:00"
+    },
+    {
+      "h": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+      "es": "Por qué las acciones de Lumentum impulsaron al S&P 500 al alza el lunes",
+      "d": "Las acciones ópticas están regresando tras la presentación de la oferta pública inicial de Anthropic y algunas otras buenas noticias.",
+      "u": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-759206",
+      "published": "2026-10-26T21:04:00+00:00"
+    },
+    {
+      "h": "With the Anthropic IPO, the devil is in the details",
+      "es": "Con la IPO de Anthropic, el diablo está en los detalles",
+      "d": "El primer borrador del prospecto de la compañía de inteligencia artificial es escaso en detalles, pero algunas cosas saltan a la vista de inmediato.",
+      "u": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-52490565",
+      "published": "2026-10-26T20:50:00+00:00"
+    },
+    {
+      "h": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "es": "Microsoft ofrece adquisiciones voluntarias a 60.000 empleados mientras la IA impulsa la eficiencia",
+      "d": "Microsoft está tratando de equilibrar el rápido desarrollo de una infraestructura de IA con la eficiencia del capital.",
+      "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T20:44:50+00:00"
+    },
+    {
+      "h": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+      "es": "Meta, SpaceX y Anthropic avivan el frenesí de financiación de la IA. Qué significa para nuestras acciones",
+      "d": "",
+      "u": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T20:26:26+00:00"
+    },
+    {
+      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "es": "Dejamos de ayudar a nuestros vecinos con reparaciones gratuitas en el hogar y nuestra amistad se enfrió. ¿Quién tiene la culpa?",
+      "d": "\"El verano pasado, se quejaron de que necesitaban reemplazar el techo. Unos meses más tarde, compraron un nuevo SUV\".",
+      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13210750",
+      "published": "2026-10-26T20:15:00+00:00"
+    },
+    {
+      "h": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+      "es": "Lo sentimos, inversores, pero no existe nada parecido a un “rally de Papá Noel” temprano. Aquí es cuando normalmente se producen las ganancias reales.",
+      "d": "A los analistas les gusta exagerar las subidas del mercado de valores en otoño, pero las cifras muestran que Santa sólo llega una vez al año.",
+      "u": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-65391550",
+      "published": "2026-10-26T20:09:00+00:00"
+    },
+    {
+      "h": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+      "es": "Los comerciantes del mercado de predicciones dicen que una oferta pública inicial de Anthropic es casi segura este año después de que la compañía presentó su solicitud ante la SEC",
+      "d": "Anthropic presentó el lunes su Formulario S-1 ante la Comisión de Bolsa y Valores.",
+      "u": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T20:08:57+00:00"
+    },
+    {
+      "h": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "es": "El Departamento de Justicia de Trump despidió ilegalmente a la fiscal de Epstein, Maurene Comey, dictamina un juez",
+      "d": "El juez ordenó que Maurene Comey, hija del ex director del FBI James Comey, fuera reintegrada retroactivamente a su trabajo como fiscal federal adjunta.",
+      "u": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T20:03:58+00:00"
+    },
+    {
+      "h": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "es": "Es probable que la Reserva Federal mantenga estables las tasas de interés en octubre. Esto es lo que eso significa para los consumidores",
+      "d": "Se espera que la Reserva Federal mantenga su tipo de interés a un día sin cambios al concluir su reunión de octubre de esta semana.",
+      "u": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T18:51:23+00:00"
+    },
     {
       "h": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
       "es": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
@@ -36,240 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
       "published": "2026-10-26T18:26:16+00:00"
-    },
-    {
-      "h": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "es": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "d": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-      "u": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00003294",
-      "published": "2026-10-26T18:24:00+00:00"
-    },
-    {
-      "h": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "es": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-10-26T18:15:00+00:00"
-    },
-    {
-      "h": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "es": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "d": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
-      "u": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-71703172",
-      "published": "2026-10-26T18:10:00+00:00"
-    },
-    {
-      "h": "Why is Bloom Energy stock surging today?",
-      "es": "Why is Bloom Energy stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4973404",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K0JU_M.jpg",
-      "published": "2026-10-26T18:09:23+00:00"
-    },
-    {
-      "h": "Why is Intel stock rallying today?",
-      "es": "Why is Intel stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-4973403",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE031A8_M.jpg",
-      "published": "2026-10-26T18:07:28+00:00"
-    },
-    {
-      "h": "Tesla and Xp among market cap stock movers on Monday",
-      "es": "Tesla and Xp among market cap stock movers on Monday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-and-xp-among-market-cap-stock-movers-on-monday-93CH-4973401",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE6H1AX_M.jpg",
-      "published": "2026-10-26T18:07:03+00:00"
-    },
-    {
-      "h": "ConocoPhillips to reduce workforce in Canada",
-      "es": "ConocoPhillips to reduce workforce in Canada",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/conocophillips-to-reduce-workforce-in-canada-4973393",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1NL_L.jpg",
-      "published": "2026-10-26T18:07:02+00:00"
-    },
-    {
-      "h": "Why is Coherent stock surging today?",
-      "es": "Why is Coherent stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-4973396",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-26T18:03:45+00:00"
-    },
-    {
-      "h": "Building permits, durable goods orders, new home sales and consumer confidence due Tuesday",
-      "es": "Building permits, durable goods orders, new home sales and consumer confidence due Tuesday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/building-permits-durable-goods-orders-new-home-sales-and-consumer-confidence-due-tuesday-93CH-4973395",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-26T18:01:25+00:00"
-    },
-    {
-      "h": "Boeing forecast to post small quarterly loss despite recent wins, analysts say",
-      "es": "Boeing forecast to post small quarterly loss despite recent wins, analysts say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/boeing-forecast-to-post-small-quarterly-lossdespite-recent-wins-analysts-say-4973392",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1NM_L.jpg",
-      "published": "2026-10-26T18:00:35+00:00"
-    },
-    {
-      "h": "Geopolitical tensions complicate the gold bull case, says AHG president",
-      "es": "Las tensiones geopolíticas complican el caso del mercado alcista del oro, dice el presidente de AHG",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/geopolitical-tensions-complicate-the-gold-bull-case-says-ahg-president-4973383",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg",
-      "published": "2026-10-26T17:54:38+00:00"
-    },
-    {
-      "h": "Dollar General sued by FTC, U.S. states over alleged overcharging",
-      "es": "Dollar General demandado por la FTC y los estados de EE. UU. por supuestos cobros excesivos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dollar-general-sued-by-ftc-us-states-over-alleged-overcharging-4973381",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4R0MI_M.jpg",
-      "published": "2026-10-26T17:54:10+00:00"
-    },
-    {
-      "h": "Why is Reddit stock down 6% today?",
-      "es": "¿Por qué las acciones de Reddit han bajado un 6% hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-reddit-stock-down-6-today-93CH-4973378",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-26T17:52:26+00:00"
-    },
-    {
-      "h": "US, 20 states sue Dollar General for alleged overcharges",
-      "es": "EE.UU. y 20 estados demandan a Dollar General por presuntos sobrecargos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-20-states-sue-dollar-general-for-alleged-overcharges-4973374",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1MP_L.jpg",
-      "published": "2026-10-26T17:48:19+00:00"
-    },
-    {
-      "h": "European stocks rebound as corporate optimism lifts mood ahead of rate decisions",
-      "es": "Las acciones europeas se recuperan a medida que el optimismo corporativo mejora el ánimo antes de las decisiones sobre tipos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-flat-as-investors-eye-earnings-energy-drags-4971591",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P0M1_L.jpg",
-      "published": "2026-10-26T17:42:22+00:00"
-    },
-    {
-      "h": "The arc of Trump: How the president lost the coalition that put him in the White House",
-      "es": "El arco de Trump: Cómo el presidente perdió la coalición que lo llevó a la Casa Blanca",
-      "d": "El presidente Trump forjó una coalición extraordinaria para ganar el cargo en 2024. Una nueva encuesta de CNBC muestra que la coalición ahora está seriamente debilitada.",
-      "u": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T17:36:55+00:00"
-    },
-    {
-      "h": "KLM cancels Middle East flights through winter season",
-      "es": "KLM cancela vuelos a Medio Oriente durante la temporada de invierno",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/klm-cancels-middle-east-flights-through-winter-season-93CH-4973363",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-26T17:32:49+00:00"
-    },
-    {
-      "h": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-      "es": "Conozca al maestro de educación financiera que ayuda a los estudiantes de secundaria a abrir sus propias cuentas IRA Roth",
-      "d": "Christopher Jackson se lastimó antes de su primer partido de la NFL. Ahora entrena a adolescentes sobre cómo generar riqueza.",
-      "u": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-33306506",
-      "published": "2026-10-26T17:32:00+00:00"
-    },
-    {
-      "h": "Anthropic IPO sympathy plays: cloud, silicon, networking, and power stocks to watch",
-      "es": "Simpatía antrópica por las OPI: acciones de nube, silicio, redes y energía a tener en cuenta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-sympathy-plays-cloud-silicon-networking-and-power-stocks-to-watch-93CH-4973362",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6115G_L.jpg",
-      "published": "2026-10-26T17:29:58+00:00"
-    },
-    {
-      "h": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-      "es": "Lula gana segunda vuelta en Brasil tras predicción de que los mercados favorecían a Bolsonaro",
-      "d": "Si bien las predicciones del mercado apuntaban a una clara victoria de Bolsonaro, Lula salió ganador en una reñida carrera.",
-      "u": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T17:29:37+00:00"
-    },
-    {
-      "h": "Cadence unveils suite of AI models that chipmakers can run in-house",
-      "es": "Cadence presenta un conjunto de modelos de inteligencia artificial que los fabricantes de chips pueden ejecutar internamente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cadence-unveils-nvidiabacked-ai-models-that-chipmakers-can-run-inhouse-4972805",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P15I_L.jpg",
-      "published": "2026-10-26T17:24:23+00:00"
-    },
-    {
-      "h": "Anthropic relies on Google, Amazon and Microsoft for nearly half its revenue",
-      "es": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-relies-on-google-amazon-and-microsoft-for-nearly-half-its-revenue-4973358",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-10-26T17:21:39+00:00"
-    },
-    {
-      "h": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "es": "La exitosa cotización de acciones de Anthropic: 5 cosas sorprendentes que ahora sabemos",
-      "d": "El prospecto de la OPI de Anthropic tiene 355 páginas y está lleno de información de la empresa nunca antes revelada.",
-      "u": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
-      "published": "2026-10-26T17:20:54+00:00"
-    },
-    {
-      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
-      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
-      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24279758",
-      "published": "2026-10-26T17:19:00+00:00"
-    },
-    {
-      "h": "Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-      "es": "El petróleo baja mientras el ministro de Defensa saudí viaja a Irán para mantener conversaciones para reducir la escalada del conflicto",
-      "d": "Los precios del petróleo cayeron mientras los inversores sopesaban la amenaza de nuevos ataques a la infraestructura energética de Arabia Saudita con la preocupación de que los precios elevados pudieran erosionar la demanda.",
-      "u": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T17:18:53+00:00"
-    },
-    {
-      "h": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-      "es": "Microsoft ofrece adquisiciones a unos 60.000 empleados para contener los costes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1JK_L.jpg",
-      "published": "2026-10-26T17:18:21+00:00"
     }
   ],
   "sources": [
