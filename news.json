@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-26T23:04:46.863717+00:00",
+  "updated": "2026-10-26T23:35:12.278467+00:00",
   "news": [
+    {
+      "h": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "es": "Boletín The China Connection de CNBC: El 'acantilado' debajo de las ciudades de China",
+      "d": "Beijing tiene margen para endeudarse, pero los gobiernos locales muy endeudados están recortando sus préstamos, aumentando los riesgos para el crecimiento y para la forma en que China gestiona su deuda local.",
+      "u": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T23:10:16+00:00"
+    },
+    {
+      "h": "Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth",
+      "es": "Análisis: los fabricantes chinos de diamantes cultivados en laboratorio apuntan a los sectores de inteligencia artificial y chips para la próxima ola de crecimiento",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysischinas-labgrown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth-4973927",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-26T23:06:05+00:00"
+    },
+    {
+      "h": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "es": "De Wall Street a Silicon Valley, la IPO de Anthropic está a punto de tener un enorme \"efecto de goteo\"",
+      "d": "Con el comercio de IA flaqueando últimamente y las tasas de interés en aumento, la IPO de Anthropic está adquiriendo una importancia enorme.",
+      "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T22:50:07+00:00"
+    },
     {
       "h": "Israeli election draws tens of thousands of citizens flying back to vote",
       "es": "Las elecciones israelíes atraen a decenas de miles de ciudadanos que regresan a votar",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-13210750",
       "published": "2026-10-26T20:15:00+00:00"
-    },
-    {
-      "h": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
-      "es": "Lo sentimos, inversores, pero no existe nada parecido a un “rally de Papá Noel” temprano. Aquí es cuando normalmente se producen las ganancias reales.",
-      "d": "A los analistas les gusta exagerar las subidas del mercado de valores en otoño, pero las cifras muestran que Santa sólo llega una vez al año.",
-      "u": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65391550",
-      "published": "2026-10-26T20:09:00+00:00"
-    },
-    {
-      "h": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
-      "es": "Los comerciantes del mercado de predicciones dicen que una oferta pública inicial de Anthropic es casi segura este año después de que la compañía presentó su solicitud ante la SEC",
-      "d": "Anthropic presentó el lunes su Formulario S-1 ante la Comisión de Bolsa y Valores.",
-      "u": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T20:08:57+00:00"
-    },
-    {
-      "h": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "es": "El Departamento de Justicia de Trump despidió ilegalmente a la fiscal de Epstein, Maurene Comey, dictamina un juez",
-      "d": "El juez ordenó que Maurene Comey, hija del ex director del FBI James Comey, fuera reintegrada retroactivamente a su trabajo como fiscal federal adjunta.",
-      "u": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T20:03:58+00:00"
     }
   ],
   "sources": [
