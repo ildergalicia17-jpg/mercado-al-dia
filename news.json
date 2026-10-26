@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-26T17:21:42.689155+00:00",
+  "updated": "2026-10-26T18:01:12.979445+00:00",
   "news": [
+    {
+      "h": "Geopolitical tensions complicate the gold bull case, says AHG president",
+      "es": "Las tensiones geopolíticas complican el caso del mercado alcista del oro, dice el presidente de AHG",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/geopolitical-tensions-complicate-the-gold-bull-case-says-ahg-president-4973383",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg",
+      "published": "2026-10-26T17:54:38+00:00"
+    },
+    {
+      "h": "Dollar General sued by FTC, U.S. states over alleged overcharging",
+      "es": "Dollar General demandado por la FTC y los estados de EE. UU. por supuestos cobros excesivos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dollar-general-sued-by-ftc-us-states-over-alleged-overcharging-4973381",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB4R0MI_M.jpg",
+      "published": "2026-10-26T17:54:10+00:00"
+    },
+    {
+      "h": "Why is Reddit stock down 6% today?",
+      "es": "¿Por qué las acciones de Reddit han bajado un 6% hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-reddit-stock-down-6-today-93CH-4973378",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-26T17:52:26+00:00"
+    },
+    {
+      "h": "US, 20 states sue Dollar General for alleged overcharges",
+      "es": "EE.UU. y 20 estados demandan a Dollar General por presuntos sobrecargos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-20-states-sue-dollar-general-for-alleged-overcharges-4973374",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1MP_L.jpg",
+      "published": "2026-10-26T17:48:19+00:00"
+    },
+    {
+      "h": "European stocks rebound as corporate optimism lifts mood ahead of rate decisions",
+      "es": "Las acciones europeas se recuperan a medida que el optimismo corporativo mejora el ánimo antes de las decisiones sobre tipos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-flat-as-investors-eye-earnings-energy-drags-4971591",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P0M1_L.jpg",
+      "published": "2026-10-26T17:42:22+00:00"
+    },
+    {
+      "h": "The arc of Trump: How the president lost the coalition that put him in the White House",
+      "es": "El arco de Trump: Cómo el presidente perdió la coalición que lo llevó a la Casa Blanca",
+      "d": "El presidente Trump forjó una coalición extraordinaria para ganar el cargo en 2024. Una nueva encuesta de CNBC muestra que la coalición ahora está seriamente debilitada.",
+      "u": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T17:36:55+00:00"
+    },
+    {
+      "h": "KLM cancels Middle East flights through winter season",
+      "es": "KLM cancela vuelos a Medio Oriente durante la temporada de invierno",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/klm-cancels-middle-east-flights-through-winter-season-93CH-4973363",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-26T17:32:49+00:00"
+    },
+    {
+      "h": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "es": "Conozca al maestro de educación financiera que ayuda a los estudiantes de secundaria a abrir sus propias cuentas IRA Roth",
+      "d": "Christopher Jackson se lastimó antes de su primer partido de la NFL. Ahora entrena a adolescentes sobre cómo generar riqueza.",
+      "u": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-33306506",
+      "published": "2026-10-26T17:32:00+00:00"
+    },
+    {
+      "h": "Anthropic IPO sympathy plays: cloud, silicon, networking, and power stocks to watch",
+      "es": "Simpatía antrópica por las OPI: acciones de nube, silicio, redes y energía a tener en cuenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-sympathy-plays-cloud-silicon-networking-and-power-stocks-to-watch-93CH-4973362",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6115G_L.jpg",
+      "published": "2026-10-26T17:29:58+00:00"
+    },
+    {
+      "h": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+      "es": "Lula gana segunda vuelta en Brasil tras predicción de que los mercados favorecían a Bolsonaro",
+      "d": "Si bien las predicciones del mercado apuntaban a una clara victoria de Bolsonaro, Lula salió ganador en una reñida carrera.",
+      "u": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T17:29:37+00:00"
+    },
+    {
+      "h": "Cadence unveils suite of AI models that chipmakers can run in-house",
+      "es": "Cadence presenta un conjunto de modelos de inteligencia artificial que los fabricantes de chips pueden ejecutar internamente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cadence-unveils-nvidiabacked-ai-models-that-chipmakers-can-run-inhouse-4972805",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P15I_L.jpg",
+      "published": "2026-10-26T17:24:23+00:00"
+    },
+    {
+      "h": "Anthropic relies on Google, Amazon and Microsoft for nearly half its revenue",
+      "es": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-relies-on-google-amazon-and-microsoft-for-nearly-half-its-revenue-4973358",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
+      "published": "2026-10-26T17:21:39+00:00"
+    },
+    {
+      "h": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "es": "La exitosa cotización de acciones de Anthropic: 5 cosas sorprendentes que ahora sabemos",
+      "d": "El prospecto de la OPI de Anthropic tiene 355 páginas y está lleno de información de la empresa nunca antes revelada.",
+      "u": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+      "published": "2026-10-26T17:20:54+00:00"
+    },
+    {
+      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
+      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
+      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24279758",
+      "published": "2026-10-26T17:19:00+00:00"
+    },
     {
       "h": "Oil ticks lower as Saudi defense minister travels to Iran for talks to de-escalate conflict",
       "es": "El petróleo baja mientras el ministro de Defensa saudí viaja a Irán para mantener conversaciones para reducir la escalada del conflicto",
@@ -9,6 +135,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-26T17:18:53+00:00"
+    },
+    {
+      "h": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+      "es": "Microsoft ofrece adquisiciones a unos 60.000 empleados para contener los costes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1JK_L.jpg",
+      "published": "2026-10-26T17:18:21+00:00"
     },
     {
       "h": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
@@ -110,6 +245,15 @@
       "published": "2026-10-26T17:06:33+00:00"
     },
     {
+      "h": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
+      "es": "Cramer: Le pregunté a algunos expertos en tecnología qué comprar. Sorprendentemente dijeron que este stock de medicamentos",
+      "d": "¿Mirando más allá de la IA en busca del próximo gran ganador? Este stock de medicamentos podría encaminarse a una valoración de 2 billones de dólares.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T17:00:14+00:00"
+    },
+    {
       "h": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "es": "El Departamento de Justicia de Trump despidió ilegalmente a la fiscal de Epstein, Maurene Comey, dictamina un juez",
       "d": "El juez ordenó que Comey, hija del ex director del FBI James Comey, sea reintegrada retroactivamente a su trabajo como fiscal adjunta de los Estados Unidos.",
@@ -126,150 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-92522168",
       "published": "2026-10-26T16:30:00+00:00"
-    },
-    {
-      "h": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-      "es": "Mi esposo quiere vender nuestra casa de $1,5 millones e invertir las ganancias. Pero aquí es donde criamos a nuestros hijos y no puedo soportar irme.",
-      "d": "\"Quiere comprar algo por 600.000 dólares ahora que tenemos el nido vacío\".",
-      "u": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80913840",
-      "published": "2026-10-26T16:30:00+00:00"
-    },
-    {
-      "h": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "es": "Anthropic advierte sobre un 'riesgo catastrófico' para la humanidad antes de la exitosa cotización de acciones",
-      "d": "La compañía será la primera verdadera empresa de inteligencia artificial en salir a bolsa a medida que las empresas de tecnología continúen invirtiendo fuertemente en IA.",
-      "u": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-26T16:27:17+00:00"
-    },
-    {
-      "h": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-      "es": "Elon Musk dice que más de 200 neonubes se enfrentan a una \"muerte a nivel de guppy\"",
-      "d": "Los inversores ya están cuestionando la expansión de las neonubes impulsada por la deuda y si la gran construcción de infraestructura de IA generará retornos a largo plazo.",
-      "u": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T16:24:23+00:00"
-    },
-    {
-      "h": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "es": "“Solo necesitas ver episodios de Judge Judy”: tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
-      "d": "\"Considere algunos ejemplos conocidos de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
-      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19205579",
-      "published": "2026-10-26T16:15:00+00:00"
-    },
-    {
-      "h": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-      "es": "Este estratega dice que es una cuestión de cuándo, no de si, estallará la burbuja de la IA. Aquí le mostramos cómo prepararse para eso.",
-      "d": "TS Lombard dice que el tema de la inversión en IA es una burbuja destinada a estallar. Lo que los inversores no deberían intentar hacer es saber cuándo sucederá eso.",
-      "u": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-30648989",
-      "published": "2026-10-26T16:05:00+00:00"
-    },
-    {
-      "h": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-      "es": "Es probable que la Reserva Federal mantenga estables las tasas de interés en octubre. Esto es lo que eso significa para los consumidores",
-      "d": "Se espera que la Reserva Federal mantenga su tipo de interés a un día sin cambios al concluir su reunión de octubre de esta semana.",
-      "u": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T16:03:57+00:00"
-    },
-    {
-      "h": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-      "es": "Algunos republicanos se oponen a Trump en materia de aranceles. Susan Collins, de Maine, acaba de conseguir que se retracte de los impuestos canadienses.",
-      "d": "Mientras se enfrenta a una dura carrera de mitad de período, la senadora republicana durante cinco mandatos promociona su exitoso esfuerzo de cabildeo contra ciertos aranceles a Canadá.",
-      "u": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-20078796",
-      "published": "2026-10-26T16:01:00+00:00"
-    },
-    {
-      "h": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-      "es": "La NBA ingresa a los mercados de predicción con las asociaciones de Kalshi y Polymarket",
-      "d": "La liga también firmó un memorando de entendimiento con la CFTC, el regulador federal de los mercados de predicción.",
-      "u": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T16:00:59+00:00"
-    },
-    {
-      "h": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-      "es": "Senado de Alaska: Peltola busca una rápida desestimación de la demanda electoral del Departamento de Justicia antes de la mitad de período",
-      "d": "El ganador de las elecciones al Senado de Alaska podría determinar si los republicanos o los demócratas tendrán mayoría en el Senado en el próximo Congreso.",
-      "u": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T15:55:37+00:00"
-    },
-    {
-      "h": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-      "es": "A los inversores les está yendo igual de bien este año al evitar la IA. Cómo invertir si el comercio tecnológico sigue fracasando",
-      "d": "Un índice S&P 500 sin acciones de IA está superando al índice tradicional. Estos sectores y acciones podrían ser ganadores si el comercio de IA sigue desgastándose.",
-      "u": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T15:39:55+00:00"
-    },
-    {
-      "h": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "es": "Mi cónyuge recibió $90,000 de mi 401(k) en nuestro divorcio. ¿Cómo es eso justo?",
-      "d": "\"Me jubilé en 2020 y, unos años después, me divorcié\".",
-      "u": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78876477",
-      "published": "2026-10-26T15:31:00+00:00"
-    },
-    {
-      "h": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "es": "¿Es mala idea comprar una alianza de boda en Quince? Es un tercio del precio de un joyero local.",
-      "d": "“Estoy un poco ansioso por comprar algo tan grande” de un minorista en línea conocido por sus duplicados a precios reducidos de ropa y accesorios populares.",
-      "u": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-23308572",
-      "published": "2026-10-26T15:15:00+00:00"
-    },
-    {
-      "h": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "es": "Quiero pagar $4,500 de una deuda de tarjeta de crédito en 2 meses. ¿Es esto posible?",
-      "d": "\"Tengo 32 años y siento que ya debería saber cómo hacer estas cosas\".",
-      "u": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-36620363",
-      "published": "2026-10-26T15:07:00+00:00"
-    },
-    {
-      "h": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-      "es": "Fanatics se asocia con OpenAI para una nueva función de sugerencias de compras impulsada por IA",
-      "d": "Fanatics está utilizando IA para ayudar a los compradores a navegar por más de 1,5 millones de artículos deportivos, con una función Shop the Look impulsada por OpenAI Codex.",
-      "u": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T15:05:13+00:00"
-    },
-    {
-      "h": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "es": "Walmart, Best Buy y otras tiendas ahora utilizan etiquetas de precios digitales. Los críticos dicen que podrían generar precios diferentes para diferentes compradores.",
-      "d": "Los pasillos de las tiendas se están renovando digitalmente.",
-      "u": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37834610",
-      "published": "2026-10-26T15:03:00+00:00"
-    },
-    {
-      "h": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-      "es": "Trump dice que pronto decidirá si \"llegará a un acuerdo\" con Irán o \"terminará con él\"",
-      "d": "Trump dijo que está sopesando un acuerdo con Irán frente a una nueva acción militar a medida que aumentan las tensiones en todo Medio Oriente.",
-      "u": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T14:36:03+00:00"
     }
   ],
   "sources": [
