@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-26T18:01:12.979445+00:00",
+  "updated": "2026-10-26T18:49:09.802091+00:00",
   "news": [
+    {
+      "h": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "es": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "d": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+      "u": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T18:43:25+00:00"
+    },
+    {
+      "h": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+      "es": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+      "d": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
+      "u": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T18:37:01+00:00"
+    },
+    {
+      "h": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
+      "es": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P15M_L.jpg",
+      "published": "2026-10-26T18:36:25+00:00"
+    },
+    {
+      "h": "Top infrastructure software stocks ahead of earnings: BofA Securities",
+      "es": "Top infrastructure software stocks ahead of earnings: BofA Securities",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-infrastructure-software-stocks-ahead-of-earnings-bofa-securities-4973417",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+      "published": "2026-10-26T18:26:16+00:00"
+    },
+    {
+      "h": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "es": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "d": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+      "u": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00003294",
+      "published": "2026-10-26T18:24:00+00:00"
+    },
+    {
+      "h": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "es": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19916000",
+      "published": "2026-10-26T18:15:00+00:00"
+    },
+    {
+      "h": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "es": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "d": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
+      "u": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-71703172",
+      "published": "2026-10-26T18:10:00+00:00"
+    },
+    {
+      "h": "Why is Bloom Energy stock surging today?",
+      "es": "Why is Bloom Energy stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4973404",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K0JU_M.jpg",
+      "published": "2026-10-26T18:09:23+00:00"
+    },
+    {
+      "h": "Why is Intel stock rallying today?",
+      "es": "Why is Intel stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-4973403",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE031A8_M.jpg",
+      "published": "2026-10-26T18:07:28+00:00"
+    },
+    {
+      "h": "Tesla and Xp among market cap stock movers on Monday",
+      "es": "Tesla and Xp among market cap stock movers on Monday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-and-xp-among-market-cap-stock-movers-on-monday-93CH-4973401",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6H1AX_M.jpg",
+      "published": "2026-10-26T18:07:03+00:00"
+    },
+    {
+      "h": "ConocoPhillips to reduce workforce in Canada",
+      "es": "ConocoPhillips to reduce workforce in Canada",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/conocophillips-to-reduce-workforce-in-canada-4973393",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1NL_L.jpg",
+      "published": "2026-10-26T18:07:02+00:00"
+    },
+    {
+      "h": "Why is Coherent stock surging today?",
+      "es": "Why is Coherent stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-4973396",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-26T18:03:45+00:00"
+    },
+    {
+      "h": "Building permits, durable goods orders, new home sales and consumer confidence due Tuesday",
+      "es": "Building permits, durable goods orders, new home sales and consumer confidence due Tuesday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/building-permits-durable-goods-orders-new-home-sales-and-consumer-confidence-due-tuesday-93CH-4973395",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-26T18:01:25+00:00"
+    },
+    {
+      "h": "Boeing forecast to post small quarterly loss despite recent wins, analysts say",
+      "es": "Boeing forecast to post small quarterly loss despite recent wins, analysts say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-forecast-to-post-small-quarterly-lossdespite-recent-wins-analysts-say-4973392",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1NM_L.jpg",
+      "published": "2026-10-26T18:00:35+00:00"
+    },
     {
       "h": "Geopolitical tensions complicate the gold bull case, says AHG president",
       "es": "Las tensiones geopolíticas complican el caso del mercado alcista del oro, dice el presidente de AHG",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1JK_L.jpg",
       "published": "2026-10-26T17:18:21+00:00"
-    },
-    {
-      "h": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "es": "Microsoft ofrece adquisiciones voluntarias a 60.000 empleados mientras la IA impulsa la eficiencia",
-      "d": "Microsoft está tratando de equilibrar el rápido desarrollo de una infraestructura de IA con la eficiencia del capital.",
-      "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T17:18:04+00:00"
-    },
-    {
-      "h": "Can JetBlue still avoid bankruptcy? Analysis says yes, but it won’t be easy",
-      "es": "¿JetBlue aún puede evitar la quiebra? El análisis dice que sí, pero no será fácil",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/can-jetblue-still-avoid-bankruptcy-analysis-says-yes-but-it-wont-be-easy-4973352",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB5F0HP_M.jpg",
-      "published": "2026-10-26T17:13:37+00:00"
-    },
-    {
-      "h": "BNP Paribas weighs jumbo €16B SRT as European issuance accelerates - Bloomberg",
-      "es": "BNP Paribas apuesta por un SRT gigante de 16.000 millones de euros a medida que se acelera la emisión europea - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bnp-paribas-weighs-jumbo-16b-srt-as-european-issuance-accelerates--bloomberg-4973351",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA5P005_M.jpg",
-      "published": "2026-10-26T17:12:26+00:00"
-    },
-    {
-      "h": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
-      "es": "El CEO de Audi enfrenta una reacción violenta después de unirse a Trump en un mitin de campaña de mitad de período",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P0J2_L.jpg",
-      "published": "2026-10-26T17:12:23+00:00"
-    },
-    {
-      "h": "FTSE 100 today: Stocks climb as oil slips on Iran de-escalation hopes",
-      "es": "FTSE 100 hoy: Las acciones suben a medida que el petróleo cae ante las esperanzas de desescalada de Irán",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-gold-miners-gain-oil-eases-4971574",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
-      "published": "2026-10-26T17:09:17+00:00"
-    },
-    {
-      "h": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.76%",
-      "es": "Las bolsas de valores del Reino Unido cierran al alza; Investing.com Reino Unido 100 sube un 0,76%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-076-4973349",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LondonStockExchange_800x533_L_1625650275.jpg",
-      "published": "2026-10-26T17:08:56+00:00"
-    },
-    {
-      "h": "Spain stocks higher at close of trade; IBEX 35 up 0.23%",
-      "es": "Las bolsas de España cierran al alza; El IBEX 35 sube un 0,23%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-023-4973346",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/bmachada1_p1_M_1440050351.jpg",
-      "published": "2026-10-26T17:08:30+00:00"
-    },
-    {
-      "h": "Portugal stocks lower at close of trade; PSI down 0.75%",
-      "es": "Las bolsas de Portugal cierran a la baja; El PSI bajó un 0,75%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-075-4973345",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Portugal_800x533_L_1630015779.jpg",
-      "published": "2026-10-26T17:08:05+00:00"
-    },
-    {
-      "h": "Netherlands stocks higher at close of trade; AEX up 0.14%",
-      "es": "Las bolsas de Holanda cierran al alza; AEX sube un 0,14%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-014-4973344",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0EP_L.jpg",
-      "published": "2026-10-26T17:07:37+00:00"
-    },
-    {
-      "h": "Italy stocks higher at close of trade; Investing.com Italy 40 up 1.31%",
-      "es": "Las bolsas de valores de Italia cierran al alza; Investing.com Italia 40 sube un 1,31%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-131-4973343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB1M0IJ_M.jpg",
-      "published": "2026-10-26T17:07:11+00:00"
-    },
-    {
-      "h": "European shares rebound on easing crude, Moody’s French reprieve",
-      "es": "Las bolsas europeas se recuperan tras la flexibilización del crudo y el respiro de Moody's en Francia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-hold-as-markets-weigh-iran-diplomacy-await-cbanks-4971469",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "published": "2026-10-26T17:06:33+00:00"
-    },
-    {
-      "h": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
-      "es": "Cramer: Le pregunté a algunos expertos en tecnología qué comprar. Sorprendentemente dijeron que este stock de medicamentos",
-      "d": "¿Mirando más allá de la IA en busca del próximo gran ganador? Este stock de medicamentos podría encaminarse a una valoración de 2 billones de dólares.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T17:00:14+00:00"
-    },
-    {
-      "h": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "es": "El Departamento de Justicia de Trump despidió ilegalmente a la fiscal de Epstein, Maurene Comey, dictamina un juez",
-      "d": "El juez ordenó que Comey, hija del ex director del FBI James Comey, sea reintegrada retroactivamente a su trabajo como fiscal adjunta de los Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T16:49:25+00:00"
-    },
-    {
-      "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "es": "“Ella está viviendo el sueño”: Mi madrastra dijo que puedo comprar la casa de mi infancia por 850.000 dólares. ¿Se está aprovechando de mí?",
-      "d": "“Mi difunto padre compró nuestra casa por 250.000 dólares en la década de 1990”.",
-      "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92522168",
-      "published": "2026-10-26T16:30:00+00:00"
     }
   ],
   "sources": [
