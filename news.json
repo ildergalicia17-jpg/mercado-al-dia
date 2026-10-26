@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-26T22:27:25.532007+00:00",
+  "updated": "2026-10-26T23:04:46.863717+00:00",
   "news": [
+    {
+      "h": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "es": "Las elecciones israelíes atraen a decenas de miles de ciudadanos que regresan a votar",
+      "d": "Decenas de miles de israelíes regresan a sus hogares para votar en unas elecciones reñidas.",
+      "u": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-26T22:46:35+00:00"
+    },
+    {
+      "h": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "es": "Healey promete mermelada y pepinillos más baratos en el paquete de 'soluciones diarias' previo al presupuesto",
+      "d": "La canciller eliminará los aranceles sobre algunos productos básicos como parte de los planes para dar a los hogares un \"respiro\".",
+      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
+      "published": "2026-10-26T22:30:02+00:00"
+    },
+    {
+      "h": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "es": "“Solo necesitas ver episodios de Judge Judy”: tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
+      "d": "\"Considere algunos ejemplos familiares de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
+      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19205579",
+      "published": "2026-10-26T22:30:00+00:00"
+    },
     {
       "h": "DOJ charges ex-FBI Director James Comey in new case",
       "es": "El Departamento de Justicia acusa al exdirector del FBI James Comey en un nuevo caso",
@@ -65,6 +92,15 @@
       "published": "2026-10-26T21:54:53+00:00"
     },
     {
+      "h": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+      "es": "Microsoft ofrece adquisiciones a unos 60.000 empleados para contener los costes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1JK_L.jpg",
+      "published": "2026-10-26T21:49:32+00:00"
+    },
+    {
       "h": "JetBlue posts wider quarterly loss, raises annual forecast as it seeks to ease debt worries",
       "es": "JetBlue registra pérdidas trimestrales más amplias y eleva el pronóstico anual mientras busca aliviar las preocupaciones sobre la deuda",
       "d": "",
@@ -108,6 +144,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T1SG_L.jpg",
       "published": "2026-10-26T21:45:14+00:00"
+    },
+    {
+      "h": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "es": "Nvidia, AMD y Broadcom podrían comprar acciones de Meta como parte de una oferta de acciones de 35.000 millones de dólares",
+      "d": "Meta busca recaudar un total de 95 mil millones de dólares a través de acuerdos relacionados con acciones que se extenderán hasta principios del próximo año.",
+      "u": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-00003294",
+      "published": "2026-10-26T21:44:00+00:00"
     },
     {
       "h": "Ex-FBI chief James Comey charged again by Trump administration’s DOJ",
@@ -225,51 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-26T20:03:58+00:00"
-    },
-    {
-      "h": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-      "es": "Es probable que la Reserva Federal mantenga estables las tasas de interés en octubre. Esto es lo que eso significa para los consumidores",
-      "d": "Se espera que la Reserva Federal mantenga su tipo de interés a un día sin cambios al concluir su reunión de octubre de esta semana.",
-      "u": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T18:51:23+00:00"
-    },
-    {
-      "h": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "es": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "d": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
-      "u": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T18:43:25+00:00"
-    },
-    {
-      "h": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-      "es": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-      "d": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
-      "u": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T18:37:01+00:00"
-    },
-    {
-      "h": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
-      "es": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P15M_L.jpg",
-      "published": "2026-10-26T18:36:25+00:00"
-    },
-    {
-      "h": "Top infrastructure software stocks ahead of earnings: BofA Securities",
-      "es": "Top infrastructure software stocks ahead of earnings: BofA Securities",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-infrastructure-software-stocks-ahead-of-earnings-bofa-securities-4973417",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
-      "published": "2026-10-26T18:26:16+00:00"
     }
   ],
   "sources": [
