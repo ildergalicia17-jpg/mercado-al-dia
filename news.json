@@ -1,6 +1,195 @@
 {
-  "updated": "2026-10-27T13:38:22.144442+00:00",
+  "updated": "2026-10-27T14:31:13.547749+00:00",
   "news": [
+    {
+      "h": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "es": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "d": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T14:26:57+00:00"
+    },
+    {
+      "h": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "es": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "d": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+      "u": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T14:25:34+00:00"
+    },
+    {
+      "h": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "es": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "d": "Meta on Monday announced plans to raise a total of $95 billion to support its investments in artificial intelligence infrastructure.",
+      "u": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T14:19:36+00:00"
+    },
+    {
+      "h": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "es": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "d": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
+      "u": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T14:18:16+00:00"
+    },
+    {
+      "h": "Nasdaq 100 approaches key resistance cluster at 29800: Live levels",
+      "es": "Nasdaq 100 approaches key resistance cluster at 29800: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-27T14:15:59+00:00"
+    },
+    {
+      "h": "S&P 500 tests SMA(50)/SMA(200) resistance: Live levels",
+      "es": "S&P 500 tests SMA(50)/SMA(200) resistance: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-27T14:15:58+00:00"
+    },
+    {
+      "h": "Alphabet C in freefall below all MAs: Live levels",
+      "es": "Alphabet C in freefall below all MAs: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-27T14:15:56+00:00"
+    },
+    {
+      "h": "Dow Jones consolidates in Bull Flag near 52,300 support: Live",
+      "es": "Dow Jones consolidates in Bull Flag near 52,300 support: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-27T14:15:53+00:00"
+    },
+    {
+      "h": "DAX trapped between MA support and SMA 200 resistance: Live levels",
+      "es": "DAX trapped between MA support and SMA 200 resistance: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dax-trapped-below-cloud-resistance-with-bear-flag-forming-live-93CH-4971556",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-27T14:15:43+00:00"
+    },
+    {
+      "h": "Alphabet A deeply oversold after bear flag breakdown: Live levels",
+      "es": "Alphabet A deeply oversold after bear flag breakdown: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-a-deeply-oversold-below-all-mas-live-levels-93CH-4973058",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA6H03D_M.jpg",
+      "published": "2026-10-27T14:15:33+00:00"
+    },
+    {
+      "h": "Apple rejects ATH with Evening Star signal: Live levels",
+      "es": "Apple rejects ATH with Evening Star signal: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-pulls-back-in-ascending-channel-near-ath-live-levels-93CH-4973060",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEA9F0Z3_M.jpg",
+      "published": "2026-10-27T14:15:32+00:00"
+    },
+    {
+      "h": "NVIDIA rejected from ATH, trapped below cloud: Live levels",
+      "es": "NVIDIA rejected from ATH, trapped below cloud: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-tests-sma-200-after-double-top-breakdown-live-levels-93CH-4973061",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+      "published": "2026-10-27T14:15:32+00:00"
+    },
+    {
+      "h": "SanDisk tests oversold bounce inside descending wedge: Live levels",
+      "es": "SanDisk tests oversold bounce inside descending wedge: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sandisk-in-steep-downtrend-doji-signals-indecision-live-levels-93CH-4973059",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-27T14:15:30+00:00"
+    },
+    {
+      "h": "Intel tests SMA(20) amid macro downtrend: Live levels",
+      "es": "Intel tests SMA(20) amid macro downtrend: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-tests-critical-support-in-descending-channel-live-levels-93CH-4973057",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEI2E0UI_L.jpg",
+      "published": "2026-10-27T14:15:24+00:00"
+    },
+    {
+      "h": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+      "es": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+      "d": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
+      "u": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T14:07:03+00:00"
+    },
+    {
+      "h": "A rising wealth tide lifts all yachts",
+      "es": "A rising wealth tide lifts all yachts",
+      "d": "As the yachting world prepares for the Fort Lauderdale International Boat Show this week, executives are betting on wealthy Americans to power the industry.",
+      "u": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T14:01:12+00:00"
+    },
+    {
+      "h": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
+      "es": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
+      "d": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
+      "u": "https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-14671274",
+      "published": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "h": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "es": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "d": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
+      "u": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-33306506",
+      "published": "2026-10-27T13:54:00+00:00"
+    },
+    {
+      "h": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
+      "es": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
+      "d": "Big life decisions in your 30s and 40s will determine just how well you retire.",
+      "u": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-15921386",
+      "published": "2026-10-27T13:51:00+00:00"
+    },
+    {
+      "h": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+      "es": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+      "d": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T13:42:26+00:00"
+    },
+    {
+      "h": "Why SoFi’s stock is soaring after earnings",
+      "es": "Why SoFi’s stock is soaring after earnings",
+      "d": "SoFi’s early 2027 forecast is impressing Wall Street after a tough stretch for the stock.",
+      "u": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-878840",
+      "published": "2026-10-27T13:37:00+00:00"
+    },
     {
       "h": "A bigger-than-expected win for Democrats in the midterms could deliver ‘short-lived weakness’ for stocks, strategists say",
       "es": "A bigger-than-expected win for Democrats in the midterms could deliver ‘short-lived weakness’ for stocks, strategists say",
@@ -27,6 +216,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
       "published": "2026-10-27T13:28:40+00:00"
+    },
+    {
+      "h": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "es": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "d": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "u": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+      "published": "2026-10-27T13:25:54+00:00"
     },
     {
       "h": "Why is Essential Properties Realty Trust stock sliding today?",
@@ -72,204 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-27T13:22:55+00:00"
-    },
-    {
-      "h": "Why is Moderna stock declining today?",
-      "es": "Why is Moderna stock declining today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-declining-today-93CH-4975801",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1598437227.jpg",
-      "published": "2026-10-27T13:22:07+00:00"
-    },
-    {
-      "h": "Why is CoinShares stock climbing today?",
-      "es": "Why is CoinShares stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-coinshares-stock-climbing-today-93CH-4975800",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-27T13:21:45+00:00"
-    },
-    {
-      "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-      "es": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-      "d": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-      "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-51699751",
-      "published": "2026-10-27T13:21:00+00:00"
-    },
-    {
-      "h": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "es": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "d": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
-      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ea9/live/b5489540-d1fd-11f1-b30f-21253679b290.jpg",
-      "published": "2026-10-27T13:18:37+00:00"
-    },
-    {
-      "h": "Terrestrial Energy stock surges on $25M buyback program",
-      "es": "Terrestrial Energy stock surges on $25M buyback program",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/terrestrial-energy-stock-surges-on-25m-buyback-program-4975766",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-10-27T13:15:46+00:00"
-    },
-    {
-      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "es": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "d": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-10-27T13:15:00+00:00"
-    },
-    {
-      "h": "Arlo Technologies stock rises on $100M buyback program",
-      "es": "Arlo Technologies stock rises on $100M buyback program",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arlo-technologies-stock-rises-on-100m-buyback-program-4975695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-      "published": "2026-10-27T13:08:33+00:00"
-    },
-    {
-      "h": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "es": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "d": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "u": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-27T13:08:26+00:00"
-    },
-    {
-      "h": "UPS beats quarterly expectations, raises full-year guidance again",
-      "es": "UPS beats quarterly expectations, raises full-year guidance again",
-      "d": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-      "u": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T13:04:02+00:00"
-    },
-    {
-      "h": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-      "es": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-      "d": "",
-      "u": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T12:58:58+00:00"
-    },
-    {
-      "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "es": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "d": "Broadcom arranged chip financing for Anthropic, and Meta upsized its secondary stock sale.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T12:51:16+00:00"
-    },
-    {
-      "h": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "es": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "d": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
-      "u": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T12:44:46+00:00"
-    },
-    {
-      "h": "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
-      "es": "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oppenheimer-holds-150-coreweave-target-sees-bond-selloff-as-overdone-4975535",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "published": "2026-10-27T12:36:17+00:00"
-    },
-    {
-      "h": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
-      "es": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
-      "d": "Pampers over AI? Procter & Gamble's valuation crosses above Alphabet's.",
-      "u": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T12:33:52+00:00"
-    },
-    {
-      "h": "UPS raises annual forecasts as higher-margin parcels drive quarterly profit beat",
-      "es": "UPS raises annual forecasts as higher-margin parcels drive quarterly profit beat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ups-raises-annual-profit-revenue-forecasts-as-higherpaying-shipments-boost-margin-4974771",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UN_L.jpg",
-      "published": "2026-10-27T12:30:26+00:00"
-    },
-    {
-      "h": "TSX futures point higher with upcoming Bank of Canada meeting in focus",
-      "es": "TSX futures point higher with upcoming Bank of Canada meeting in focus",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-with-upcoming-bank-of-canada-meeting-in-focus-4975484",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "published": "2026-10-27T12:30:11+00:00"
-    },
-    {
-      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-10-27T12:30:00+00:00"
-    },
-    {
-      "h": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
-      "es": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
-      "d": "Israeli voters will head to the polls to cast their votes in a general election on Tuesday.",
-      "u": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T12:28:52+00:00"
-    },
-    {
-      "h": "Goldman downgrades Gjensidige as slowing price hikes limit earnings upside",
-      "es": "Goldman downgrades Gjensidige as slowing price hikes limit earnings upside",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-downgrades-gjensidige-as-slowing-price-hikes-limit-earnings-upside-4975468",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-27T12:25:03+00:00"
-    },
-    {
-      "h": "Why is CTS stock surging today?",
-      "es": "Why is CTS stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cts-stock-surging-today-93CH-4975455",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-27T12:22:49+00:00"
-    },
-    {
-      "h": "Why is PACCAR stock surging today?",
-      "es": "Why is PACCAR stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-paccar-stock-surging-today-93CH-4975453",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-27T12:22:08+00:00"
-    },
-    {
-      "h": "Is Robinhood stock setup strong enough to trigger a post earnings rally today?",
-      "es": "Is Robinhood stock setup strong enough to trigger a post earnings rally today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/is-robinhood-stock-setup-strong-enough-to-trigger-a-post-earnings-rally-today-93CH-4975452",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Robinhood_800x533_L_1595405475.jpg",
-      "published": "2026-10-27T12:22:03+00:00"
     }
   ],
   "sources": [
