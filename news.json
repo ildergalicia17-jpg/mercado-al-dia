@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-27T16:09:10.620645+00:00",
+  "updated": "2026-10-27T16:56:26.603966+00:00",
   "news": [
+    {
+      "h": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "es": "JetBlue ha estado perdiendo dinero durante años. Simplemente trazó un camino hacia la rentabilidad.",
+      "d": "Las acciones de JetBlue suben más del 20% mientras un nuevo objetivo de ganancias ayuda a calmar los temores sobre la viabilidad de la aerolínea.",
+      "u": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70579743",
+      "published": "2026-10-27T16:52:00+00:00"
+    },
+    {
+      "h": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
+      "es": "¿Cuándo saldrá Anthropic a bolsa? Esto es lo que debe saber sobre el cronograma de la OPI.",
+      "d": "Al presentar la documentación de IPO el lunes, Anthropic puede realizar su gira para inversores la semana del 9 de noviembre y sería elegible para salir a bolsa la semana siguiente.",
+      "u": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-23297277",
+      "published": "2026-10-27T16:38:00+00:00"
+    },
+    {
+      "h": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "es": "Ripple llega a un acuerdo con Robinhood para expandir su dólar digital RLUSD",
+      "d": "A medida que las criptomonedas evolucionan más allá de sus raíces comerciales y los mercados globales pasan a tener liquidez las 24 horas del día, los 7 días de la semana, las monedas estables se están convirtiendo en una infraestructura financiera esencial.",
+      "u": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T16:35:45+00:00"
+    },
+    {
+      "h": "Poland stocks higher at close of trade; WIG30 up 0.96%",
+      "es": "Las bolsas de Polonia cierran al alza; WIG30 sube un 0,96%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-096-4976476",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
+      "published": "2026-10-27T16:35:03+00:00"
+    },
+    {
+      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.35%",
+      "es": "Las bolsas de Dinamarca cierran al alza; OMX Copenhague 20 sube un 0,35%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-035-4976470",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-27T16:30:04+00:00"
+    },
+    {
+      "h": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "es": "Oracle integra ChatGPT y Codex en aplicaciones y amplía su línea de chips en la nube",
+      "d": "Oracle está integrando ChatGPT y Codex de OpenAI en sus aplicaciones y planea agregar Google TPU y el chip Jalapeño de OpenAI a OCI.",
+      "u": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T16:28:16+00:00"
+    },
+    {
+      "h": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
+      "es": "Los inversores en bonos están empezando a decir “cualquier cosa menos tecnología”. Lo que eso significa para el auge de la IA.",
+      "d": "La financiación de la IA ha sido más difícil y costosa de conseguir a medida que el auge del gasto de capital es objeto de un mayor escrutinio.",
+      "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89277748",
+      "published": "2026-10-27T16:24:00+00:00"
+    },
+    {
+      "h": "Oakley Capital explores sale of Phenna Group testing firm - Bloomberg",
+      "es": "Oakley Capital explora la venta de la firma de pruebas de Phenna Group - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oakley-capital-explores-sale-of-phenna-group-testing-firm--bloomberg-93CH-4976465",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-27T16:21:53+00:00"
+    },
+    {
+      "h": "One week out, prediction markets see Democrats as favored to sweep Congress",
+      "es": "A una semana, los mercados de predicciones ven a los demócratas como los favoritos para arrasar en el Congreso",
+      "d": "Los intercambios de contratos de eventos ven una probabilidad de dos entre tres de que los demócratas tomen el control tanto de la Cámara como del Senado.",
+      "u": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T16:15:21+00:00"
+    },
+    {
+      "h": "AMD stock rallies on expanded Meta AI infrastructure deal and broader chip rally",
+      "es": "Las acciones de AMD se recuperan gracias al acuerdo ampliado de infraestructura Meta AI y al repunte más amplio de los chips",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amd-stock-rallies-on-expanded-meta-ai-infrastructure-deal-and-broader-chip-rally-4976452",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL7410N_L.jpg",
+      "published": "2026-10-27T16:14:17+00:00"
+    },
+    {
+      "h": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
+      "es": "Cramer dice que falta algo en el repunte del mercado del martes y no está ansioso por intervenir",
+      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T16:13:07+00:00"
+    },
+    {
+      "h": "JPMorgan says ex-banker Rana pushed sister, friend to lie to support sexual assault case",
+      "es": "JPMorgan dice que el exbanquero Rana presionó a su hermana y a su amiga a mentir para apoyar el caso de agresión sexual",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-says-exbanker-rana-pushed-sister-friend-to-lie-to-support-sexual-assault-case-4976447",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1NC_L.jpg",
+      "published": "2026-10-27T16:12:35+00:00"
+    },
+    {
+      "h": "Lula’s election win leaves Brazil facing a fiscal tightrope",
+      "es": "La victoria electoral de Lula deja a Brasil frente a una cuerda floja fiscal",
+      "d": "La victoria electoral de Lula sacudió los mercados brasileños y estableció una prueba fiscal mientras sopesa las costosas promesas de campaña con la presión para controlar el gasto.",
+      "u": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T16:12:05+00:00"
+    },
+    {
+      "h": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+      "es": "Oracle amplía el acuerdo de suministro de chips con Nvidia y agrega ofertas de Google y Cerebras",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings-4976437",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1N9_L.jpg",
+      "published": "2026-10-27T16:07:19+00:00"
+    },
+    {
+      "h": "Prediction market Kalshi expands safeguards for young traders",
+      "es": "El mercado de predicciones Kalshi amplía las salvaguardias para los comerciantes jóvenes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/prediction-market-kalshi-expands-safeguards-for-young-traders-4976435",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1N7_L.jpg",
+      "published": "2026-10-27T16:06:49+00:00"
+    },
+    {
+      "h": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
+      "es": "Hilton no cumple con las estimaciones de ingresos trimestrales y advierte sobre el impacto en Medio Oriente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hilton-raises-annual-room-revenue-growth-forecast-on-steady-us-travel-demand-4974790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UC_L.jpg",
+      "published": "2026-10-27T16:01:36+00:00"
+    },
+    {
+      "h": "Top E&C stocks to watch ahead of Q3 earnings, says Citi",
+      "es": "Principales acciones de ingeniería y construcción a tener en cuenta antes de las ganancias del tercer trimestre, dice Citi",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-ec-stocks-to-watch-ahead-of-q3-earnings-says-citi-4976409",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/green3_b._M_1440048377.jpg",
+      "published": "2026-10-27T15:57:00+00:00"
+    },
     {
       "h": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
       "es": "Banga del Banco Mundial: La disponibilidad de capital \"no es realmente un problema\", ya que la demanda de IA eleva los costos de endeudamiento",
@@ -9,6 +162,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T15:55:57+00:00"
+    },
+    {
+      "h": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "es": "Se espera que la Reserva Federal mantenga las tasas estables, pero Warsh podría indicar el camino para realizar más aumentos",
+      "d": "Los mercados, abrumadoramente, no esperan ningún cambio en las tasas de interés de referencia luego del aumento de septiembre.",
+      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T15:52:26+00:00"
     },
     {
       "h": "Top Auto Parts Stocks to Watch, According to Bank of America",
@@ -108,168 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-13210750",
       "published": "2026-10-27T15:30:00+00:00"
-    },
-    {
-      "h": "UPS beats quarterly expectations, raises full-year guidance again",
-      "es": "UPS supera las expectativas trimestrales y vuelve a elevar sus previsiones para todo el año",
-      "d": "UPS superó las expectativas de Wall Street para sus resultados del tercer trimestre y elevó sus previsiones para todo el año por segundo trimestre consecutivo.",
-      "u": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T15:29:49+00:00"
-    },
-    {
-      "h": "Innodata stock tumbles on report of layoffs in India and Philippines",
-      "es": "Las acciones de Innodata se desploman tras los informes de despidos en India y Filipinas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/innodata-stock-tumbles-on-report-of-layoffs-in-india-and-philippines-4976358",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
-      "published": "2026-10-27T15:29:39+00:00"
-    },
-    {
-      "h": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "es": "La nueva apuesta de McDonald's por el pollo se ve obstaculizada porque los franquiciados dicen que los pájaros son demasiado grandes",
-      "d": "Los franquiciados de McDonald's se han quejado de la \"carne dura\" y otros problemas con el nuevo pollo empanizado a mano, dijo un analista.",
-      "u": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-48023311",
-      "published": "2026-10-27T15:27:00+00:00"
-    },
-    {
-      "h": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "es": "Un destacado animador de Silicon Valley acaba de mostrar todas las razones para estar preocupados por la burbuja de la IA",
-      "d": "Si necesitaba más motivos para preocuparse por la burbuja que ha inflado el mercado de valores, no busque más.",
-      "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-44393870",
-      "published": "2026-10-27T15:25:00+00:00"
-    },
-    {
-      "h": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-      "es": "Cómo utilizar los bonos I para crear ingresos garantizados y a prueba de inflación durante la jubilación",
-      "d": "La nueva tasa de interés del bono I podría ser del 5,5% o del 5,4%, pero eso no debería cambiar su estrategia.",
-      "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39326019",
-      "published": "2026-10-27T15:25:00+00:00"
-    },
-    {
-      "h": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
-      "es": "Los abogados de un exfuncionario del FBI critican un nuevo e inusual cargo penal: \"Conducta gubernamental escandalosa\"",
-      "d": "El Departamento de Justicia acusó inicialmente a dos exfuncionarios del FBI de mentir cuando testificaron ante el Congreso en 2023 sobre su participación en las investigaciones de Hunter Biden.",
-      "u": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:19:50+00:00"
-    },
-    {
-      "h": "Two Sigma explores stake sale to resolve persistent co-founder stalemate - report",
-      "es": "Two Sigma explora la venta de acciones para resolver el persistente estancamiento de los cofundadores: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/two-sigma-explores-stake-sale-to-resolve-persistent-cofounder-stalemate--report-4976338",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
-      "published": "2026-10-27T15:19:19+00:00"
-    },
-    {
-      "h": "JetBlue shares rally after airline flags \"disconnect\" between earnings and bond rout",
-      "es": "Las acciones de JetBlue se recuperan después de que las aerolíneas señalan una \"desconexión\" entre las ganancias y la caída de los bonos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jetblue-shares-rally-as-airline-seeks-to-calm-financial-concerns-4975611",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q18B_L.jpg",
-      "published": "2026-10-27T15:18:56+00:00"
-    },
-    {
-      "h": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "es": "'Solo mira a Judge Judy': tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
-      "d": "\"Considere algunos ejemplos familiares de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
-      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19205579",
-      "published": "2026-10-27T15:15:00+00:00"
-    },
-    {
-      "h": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-      "es": "Los precios del petróleo caen después de que el líder supremo de Irán y el principal funcionario de seguridad discutieran las condiciones para poner fin a la guerra.",
-      "d": "Los renovados esfuerzos diplomáticos para poner fin a la guerra entre Estados Unidos e Israel con Irán hicieron bajar los precios del petróleo.",
-      "u": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:11:32+00:00"
-    },
-    {
-      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.36%",
-      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,36%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-036-4976311",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "published": "2026-10-27T15:10:03+00:00"
-    },
-    {
-      "h": "Why is Unifirst stock plunging today?",
-      "es": "¿Por qué se están desplomando las acciones de Unifirst hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-unifirst-stock-plunging-today-93CH-4976308",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-27T15:08:33+00:00"
-    },
-    {
-      "h": "Why is Cintas stock sliding today?",
-      "es": "¿Por qué las acciones de Cintas están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cintas-stock-sliding-today-93CH-4976305",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-27T15:07:35+00:00"
-    },
-    {
-      "h": "Cintas, UniFirst shares tumble as FTC signals intent to block $5.5 billion merger",
-      "es": "Las acciones de Cintas y UniFirst caen cuando la FTC señala su intención de bloquear una fusión de 5.500 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cintas-unifirst-shares-tumble-as-ftc-signals-intent-to-block-55-billion-merger-4976288",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-27T15:03:49+00:00"
-    },
-    {
-      "h": "With the Anthropic IPO, the devil is in the details",
-      "es": "Con la IPO de Anthropic, el diablo está en los detalles",
-      "d": "El primer borrador del prospecto de la compañía de inteligencia artificial es escaso en detalles, pero algunas cosas saltan a la vista de inmediato.",
-      "u": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-52490565",
-      "published": "2026-10-27T15:03:00+00:00"
-    },
-    {
-      "h": "Analyst explains why optical stocks are moving higher",
-      "es": "Un analista explica por qué las acciones de óptica están subiendo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analyst-explains-why-optical-stocks-are-moving-higher-4976292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6K0O4_M.jpg",
-      "published": "2026-10-27T15:02:59+00:00"
-    },
-    {
-      "h": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-      "es": "Cómo las acciones de Broadcom pueden aumentar y superar “la mayor dislocación del mercado”",
-      "d": "Las acciones de Broadcom no han ido a ninguna parte este año, pero un analista cree que éstas y otras acciones de chips de calidad como Nvidia pronto comenzarán a cotizar con valoraciones más altas.",
-      "u": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-35353496",
-      "published": "2026-10-27T15:02:00+00:00"
-    },
-    {
-      "h": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "es": "El salario mínimo aumentará, pero los jóvenes de entre 18 y 20 años no obtendrán un aumento mayor",
-      "d": "El Canciller John Healey revelará las nuevas tasas salariales en el Presupuesto y también ha anunciado medidas para ayudar a los hogares con el coste de la vida.",
-      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-27T15:01:27+00:00"
     }
   ],
   "sources": [
