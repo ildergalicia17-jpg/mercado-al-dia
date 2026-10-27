@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-27T02:12:31.173072+00:00",
+  "updated": "2026-10-27T03:20:43.465881+00:00",
   "news": [
+    {
+      "h": "TSMC to raise advanced chip packaging prices by up to 20%, report says",
+      "es": "TSMC aumentará los precios de los envases de chips avanzados hasta en un 20%, según un informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsmc-to-raise-advanced-chip-packaging-prices-by-up-to-20-report-says-4974101",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK270M1_L.jpg",
+      "published": "2026-10-27T02:55:10+00:00"
+    },
+    {
+      "h": "Why is Advantest stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Advantest hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-surging-today-93CH-4974100",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-27T02:54:18+00:00"
+    },
+    {
+      "h": "Alibaba AI model attempted Beijing server contact in test, Canada’s Cohere says",
+      "es": "El modelo de IA de Alibaba intentó contactar con el servidor de Beijing en una prueba, dice Cohere de Canadá",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alibaba-ai-model-attempted-beijing-server-contact-in-test-canadas-cohere-says-93CH-4974099",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL1J0SH_L.jpg",
+      "published": "2026-10-27T02:54:15+00:00"
+    },
+    {
+      "h": "Asia stocks jump as Anthropic IPO filing revives AI trade",
+      "es": "Las acciones asiáticas suben a medida que la presentación de una oferta pública inicial de Anthropic revive el comercio de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-anthropic-ipo-filing-revives-ai-trade-4974091",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7B05U_M.jpg",
+      "published": "2026-10-27T02:39:41+00:00"
+    },
+    {
+      "h": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "es": "Bessent cena en Cheesecake Factory y critica a Obama por broma sobre Trump",
+      "d": "Cheesecake Factory se ha convertido en un tema de conversación de campaña antes de las elecciones de la próxima semana, donde el secretario del Tesoro, Scott Bessent, cenará allí el lunes.",
+      "u": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T02:37:31+00:00"
+    },
+    {
+      "h": "Carnage beneath the record high: How to find cheap stocks without the traps",
+      "es": "Carnicería por debajo del máximo histórico: cómo encontrar acciones baratas sin trampas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/carnage-beneath-the-record-high-how-to-find-cheap-us-stocks-without-the-traps-4974088",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "published": "2026-10-27T02:33:56+00:00"
+    },
+    {
+      "h": "Anthropic IPO: These 2 chipmakers are the most exposed to more compute demand",
+      "es": "IPO antrópica: estos 2 fabricantes de chips son los más expuestos a una mayor demanda informática",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-these-2-chipmakers-are-the-most-exposed-to-more-compute-demand-93CH-4974069",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEH7Q068_L.jpg",
+      "published": "2026-10-27T02:10:36+00:00"
+    },
     {
       "h": "Hang Seng tests SMA(20) resistance in bear pennant: Live",
       "es": "Hang Seng prueba la resistencia de SMA (20) en el banderín bajista: en vivo",
@@ -207,69 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-26T22:09:35+00:00"
-    },
-    {
-      "h": "Options traders are seizing control of the S&P 500",
-      "es": "Los operadores de opciones están tomando el control del S&P 500",
-      "d": "Hay una razón por la que el índice no se ha movido mucho desde junio, según un equipo de la UBS.",
-      "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-64453953",
-      "published": "2026-10-26T22:03:00+00:00"
-    },
-    {
-      "h": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-      "es": "El chatbot de ByteDance, matriz de TikTok, ahora está dando una oportunidad a los sitios de reserva de viajes. Y el tuyo.",
-      "d": "Los consumidores en China están empezando a preguntarse, con razón, si los agentes de viajes emergentes con IA tienen una agenda oculta.",
-      "u": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08834496",
-      "published": "2026-10-26T22:00:00+00:00"
-    },
-    {
-      "h": "Pimco buys $4 billion of SpaceX AI debt package led by Apollo - Bloomberg",
-      "es": "Pimco compra 4.000 millones de dólares del paquete de deuda de IA de SpaceX liderado por Apollo - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/pimco-buys-4-billion-of-spacex-ai-debt-package-led-by-apollo--bloomberg-93CH-4973850",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-26T21:59:50+00:00"
-    },
-    {
-      "h": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-      "es": "Más del 40% de los estadounidenses se dirigen hacia la jubilación \"a ciegas\", sin ningún plan",
-      "d": "Casi la mitad de los estadounidenses no han calculado lo que necesitarán durante la jubilación.",
-      "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73908727",
-      "published": "2026-10-26T21:55:00+00:00"
-    },
-    {
-      "h": "Ben & Jerry’s founders explore deal to separate brand from owner, WSJ reports",
-      "es": "Los fundadores de Ben & Jerry's exploran un acuerdo para separar la marca del propietario, informa el WSJ",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ben--jerrys-exploring-deal-with-kkr-executive-to-separate-ice-cream-brand-from-owner-wsj-reports-4973492",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1S0_L.jpg",
-      "published": "2026-10-26T21:54:53+00:00"
-    },
-    {
-      "h": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-      "es": "Microsoft ofrece adquisiciones a unos 60.000 empleados para contener los costes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1JK_L.jpg",
-      "published": "2026-10-26T21:49:32+00:00"
-    },
-    {
-      "h": "JetBlue posts wider quarterly loss, raises annual forecast as it seeks to ease debt worries",
-      "es": "JetBlue registra pérdidas trimestrales más amplias y eleva el pronóstico anual mientras busca aliviar las preocupaciones sobre la deuda",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jetblue-airways-posts-wider-quarterly-loss-on-surging-fuel-costs-4973617",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1TU_L.jpg",
-      "published": "2026-10-26T21:49:14+00:00"
     }
   ],
   "sources": [
