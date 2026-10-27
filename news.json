@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-27T11:24:50.579484+00:00",
+  "updated": "2026-10-27T12:03:34.930542+00:00",
   "news": [
+    {
+      "h": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "es": "Mbappé lamenta el comentario 'mal juzgado' de Mao tras la reacción en China",
+      "d": "La estrella francesa se había referido al ex líder chino como un \"dictador\" durante una entrevista sobre memes.",
+      "u": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+      "published": "2026-10-27T12:02:20+00:00"
+    },
+    {
+      "h": "Why is CommVault stock sliding today?",
+      "es": "¿Por qué las acciones de CommVault están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-commvault-stock-sliding-today-93CH-4975251",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-27T11:56:30+00:00"
+    },
+    {
+      "h": "Why is On stock sliding today?",
+      "es": "¿Por qué el stock está cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-on-stock-sliding-today-93CH-4975250",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-27T11:56:10+00:00"
+    },
+    {
+      "h": "Indonesia bond auction raises $1.14bn, falls short of target",
+      "es": "Subasta de bonos de Indonesia recauda 1.140 millones de dólares, pero no alcanza el objetivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-bond-auction-raises-114bn-falls-short-of-target-93CH-4975244",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-27T11:55:00+00:00"
+    },
+    {
+      "h": "Advent raises $30 billion for latest buyout, mid-market funds",
+      "es": "Advent recauda 30.000 millones de dólares para la última adquisición y fondos del mercado medio",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/advent-raises-30-billion-for-latest-buyout-midmarket-funds-4975243",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q143_L.jpg",
+      "published": "2026-10-27T11:54:44+00:00"
+    },
+    {
+      "h": "Why is Herc Holdings stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Herc Holdings hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-herc-holdings-stock-surging-today-93CH-4975237",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-27T11:52:01+00:00"
+    },
+    {
+      "h": "Why is Xylem stock sliding today?",
+      "es": "¿Por qué las acciones de Xylem están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-xylem-stock-sliding-today-93CH-4975235",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-27T11:51:44+00:00"
+    },
+    {
+      "h": "Why is Polaris stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Polaris hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-polaris-stock-surging-today-93CH-4975233",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-10-27T11:51:25+00:00"
+    },
+    {
+      "h": "Here’s the question three tech-sector earnings reports raise about the future of AI",
+      "es": "Aquí está la pregunta que plantean tres informes de resultados del sector tecnológico sobre el futuro de la IA",
+      "d": "Celestica, Cadence Design Systems y Rambus publicaron resultados que superaron las estimaciones para el tercer trimestre.",
+      "u": "https://www.marketwatch.com/story/heres-the-question-three-tech-sector-earnings-reports-raise-about-the-future-of-ai-5676248b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70888092",
+      "published": "2026-10-27T11:51:00+00:00"
+    },
+    {
+      "h": "Why is Armstrong World stock sliding today?",
+      "es": "¿Por qué las acciones de Armstrong World están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-armstrong-world-stock-sliding-today-93CH-4975228",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-10-27T11:50:29+00:00"
+    },
+    {
+      "h": "Why is Hilton Worldwide stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Hilton Worldwide hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-hilton-worldwide-stock-sliding-today-93CH-4975226",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-27T11:50:12+00:00"
+    },
+    {
+      "h": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "es": "'Solo mira a Judge Judy': tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
+      "d": "\"Considere algunos ejemplos familiares de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
+      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19205579",
+      "published": "2026-10-27T11:45:00+00:00"
+    },
+    {
+      "h": "Why reported Khamenei call for end to ‘neither war nor peace’ moved markets — a bit",
+      "es": "Por qué el llamado de Jamenei a poner fin a “ni guerra ni paz” conmovió un poco a los mercados",
+      "d": "El líder supremo de Irán fue citado diciendo que es hora de llegar a un acuerdo. Hay un largo camino por recorrer.",
+      "u": "https://www.marketwatch.com/story/why-reported-khamenei-call-for-end-to-neither-war-nor-peace-moved-markets-a-bit-dd94b602?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39081429",
+      "published": "2026-10-27T11:45:00+00:00"
+    },
+    {
+      "h": "UPS beats quarterly expectations, raises full-year guidance again",
+      "es": "UPS supera las expectativas trimestrales y vuelve a elevar sus previsiones para todo el año",
+      "d": "UPS superó las expectativas de Wall Street para sus resultados del tercer trimestre y elevó sus previsiones para todo el año por segundo trimestre consecutivo.",
+      "u": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T11:42:51+00:00"
+    },
+    {
+      "h": "Big Tech’s earnings are on deck. There’s more for investors to watch than AI spending.",
+      "es": "Las ganancias de las Big Tech están en juego. Los inversores deben observar más que el gasto en IA.",
+      "d": "Mientras Microsoft, Alphabet y Amazon se preparan para informar sus resultados trimestrales, los recortes de personal están planteando interrogantes sobre cómo la IA remodelará los empleos en las empresas tecnológicas de primer nivel.",
+      "u": "https://www.marketwatch.com/story/big-techs-earnings-are-on-deck-theres-more-for-investors-to-watch-than-ai-spending-bb566c90?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-43491712",
+      "published": "2026-10-27T11:31:00+00:00"
+    },
+    {
+      "h": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "es": "Un destacado animador de Silicon Valley acaba de mostrar todas las razones para estar preocupados por la burbuja de la IA",
+      "d": "Si necesitaba más motivos para preocuparse por la burbuja que ha inflado el mercado de valores, no busque más.",
+      "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-44393870",
+      "published": "2026-10-27T11:30:00+00:00"
+    },
     {
       "h": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
       "es": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
@@ -54,6 +198,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-64453953",
       "published": "2026-10-27T11:11:00+00:00"
+    },
+    {
+      "h": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "es": "Se avecinan subidas de tipos de la Fed, pero no esta semana: encuesta CNBC",
+      "d": "La encuesta de la Fed de CNBC muestra que el 93% de los encuestados espera una pausa en la reunión de la Reserva Federal que tendrá lugar esta semana.",
+      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:10:01+00:00"
     },
     {
       "h": "GSK to nearly double cancer drug trials in 2027 as deals boost pipeline - report",
@@ -117,159 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T11:06:22+00:00"
-    },
-    {
-      "h": "Dividend stocks are having an excellent October as tech sector struggles",
-      "es": "Dividend stocks are having an excellent October as tech sector struggles",
-      "d": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
-      "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05706147",
-      "published": "2026-10-27T11:06:00+00:00"
-    },
-    {
-      "h": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
-      "es": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
-      "d": "SoFi’s early 2027 forecast is impressing Wall Street.",
-      "u": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-878840",
-      "published": "2026-10-27T11:06:00+00:00"
-    },
-    {
-      "h": "Nvidia to commit $3 bln to Meta share offering as part of bigger AI partnership",
-      "es": "Nvidia to commit $3 bln to Meta share offering as part of bigger AI partnership",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4I1BN_L.jpg",
-      "published": "2026-10-27T11:04:47+00:00"
-    },
-    {
-      "h": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
-      "es": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
-      "d": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T11:00:01+00:00"
-    },
-    {
-      "h": "Anthropic's IPO is risky business",
-      "es": "Anthropic's IPO is risky business",
-      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:00:01+00:00"
-    },
-    {
-      "h": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-      "es": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-      "d": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
-      "u": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:00:01+00:00"
-    },
-    {
-      "h": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
-      "es": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
-      "d": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
-      "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-55448632",
-      "published": "2026-10-27T11:00:00+00:00"
-    },
-    {
-      "h": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-      "es": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-      "d": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-      "u": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T10:41:01+00:00"
-    },
-    {
-      "h": "GM to transfer stock listing to Nasdaq",
-      "es": "GM to transfer stock listing to Nasdaq",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gm-to-transfer-stock-listing-to-nasdaq-4974848",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0WP_L.jpg",
-      "published": "2026-10-27T10:36:22+00:00"
-    },
-    {
-      "h": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-      "es": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-      "d": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer.",
-      "u": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T10:35:23+00:00"
-    },
-    {
-      "h": "Ferrovial shares climb 8% on Tennessee concession payment details",
-      "es": "Ferrovial shares climb 8% on Tennessee concession payment details",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ferrovial-shares-climb-8-on-tennessee-concession-payment-details-93CH-4974843",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-27T10:34:36+00:00"
-    },
-    {
-      "h": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart",
-      "es": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/who-controls-powerful-ai-anthropic-has-a-plan-for-long-after-its-leaders-depart-4974806",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0TI_L.jpg",
-      "published": "2026-10-27T10:30:39+00:00"
-    },
-    {
-      "h": "India stocks lower at close of trade; Nifty 50 down 0.02%",
-      "es": "India stocks lower at close of trade; Nifty 50 down 0.02%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-002-4974822",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Mumbai_Stock_Exchange_M_1440056071.jpg",
-      "published": "2026-10-27T10:30:05+00:00"
-    },
-    {
-      "h": "UPS raises annual forecasts as higher-paying shipments boost margin",
-      "es": "UPS raises annual forecasts as higher-paying shipments boost margin",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ups-raises-annual-profit-revenue-forecasts-as-higherpaying-shipments-boost-margin-4974771",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UN_L.jpg",
-      "published": "2026-10-27T10:25:36+00:00"
-    },
-    {
-      "h": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
-      "es": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crypto-blitzes-midterms-with-176-million-to-support-allies-as-it-prepares-for-posttrump-era-4974725",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0TP_L.jpg",
-      "published": "2026-10-27T10:25:21+00:00"
-    },
-    {
-      "h": "Coca-Cola is about to report earnings. Here's what to expect",
-      "es": "Coca-Cola is about to report earnings. Here's what to expect",
-      "d": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-      "u": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T10:25:02+00:00"
-    },
-    {
-      "h": "Centene lifts annual profit forecast, reports upbeat third-quarter results",
-      "es": "Centene lifts annual profit forecast, reports upbeat third-quarter results",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/centene-lifts-annual-profit-forecast-reports-upbeat-thirdquarter-results-4974807",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-27T10:24:45+00:00"
     }
   ],
   "sources": [
