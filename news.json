@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-27T16:56:26.603966+00:00",
+  "updated": "2026-10-27T17:40:35.956862+00:00",
   "news": [
+    {
+      "h": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
+      "es": "Juez critica a los fiscales y se niega a firmar una nueva denuncia penal contra exfuncionarios del FBI",
+      "d": "El Departamento de Justicia acusó inicialmente a dos exfuncionarios del FBI de mentir cuando testificaron ante el Congreso en 2023 sobre su participación en las investigaciones de Hunter Biden.",
+      "u": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T17:39:35+00:00"
+    },
+    {
+      "h": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
+      "es": "La oferta pública inicial de Anthropic podría ser una \"ficción especulativa\" o un \"momento generacional\": los inversores están divididos",
+      "d": "Los inversores están asimilando la presentación S-1 de Anthropic que la Comisión de Bolsa y Valores publicó el lunes.",
+      "u": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T17:26:34+00:00"
+    },
+    {
+      "h": "Boeing shares plunge on slower-than-expected 737 production, weaker free cash flow outlook",
+      "es": "Las acciones de Boeing se desploman por una producción del 737 más lenta de lo esperado y unas perspectivas de flujo de caja libre más débiles",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-jetliner-production-challenges-weigh-on-thirdquarter-results-4975148",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q12F_L.jpg",
+      "published": "2026-10-27T17:18:58+00:00"
+    },
+    {
+      "h": "Exclusive-Jetblue CEO says company not in talks with its creditors",
+      "es": "Exclusivo: el director ejecutivo de Jetblue dice que la empresa no está en conversaciones con sus acreedores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivejetblue-ceo-says-company-not-in-talks-with-its-creditors-4976528",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1RV_L.jpg",
+      "published": "2026-10-27T17:18:28+00:00"
+    },
+    {
+      "h": "Coca-Cola earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Coca-Cola: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cocacola-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976527",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180LS_M.jpg",
+      "published": "2026-10-27T17:17:43+00:00"
+    },
+    {
+      "h": "S&P Global earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de S&P Global: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-global-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976526",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAH0C7_L.jpg",
+      "published": "2026-10-27T17:17:28+00:00"
+    },
+    {
+      "h": "PayPal earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de PayPal: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/paypal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976525",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA719F_L.jpg",
+      "published": "2026-10-27T17:17:04+00:00"
+    },
+    {
+      "h": "Corning earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Corning: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/corning-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976523",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
+      "published": "2026-10-27T17:13:44+00:00"
+    },
+    {
+      "h": "Boeing earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Boeing: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976521",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEABJ00T_M.jpg",
+      "published": "2026-10-27T17:13:14+00:00"
+    },
+    {
+      "h": "Freeport-McMoRan earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de Freeport-McMoRan: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/freeportmcmoran-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976519",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC4I0Z1_M.jpg",
+      "published": "2026-10-27T17:12:29+00:00"
+    },
+    {
+      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.73%",
+      "es": "Las bolsas del Reino Unido cierran a la baja; El Investing.com Reino Unido 100 cae un 0,73%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-073-4976514",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDBS0W6_M.jpg",
+      "published": "2026-10-27T17:09:12+00:00"
+    },
+    {
+      "h": "Spain stocks higher at close of trade; IBEX 35 up 0.67%",
+      "es": "Las bolsas de España cierran al alza; El IBEX 35 sube un 0,67%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-067-4976512",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA610DB_M.jpg",
+      "published": "2026-10-27T17:08:45+00:00"
+    },
     {
       "h": "JetBlue has been losing money for years. It just charted a path to profitability.",
       "es": "JetBlue ha estado perdiendo dinero durante años. Simplemente trazó un camino hacia la rentabilidad.",
@@ -162,114 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T15:55:57+00:00"
-    },
-    {
-      "h": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "es": "Se espera que la Reserva Federal mantenga las tasas estables, pero Warsh podría indicar el camino para realizar más aumentos",
-      "d": "Los mercados, abrumadoramente, no esperan ningún cambio en las tasas de interés de referencia luego del aumento de septiembre.",
-      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:52:26+00:00"
-    },
-    {
-      "h": "Top Auto Parts Stocks to Watch, According to Bank of America",
-      "es": "Principales acciones de autopartes a tener en cuenta, según Bank of America",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-auto-parts-stocks-to-watch-according-to-bank-of-america-4976403",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB0Q12K_M.jpg",
-      "published": "2026-10-27T15:52:14+00:00"
-    },
-    {
-      "h": "Anthropic's IPO is risky business",
-      "es": "La salida a bolsa de Anthropic es un negocio arriesgado",
-      "d": "La tan esperada oferta pública inicial de Anthropic está brindando a los inversores potenciales una perspectiva sobre el arriesgado negocio de la inteligencia artificial.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:51:41+00:00"
-    },
-    {
-      "h": "Greece stocks higher at close of trade; Athens General Composite up 1.39%",
-      "es": "Las bolsas de Grecia cierran al alza; El Compuesto General de Atenas sube un 1,39%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-139-4976395",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA8B0C4_M.jpg",
-      "published": "2026-10-27T15:50:03+00:00"
-    },
-    {
-      "h": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "es": "Honda advierte que imponer aranceles del 50% a los automóviles en Canadá sería catastrófico para la industria automotriz",
-      "d": "El presidente Donald Trump ha amenazado con duplicar los aranceles sobre vehículos y repuestos canadienses del 25% al ​​50% si no se llega a un acuerdo comercial entre los dos países.",
-      "u": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:48:32+00:00"
-    },
-    {
-      "h": "JetBlue stock surges 20% as company outlook calms investors",
-      "es": "Las acciones de JetBlue suben un 20% mientras las perspectivas de la empresa calman a los inversores",
-      "d": "JetBlue Airways se encuentra en medio de un plan que apunta a reducir costos y aumentar los ingresos por primas.",
-      "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T15:46:31+00:00"
-    },
-    {
-      "h": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-      "es": "Las acciones de Boeing se hunden un 9% porque la compañía dice que no aumentará significativamente la producción del 737 Max hasta finales de 2027",
-      "d": "Boeing informará a los inversores sobre sus perspectivas de producción de aviones cuando informe sus resultados trimestrales antes de la apertura del mercado el martes.",
-      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T15:45:49+00:00"
-    },
-    {
-      "h": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "es": "Hombre acusado de ayudar al \"servicio de inteligencia extranjero\" después del incidente en la base del Reino Unido utilizada para ataques a Irán",
-      "d": "Dos hombres enfrentan cargos de seguridad nacional en el Reino Unido después de un incidente en una base aérea británica utilizada por las fuerzas estadounidenses durante los ataques a Irán.",
-      "u": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:41:11+00:00"
-    },
-    {
-      "h": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "es": "La economía estadounidense está cobrando fuerza. Ésta es la razón principal.",
-      "d": "El auge de la IA no muestra signos de disminuir mientras Anthropic se prepara para salir a bolsa y las empresas devoran bienes duraderos.",
-      "u": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-41453359",
-      "published": "2026-10-27T15:34:00+00:00"
-    },
-    {
-      "h": "UPS CEO says delivery company will make more money on slightly fewer holiday deliveries",
-      "es": "El director ejecutivo de UPS dice que la empresa de entrega ganará más dinero con un poco menos de entregas navideñas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ups-raises-annual-profit-revenue-forecasts-as-higherpaying-shipments-boost-margin-4974771",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UN_L.jpg",
-      "published": "2026-10-27T15:30:20+00:00"
-    },
-    {
-      "h": "Turkey stocks lower at close of trade; BIST 100 down 0.01%",
-      "es": "Las bolsas de Turquía cierran a la baja; BIST 100 bajó un 0,01%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-001-4976362",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC450R5_M.jpg",
-      "published": "2026-10-27T15:30:04+00:00"
-    },
-    {
-      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "es": "Dejamos de ayudar a nuestros vecinos con reparaciones gratuitas en el hogar y nuestra amistad se enfrió. ¿Quién tiene la culpa?",
-      "d": "\"El verano pasado, se quejaron de que necesitaban reemplazar el techo. Unos meses más tarde, compraron un nuevo SUV\".",
-      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13210750",
-      "published": "2026-10-27T15:30:00+00:00"
     }
   ],
   "sources": [
