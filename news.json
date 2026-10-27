@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-27T00:05:21.920879+00:00",
+  "updated": "2026-10-27T01:31:57.123032+00:00",
   "news": [
+    {
+      "h": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "es": "China y Rusia están rediseñando el comercio en el Ártico. ¿Podrá Europa contraatacar?",
+      "d": "China y Rusia están fortaleciendo su control sobre las rutas marítimas del Ártico, convirtiendo a la región que se calienta rápidamente en un nuevo campo de batalla geopolítica con Europa.",
+      "u": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T01:24:28+00:00"
+    },
+    {
+      "h": "SPACCircle Acquisition prices $100M IPO on Nasdaq",
+      "es": "La adquisición de SPACCircle cotiza una oferta pública inicial de 100 millones de dólares en Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spaccircle-acquisition-prices-100m-ipo-on-nasdaq-432SI-4974025",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-27T01:24:02+00:00"
+    },
+    {
+      "h": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "es": "Apple dice que reemplazará los teléfonos iPhone Duo con problemas de pantalla",
+      "d": "Las fotos compartidas en línea mostraban fallas que aparecían en las pantallas del primer dispositivo plegable de Apple.",
+      "u": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccf0/live/963b7e90-d1a0-11f1-8fb1-4fcc6057e4fb.jpg",
+      "published": "2026-10-27T01:16:22+00:00"
+    },
+    {
+      "h": "SK Hynix tests bearish resistance cluster at KRW 1,381,000: Live",
+      "es": "SK Hynix prueba el grupo de resistencia bajista en KRW 1.381.000: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-27T01:06:40+00:00"
+    },
+    {
+      "h": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "es": "Microsoft ofrece adquisiciones voluntarias a 60.000 empleados mientras la IA impulsa la eficiencia",
+      "d": "Microsoft está tratando de equilibrar el rápido desarrollo de una infraestructura de IA con la eficiencia del capital.",
+      "u": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T01:05:06+00:00"
+    },
+    {
+      "h": "Why is SK Hynix stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de SK Hynix hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4974007",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-27T00:44:04+00:00"
+    },
     {
       "h": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
       "es": "\"Soy madre soltera y tengo 41.000 libras esterlinas y limito mi compra semanal a 40 libras esterlinas\". ¿Qué quieren del Presupuesto?",
@@ -9,6 +63,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
       "published": "2026-10-27T00:01:00+00:00"
+    },
+    {
+      "h": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "es": "Los bancos de Wall Street y Blackstone preparan 63.000 millones de dólares para financiar chips de inteligencia artificial de Broadcom para Anthropic",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1UC_L.jpg",
+      "published": "2026-10-27T00:00:41+00:00"
     },
     {
       "h": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
@@ -207,69 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-00003294",
       "published": "2026-10-26T21:44:00+00:00"
-    },
-    {
-      "h": "Ex-FBI chief James Comey charged again by Trump administration’s DOJ",
-      "es": "El exjefe del FBI James Comey acusado nuevamente por el Departamento de Justicia de la administración Trump",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-26T21:42:35+00:00"
-    },
-    {
-      "h": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
-      "es": "La oferta pública inicial de Anthropic pone el poder en manos de los fundadores, dando a los accionistas cotidianos poca voz",
-      "d": "Founder LLC es un componente de la \"nueva estructura de capital y gobierno corporativo\" que Anthropic describió en su presentación pública S-1.",
-      "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T21:41:26+00:00"
-    },
-    {
-      "h": "Fitch affirms Flagstar Bank at ’BB+’ but lowers outlook on delayed recovery",
-      "es": "Fitch afirma a Flagstar Bank en 'BB+' pero reduce perspectiva por recuperación retrasada",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fitch-affirms-flagstar-bank-at-bb-but-lowers-outlook-on-delayed-recovery-4973827",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg",
-      "published": "2026-10-26T21:39:06+00:00"
-    },
-    {
-      "h": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "es": "Bessent cena en Cheesecake Factory y critica a Obama por broma sobre Trump",
-      "d": "Cheesecake Factory se ha convertido en un tema de conversación de campaña antes de las elecciones de la próxima semana, donde el secretario del Tesoro, Scott Bessent, cenará allí el lunes.",
-      "u": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T21:38:17+00:00"
-    },
-    {
-      "h": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.58%",
-      "es": "Las bolsas de México cierran a la baja; S&P/BMV IPC baja 0,58%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-058-4973801",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED8P25V_M.jpg",
-      "published": "2026-10-26T21:30:04+00:00"
-    },
-    {
-      "h": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-      "es": "JetBlue registra mayores pérdidas en costos de combustible, pero el director ejecutivo dice que los márgenes mejoran",
-      "d": "JetBlue Airways se encuentra en medio de un plan que apunta a reducir costos y aumentar los ingresos por primas.",
-      "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T21:18:07+00:00"
-    },
-    {
-      "h": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-      "es": "Por qué las acciones de Lumentum impulsaron al S&P 500 al alza el lunes",
-      "d": "Las acciones ópticas están regresando tras la presentación de la oferta pública inicial de Anthropic y algunas otras buenas noticias.",
-      "u": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-759206",
-      "published": "2026-10-26T21:04:00+00:00"
     }
   ],
   "sources": [
