@@ -1,6 +1,150 @@
 {
-  "updated": "2026-10-27T21:10:07.528520+00:00",
+  "updated": "2026-10-27T21:47:34.447042+00:00",
   "news": [
+    {
+      "h": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Report",
+      "es": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Report",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T21:44:51+00:00"
+    },
+    {
+      "h": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+      "es": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+      "d": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
+      "u": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T21:42:29+00:00"
+    },
+    {
+      "h": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+      "es": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+      "d": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
+      "u": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-31372691",
+      "published": "2026-10-27T21:41:00+00:00"
+    },
+    {
+      "h": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
+      "es": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q21O_L.jpg",
+      "published": "2026-10-27T21:30:36+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
+      "es": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
+      "published": "2026-10-27T21:30:04+00:00"
+    },
+    {
+      "h": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+      "es": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+      "d": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
+      "u": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-76497917",
+      "published": "2026-10-27T21:29:00+00:00"
+    },
+    {
+      "h": "The rest of the market is leaving Big Tech behind after a historic comeback",
+      "es": "The rest of the market is leaving Big Tech behind after a historic comeback",
+      "d": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
+      "u": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67253857",
+      "published": "2026-10-27T21:28:00+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 0.06%",
+      "es": "Colombia stocks higher at close of trade; COLCAP up 0.06%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-006-4977069",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg",
+      "published": "2026-10-27T21:25:03+00:00"
+    },
+    {
+      "h": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading",
+      "es": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/robinhood-quarterly-profit-falls-as-softer-crypto-activity-outweighs-robust-trading-4976781",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1ZH_L.jpg",
+      "published": "2026-10-27T21:24:17+00:00"
+    },
+    {
+      "h": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
+      "es": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
+      "d": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
+      "u": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T21:24:06+00:00"
+    },
+    {
+      "h": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "es": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "d": "Anthropic's cash pile $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "u": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T21:22:03+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
+      "es": "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-092-4977054",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECB40LZ_M.jpg",
+      "published": "2026-10-27T21:20:03+00:00"
+    },
+    {
+      "h": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "es": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "d": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
+      "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-325645",
+      "published": "2026-10-27T21:20:00+00:00"
+    },
+    {
+      "h": "Anthropic's IPO is risky business",
+      "es": "Anthropic's IPO is risky business",
+      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T21:17:27+00:00"
+    },
+    {
+      "h": "Tensor Auto and Munich taxi operator plan autonomous fleet",
+      "es": "Tensor Auto and Munich taxi operator plan autonomous fleet",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tensor-auto-and-munich-taxi-operator-plan-autonomous-fleet-93CH-4977020",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-27T21:09:32+00:00"
+    },
+    {
+      "h": "Why is Nabors Industries stock sliding today?",
+      "es": "Why is Nabors Industries stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nabors-industries-stock-sliding-today-93CH-4977017",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-10-27T21:07:44+00:00"
+    },
     {
       "h": "Lula’s election win leaves Brazil facing a fiscal tightrope",
       "es": "La victoria electoral de Lula deja a Brasil frente a una cuerda floja fiscal",
@@ -11,6 +155,24 @@
       "published": "2026-10-27T21:07:38+00:00"
     },
     {
+      "h": "Why is Enphase Energy stock plunging today?",
+      "es": "Why is Enphase Energy stock plunging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-enphase-energy-stock-plunging-today-93CH-4977002",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB450KD_M.jpg",
+      "published": "2026-10-27T21:02:07+00:00"
+    },
+    {
+      "h": "Why is Caesars Entertainment stock edging higher today?",
+      "es": "Why is Caesars Entertainment stock edging higher today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-caesars-entertainment-stock-edging-higher-today-93CH-4977000",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-27T21:01:55+00:00"
+    },
+    {
       "h": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
       "es": "Mi esposo quiere vender nuestra casa de $1.5 millones y reducirla. Pero aquí es donde criamos a nuestros hijos y no puedo soportar irme.",
       "d": "\"Quiere comprar algo por 600.000 dólares ahora que tenemos el nido vacío\".",
@@ -18,6 +180,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-80913840",
       "published": "2026-10-27T21:00:00+00:00"
+    },
+    {
+      "h": "Seagate Technology shares fall 6% despite Q1 earnings beat and raised guidance",
+      "es": "Seagate Technology shares fall 6% despite Q1 earnings beat and raised guidance",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/seagate-technology-shares-fall-8-despite-q1-earnings-beat-and-raised-guidance-4976742",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Seagate_800x533_L_1674719149.jpg",
+      "published": "2026-10-27T20:59:29+00:00"
     },
     {
       "h": "Why is Visa stock sliding today?",
@@ -99,177 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-70579743",
       "published": "2026-10-27T20:38:00+00:00"
-    },
-    {
-      "h": "Visa quarterly profit jumps as consumer spending holds up",
-      "es": "Las ganancias trimestrales de Visa aumentan a medida que se mantiene el gasto de los consumidores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1ZM_L.jpg",
-      "published": "2026-10-27T20:36:24+00:00"
-    },
-    {
-      "h": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.03%",
-      "es": "Las bolsas de Estados Unidos cierran al alza; El Promedio Industrial Dow Jones sube un 0,03%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-003-4976864",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg",
-      "published": "2026-10-27T20:31:05+00:00"
-    },
-    {
-      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.63%",
-      "es": "Las bolsas de Canadá cierran al alza; El S&P/TSX Composite sube un 0,63%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-063-4976855",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5O0Z8_L.jpg",
-      "published": "2026-10-27T20:30:33+00:00"
-    },
-    {
-      "h": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
-      "es": "Las criptomonedas bombardean las elecciones intermedias con 176 millones de dólares para apoyar a sus aliados mientras se preparan para la era post-Trump",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crypto-blitzes-midterms-with-176-million-to-support-allies-as-it-prepares-for-posttrump-era-4974725",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0TP_L.jpg",
-      "published": "2026-10-27T20:30:24+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 0.51%",
-      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 0,51%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-051-4976839",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE7C113_M.jpg",
-      "published": "2026-10-27T20:30:05+00:00"
-    },
-    {
-      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "es": "Dejamos de ayudar a nuestros vecinos con reparaciones gratuitas en el hogar y nuestra amistad se enfrió. ¿Quién tiene la culpa?",
-      "d": "\"El verano pasado, se quejaron de que necesitaban reemplazar el techo. Unos meses más tarde, compraron un nuevo SUV\".",
-      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13210750",
-      "published": "2026-10-27T20:30:00+00:00"
-    },
-    {
-      "h": "What gold and platinum are telling us about the stock market’s direction",
-      "es": "Lo que nos dicen el oro y el platino sobre la dirección del mercado de valores",
-      "d": "La relación oro-platino tiene uno de los mejores récords históricos al predecir el rendimiento del mercado de valores en los próximos 12 meses.",
-      "u": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-29501506",
-      "published": "2026-10-27T20:30:00+00:00"
-    },
-    {
-      "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-      "es": "El presidente Mike Johnson califica de “absurdas” las preocupaciones sobre la transferencia electoral",
-      "d": "Los demócratas y los grupos pro derechos electorales han expresado su preocupación de que el presidente Donald Trump y los republicanos del Congreso puedan cuestionar los resultados de las elecciones si pierden.",
-      "u": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T20:28:56+00:00"
-    },
-    {
-      "h": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
-      "es": "Los ingresos trimestrales de Robinhood aumentan un 12% a medida que los contratos de eventos y las opciones compensan la caída de las criptomonedas",
-      "d": "Los ingresos del tercer trimestre de Robinhood cumplieron con las expectativas, impulsados ​​por la expansión de la compañía a opciones, mercados de predicciones y otros servicios financieros.",
-      "u": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T20:20:57+00:00"
-    },
-    {
-      "h": "JetBlue stock surges as company outlook calms investors",
-      "es": "Las acciones de JetBlue suben a medida que las perspectivas de la empresa calman a los inversores",
-      "d": "JetBlue Airways se encuentra en medio de un plan que apunta a reducir costos y aumentar los ingresos por primas.",
-      "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T20:13:21+00:00"
-    },
-    {
-      "h": "UPS CEO sees $15 billion annual revenue opportunity from data center boom",
-      "es": "El CEO de UPS ve una oportunidad de ingresos anuales de 15 mil millones de dólares gracias al auge de los centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ups-ceo-sees-15-billion-annual-revenue-opportunity-from-data-center-boom-4976723",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1YK_L.jpg",
-      "published": "2026-10-27T20:07:04+00:00"
-    },
-    {
-      "h": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
-      "es": "¿Vale la pena el precio de ese vehículo eléctrico usado? Esta lista de verificación podría ahorrarle miles de dólares.",
-      "d": "El dolor en el surtidor está empujando a los conductores conscientes de los costos a alejarse de los automóviles tradicionales a gasolina y optar por vehículos eléctricos.",
-      "u": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92843466",
-      "published": "2026-10-27T20:00:00+00:00"
-    },
-    {
-      "h": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg",
-      "es": "Physical Intelligence en conversaciones para recaudar 1.000 millones de dólares con una valoración de 20.000 millones de dólares - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/physical-intelligence-in-talks-to-raise-1b-at-20b-valuation--bloomberg-4976690",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg",
-      "published": "2026-10-27T19:58:52+00:00"
-    },
-    {
-      "h": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-      "es": "Los temores sobre la deuda de IA disminuyen antes de las actualizaciones de Oracle, Alphabet y Amazon. Esto es lo que debe mirar.",
-      "d": "Los mercados de crédito seguirán de cerca las actualizaciones de Oracle y otros hiperescaladores a finales de esta semana. Qué esperar.",
-      "u": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T19:57:35+00:00"
-    },
-    {
-      "h": "Higher tariffs on Canadian imports would be ’catastrophic,’ Honda exec says",
-      "es": "Mayores aranceles a las importaciones canadienses serían \"catastróficos\", dice ejecutivo de Honda",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/higher-tariffs-on-canadian-imports-would-be-catastrophic-honda-exec-says-4976501",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1QG_L.jpg",
-      "published": "2026-10-27T19:54:24+00:00"
-    },
-    {
-      "h": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-      "es": "Oracle integra ChatGPT y Codex en aplicaciones y amplía su línea de chips en la nube",
-      "d": "Oracle está integrando ChatGPT y Codex de OpenAI en sus aplicaciones y planea agregar Google TPU y el chip Jalapeño de OpenAI a OCI.",
-      "u": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T19:51:41+00:00"
-    },
-    {
-      "h": "Fitch affirms Broadcom at ’A-’ with positive outlook despite AI backstop risks",
-      "es": "Fitch afirma a Broadcom en 'A-' con perspectiva positiva a pesar de los riesgos de respaldo a la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fitch-affirms-broadcom-at-a-with-positive-outlook-despite-ai-backstop-risks-4976684",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Broadcom_800x533_L_1653567341.jpg",
-      "published": "2026-10-27T19:49:26+00:00"
-    },
-    {
-      "h": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
-      "es": "Neil Young demanda al comité de Trump por 10 millones de dólares por tocar 'Rockin' in the Free World' en un mitin",
-      "d": "\"'Rockin' in the Free World' es lo opuesto a todo lo que representa Donald J. Trump\", dice la demanda del dos veces miembro del Salón de la Fama del Rock and Roll.",
-      "u": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T19:49:18+00:00"
-    },
-    {
-      "h": "Anduril, Qualcomm partner on new line of US-made laptops",
-      "es": "Anduril y Qualcomm se asocian en una nueva línea de computadoras portátiles fabricadas en EE. UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1YE_L.jpg",
-      "published": "2026-10-27T19:48:30+00:00"
     }
   ],
   "sources": [
