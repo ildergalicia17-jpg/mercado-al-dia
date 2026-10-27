@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-27T17:40:35.956862+00:00",
+  "updated": "2026-10-27T18:21:53.597620+00:00",
   "news": [
+    {
+      "h": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "es": "Impuestos a los bancos, ayuda para la factura energética y aumento del salario mínimo: ¿qué podría incluirse en el presupuesto?",
+      "d": "El Canciller John Healey expondrá sus planes en materia de impuestos en el Reino Unido el 28 de octubre.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-27T18:18:36+00:00"
+    },
+    {
+      "h": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
+      "es": "¿Qué hay detrás del regreso del comercio de IA? Además, nuestra opinión sobre el último acuerdo de Intel",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T18:13:51+00:00"
+    },
+    {
+      "h": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+      "es": "Los resultados iniciales del tercer trimestre muestran un consumidor estadounidense \"resistente\", con signos de tensión",
+      "d": "Empresas desde Royal Caribbean hasta Coca-Cola y UPS dicen que están viendo un gasto de consumo estable a pesar de la alta inflación.",
+      "u": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T18:12:20+00:00"
+    },
+    {
+      "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "es": "El presidente Mike Johnson califica de “absurdas” las preocupaciones sobre la transferencia electoral",
+      "d": "Los demócratas y los grupos pro derechos electorales han expresado su preocupación de que el presidente Donald Trump y los republicanos del Congreso puedan cuestionar los resultados de las elecciones si pierden.",
+      "u": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T18:03:02+00:00"
+    },
+    {
+      "h": "Fed rate decision and oil inventories due Wednesday",
+      "es": "La decisión sobre las tasas de la Fed y los inventarios de petróleo se publicarán el miércoles",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fed-rate-decision-and-oil-inventories-due-wednesday-93CH-4976590",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CrudeoilRussia_800x533_L_1762264422.jpg",
+      "published": "2026-10-27T18:00:44+00:00"
+    },
+    {
+      "h": "The big reason Boeing’s stock is falling so hard after earnings",
+      "es": "La gran razón por la que las acciones de Boeing están cayendo con tanta fuerza después de las ganancias",
+      "d": "Boeing se quedará corto en las entregas del 737 Max, lo que arroja dudas sobre sus planes de recuperación.",
+      "u": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04941676",
+      "published": "2026-10-27T17:59:00+00:00"
+    },
+    {
+      "h": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+      "es": "Los planes de los empleadores están eliminando la cobertura de medicamentos GLP-1: lo que debe saber sobre las opciones de pérdida de peso para 2027",
+      "d": "Muchos planes de atención médica patrocinados por los empleadores están eliminando la cobertura de los medicamentos GLP-1 para bajar de peso a medida que las primas aumentan, aunque los trabajadores tienen algunas opciones nuevas.",
+      "u": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T17:57:57+00:00"
+    },
+    {
+      "h": "ASM International expects Q4 sales above forecasts, to hit 2030 goal three years early",
+      "es": "ASM International espera que las ventas del cuarto trimestre superen las previsiones y alcancen el objetivo de 2030 tres años antes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asm-international-expects-q4-sales-above-forecasts-to-hit-2030-goal-three-years-early-4976586",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1TR_L.jpg",
+      "published": "2026-10-27T17:54:37+00:00"
+    },
+    {
+      "h": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+      "es": "Honda advierte que imponer aranceles del 50% a los automóviles en Canadá sería catastrófico para la industria",
+      "d": "El presidente Donald Trump ha amenazado con duplicar los aranceles sobre vehículos y repuestos canadienses del 25% al ​​50% si no se llega a un acuerdo comercial entre los dos países.",
+      "u": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T17:53:47+00:00"
+    },
+    {
+      "h": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
+      "es": "'CryptoDad' sobre las monedas estables, el papel de bitcoin en una cartera y por qué no posee directamente ninguna criptografía",
+      "d": "Lo que el ex presidente de la CFTC, Chris Giancarlo, les dice a sus propios hijos sobre la compra de su primera criptomoneda.",
+      "u": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96448644",
+      "published": "2026-10-27T17:53:00+00:00"
+    },
+    {
+      "h": "Anthropic IPO a test of market’s patience for AI growth stories: Firstrade",
+      "es": "La OPI antrópica es una prueba de la paciencia del mercado ante las historias de crecimiento de la IA: Firstrade",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-a-test-of-markets-patience-for-ai-growth-stories-firstrade-4976583",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T206_L.jpg",
+      "published": "2026-10-27T17:48:30+00:00"
+    },
+    {
+      "h": "Trump says he will visit tanker in Texas with first oil from Venezuela deal",
+      "es": "Trump dice que visitará petrolero en Texas con el primer acuerdo de petróleo de Venezuela",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-says-he-will-visit-tanker-in-texas-with-first-oil-from-venezuela-deal-4976575",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1M0_L.jpg",
+      "published": "2026-10-27T17:42:42+00:00"
+    },
     {
       "h": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
       "es": "Juez critica a los fiscales y se niega a firmar una nueva denuncia penal contra exfuncionarios del FBI",
@@ -11,6 +119,51 @@
       "published": "2026-10-27T17:39:35+00:00"
     },
     {
+      "h": "SEC’s Atkins seeks changes to crowdfunding regulations",
+      "es": "Atkins de la SEC busca cambios en las regulaciones de financiación colectiva",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/secs-atkins-seeks-changes-to-crowdfunding-regulations-4976569",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM430JU_L.jpg",
+      "published": "2026-10-27T17:37:39+00:00"
+    },
+    {
+      "h": "HCA signals flat 2027 earnings as Medicaid payments drop; shares slide",
+      "es": "HCA señala ganancias estables en 2027 a medida que caen los pagos de Medicaid; comparte diapositiva",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hca-signals-flat-2027-earnings-as-medicaid-payments-drop-shares-slide-4976567",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZN_L.jpg",
+      "published": "2026-10-27T17:36:30+00:00"
+    },
+    {
+      "h": "GM to offer hybrid versions of top-selling SUV models - report",
+      "es": "GM ofrecerá versiones híbridas de los modelos SUV más vendidos: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gm-to-offer-hybrid-versions-of-topselling-suv-models--report-4976560",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM2O07Q_1200_L.jpg",
+      "published": "2026-10-27T17:31:01+00:00"
+    },
+    {
+      "h": "US energy firms to produce record natgas in 2026 as global demand soars",
+      "es": "Las empresas energéticas estadounidenses producirán gas natural sin precedentes en 2026 a medida que se dispara la demanda mundial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-energy-firms-to-produce-record-natgas-in-2026-as-global-demand-soars-4976556",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1SH_L.jpg",
+      "published": "2026-10-27T17:30:42+00:00"
+    },
+    {
+      "h": "AstraZeneca may start work on cancer vaccines, CEO says",
+      "es": "AstraZeneca podría empezar a trabajar en vacunas contra el cáncer, dice su director general",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-may-start-work-on-cancer-vaccines-ceo-says-4976543",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q186_1200_L.jpg",
+      "published": "2026-10-27T17:27:38+00:00"
+    },
+    {
       "h": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
       "es": "La oferta pública inicial de Anthropic podría ser una \"ficción especulativa\" o un \"momento generacional\": los inversores están divididos",
       "d": "Los inversores están asimilando la presentación S-1 de Anthropic que la Comisión de Bolsa y Valores publicó el lunes.",
@@ -18,6 +171,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T17:26:34+00:00"
+    },
+    {
+      "h": "European shares mostly higher amid tech gains; HSBC and Reckitt fall",
+      "es": "Las bolsas europeas suben en general ante las ganancias tecnológicas; HSBC y Reckitt caen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-hsbc-slump-and-energy-fears-offset-ai-glow-4974295",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "published": "2026-10-27T17:25:45+00:00"
     },
     {
       "h": "Boeing shares plunge on slower-than-expected 737 production, weaker free cash flow outlook",
@@ -108,168 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEA610DB_M.jpg",
       "published": "2026-10-27T17:08:45+00:00"
-    },
-    {
-      "h": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "es": "JetBlue ha estado perdiendo dinero durante años. Simplemente trazó un camino hacia la rentabilidad.",
-      "d": "Las acciones de JetBlue suben más del 20% mientras un nuevo objetivo de ganancias ayuda a calmar los temores sobre la viabilidad de la aerolínea.",
-      "u": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70579743",
-      "published": "2026-10-27T16:52:00+00:00"
-    },
-    {
-      "h": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
-      "es": "¿Cuándo saldrá Anthropic a bolsa? Esto es lo que debe saber sobre el cronograma de la OPI.",
-      "d": "Al presentar la documentación de IPO el lunes, Anthropic puede realizar su gira para inversores la semana del 9 de noviembre y sería elegible para salir a bolsa la semana siguiente.",
-      "u": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-23297277",
-      "published": "2026-10-27T16:38:00+00:00"
-    },
-    {
-      "h": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "es": "Ripple llega a un acuerdo con Robinhood para expandir su dólar digital RLUSD",
-      "d": "A medida que las criptomonedas evolucionan más allá de sus raíces comerciales y los mercados globales pasan a tener liquidez las 24 horas del día, los 7 días de la semana, las monedas estables se están convirtiendo en una infraestructura financiera esencial.",
-      "u": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T16:35:45+00:00"
-    },
-    {
-      "h": "Poland stocks higher at close of trade; WIG30 up 0.96%",
-      "es": "Las bolsas de Polonia cierran al alza; WIG30 sube un 0,96%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-096-4976476",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
-      "published": "2026-10-27T16:35:03+00:00"
-    },
-    {
-      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.35%",
-      "es": "Las bolsas de Dinamarca cierran al alza; OMX Copenhague 20 sube un 0,35%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-035-4976470",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-27T16:30:04+00:00"
-    },
-    {
-      "h": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-      "es": "Oracle integra ChatGPT y Codex en aplicaciones y amplía su línea de chips en la nube",
-      "d": "Oracle está integrando ChatGPT y Codex de OpenAI en sus aplicaciones y planea agregar Google TPU y el chip Jalapeño de OpenAI a OCI.",
-      "u": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T16:28:16+00:00"
-    },
-    {
-      "h": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
-      "es": "Los inversores en bonos están empezando a decir “cualquier cosa menos tecnología”. Lo que eso significa para el auge de la IA.",
-      "d": "La financiación de la IA ha sido más difícil y costosa de conseguir a medida que el auge del gasto de capital es objeto de un mayor escrutinio.",
-      "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-89277748",
-      "published": "2026-10-27T16:24:00+00:00"
-    },
-    {
-      "h": "Oakley Capital explores sale of Phenna Group testing firm - Bloomberg",
-      "es": "Oakley Capital explora la venta de la firma de pruebas de Phenna Group - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oakley-capital-explores-sale-of-phenna-group-testing-firm--bloomberg-93CH-4976465",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-27T16:21:53+00:00"
-    },
-    {
-      "h": "One week out, prediction markets see Democrats as favored to sweep Congress",
-      "es": "A una semana, los mercados de predicciones ven a los demócratas como los favoritos para arrasar en el Congreso",
-      "d": "Los intercambios de contratos de eventos ven una probabilidad de dos entre tres de que los demócratas tomen el control tanto de la Cámara como del Senado.",
-      "u": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T16:15:21+00:00"
-    },
-    {
-      "h": "AMD stock rallies on expanded Meta AI infrastructure deal and broader chip rally",
-      "es": "Las acciones de AMD se recuperan gracias al acuerdo ampliado de infraestructura Meta AI y al repunte más amplio de los chips",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amd-stock-rallies-on-expanded-meta-ai-infrastructure-deal-and-broader-chip-rally-4976452",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL7410N_L.jpg",
-      "published": "2026-10-27T16:14:17+00:00"
-    },
-    {
-      "h": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
-      "es": "Cramer dice que falta algo en el repunte del mercado del martes y no está ansioso por intervenir",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T16:13:07+00:00"
-    },
-    {
-      "h": "JPMorgan says ex-banker Rana pushed sister, friend to lie to support sexual assault case",
-      "es": "JPMorgan dice que el exbanquero Rana presionó a su hermana y a su amiga a mentir para apoyar el caso de agresión sexual",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-says-exbanker-rana-pushed-sister-friend-to-lie-to-support-sexual-assault-case-4976447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1NC_L.jpg",
-      "published": "2026-10-27T16:12:35+00:00"
-    },
-    {
-      "h": "Lula’s election win leaves Brazil facing a fiscal tightrope",
-      "es": "La victoria electoral de Lula deja a Brasil frente a una cuerda floja fiscal",
-      "d": "La victoria electoral de Lula sacudió los mercados brasileños y estableció una prueba fiscal mientras sopesa las costosas promesas de campaña con la presión para controlar el gasto.",
-      "u": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T16:12:05+00:00"
-    },
-    {
-      "h": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
-      "es": "Oracle amplía el acuerdo de suministro de chips con Nvidia y agrega ofertas de Google y Cerebras",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings-4976437",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1N9_L.jpg",
-      "published": "2026-10-27T16:07:19+00:00"
-    },
-    {
-      "h": "Prediction market Kalshi expands safeguards for young traders",
-      "es": "El mercado de predicciones Kalshi amplía las salvaguardias para los comerciantes jóvenes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/prediction-market-kalshi-expands-safeguards-for-young-traders-4976435",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1N7_L.jpg",
-      "published": "2026-10-27T16:06:49+00:00"
-    },
-    {
-      "h": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
-      "es": "Hilton no cumple con las estimaciones de ingresos trimestrales y advierte sobre el impacto en Medio Oriente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hilton-raises-annual-room-revenue-growth-forecast-on-steady-us-travel-demand-4974790",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UC_L.jpg",
-      "published": "2026-10-27T16:01:36+00:00"
-    },
-    {
-      "h": "Top E&C stocks to watch ahead of Q3 earnings, says Citi",
-      "es": "Principales acciones de ingeniería y construcción a tener en cuenta antes de las ganancias del tercer trimestre, dice Citi",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-ec-stocks-to-watch-ahead-of-q3-earnings-says-citi-4976409",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/green3_b._M_1440048377.jpg",
-      "published": "2026-10-27T15:57:00+00:00"
-    },
-    {
-      "h": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "es": "Banga del Banco Mundial: La disponibilidad de capital \"no es realmente un problema\", ya que la demanda de IA eleva los costos de endeudamiento",
-      "d": "El presidente del Banco Mundial, Ajay Banga, apareció en el programa \"Squawk Box\" de CNBC el 27 de octubre de 2026.",
-      "u": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T15:55:57+00:00"
     }
   ],
   "sources": [
