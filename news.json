@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-27T05:12:21.818080+00:00",
+  "updated": "2026-10-27T05:49:25.937512+00:00",
   "news": [
+    {
+      "h": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.46%",
+      "es": "Las bolsas de Australia cierran al alza; El S&P/ASX 200 sube un 0,46%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-046-4974203",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB1F00C_M.jpg",
+      "published": "2026-10-27T05:35:03+00:00"
+    },
+    {
+      "h": "CDC deputy director to leave Trump admin after midterms, Post reports",
+      "es": "El subdirector de los CDC dejará la administración de Trump después de las elecciones intermedias, informa el Post",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cdc-deputy-director-to-leave-trump-admin-after-midterms-post-reports-93CH-4974196",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-27T05:28:47+00:00"
+    },
+    {
+      "h": "Why is CITIC Securities stock sliding today?",
+      "es": "¿Por qué las acciones de CITIC Securities están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-citic-securities-stock-sliding-today-93CH-4974194",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-27T05:23:17+00:00"
+    },
+    {
+      "h": "Apple says it will replace iPhone Duo units showing screen problems",
+      "es": "Apple dice que reemplazará las unidades de iPhone Duo que presenten problemas de pantalla",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-4973703",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1UJ_L.jpg",
+      "published": "2026-10-27T05:19:15+00:00"
+    },
+    {
+      "h": "Citic Securities shares fall on soft Q3 profit",
+      "es": "Las acciones de Citic Securities caen por las débiles ganancias del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/citic-securities-shares-fall-on-soft-q3-profit-4974189",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0J03F_M.jpg",
+      "published": "2026-10-27T05:13:19+00:00"
+    },
     {
       "h": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
       "es": "El petróleo cae mientras los renovados esfuerzos diplomáticos para poner fin al conflicto en Medio Oriente alivian las preocupaciones sobre el suministro",
@@ -9,6 +54,33 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T05:09:59+00:00"
+    },
+    {
+      "h": "Nikkei 225 tests VWAP/Kijun resistance in counter-trend bounce: Live",
+      "es": "Nikkei 225 pone a prueba la resistencia VWAP/Kijun en un rebote contra tendencia: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-in-strong-downtrend-tests-key-support-live-levels-93CH-4971336",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-27T05:06:41+00:00"
+    },
+    {
+      "h": "SK Hynix tests SuperTrend resistance at KRW 1,348,500: Live",
+      "es": "SK Hynix prueba la resistencia SuperTrend en 1.348.500 KRW: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-27T05:06:13+00:00"
+    },
+    {
+      "h": "HSBC’s third-quarter profit jumps 32%, launches buyback of up to $1 billion",
+      "es": "Las ganancias del tercer trimestre de HSBC aumentan un 32% y lanza una recompra de hasta mil millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hsbcs-thirdquarter-profit-jumps-32-launches-buyback-of-up-to-1-billion-4974179",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0AH_L.jpg",
+      "published": "2026-10-27T04:55:17+00:00"
     },
     {
       "h": "Goldman Sachs names top EU construction stocks amid market headwinds",
@@ -198,78 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEA7B05U_M.jpg",
       "published": "2026-10-27T02:39:41+00:00"
-    },
-    {
-      "h": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "es": "Bessent cena en Cheesecake Factory y critica a Obama por broma sobre Trump",
-      "d": "Cheesecake Factory se ha convertido en un tema de conversación de campaña antes de las elecciones de la próxima semana, donde el secretario del Tesoro, Scott Bessent, cenará allí el lunes.",
-      "u": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T02:37:31+00:00"
-    },
-    {
-      "h": "Carnage beneath the record high: How to find cheap stocks without the traps",
-      "es": "Carnicería por debajo del máximo histórico: cómo encontrar acciones baratas sin trampas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/carnage-beneath-the-record-high-how-to-find-cheap-us-stocks-without-the-traps-4974088",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-27T02:33:56+00:00"
-    },
-    {
-      "h": "Anthropic IPO: These 2 chipmakers are the most exposed to more compute demand",
-      "es": "IPO antrópica: estos 2 fabricantes de chips son los más expuestos a una mayor demanda informática",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-these-2-chipmakers-are-the-most-exposed-to-more-compute-demand-93CH-4974069",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEH7Q068_L.jpg",
-      "published": "2026-10-27T02:10:36+00:00"
-    },
-    {
-      "h": "Hang Seng tests SMA(20) resistance in bear pennant: Live",
-      "es": "Hang Seng prueba la resistencia de SMA (20) en el banderín bajista: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hang-seng-nears-oversold-in-bear-flag-setup-live-levels-93CH-4971350",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-27T02:02:27+00:00"
-    },
-    {
-      "h": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "es": "Healey promete mermelada y pepinillos más baratos en el paquete previo al presupuesto de \"soluciones diarias\"",
-      "d": "La canciller eliminará los aranceles sobre algunos productos básicos como parte de los planes para dar a los hogares un \"respiro\".",
-      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
-      "published": "2026-10-27T01:57:48+00:00"
-    },
-    {
-      "h": "China industrial profits post strongest growth in three months, rising 14.4%",
-      "es": "Los beneficios industriales de China registran el mayor crecimiento en tres meses, aumentando un 14,4%",
-      "d": "El auge mundial de la IA y los mayores precios de las materias primas derivados de la guerra en Irán han elevado las ganancias de las mineras, los fabricantes de chips y los proveedores de materias primas.",
-      "u": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T01:45:58+00:00"
-    },
-    {
-      "h": "Why is SoftBank stock rallying today?",
-      "es": "¿Por qué las acciones de SoftBank están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-rallying-today-93CH-4974055",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-27T01:45:47+00:00"
-    },
-    {
-      "h": "SK Hynix shares rise to two-week high on report of $12 billion dividend",
-      "es": "Las acciones de SK Hynix suben a un máximo de dos semanas tras el informe de un dividendo de 12.000 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-shares-rise-to-twoweek-high-on-report-of-12-billion-dividend-4974045",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM680H2_1200_L.jpg",
-      "published": "2026-10-27T01:35:11+00:00"
     }
   ],
   "sources": [
