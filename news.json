@@ -1,6 +1,186 @@
 {
-  "updated": "2026-10-27T10:49:42.266686+00:00",
+  "updated": "2026-10-27T11:24:50.579484+00:00",
   "news": [
+    {
+      "h": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+      "es": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+      "d": "Two men face U.K. national security charges after an incident at a British air base used by U.S. forces during strikes on Iran.",
+      "u": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:22:42+00:00"
+    },
+    {
+      "h": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+      "es": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+      "d": "An Oleshky ceasefire brokered by Melania Trump began Tuesday as Russia launched missiles and drones at cities across Ukraine.",
+      "u": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:18:31+00:00"
+    },
+    {
+      "h": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "es": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "d": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
+      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/fd74d4f0-d1ee-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-10-27T11:15:53+00:00"
+    },
+    {
+      "h": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
+      "es": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
+      "d": "Historically, the surges in investment and in the profitability it produced have proven unsustainable for U.S. tech companies, says Michel Lerner.",
+      "u": "https://www.marketwatch.com/story/ai-stocks-havent-played-by-the-normal-valuation-rules-now-that-rates-are-higher-they-may-have-to-says-ubs-f8c78948?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-97332976",
+      "published": "2026-10-27T11:15:00+00:00"
+    },
+    {
+      "h": "Why is MidCap Financial Investment stock surging today?",
+      "es": "Why is MidCap Financial Investment stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-midcap-financial-investment-stock-surging-today-93CH-4975045",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-27T11:11:25+00:00"
+    },
+    {
+      "h": "Options traders are seizing control of the S&P 500",
+      "es": "Options traders are seizing control of the S&P 500",
+      "d": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+      "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-64453953",
+      "published": "2026-10-27T11:11:00+00:00"
+    },
+    {
+      "h": "GSK to nearly double cancer drug trials in 2027 as deals boost pipeline - report",
+      "es": "GSK to nearly double cancer drug trials in 2027 as deals boost pipeline - report",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gsk-to-nearly-double-cancer-drug-trials-in-2027-as-deals-boost-pipeline--report-4975025",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5T0VX_M.jpg",
+      "published": "2026-10-27T11:09:21+00:00"
+    },
+    {
+      "h": "European shares edge higher as tech pockets offset HSBC slide",
+      "es": "European shares edge higher as tech pockets offset HSBC slide",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-hsbc-slump-and-energy-fears-offset-ai-glow-4974295",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "published": "2026-10-27T11:07:37+00:00"
+    },
+    {
+      "h": "PayPal raises 2026 profit forecast as turnaround gains traction",
+      "es": "PayPal raises 2026 profit forecast as turnaround gains traction",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/paypal-raises-2026-profit-forecast-as-turnaround-gains-traction-4975016",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZC_L.jpg",
+      "published": "2026-10-27T11:07:00+00:00"
+    },
+    {
+      "h": "What is the Budget and what could be in it?",
+      "es": "What is the Budget and what could be in it?",
+      "d": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+      "published": "2026-10-27T11:06:53+00:00"
+    },
+    {
+      "h": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
+      "es": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hilton-raises-annual-room-revenue-growth-forecast-on-steady-us-travel-demand-4974790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UC_L.jpg",
+      "published": "2026-10-27T11:06:46+00:00"
+    },
+    {
+      "h": "Coca-Cola lifts annual profit target",
+      "es": "Coca-Cola lifts annual profit target",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cocacola-lifts-annual-profit-target-4975014",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZB_L.jpg",
+      "published": "2026-10-27T11:06:25+00:00"
+    },
+    {
+      "h": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "es": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "d": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:06:22+00:00"
+    },
+    {
+      "h": "Dividend stocks are having an excellent October as tech sector struggles",
+      "es": "Dividend stocks are having an excellent October as tech sector struggles",
+      "d": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+      "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05706147",
+      "published": "2026-10-27T11:06:00+00:00"
+    },
+    {
+      "h": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+      "es": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+      "d": "SoFi’s early 2027 forecast is impressing Wall Street.",
+      "u": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-878840",
+      "published": "2026-10-27T11:06:00+00:00"
+    },
+    {
+      "h": "Nvidia to commit $3 bln to Meta share offering as part of bigger AI partnership",
+      "es": "Nvidia to commit $3 bln to Meta share offering as part of bigger AI partnership",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-to-invest-3-bln-in-meta-share-offering-as-part-of-bigger-ai-partnership-4974236",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4I1BN_L.jpg",
+      "published": "2026-10-27T11:04:47+00:00"
+    },
+    {
+      "h": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
+      "es": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
+      "d": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T11:00:01+00:00"
+    },
+    {
+      "h": "Anthropic's IPO is risky business",
+      "es": "Anthropic's IPO is risky business",
+      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:00:01+00:00"
+    },
+    {
+      "h": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+      "es": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+      "d": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
+      "u": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T11:00:01+00:00"
+    },
+    {
+      "h": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+      "es": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+      "d": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+      "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-55448632",
+      "published": "2026-10-27T11:00:00+00:00"
+    },
     {
       "h": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
       "es": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
@@ -90,186 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
       "published": "2026-10-27T10:24:45+00:00"
-    },
-    {
-      "h": "Bernstein outlines what the UK Budget means for European retailers",
-      "es": "Bernstein outlines what the UK Budget means for European retailers",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bernstein-outlines-what-the-uk-budget-means-for-european-retailers-4974805",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC2F17C_M.jpg",
-      "published": "2026-10-27T10:24:06+00:00"
-    },
-    {
-      "h": "UPS beats quarterly expectations, raises full-year guidance again",
-      "es": "UPS beats quarterly expectations, raises full-year guidance again",
-      "d": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-      "u": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T10:24:01+00:00"
-    },
-    {
-      "h": "Airbus wins contract to build two more Galileo satellites",
-      "es": "Airbus wins contract to build two more Galileo satellites",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/airbus-wins-contract-to-build-two-more-galileo-satellites-93CH-4974799",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC780K2_M.jpg",
-      "published": "2026-10-27T10:22:17+00:00"
-    },
-    {
-      "h": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-      "es": "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-      "d": "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
-      "u": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-      "published": "2026-10-27T10:19:13+00:00"
-    },
-    {
-      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "es": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "d": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-10-27T10:15:00+00:00"
-    },
-    {
-      "h": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-      "es": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-      "d": "Luxury German carmaker Porsche said it's rapidly reducing its exposure to the Chinese autos market after reporting a profit recovery in the first nine months.",
-      "u": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T10:08:51+00:00"
-    },
-    {
-      "h": "CRE debt is due, presenting a 'massive' opportunity",
-      "es": "La deuda de CRE vence, lo que presenta una oportunidad \"enorme\"",
-      "d": "Un enorme muro de deuda de bienes raíces comerciales vence ahora y durante los próximos dos años. Para algunos, esto representa una oportunidad.",
-      "u": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T10:05:12+00:00"
-    },
-    {
-      "h": "Customers are chasing higher-rate products, and that’s bad news for banks like HSBC",
-      "es": "Los clientes buscan productos con tasas más altas, y eso es una mala noticia para bancos como HSBC",
-      "d": "Las acciones del gigante bancario HSBC Holdings cayeron hasta un 7% el martes cuando el prestamista reveló que los clientes recurren cada vez más a productos con tasas más altas.",
-      "u": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21840899",
-      "published": "2026-10-27T10:02:00+00:00"
-    },
-    {
-      "h": "Silicon Valley AI political groups turn on each other in the 2026 election",
-      "es": "Los grupos políticos de inteligencia artificial de Silicon Valley se enfrentan entre sí en las elecciones de 2026",
-      "d": "Los grupos políticos de IA están gastando millones en las elecciones de 2026 mientras las facciones de Silicon Valley luchan por la regulación, las salvaguardias y la autoridad estatal.",
-      "u": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T10:00:01+00:00"
-    },
-    {
-      "h": "Why is Mazagon Dock stock collapsing today?",
-      "es": "¿Por qué se están desplomando hoy las acciones del Muelle de Mazagón?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-mazagon-dock-stock-collapsing-today-93CH-4974649",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-27T09:54:21+00:00"
-    },
-    {
-      "h": "Why is Datadog stock slipping today?",
-      "es": "¿Por qué las acciones de Datadog están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-datadog-stock-slipping-today-93CH-4974634",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-27T09:50:03+00:00"
-    },
-    {
-      "h": "Why is Flex stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Flex hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-flex-stock-climbing-today-93CH-4974633",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-27T09:49:12+00:00"
-    },
-    {
-      "h": "Why is Ferguson Enterprises stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Ferguson Enterprises hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ferguson-enterprises-stock-climbing-today-93CH-4974630",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-27T09:46:12+00:00"
-    },
-    {
-      "h": "Why is OneSpan stock sliding today?",
-      "es": "¿Por qué las acciones de OneSpan están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-onespan-stock-sliding-today-93CH-4974623",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-27T09:45:32+00:00"
-    },
-    {
-      "h": "Why is Dianthus Therapeutics stock gaining today?",
-      "es": "¿Por qué están ganando las acciones de Dianthus Therapeutics hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dianthus-therapeutics-stock-gaining-today-93CH-4974621",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-27T09:44:31+00:00"
-    },
-    {
-      "h": "Why is Mercedes-Benz stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Mercedes-Benz hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-mercedesbenz-stock-sliding-today-93CH-4974601",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECAS0F7_M.jpg",
-      "published": "2026-10-27T09:40:35+00:00"
-    },
-    {
-      "h": "Apple says it will replace iPhone Duo handsets with screen problems",
-      "es": "Apple dice que reemplazará los teléfonos iPhone Duo con problemas de pantalla",
-      "d": "Las fotos compartidas en línea mostraban fallas que aparecían en las pantallas del primer dispositivo plegable de Apple.",
-      "u": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-      "published": "2026-10-27T09:37:55+00:00"
-    },
-    {
-      "h": "Solaria shares rise after Spain data center rule change",
-      "es": "Las acciones de Solaria suben tras el cambio de normativa sobre centros de datos en España",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/solaria-shares-rise-after-spain-data-center-rule-change-93CH-4974572",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-27T09:30:25+00:00"
-    },
-    {
-      "h": "Porsche posts profit rebound as restructuring starts to deliver",
-      "es": "Porsche registra un repunte de sus beneficios a medida que la reestructuración comienza a dar resultados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/porsche-profit-rebounds-in-ninemonth-period-after-restructuring-costs-4974263",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0FQ_L.jpg",
-      "published": "2026-10-27T09:24:54+00:00"
-    },
-    {
-      "h": "Alibaba wins injunction against Pentagon contract restrictions tied to China blacklist",
-      "es": "Alibaba gana una orden judicial contra las restricciones contractuales del Pentágono vinculadas a la lista negra de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alibaba-wins-injunction-against-pentagon-contract-restrictions-tied-to-china-blacklist-4974565",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q08F_L.jpg",
-      "published": "2026-10-27T09:24:41+00:00"
     }
   ],
   "sources": [
