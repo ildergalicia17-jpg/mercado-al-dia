@@ -1,6 +1,204 @@
 {
-  "updated": "2026-10-27T12:03:34.930542+00:00",
+  "updated": "2026-10-27T12:47:56.583019+00:00",
   "news": [
+    {
+      "h": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "es": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "d": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
+      "u": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:44:46+00:00"
+    },
+    {
+      "h": "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
+      "es": "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oppenheimer-holds-150-coreweave-target-sees-bond-selloff-as-overdone-4975535",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "published": "2026-10-27T12:36:17+00:00"
+    },
+    {
+      "h": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+      "es": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+      "d": "Pampers over AI? Procter & Gamble's valuation crosses above Alphabet's.",
+      "u": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:33:52+00:00"
+    },
+    {
+      "h": "UPS raises annual forecasts as higher-margin parcels drive quarterly profit beat",
+      "es": "UPS raises annual forecasts as higher-margin parcels drive quarterly profit beat",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ups-raises-annual-profit-revenue-forecasts-as-higherpaying-shipments-boost-margin-4974771",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UN_L.jpg",
+      "published": "2026-10-27T12:30:26+00:00"
+    },
+    {
+      "h": "TSX futures point higher with upcoming Bank of Canada meeting in focus",
+      "es": "TSX futures point higher with upcoming Bank of Canada meeting in focus",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-with-upcoming-bank-of-canada-meeting-in-focus-4975484",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "published": "2026-10-27T12:30:11+00:00"
+    },
+    {
+      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19916000",
+      "published": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "h": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
+      "es": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
+      "d": "Israeli voters will head to the polls to cast their votes in a general election on Tuesday.",
+      "u": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:28:52+00:00"
+    },
+    {
+      "h": "Goldman downgrades Gjensidige as slowing price hikes limit earnings upside",
+      "es": "Goldman downgrades Gjensidige as slowing price hikes limit earnings upside",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-downgrades-gjensidige-as-slowing-price-hikes-limit-earnings-upside-4975468",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-27T12:25:03+00:00"
+    },
+    {
+      "h": "Why is CTS stock surging today?",
+      "es": "Why is CTS stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-cts-stock-surging-today-93CH-4975455",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-27T12:22:49+00:00"
+    },
+    {
+      "h": "Why is PACCAR stock surging today?",
+      "es": "Why is PACCAR stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-paccar-stock-surging-today-93CH-4975453",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-27T12:22:08+00:00"
+    },
+    {
+      "h": "Is Robinhood stock setup strong enough to trigger a post earnings rally today?",
+      "es": "Is Robinhood stock setup strong enough to trigger a post earnings rally today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/is-robinhood-stock-setup-strong-enough-to-trigger-a-post-earnings-rally-today-93CH-4975452",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Robinhood_800x533_L_1595405475.jpg",
+      "published": "2026-10-27T12:22:03+00:00"
+    },
+    {
+      "h": "Why is Xylem stock tumbling today?",
+      "es": "Why is Xylem stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-xylem-stock-tumbling-today-93CH-4975447",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-27T12:21:16+00:00"
+    },
+    {
+      "h": "Why SoFi’s stock is soaring after earnings",
+      "es": "Why SoFi’s stock is soaring after earnings",
+      "d": "SoFi’s early 2027 forecast is impressing Wall Street after a tough stretch for the stock.",
+      "u": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-878840",
+      "published": "2026-10-27T12:21:00+00:00"
+    },
+    {
+      "h": "Frozen housing market sends remodelers mixed messages",
+      "es": "Frozen housing market sends remodelers mixed messages",
+      "d": "Home remodelers have always served two different markets, but the current state of housing is now pulling them opposite directions.",
+      "u": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:20:59+00:00"
+    },
+    {
+      "h": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "es": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "d": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+      "u": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T12:20:36+00:00"
+    },
+    {
+      "h": "Boeing jetliner production challenges weigh on third-quarter results",
+      "es": "Boeing jetliner production challenges weigh on third-quarter results",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/boeing-jetliner-production-challenges-weigh-on-thirdquarter-results-4975148",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q12F_L.jpg",
+      "published": "2026-10-27T12:18:41+00:00"
+    },
+    {
+      "h": "Oil prices edge lower amid renewed diplomatic efforts to end Mideast conflict",
+      "es": "Oil prices edge lower amid renewed diplomatic efforts to end Mideast conflict",
+      "d": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+      "u": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:15:54+00:00"
+    },
+    {
+      "h": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
+      "es": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
+      "d": "Inherited IRAs can raise income taxes. Experts explain the 10-year rule, withdrawal timing and Roth conversions for heirs.",
+      "u": "https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:15:01+00:00"
+    },
+    {
+      "h": "Why is Artiva Biotherapeutics stock collapsing today?",
+      "es": "Why is Artiva Biotherapeutics stock collapsing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-artiva-biotherapeutics-stock-collapsing-today-93CH-4975397",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-27T12:13:29+00:00"
+    },
+    {
+      "h": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "es": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "d": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "u": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:11:47+00:00"
+    },
+    {
+      "h": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+      "es": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+      "d": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T12:05:46+00:00"
+    },
+    {
+      "h": "First-time buyer wary of Budget housing loan scheme",
+      "es": "First-time buyer wary of Budget housing loan scheme",
+      "d": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
+      "u": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3850/live/5e60e4f0-d160-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-10-27T12:05:16+00:00"
+    },
     {
       "h": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "es": "Mbappé lamenta el comentario 'mal juzgado' de Mao tras la reacción en China",
@@ -9,6 +207,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
       "published": "2026-10-27T12:02:20+00:00"
+    },
+    {
+      "h": "A rising wealth tide lifts all yachts",
+      "es": "A rising wealth tide lifts all yachts",
+      "d": "As the yachting world prepares for the Fort Lauderdale International Boat Show this week, executives are betting on wealthy Americans to power the industry.",
+      "u": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T12:00:01+00:00"
     },
     {
       "h": "Why is CommVault stock sliding today?",
@@ -63,213 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
       "published": "2026-10-27T11:51:44+00:00"
-    },
-    {
-      "h": "Why is Polaris stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Polaris hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-polaris-stock-surging-today-93CH-4975233",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-27T11:51:25+00:00"
-    },
-    {
-      "h": "Here’s the question three tech-sector earnings reports raise about the future of AI",
-      "es": "Aquí está la pregunta que plantean tres informes de resultados del sector tecnológico sobre el futuro de la IA",
-      "d": "Celestica, Cadence Design Systems y Rambus publicaron resultados que superaron las estimaciones para el tercer trimestre.",
-      "u": "https://www.marketwatch.com/story/heres-the-question-three-tech-sector-earnings-reports-raise-about-the-future-of-ai-5676248b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-70888092",
-      "published": "2026-10-27T11:51:00+00:00"
-    },
-    {
-      "h": "Why is Armstrong World stock sliding today?",
-      "es": "¿Por qué las acciones de Armstrong World están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-armstrong-world-stock-sliding-today-93CH-4975228",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-27T11:50:29+00:00"
-    },
-    {
-      "h": "Why is Hilton Worldwide stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Hilton Worldwide hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hilton-worldwide-stock-sliding-today-93CH-4975226",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-10-27T11:50:12+00:00"
-    },
-    {
-      "h": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "es": "'Solo mira a Judge Judy': tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
-      "d": "\"Considere algunos ejemplos familiares de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
-      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19205579",
-      "published": "2026-10-27T11:45:00+00:00"
-    },
-    {
-      "h": "Why reported Khamenei call for end to ‘neither war nor peace’ moved markets — a bit",
-      "es": "Por qué el llamado de Jamenei a poner fin a “ni guerra ni paz” conmovió un poco a los mercados",
-      "d": "El líder supremo de Irán fue citado diciendo que es hora de llegar a un acuerdo. Hay un largo camino por recorrer.",
-      "u": "https://www.marketwatch.com/story/why-reported-khamenei-call-for-end-to-neither-war-nor-peace-moved-markets-a-bit-dd94b602?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39081429",
-      "published": "2026-10-27T11:45:00+00:00"
-    },
-    {
-      "h": "UPS beats quarterly expectations, raises full-year guidance again",
-      "es": "UPS supera las expectativas trimestrales y vuelve a elevar sus previsiones para todo el año",
-      "d": "UPS superó las expectativas de Wall Street para sus resultados del tercer trimestre y elevó sus previsiones para todo el año por segundo trimestre consecutivo.",
-      "u": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T11:42:51+00:00"
-    },
-    {
-      "h": "Big Tech’s earnings are on deck. There’s more for investors to watch than AI spending.",
-      "es": "Las ganancias de las Big Tech están en juego. Los inversores deben observar más que el gasto en IA.",
-      "d": "Mientras Microsoft, Alphabet y Amazon se preparan para informar sus resultados trimestrales, los recortes de personal están planteando interrogantes sobre cómo la IA remodelará los empleos en las empresas tecnológicas de primer nivel.",
-      "u": "https://www.marketwatch.com/story/big-techs-earnings-are-on-deck-theres-more-for-investors-to-watch-than-ai-spending-bb566c90?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-43491712",
-      "published": "2026-10-27T11:31:00+00:00"
-    },
-    {
-      "h": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "es": "Un destacado animador de Silicon Valley acaba de mostrar todas las razones para estar preocupados por la burbuja de la IA",
-      "d": "Si necesitaba más motivos para preocuparse por la burbuja que ha inflado el mercado de valores, no busque más.",
-      "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-44393870",
-      "published": "2026-10-27T11:30:00+00:00"
-    },
-    {
-      "h": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "es": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "d": "Two men face U.K. national security charges after an incident at a British air base used by U.S. forces during strikes on Iran.",
-      "u": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:22:42+00:00"
-    },
-    {
-      "h": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-      "es": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-      "d": "An Oleshky ceasefire brokered by Melania Trump began Tuesday as Russia launched missiles and drones at cities across Ukraine.",
-      "u": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:18:31+00:00"
-    },
-    {
-      "h": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-      "es": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-      "d": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
-      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/fd74d4f0-d1ee-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-27T11:15:53+00:00"
-    },
-    {
-      "h": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
-      "es": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
-      "d": "Historically, the surges in investment and in the profitability it produced have proven unsustainable for U.S. tech companies, says Michel Lerner.",
-      "u": "https://www.marketwatch.com/story/ai-stocks-havent-played-by-the-normal-valuation-rules-now-that-rates-are-higher-they-may-have-to-says-ubs-f8c78948?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-97332976",
-      "published": "2026-10-27T11:15:00+00:00"
-    },
-    {
-      "h": "Why is MidCap Financial Investment stock surging today?",
-      "es": "Why is MidCap Financial Investment stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-midcap-financial-investment-stock-surging-today-93CH-4975045",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-27T11:11:25+00:00"
-    },
-    {
-      "h": "Options traders are seizing control of the S&P 500",
-      "es": "Options traders are seizing control of the S&P 500",
-      "d": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
-      "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-64453953",
-      "published": "2026-10-27T11:11:00+00:00"
-    },
-    {
-      "h": "Fed rate hikes are coming, but not this week: CNBC survey",
-      "es": "Se avecinan subidas de tipos de la Fed, pero no esta semana: encuesta CNBC",
-      "d": "La encuesta de la Fed de CNBC muestra que el 93% de los encuestados espera una pausa en la reunión de la Reserva Federal que tendrá lugar esta semana.",
-      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:10:01+00:00"
-    },
-    {
-      "h": "GSK to nearly double cancer drug trials in 2027 as deals boost pipeline - report",
-      "es": "GSK to nearly double cancer drug trials in 2027 as deals boost pipeline - report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gsk-to-nearly-double-cancer-drug-trials-in-2027-as-deals-boost-pipeline--report-4975025",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA5T0VX_M.jpg",
-      "published": "2026-10-27T11:09:21+00:00"
-    },
-    {
-      "h": "European shares edge higher as tech pockets offset HSBC slide",
-      "es": "European shares edge higher as tech pockets offset HSBC slide",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-hsbc-slump-and-energy-fears-offset-ai-glow-4974295",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "published": "2026-10-27T11:07:37+00:00"
-    },
-    {
-      "h": "PayPal raises 2026 profit forecast as turnaround gains traction",
-      "es": "PayPal raises 2026 profit forecast as turnaround gains traction",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/paypal-raises-2026-profit-forecast-as-turnaround-gains-traction-4975016",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZC_L.jpg",
-      "published": "2026-10-27T11:07:00+00:00"
-    },
-    {
-      "h": "What is the Budget and what could be in it?",
-      "es": "What is the Budget and what could be in it?",
-      "d": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
-      "published": "2026-10-27T11:06:53+00:00"
-    },
-    {
-      "h": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
-      "es": "Hilton misses quarterly revenue estimates, warns of Mideast impact",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hilton-raises-annual-room-revenue-growth-forecast-on-steady-us-travel-demand-4974790",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0UC_L.jpg",
-      "published": "2026-10-27T11:06:46+00:00"
-    },
-    {
-      "h": "Coca-Cola lifts annual profit target",
-      "es": "Coca-Cola lifts annual profit target",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cocacola-lifts-annual-profit-target-4975014",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZB_L.jpg",
-      "published": "2026-10-27T11:06:25+00:00"
-    },
-    {
-      "h": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "es": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "d": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-      "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T11:06:22+00:00"
     }
   ],
   "sources": [
