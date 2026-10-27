@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-27T04:00:31.075248+00:00",
+  "updated": "2026-10-27T04:33:53.593846+00:00",
   "news": [
+    {
+      "h": "HSBC reports third-quarter pretax profit in line with estimates on net interest income boost",
+      "es": "HSBC informa ganancias antes de impuestos del tercer trimestre en línea con las estimaciones sobre el aumento del margen de intereses",
+      "d": "HSBC anunció sus resultados del tercer trimestre el martes.",
+      "u": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T04:20:28+00:00"
+    },
+    {
+      "h": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "es": "El Departamento de Justicia de Trump despidió ilegalmente a la fiscal de Epstein, Maurene Comey, dictamina un juez",
+      "d": "El juez ordenó que Maurene Comey, hija del ex director del FBI James Comey, fuera reintegrada retroactivamente a su trabajo como fiscal federal adjunta.",
+      "u": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T04:12:50+00:00"
+    },
+    {
+      "h": "Gift Nifty 50 consolidates between key MAs: Live levels",
+      "es": "Gift Nifty 50 se consolida entre MA clave: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-27T04:02:36+00:00"
+    },
+    {
+      "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "es": "¿Qué le dio a esta ciudad su corona de “mejor lugar para jubilarse”? De hecho, puedes permitirte el lujo de vivir allí.",
+      "d": "Bajo costo de vida, alta calidad de vida e impuestos favorables para los jubilados, para ganar.",
+      "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-51699751",
+      "published": "2026-10-27T04:01:00+00:00"
+    },
+    {
+      "h": "CDC Deputy Director Jennifer Shuford to leave Trump administration, Washington Post reports",
+      "es": "La subdirectora de los CDC, Jennifer Shuford, dejará la administración Trump, informa el Washington Post",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cdc-deputy-director-jennifer-shuford-to-leave-trump-administration-washington-post-reports-4974147",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q08L_L.jpg",
+      "published": "2026-10-27T04:00:23+00:00"
+    },
     {
       "h": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
       "es": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
@@ -36,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEK5T0B4_L.jpg",
       "published": "2026-10-27T03:33:31+00:00"
+    },
+    {
+      "h": "DOJ charges ex-FBI Director James Comey in new case",
+      "es": "El Departamento de Justicia acusa al exdirector del FBI James Comey en un nuevo caso",
+      "d": "Comey ha sido durante años el objetivo del presidente Donald Trump, quien lo despidió como director del FBI en 2017.",
+      "u": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T03:30:04+00:00"
     },
     {
       "h": "TSMC to raise advanced chip packaging prices by up to 20%, report says",
@@ -216,60 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-26T23:51:07+00:00"
-    },
-    {
-      "h": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department",
-      "es": "El exjefe del FBI Comey enfrenta un tercer intento de procesamiento por parte del Departamento de Justicia de Trump",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-26T23:31:15+00:00"
-    },
-    {
-      "h": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-      "es": "Boletín The China Connection de CNBC: El 'acantilado' debajo de las ciudades de China",
-      "d": "Beijing tiene margen para endeudarse, pero los gobiernos locales muy endeudados están recortando sus préstamos, aumentando los riesgos para el crecimiento y para la forma en que China gestiona su deuda local.",
-      "u": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T23:10:16+00:00"
-    },
-    {
-      "h": "Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth",
-      "es": "Análisis: los fabricantes chinos de diamantes cultivados en laboratorio apuntan a los sectores de inteligencia artificial y chips para la próxima ola de crecimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysischinas-labgrown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth-4973927",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-26T23:06:05+00:00"
-    },
-    {
-      "h": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "es": "De Wall Street a Silicon Valley, la IPO de Anthropic está a punto de tener un enorme \"efecto de goteo\"",
-      "d": "Con el comercio de IA flaqueando últimamente y las tasas de interés en aumento, la IPO de Anthropic está adquiriendo una importancia enorme.",
-      "u": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T22:50:07+00:00"
-    },
-    {
-      "h": "Israeli election draws tens of thousands of citizens flying back to vote",
-      "es": "Las elecciones israelíes atraen a decenas de miles de ciudadanos que regresan a votar",
-      "d": "Decenas de miles de israelíes regresan a sus hogares para votar en unas elecciones reñidas.",
-      "u": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-26T22:46:35+00:00"
-    },
-    {
-      "h": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "es": "Healey promete mermelada y pepinillos más baratos en el paquete de 'soluciones diarias' previo al presupuesto",
-      "d": "La canciller eliminará los aranceles sobre algunos productos básicos como parte de los planes para dar a los hogares un \"respiro\".",
-      "u": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
-      "published": "2026-10-26T22:30:02+00:00"
     }
   ],
   "sources": [
