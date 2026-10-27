@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-27T19:54:53.054151+00:00",
+  "updated": "2026-10-27T20:30:11.837100+00:00",
   "news": [
+    {
+      "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "es": "El presidente Mike Johnson califica de “absurdas” las preocupaciones sobre la transferencia electoral",
+      "d": "Los demócratas y los grupos pro derechos electorales han expresado su preocupación de que el presidente Donald Trump y los republicanos del Congreso puedan cuestionar los resultados de las elecciones si pierden.",
+      "u": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T20:28:56+00:00"
+    },
+    {
+      "h": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
+      "es": "Los ingresos trimestrales de Robinhood aumentan un 12% a medida que los contratos de eventos y las opciones compensan la caída de las criptomonedas",
+      "d": "Los ingresos del tercer trimestre de Robinhood cumplieron con las expectativas, impulsados ​​por la expansión de la compañía a opciones, mercados de predicciones y otros servicios financieros.",
+      "u": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T20:20:57+00:00"
+    },
+    {
+      "h": "JetBlue stock surges as company outlook calms investors",
+      "es": "Las acciones de JetBlue suben a medida que las perspectivas de la empresa calman a los inversores",
+      "d": "JetBlue Airways se encuentra en medio de un plan que apunta a reducir costos y aumentar los ingresos por primas.",
+      "u": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T20:13:21+00:00"
+    },
+    {
+      "h": "UPS CEO sees $15 billion annual revenue opportunity from data center boom",
+      "es": "El CEO de UPS ve una oportunidad de ingresos anuales de 15 mil millones de dólares gracias al auge de los centros de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ups-ceo-sees-15-billion-annual-revenue-opportunity-from-data-center-boom-4976723",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1YK_L.jpg",
+      "published": "2026-10-27T20:07:04+00:00"
+    },
+    {
+      "h": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+      "es": "¿Vale la pena el precio de ese vehículo eléctrico usado? Esta lista de verificación podría ahorrarle miles de dólares.",
+      "d": "El dolor en el surtidor está empujando a los conductores conscientes de los costos a alejarse de los automóviles tradicionales a gasolina y optar por vehículos eléctricos.",
+      "u": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-92843466",
+      "published": "2026-10-27T20:00:00+00:00"
+    },
+    {
+      "h": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg",
+      "es": "Physical Intelligence en conversaciones para recaudar 1.000 millones de dólares con una valoración de 20.000 millones de dólares - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/physical-intelligence-in-talks-to-raise-1b-at-20b-valuation--bloomberg-4976690",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg",
+      "published": "2026-10-27T19:58:52+00:00"
+    },
+    {
+      "h": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+      "es": "Los temores sobre la deuda de IA disminuyen antes de las actualizaciones de Oracle, Alphabet y Amazon. Esto es lo que debe mirar.",
+      "d": "Los mercados de crédito seguirán de cerca las actualizaciones de Oracle y otros hiperescaladores a finales de esta semana. Qué esperar.",
+      "u": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T19:57:35+00:00"
+    },
+    {
+      "h": "Higher tariffs on Canadian imports would be ’catastrophic,’ Honda exec says",
+      "es": "Mayores aranceles a las importaciones canadienses serían \"catastróficos\", dice ejecutivo de Honda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/higher-tariffs-on-canadian-imports-would-be-catastrophic-honda-exec-says-4976501",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1QG_L.jpg",
+      "published": "2026-10-27T19:54:24+00:00"
+    },
+    {
+      "h": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "es": "Oracle integra ChatGPT y Codex en aplicaciones y amplía su línea de chips en la nube",
+      "d": "Oracle está integrando ChatGPT y Codex de OpenAI en sus aplicaciones y planea agregar Google TPU y el chip Jalapeño de OpenAI a OCI.",
+      "u": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T19:51:41+00:00"
+    },
+    {
+      "h": "Fitch affirms Broadcom at ’A-’ with positive outlook despite AI backstop risks",
+      "es": "Fitch afirma a Broadcom en 'A-' con perspectiva positiva a pesar de los riesgos de respaldo a la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fitch-affirms-broadcom-at-a-with-positive-outlook-despite-ai-backstop-risks-4976684",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Broadcom_800x533_L_1653567341.jpg",
+      "published": "2026-10-27T19:49:26+00:00"
+    },
     {
       "h": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
       "es": "Neil Young demanda al comité de Trump por 10 millones de dólares por tocar 'Rockin' in the Free World' en un mitin",
@@ -9,6 +99,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T19:49:18+00:00"
+    },
+    {
+      "h": "Anduril, Qualcomm partner on new line of US-made laptops",
+      "es": "Anduril y Qualcomm se asocian en una nueva línea de computadoras portátiles fabricadas en EE. UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1YE_L.jpg",
+      "published": "2026-10-27T19:48:30+00:00"
+    },
+    {
+      "h": "Brazil markets: rates retreat but stocks stay under pressure after political shock",
+      "es": "Mercados brasileños: los tipos retroceden, pero las acciones siguen bajo presión tras el shock político",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-markets-rates-retreat-but-stocks-stay-under-pressure-after-political-shock-93CH-4976669",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Brazil_Real_M_1440056096.jpg",
+      "published": "2026-10-27T19:36:19+00:00"
     },
     {
       "h": "KO/PEP earnings spread: what changed and what didn’t after Coca-Cola’s beat",
@@ -162,114 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-27T18:59:42+00:00"
-    },
-    {
-      "h": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-      "es": "El memorando anti-tokenmaxxing de Amazon dice que los ingenieros deberían ser más exigentes con el uso de la IA",
-      "d": "Amazon ha integrado rápidamente la IA en las crecientes operaciones comerciales del gigante del comercio electrónico bajo la dirección del director ejecutivo Andy Jassy.",
-      "u": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T18:57:45+00:00"
-    },
-    {
-      "h": "Margin debt growth slows sharply as stock market warning signs build",
-      "es": "El crecimiento de la deuda de margen se desacelera drásticamente a medida que aumentan las señales de advertencia del mercado de valores",
-      "d": "La desaceleración del crecimiento de la deuda de margen podría indicar riesgos crecientes para las acciones.",
-      "u": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T18:53:18+00:00"
-    },
-    {
-      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "es": "Mi exmarido abusivo prometió 20.000 dólares para la educación de nuestros hijos. Ahora se niega a pagar. ¿Está legalmente obligado?",
-      "d": "“Antes de nuestro divorcio, mi ex suegra le confió 20.000 dólares para que cada una de nuestras hijas invirtiera en su nombre”.",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-10-27T18:45:00+00:00"
-    },
-    {
-      "h": "Food and household brands warn of more price hikes as Iran war costs bite",
-      "es": "Las marcas de alimentos y de hogar advierten sobre más aumentos de precios a medida que aumentan los costos de la guerra de Irán",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/food-and-household-brands-warn-of-more-price-hikes-as-iran-war-costs-bite-4976615",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1VY_L.jpg",
-      "published": "2026-10-27T18:30:58+00:00"
-    },
-    {
-      "h": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
-      "es": "Agencia estadounidense aprueba la adquisición de Globalstar por parte de Amazon Leo por 11.500 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-agency-approves-amazon-leos-115-billion-acquisition-of-globalstar-4976614",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1VT_L.jpg",
-      "published": "2026-10-27T18:30:33+00:00"
-    },
-    {
-      "h": "Crusoe CEO defends CoreWeave amid selloff",
-      "es": "El director ejecutivo de Crusoe defiende CoreWeave en medio de las ventas masivas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "published": "2026-10-27T18:22:54+00:00"
-    },
-    {
-      "h": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "es": "Impuestos a los bancos, ayuda para la factura energética y aumento del salario mínimo: ¿qué podría incluirse en el presupuesto?",
-      "d": "El Canciller John Healey expondrá sus planes en materia de impuestos en el Reino Unido el 28 de octubre.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-27T18:18:36+00:00"
-    },
-    {
-      "h": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
-      "es": "¿Qué hay detrás del regreso del comercio de IA? Además, nuestra opinión sobre el último acuerdo de Intel",
-      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T18:13:51+00:00"
-    },
-    {
-      "h": "Ex-FBI chief Comey faces third criminal case brought by Trump Justice Department",
-      "es": "El exjefe del FBI Comey enfrenta el tercer caso penal presentado por el Departamento de Justicia de Trump",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-27T18:13:00+00:00"
-    },
-    {
-      "h": "Rosenblatt names top semiconductor picks amid data-center strength",
-      "es": "Rosenblatt nombra las mejores opciones de semiconductores en medio de la fortaleza del centro de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rosenblatt-names-top-semiconductor-picks-amid-datacenter-strength-4976599",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/AdvancedMicroDevicesAMD_800x533_L_1637447607.jpg",
-      "published": "2026-10-27T18:12:54+00:00"
-    },
-    {
-      "h": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-      "es": "Los resultados iniciales del tercer trimestre muestran un consumidor estadounidense \"resistente\", con signos de tensión",
-      "d": "Empresas desde Royal Caribbean hasta Coca-Cola y UPS dicen que están viendo un gasto de consumo estable a pesar de la alta inflación.",
-      "u": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T18:12:20+00:00"
-    },
-    {
-      "h": "NYSE moves to bring all-or-nothing options to stocks and company earnings",
-      "es": "La Bolsa de Nueva York toma medidas para incorporar opciones de todo o nada a las acciones y las ganancias de las empresas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nyse-moves-to-bring-allornothing-options-to-stocks-and-company-earnings-4976597",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1UJ_L.jpg",
-      "published": "2026-10-27T18:07:37+00:00"
     }
   ],
   "sources": [
