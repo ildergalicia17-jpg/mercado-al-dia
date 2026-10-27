@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-27T18:21:53.597620+00:00",
+  "updated": "2026-10-27T19:13:10.727346+00:00",
   "news": [
+    {
+      "h": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "es": "Las acciones de Boeing se hunden un 10% porque la compañía dice que no aumentará significativamente la producción del 737 Max hasta finales de 2027",
+      "d": "Boeing informará a los inversores sobre sus perspectivas de producción de aviones cuando informe sus resultados trimestrales antes de la apertura del mercado el martes.",
+      "u": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T19:10:24+00:00"
+    },
+    {
+      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "es": "Mi esposa lloró cuando descubrí que solo tenía $80,000 en su 401(k). Tengo 2,2 millones de dólares. ¿Me equivoco al sorprenderme?",
+      "d": "“Cuando mencioné la jubilación la primavera pasada, ella dijo que estaba lista cuando yo lo estuviera, y entendí que eso significaba que estábamos en buena forma”.",
+      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19916000",
+      "published": "2026-10-27T19:00:00+00:00"
+    },
+    {
+      "h": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+      "es": "Las acciones de Boeing caen tras una decepcionante actualización del flujo de caja. Por qué esta caída se puede comprar",
+      "d": "Boeing restableció las expectativas de los inversores sobre el crecimiento del flujo de caja libre en los próximos años. Tenemos la esperanza de que esto represente un evento de limpieza.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-27T18:59:42+00:00"
+    },
+    {
+      "h": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "es": "El memorando anti-tokenmaxxing de Amazon dice que los ingenieros deberían ser más exigentes con el uso de la IA",
+      "d": "Amazon ha integrado rápidamente la IA en las crecientes operaciones comerciales del gigante del comercio electrónico bajo la dirección del director ejecutivo Andy Jassy.",
+      "u": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T18:57:45+00:00"
+    },
+    {
+      "h": "Margin debt growth slows sharply as stock market warning signs build",
+      "es": "El crecimiento de la deuda de margen se desacelera drásticamente a medida que aumentan las señales de advertencia del mercado de valores",
+      "d": "La desaceleración del crecimiento de la deuda de margen podría indicar riesgos crecientes para las acciones.",
+      "u": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T18:53:18+00:00"
+    },
+    {
+      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "es": "Mi exmarido abusivo prometió 20.000 dólares para la educación de nuestros hijos. Ahora se niega a pagar. ¿Está legalmente obligado?",
+      "d": "“Antes de nuestro divorcio, mi ex suegra le confió 20.000 dólares para que cada una de nuestras hijas invirtiera en su nombre”.",
+      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-95596293",
+      "published": "2026-10-27T18:45:00+00:00"
+    },
+    {
+      "h": "Food and household brands warn of more price hikes as Iran war costs bite",
+      "es": "Las marcas de alimentos y de hogar advierten sobre más aumentos de precios a medida que aumentan los costos de la guerra de Irán",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/food-and-household-brands-warn-of-more-price-hikes-as-iran-war-costs-bite-4976615",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1VY_L.jpg",
+      "published": "2026-10-27T18:30:58+00:00"
+    },
+    {
+      "h": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
+      "es": "Agencia estadounidense aprueba la adquisición de Globalstar por parte de Amazon Leo por 11.500 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-agency-approves-amazon-leos-115-billion-acquisition-of-globalstar-4976614",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1VT_L.jpg",
+      "published": "2026-10-27T18:30:33+00:00"
+    },
+    {
+      "h": "Crusoe CEO defends CoreWeave amid selloff",
+      "es": "El director ejecutivo de Crusoe defiende CoreWeave en medio de las ventas masivas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/crusoe-ceo-defends-coreweave-amid-selloff-4976608",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "published": "2026-10-27T18:22:54+00:00"
+    },
     {
       "h": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
       "es": "Impuestos a los bancos, ayuda para la factura energética y aumento del salario mínimo: ¿qué podría incluirse en el presupuesto?",
@@ -20,6 +101,24 @@
       "published": "2026-10-27T18:13:51+00:00"
     },
     {
+      "h": "Ex-FBI chief Comey faces third criminal case brought by Trump Justice Department",
+      "es": "El exjefe del FBI Comey enfrenta el tercer caso penal presentado por el Departamento de Justicia de Trump",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exfbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-4973795",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-27T18:13:00+00:00"
+    },
+    {
+      "h": "Rosenblatt names top semiconductor picks amid data-center strength",
+      "es": "Rosenblatt nombra las mejores opciones de semiconductores en medio de la fortaleza del centro de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rosenblatt-names-top-semiconductor-picks-amid-datacenter-strength-4976599",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/AdvancedMicroDevicesAMD_800x533_L_1637447607.jpg",
+      "published": "2026-10-27T18:12:54+00:00"
+    },
+    {
       "h": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
       "es": "Los resultados iniciales del tercer trimestre muestran un consumidor estadounidense \"resistente\", con signos de tensión",
       "d": "Empresas desde Royal Caribbean hasta Coca-Cola y UPS dicen que están viendo un gasto de consumo estable a pesar de la alta inflación.",
@@ -29,6 +128,24 @@
       "published": "2026-10-27T18:12:20+00:00"
     },
     {
+      "h": "NYSE moves to bring all-or-nothing options to stocks and company earnings",
+      "es": "La Bolsa de Nueva York toma medidas para incorporar opciones de todo o nada a las acciones y las ganancias de las empresas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nyse-moves-to-bring-allornothing-options-to-stocks-and-company-earnings-4976597",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1UJ_L.jpg",
+      "published": "2026-10-27T18:07:37+00:00"
+    },
+    {
+      "h": "Oracle, Avago among market cap stock movers on Tuesday",
+      "es": "Oracle y Avago entre los impulsores de la capitalización de mercado el martes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-avago-among-market-cap-stock-movers-on-tuesday-93CH-4976594",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-27T18:05:46+00:00"
+    },
+    {
       "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
       "es": "El presidente Mike Johnson califica de “absurdas” las preocupaciones sobre la transferencia electoral",
       "d": "Los demócratas y los grupos pro derechos electorales han expresado su preocupación de que el presidente Donald Trump y los republicanos del Congreso puedan cuestionar los resultados de las elecciones si pierden.",
@@ -36,6 +153,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T18:03:02+00:00"
+    },
+    {
+      "h": "Microsoft, Google, Ford and more set to report earnings Wednesday",
+      "es": "Microsoft, Google, Ford y más informarán sus resultados el miércoles",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-google-ford-and-more-set-to-report-earnings-wednesday-93CH-4976592",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE3N0KS_M.jpg",
+      "published": "2026-10-27T18:01:56+00:00"
     },
     {
       "h": "Fed rate decision and oil inventories due Wednesday",
@@ -128,6 +254,15 @@
       "published": "2026-10-27T17:37:39+00:00"
     },
     {
+      "h": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "es": "Oracle integra ChatGPT y Codex en aplicaciones y amplía su línea de chips en la nube",
+      "d": "Oracle está integrando ChatGPT y Codex de OpenAI en sus aplicaciones y planea agregar Google TPU y el chip Jalapeño de OpenAI a OCI.",
+      "u": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T17:36:46+00:00"
+    },
+    {
       "h": "HCA signals flat 2027 earnings as Medicaid payments drop; shares slide",
       "es": "HCA señala ganancias estables en 2027 a medida que caen los pagos de Medicaid; comparte diapositiva",
       "d": "",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q0ZN_L.jpg",
       "published": "2026-10-27T17:36:30+00:00"
-    },
-    {
-      "h": "GM to offer hybrid versions of top-selling SUV models - report",
-      "es": "GM ofrecerá versiones híbridas de los modelos SUV más vendidos: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gm-to-offer-hybrid-versions-of-topselling-suv-models--report-4976560",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM2O07Q_1200_L.jpg",
-      "published": "2026-10-27T17:31:01+00:00"
-    },
-    {
-      "h": "US energy firms to produce record natgas in 2026 as global demand soars",
-      "es": "Las empresas energéticas estadounidenses producirán gas natural sin precedentes en 2026 a medida que se dispara la demanda mundial",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-energy-firms-to-produce-record-natgas-in-2026-as-global-demand-soars-4976556",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1SH_L.jpg",
-      "published": "2026-10-27T17:30:42+00:00"
-    },
-    {
-      "h": "AstraZeneca may start work on cancer vaccines, CEO says",
-      "es": "AstraZeneca podría empezar a trabajar en vacunas contra el cáncer, dice su director general",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-may-start-work-on-cancer-vaccines-ceo-says-4976543",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q186_1200_L.jpg",
-      "published": "2026-10-27T17:27:38+00:00"
-    },
-    {
-      "h": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-      "es": "La oferta pública inicial de Anthropic podría ser una \"ficción especulativa\" o un \"momento generacional\": los inversores están divididos",
-      "d": "Los inversores están asimilando la presentación S-1 de Anthropic que la Comisión de Bolsa y Valores publicó el lunes.",
-      "u": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T17:26:34+00:00"
-    },
-    {
-      "h": "European shares mostly higher amid tech gains; HSBC and Reckitt fall",
-      "es": "Las bolsas europeas suben en general ante las ganancias tecnológicas; HSBC y Reckitt caen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-hsbc-slump-and-energy-fears-offset-ai-glow-4974295",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "published": "2026-10-27T17:25:45+00:00"
-    },
-    {
-      "h": "Boeing shares plunge on slower-than-expected 737 production, weaker free cash flow outlook",
-      "es": "Las acciones de Boeing se desploman por una producción del 737 más lenta de lo esperado y unas perspectivas de flujo de caja libre más débiles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/boeing-jetliner-production-challenges-weigh-on-thirdquarter-results-4975148",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q12F_L.jpg",
-      "published": "2026-10-27T17:18:58+00:00"
-    },
-    {
-      "h": "Exclusive-Jetblue CEO says company not in talks with its creditors",
-      "es": "Exclusivo: el director ejecutivo de Jetblue dice que la empresa no está en conversaciones con sus acreedores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivejetblue-ceo-says-company-not-in-talks-with-its-creditors-4976528",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1RV_L.jpg",
-      "published": "2026-10-27T17:18:28+00:00"
-    },
-    {
-      "h": "Coca-Cola earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Coca-Cola: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cocacola-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976527",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180LS_M.jpg",
-      "published": "2026-10-27T17:17:43+00:00"
-    },
-    {
-      "h": "S&P Global earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de S&P Global: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-global-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976526",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAH0C7_L.jpg",
-      "published": "2026-10-27T17:17:28+00:00"
-    },
-    {
-      "h": "PayPal earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de PayPal: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/paypal-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976525",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA719F_L.jpg",
-      "published": "2026-10-27T17:17:04+00:00"
-    },
-    {
-      "h": "Corning earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Corning: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/corning-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976523",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-      "published": "2026-10-27T17:13:44+00:00"
-    },
-    {
-      "h": "Boeing earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Boeing: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/boeing-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976521",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEABJ00T_M.jpg",
-      "published": "2026-10-27T17:13:14+00:00"
-    },
-    {
-      "h": "Freeport-McMoRan earnings analysis: questions answered and next catalysts",
-      "es": "Análisis de ganancias de Freeport-McMoRan: preguntas respondidas y próximos catalizadores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/freeportmcmoran-earnings-analysis-questions-answered-and-next-catalysts-93CH-4976519",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC4I0Z1_M.jpg",
-      "published": "2026-10-27T17:12:29+00:00"
-    },
-    {
-      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.73%",
-      "es": "Las bolsas del Reino Unido cierran a la baja; El Investing.com Reino Unido 100 cae un 0,73%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-073-4976514",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDBS0W6_M.jpg",
-      "published": "2026-10-27T17:09:12+00:00"
-    },
-    {
-      "h": "Spain stocks higher at close of trade; IBEX 35 up 0.67%",
-      "es": "Las bolsas de España cierran al alza; El IBEX 35 sube un 0,67%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-067-4976512",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA610DB_M.jpg",
-      "published": "2026-10-27T17:08:45+00:00"
     }
   ],
   "sources": [
