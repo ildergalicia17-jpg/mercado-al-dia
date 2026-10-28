@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-28T01:55:04.766785+00:00",
+  "updated": "2026-10-28T02:38:05.692618+00:00",
   "news": [
+    {
+      "h": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "es": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "d": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+      "u": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T02:15:55+00:00"
+    },
+    {
+      "h": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "es": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "d": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
+      "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-38942746",
+      "published": "2026-10-28T02:15:00+00:00"
+    },
+    {
+      "h": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows",
+      "es": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-4977384",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R054_L.jpg",
+      "published": "2026-10-28T02:12:56+00:00"
+    },
+    {
+      "h": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage",
+      "es": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-closes-51-billion-loan-to-alliant-energy-for-new-gas-power-generation-energy-storage-4977383",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R058_L.jpg",
+      "published": "2026-10-28T02:12:43+00:00"
+    },
+    {
+      "h": "Stifel’s surprise gaming pick leads a sector bracing for a choppy earnings season",
+      "es": "Stifel’s surprise gaming pick leads a sector bracing for a choppy earnings season",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stifels-surprise-gaming-pick-leads-a-sector-bracing-for-a-choppy-earnings-season-4977382",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Gaming_800x533_L_1632132674.jpg",
+      "published": "2026-10-28T02:09:18+00:00"
+    },
     {
       "h": "OpenAI plans to buy Google’s AI chips, The Information reports",
       "es": "OpenAI plans to buy Google’s AI chips, The Information reports",
@@ -128,6 +173,15 @@
       "published": "2026-10-27T23:04:12+00:00"
     },
     {
+      "h": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "es": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "d": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "u": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T23:03:09+00:00"
+    },
+    {
       "h": "Visa results beat estimates as resilient customers keep up spending",
       "es": "Visa results beat estimates as resilient customers keep up spending",
       "d": "",
@@ -216,60 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T21:58:48+00:00"
-    },
-    {
-      "h": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Report",
-      "es": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Report",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:44:51+00:00"
-    },
-    {
-      "h": "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about turnaround",
-      "es": "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about turnaround",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivejetblue-ceo-says-company-not-in-talks-with-its-creditors-4976528",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1RV_L.jpg",
-      "published": "2026-10-27T21:42:52+00:00"
-    },
-    {
-      "h": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-      "es": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-      "d": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
-      "u": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:42:29+00:00"
-    },
-    {
-      "h": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
-      "es": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
-      "d": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
-      "u": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31372691",
-      "published": "2026-10-27T21:41:00+00:00"
-    },
-    {
-      "h": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
-      "es": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q21O_L.jpg",
-      "published": "2026-10-27T21:30:36+00:00"
-    },
-    {
-      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
-      "es": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
-      "published": "2026-10-27T21:30:04+00:00"
     }
   ],
   "sources": [
