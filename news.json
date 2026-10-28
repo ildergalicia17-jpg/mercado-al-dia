@@ -1,6 +1,222 @@
 {
-  "updated": "2026-10-28T13:23:22.257805+00:00",
+  "updated": "2026-10-28T14:20:03.690520+00:00",
   "news": [
+    {
+      "h": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "es": "'Solo mira a Judge Judy': tengo 70 años. ¿Por qué la gente sigue cometiendo los mismos errores financieros evitables?",
+      "d": "\"Considere algunos ejemplos conocidos de malas decisiones: acumular deudas de tarjetas de crédito o no planificar la jubilación\".",
+      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19205579",
+      "published": "2026-10-28T14:16:00+00:00"
+    },
+    {
+      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "es": "Dejamos de ayudar a nuestros vecinos con reparaciones gratuitas en el hogar y nuestra amistad se enfrió. ¿Quién tiene la culpa?",
+      "d": "\"El verano pasado, se quejaron de que necesitaban reemplazar el techo. Unos meses más tarde, compraron un nuevo SUV\".",
+      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13210750",
+      "published": "2026-10-28T14:15:00+00:00"
+    },
+    {
+      "h": "At least 64 people dead in high-speed Spain train crash",
+      "es": "Al menos 64 muertos en accidente de tren de alta velocidad en España",
+      "d": "Se trata de la segunda colisión mortal de trenes de alta velocidad en España este año.",
+      "u": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T14:13:24+00:00"
+    },
+    {
+      "h": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
+      "es": "“¿Cuándo vendo mis acciones?” Ignora el ruido y concéntrate en estas cosas.",
+      "d": "Antes de vender, pregunte si el aumento o la caída del precio de las acciones realmente representa un cambio en las perspectivas comerciales de la empresa.",
+      "u": "https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-14671274",
+      "published": "2026-10-28T14:10:00+00:00"
+    },
+    {
+      "h": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
+      "es": "Jason Robins, director ejecutivo de DraftKings, dice que los padres deberían hablar con sus hijos sobre el juego responsable",
+      "d": "Jason Robins, director ejecutivo de DraftKings, dijo que los padres deberían hablar con sus hijos sobre el juego responsable y describió cómo aborda el tema con su familia.",
+      "u": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T14:08:52+00:00"
+    },
+    {
+      "h": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+      "es": "Las acciones de SK Hynix suben un 11% tras un beneficio trimestral récord, superando al mercado en general",
+      "d": "Las acciones del fabricante de chips surcoreano SK Hynix se dispararon un 11% el miércoles, ya que las ganancias del tercer trimestre superaron con creces las estimaciones.",
+      "u": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T14:05:55+00:00"
+    },
+    {
+      "h": "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday sales again?",
+      "es": "Las tazas bajistas regresan a Starbucks. ¿Puede la sensación viral volver a impulsar las ventas navideñas?",
+      "d": "El director ejecutivo de Starbucks, Brian Niccol, espera recuperar el rayo en una botella y seguir adelante con su plan de recuperación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/28/bearista-cups-are-back-at-starbucks-can-they-boost-holiday-sales-again.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T14:04:13+00:00"
+    },
+    {
+      "h": "Why is Bausch + Lomb stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Bausch + Lomb hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bausch--lomb-stock-surging-today-93CH-4979660",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-28T13:58:53+00:00"
+    },
+    {
+      "h": "Anthropic warns some risks may be uninsurable. AI coverage is going to be an issue for every company",
+      "es": "Anthropic advierte que algunos riesgos pueden no ser asegurables. La cobertura de IA será un problema para todas las empresas",
+      "d": "Anthropic advirtió al mercado que es posible que no haya suficientes seguros en el mundo para cubrir los riesgos de la IA. En grados menos extremos, es un problema que enfrentan todas las empresas.",
+      "u": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T13:58:52+00:00"
+    },
+    {
+      "h": "Why is Genmab stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Genmab hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-genmab-stock-surging-today-93CH-4979656",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-28T13:57:43+00:00"
+    },
+    {
+      "h": "Why is Ensign Group stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Ensign Group hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ensign-group-stock-surging-today-93CH-4979653",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-28T13:56:51+00:00"
+    },
+    {
+      "h": "Genmab stock surges 16% on positive cancer trial results",
+      "es": "Las acciones de Genmab aumentan un 16% gracias a los resultados positivos de los ensayos contra el cáncer",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/genmab-stock-surges-16-on-positive-cancer-trial-results-4979637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "published": "2026-10-28T13:54:47+00:00"
+    },
+    {
+      "h": "Why is Brinker International stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Brinker International hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-brinker-international-stock-surging-today-93CH-4979641",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-28T13:54:38+00:00"
+    },
+    {
+      "h": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+      "es": "¿Vale la pena el precio de ese vehículo eléctrico usado? Esta lista de verificación podría ahorrarle miles de dólares.",
+      "d": "El dolor en el surtidor está empujando a los conductores conscientes de los costos a alejarse de los automóviles tradicionales a gasolina y optar por vehículos eléctricos.",
+      "u": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-92843466",
+      "published": "2026-10-28T13:53:00+00:00"
+    },
+    {
+      "h": "Why is OneSpaWorld stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de OneSpaWorld hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-onespaworld-stock-surging-today-93CH-4979631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-28T13:52:44+00:00"
+    },
+    {
+      "h": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "es": "Google modifica su estrategia en la nube y recluta socios para vender más chips de IA",
+      "d": "Google está abriendo su negocio de TPU más allá de su propia nube a medida que los chips personalizados se convierten en un mayor motor de crecimiento.",
+      "u": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T13:52:27+00:00"
+    },
+    {
+      "h": "Your pay, energy bills and savings: How the Budget affects you",
+      "es": "Tu sueldo, facturas de energía y ahorros: cómo te afecta el Presupuesto",
+      "d": "Los cambios anunciados por el Canciller John Healey en su primer Presupuesto afectarán directamente a sus finanzas. Así es como.",
+      "u": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ee/live/d1c1f870-d1fc-11f1-b093-bfeeb34f4026.jpg",
+      "published": "2026-10-28T13:51:07+00:00"
+    },
+    {
+      "h": "Why is Axogen stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Axogen hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-axogen-stock-surging-today-93CH-4979626",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-28T13:50:59+00:00"
+    },
+    {
+      "h": "SK Hynix sparks a chip rally: Two oversold enablers primed to rebound",
+      "es": "SK Hynix provoca un repunte de las fichas: dos facilitadores de sobreventa preparados para recuperarse",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-sparks-a-chip-rally-two-oversold-enablers-primed-to-rebound-4979458",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg",
+      "published": "2026-10-28T13:50:49+00:00"
+    },
+    {
+      "h": "America's largest budget airline reports 71% jump in airfare",
+      "es": "La aerolínea de bajo costo más grande de Estados Unidos informa un aumento del 71% en las tarifas aéreas",
+      "d": "Frontier Airlines informó un aumento del 71% en las tarifas aéreas para el tercer trimestre y dijo que los clientes continúan reservando",
+      "u": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T13:50:38+00:00"
+    },
+    {
+      "h": "Why is Seagate Technology stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Seagate Technology hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-sliding-today-93CH-4979605",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Seagate_800x533_L_1674719149.jpg",
+      "published": "2026-10-28T13:48:16+00:00"
+    },
+    {
+      "h": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+      "es": "Las acciones de Stellantis suben un 12% a medida que el plan de recuperación del fabricante de automóviles y los recortes de costos ganan fuerza",
+      "d": "El gigante automovilístico europeo Stellantis dijo el miércoles que registró un déficit de efectivo de 4.000 millones de euros (4.500 millones de dólares) en el tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T13:48:05+00:00"
+    },
+    {
+      "h": "Why is Teradyne stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Teradyne hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-teradyne-stock-sliding-today-93CH-4979589",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-28T13:45:51+00:00"
+    },
+    {
+      "h": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+      "es": "¿Quiere ingresos garantizados durante la jubilación sin anualidad? Intente escalar los bonos I.",
+      "d": "La nueva tasa de interés del bono I podría ser del 5,5% o del 5,4%, pero eso no debería cambiar su estrategia.",
+      "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39326019",
+      "published": "2026-10-28T13:27:00+00:00"
+    },
     {
       "h": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
       "es": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
@@ -54,222 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-28T13:09:08+00:00"
-    },
-    {
-      "h": "Tuesday’s insider trading: Scholar Rock director buys $12 million",
-      "es": "Tuesday’s insider trading: Scholar Rock director buys $12 million",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tuesdays-insider-trading-scholar-rock-director-buys-12-million-93CH-4979292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-28T13:01:24+00:00"
-    },
-    {
-      "h": "Generic drugmaker Sandoz cuts sales outlook, shares fall",
-      "es": "Generic drugmaker Sandoz cuts sales outlook, shares fall",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/generic-drugmaker-sandoz-lowers-sales-outlook-lifts-profit-forecast-4977561",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0HQ_L.jpg",
-      "published": "2026-10-28T13:00:25+00:00"
-    },
-    {
-      "h": "Bombardier and BAE Systems partner on next-generation combat air capabilities",
-      "es": "Bombardier and BAE Systems partner on next-generation combat air capabilities",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bombardier-and-bae-systems-partner-on-nextgeneration-combat-air-capabilities-4979277",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8T1CN_M.jpg",
-      "published": "2026-10-28T13:00:21+00:00"
-    },
-    {
-      "h": "Oppenheimer downgrades Enphase after disappointing guidance, Q3 miss",
-      "es": "Oppenheimer downgrades Enphase after disappointing guidance, Q3 miss",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oppenheimer-downgrades-enphase-after-disappointing-guidance-q3-miss-4979268",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB890ME_M.jpg",
-      "published": "2026-10-28T12:58:58+00:00"
-    },
-    {
-      "h": "John Healey pays homage to predecessor Rachel Reeves",
-      "es": "John Healey pays homage to predecessor Rachel Reeves",
-      "d": "The chancellor gave respects at the onset of his Autumn Budget speech.",
-      "u": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d3/live/f4092f40-d2cc-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T12:57:22+00:00"
-    },
-    {
-      "h": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "es": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "d": "SK Hynix blew away the numbers, and GE Vernova crushed it too.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:56:05+00:00"
-    },
-    {
-      "h": "Meta and Snap face major US legal test of youth social media addiction claims",
-      "es": "Meta and Snap face major US legal test of youth social media addiction claims",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-and-snap-face-major-us-legal-test-of-youth-social-media-addiction-claims-4978233",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0WO_L.jpg",
-      "published": "2026-10-28T12:55:05+00:00"
-    },
-    {
-      "h": "Wendy’s gets $1.4 billion buyout offer from Peltz’s Trian",
-      "es": "Wendy’s gets $1.4 billion buyout offer from Peltz’s Trian",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R19I_L.jpg",
-      "published": "2026-10-28T12:54:46+00:00"
-    },
-    {
-      "h": "Should you buy Enphase Energy stock after its steep post-earnings selloff?",
-      "es": "Should you buy Enphase Energy stock after its steep post-earnings selloff?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/should-you-buy-enphase-energy-stock-after-its-steep-postearnings-selloff-93CH-4979242",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED4S0J1_M.jpg",
-      "published": "2026-10-28T12:54:06+00:00"
-    },
-    {
-      "h": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
-      "es": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
-      "d": "These stocks trade at low price/earnings valuations, and the companies are projected to achieve very high revenue growth rates through 2028.",
-      "u": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-98694626",
-      "published": "2026-10-28T12:54:00+00:00"
-    },
-    {
-      "h": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-      "es": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-      "d": "The currency has lost almost 5% against the U.S. dollar in six months.",
-      "u": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:52:41+00:00"
-    },
-    {
-      "h": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-      "es": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-      "d": "Trump's joke comes as Americans say in polls they believe that Democrats would do a better job than Republicans at address concerns about affordability.",
-      "u": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:49:09+00:00"
-    },
-    {
-      "h": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "es": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "d": "Vertiv’s big sales beat affirms that the AI buildout is accelerating.",
-      "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21062271",
-      "published": "2026-10-28T12:48:00+00:00"
-    },
-    {
-      "h": "Microsoft stock setup analysis ahead of today’s earnings release",
-      "es": "Microsoft stock setup analysis ahead of today’s earnings release",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-stock-setup-analysis-ahead-of-todays-earnings-release-93CH-4979177",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4D0X5_L.jpg",
-      "published": "2026-10-28T12:46:54+00:00"
-    },
-    {
-      "h": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.37%",
-      "es": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.37%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-037-4979201",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB2N0TI_M.jpg",
-      "published": "2026-10-28T12:45:03+00:00"
-    },
-    {
-      "h": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-      "es": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-      "d": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65126339",
-      "published": "2026-10-28T12:45:00+00:00"
-    },
-    {
-      "h": "Artiva halts cell therapy after patient deaths, cuts 94% of staff",
-      "es": "Artiva halts cell therapy after patient deaths, cuts 94% of staff",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/artiva-halts-cell-therapy-after-patient-deaths-cuts-94-of-staff-93CH-4979189",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-28T12:44:13+00:00"
-    },
-    {
-      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-10-28T12:30:00+00:00"
-    },
-    {
-      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "es": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "d": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-10-28T12:30:00+00:00"
-    },
-    {
-      "h": "How will the tax cut on gherkins help restaurants?",
-      "es": "How will the tax cut on gherkins help restaurants?",
-      "d": "BBC Radio Manchester spoke to a burger restaurant amid the chancellor's budget announcements.",
-      "u": "https://www.bbc.co.uk/news/videos/c6y0e1812r1no?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b1/live/503a9f20-d2c7-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T12:28:29+00:00"
-    },
-    {
-      "h": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-      "es": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-      "d": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-      "u": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:27:07+00:00"
-    },
-    {
-      "h": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-      "es": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-      "d": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict have ballooned to $47 billion.",
-      "u": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:25:49+00:00"
-    },
-    {
-      "h": "More cats abandoned 'due to rising costs'",
-      "es": "More cats abandoned 'due to rising costs'",
-      "d": "A shelter says it has looked after 150 more cats and kittens this summer than last year.",
-      "u": "https://www.bbc.co.uk/news/videos/cked3en749pyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6d/live/d82af770-d2c9-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T12:21:16+00:00"
-    },
-    {
-      "h": "Traders are betting big against this restaurant giant into earnings",
-      "es": "Traders are betting big against this restaurant giant into earnings",
-      "d": "There’s a lot of big earnings but the giant that traders are most worried about is apparently fast-casual titan Chipotle.",
-      "u": "https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T12:04:47+00:00"
     }
   ],
   "sources": [
