@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-28T00:05:00.302698+00:00",
+  "updated": "2026-10-28T00:59:20.319479+00:00",
   "news": [
+    {
+      "h": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
+      "es": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-with-fed-rate-decision-megacap-tech-earnings-on-tap-4977314",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
+      "published": "2026-10-28T00:53:02+00:00"
+    },
+    {
+      "h": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+      "es": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+      "d": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "u": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T00:14:24+00:00"
+    },
     {
       "h": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
       "es": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
@@ -99,6 +117,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
       "published": "2026-10-27T22:42:20+00:00"
+    },
+    {
+      "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "es": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+      "d": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+      "u": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T22:35:25+00:00"
     },
     {
       "h": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-27T21:22:03+00:00"
-    },
-    {
-      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
-      "es": "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-092-4977054",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECB40LZ_M.jpg",
-      "published": "2026-10-27T21:20:03+00:00"
-    },
-    {
-      "h": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-      "es": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-      "d": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
-      "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-325645",
-      "published": "2026-10-27T21:20:00+00:00"
-    },
-    {
-      "h": "Anthropic's IPO is risky business",
-      "es": "Anthropic's IPO is risky business",
-      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:17:27+00:00"
     }
   ],
   "sources": [
