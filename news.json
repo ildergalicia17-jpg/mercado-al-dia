@@ -1,6 +1,204 @@
 {
-  "updated": "2026-10-28T20:11:41.916821+00:00",
+  "updated": "2026-10-28T20:56:23.361089+00:00",
   "news": [
+    {
+      "h": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+      "es": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+      "d": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+      "u": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:54:23+00:00"
+    },
+    {
+      "h": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "es": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:54:17+00:00"
+    },
+    {
+      "h": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "es": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "d": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
+      "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21062271",
+      "published": "2026-10-28T20:49:00+00:00"
+    },
+    {
+      "h": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+      "es": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+      "d": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
+      "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89185439",
+      "published": "2026-10-28T20:45:00+00:00"
+    },
+    {
+      "h": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
+      "es": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fords-thirdquarter-core-profit-ticks-higher-despite-rising-commodity-costs-4980617",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CO_L.jpg",
+      "published": "2026-10-28T20:43:06+00:00"
+    },
+    {
+      "h": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
+      "es": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R25H_L.jpg",
+      "published": "2026-10-28T20:42:32+00:00"
+    },
+    {
+      "h": "After-Hours Movers: GOOGL, MSFT, NOW, KLAC. CMG, CVNA, TDOC",
+      "es": "After-Hours Movers: GOOGL, MSFT, NOW, KLAC. CMG, CVNA, TDOC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-googl-msft-now-klac-cmg-cvna-tdoc-432SI-4980783",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-28T20:40:02+00:00"
+    },
+    {
+      "h": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "es": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "d": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
+      "u": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T20:35:33+00:00"
+    },
+    {
+      "h": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.19%",
+      "es": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.19%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-019-4980754",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM540VB_1200_L.jpg",
+      "published": "2026-10-28T20:35:07+00:00"
+    },
+    {
+      "h": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "es": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "d": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "u": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2fd/live/e4572ac0-d2fe-11f1-8091-57f2713cabe8.jpg",
+      "published": "2026-10-28T20:31:39+00:00"
+    },
+    {
+      "h": "Rio Tinto doubles down in Argentina with new lithium plants",
+      "es": "Rio Tinto doubles down in Argentina with new lithium plants",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rio-tinto-doubles-down-in-argentina-with-new-lithium-plants-4980737",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2DT_L.jpg",
+      "published": "2026-10-28T20:31:03+00:00"
+    },
+    {
+      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.26%",
+      "es": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.26%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-026-4980734",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-10-28T20:30:33+00:00"
+    },
+    {
+      "h": "Brazil stocks lower at close of trade; Bovespa down 2.68%",
+      "es": "Brazil stocks lower at close of trade; Bovespa down 2.68%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-268-4980728",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED2T1WW_M.jpg",
+      "published": "2026-10-28T20:30:04+00:00"
+    },
+    {
+      "h": "FedEx forecasts annual profit above estimates, posts higher quarterly earnings on better pricing, volumes",
+      "es": "FedEx forecasts annual profit above estimates, posts higher quarterly earnings on better pricing, volumes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fedex-forecasts-annual-profit-above-estimates-posts-higher-quarterly-earnings-on-better-pricing-volumes-4980618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2C9_L.jpg",
+      "published": "2026-10-28T20:26:02+00:00"
+    },
+    {
+      "h": "Chipotle beats quarterly sales expectations on resilient demand",
+      "es": "Chipotle beats quarterly sales expectations on resilient demand",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chipotle-beats-quarterly-sales-expectations-on-resilient-demand-4980716",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2D9_L.jpg",
+      "published": "2026-10-28T20:25:24+00:00"
+    },
+    {
+      "h": "Alphabet’s heavy cloud spending drives bigger-than-expected cash burn",
+      "es": "Alphabet’s heavy cloud spending drives bigger-than-expected cash burn",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CP_L.jpg",
+      "published": "2026-10-28T20:25:12+00:00"
+    },
+    {
+      "h": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
+      "es": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
+      "d": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+      "u": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T20:23:48+00:00"
+    },
+    {
+      "h": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+      "es": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+      "d": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
+      "u": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:23:00+00:00"
+    },
+    {
+      "h": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+      "es": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+      "d": "Even with an uptick in multi-million-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics",
+      "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13468523",
+      "published": "2026-10-28T20:22:00+00:00"
+    },
+    {
+      "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "es": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "d": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+      "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86491605",
+      "published": "2026-10-28T20:18:00+00:00"
+    },
+    {
+      "h": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+      "es": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+      "d": "Analyst predicts the ‘mother of all maintenance seasons’ for refineries that have been running at high capacity",
+      "u": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-12312453",
+      "published": "2026-10-28T20:16:00+00:00"
+    },
+    {
+      "h": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+      "es": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+      "d": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.",
+      "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-47992570",
+      "published": "2026-10-28T20:11:00+00:00"
+    },
     {
       "h": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
       "es": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
@@ -9,6 +207,15 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-28T20:09:47+00:00"
+    },
+    {
+      "h": "What we now know about the UK economy in four charts",
+      "es": "What we now know about the UK economy in four charts",
+      "d": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "u": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+      "published": "2026-10-28T20:08:45+00:00"
     },
     {
       "h": "Leak website releases data on tens of thousands of DHS employees",
@@ -63,213 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-28T19:54:49+00:00"
-    },
-    {
-      "h": "Moody’s cuts Whirlpool rating to B1 on housing slump and weak margins",
-      "es": "Moody’s cuts Whirlpool rating to B1 on housing slump and weak margins",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/moodys-cuts-whirlpool-rating-to-b1-on-housing-slump-and-weak-margins-4980541",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED3O0SK_M.jpg",
-      "published": "2026-10-28T19:54:22+00:00"
-    },
-    {
-      "h": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-      "es": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-      "d": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
-      "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15993308",
-      "published": "2026-10-28T19:54:00+00:00"
-    },
-    {
-      "h": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "es": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "d": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "u": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
-      "published": "2026-10-28T19:51:01+00:00"
-    },
-    {
-      "h": "Nvidia faces DOJ antitrust scrutiny over $12.9B Hugging Face deal, Reuters says",
-      "es": "Nvidia faces DOJ antitrust scrutiny over $12.9B Hugging Face deal, Reuters says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-faces-doj-antitrust-scrutiny-over-129b-hugging-face-deal-reuters-says-4980539",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg",
-      "published": "2026-10-28T19:50:28+00:00"
-    },
-    {
-      "h": "Here’s what just sent Oracle’s stock soaring",
-      "es": "Here’s what just sent Oracle’s stock soaring",
-      "d": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
-      "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39641001",
-      "published": "2026-10-28T19:40:00+00:00"
-    },
-    {
-      "h": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
-      "es": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/prediction-market-bets-set-the-tone-for-anthropics-muchawaited-ipo-4980048",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1T0_L.jpg",
-      "published": "2026-10-28T19:37:11+00:00"
-    },
-    {
-      "h": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-      "es": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-      "d": "Chipotle's stock has fallen about 22% so far this year, dragging its market cap down to about $36 billion.",
-      "u": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T19:30:01+00:00"
-    },
-    {
-      "h": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
-      "es": "Las acciones de Oracle suben un 12% a medida que el pronóstico de ingresos a largo plazo y la claridad sobre el financiamiento alivian las preocupaciones sobre la deuda",
-      "d": "Oracle emitió un pronóstico de ingresos para el año fiscal 2030 de 225 mil millones de dólares y dijo que limitará la recaudación de fondos adicional durante ese tramo a 20 mil millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T19:20:19+00:00"
-    },
-    {
-      "h": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
-      "es": "Microsoft publicará resultados después de la campana en medio de recortes de empleo y una nueva prueba de flujo de caja",
-      "d": "Microsoft informará los ingresos de Azure en dólares por primera vez, ya que gasta mucho para ampliar la capacidad de la infraestructura de inteligencia artificial.",
-      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T19:19:38+00:00"
-    },
-    {
-      "h": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-      "es": "El inversor en bonos Jeff Gundlach sobre la pausa en los tipos de la Fed: \"¿A qué estás esperando?\"",
-      "d": "El fundador de DoubleLine habló con el programa \"Closing Bell\" de CNBC el miércoles después de que la Reserva Federal anunciara su decisión de mantener estables las tasas de interés.",
-      "u": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T19:18:44+00:00"
-    },
-    {
-      "h": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "es": "Elon Musk es un \"verdadero genio\", dice Putin después de las conversaciones sobre satélites con el jefe de SpaceX",
-      "d": "El presidente ruso elogió a Musk y dijo que están en contacto \"estrecho\".",
-      "u": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
-      "published": "2026-10-28T19:15:58+00:00"
-    },
-    {
-      "h": "Healey tells departments to make 1% cuts to fund defence",
-      "es": "Healey tells departments to make 1% cuts to fund defence",
-      "d": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-      "u": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
-      "published": "2026-10-28T19:01:34+00:00"
-    },
-    {
-      "h": "Options traders break down a massive Alphabet trade into earnings",
-      "es": "Options traders break down a massive Alphabet trade into earnings",
-      "d": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
-      "u": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T19:01:03+00:00"
-    },
-    {
-      "h": "Pennsylvania measles cases near 1,400, state health department says",
-      "es": "Los casos de sarampión en Pensilvania se acercan a los 1.400, dice el departamento de salud estatal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/pennsylvania-measles-cases-near-1400-state-health-department-says-4980479",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-28T19:00:26+00:00"
-    },
-    {
-      "h": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-      "es": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-      "d": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-      "u": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:58:04+00:00"
-    },
-    {
-      "h": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-      "es": "Elon Musk dice que puede construir un proveedor de servicios inalámbricos en dos o tres años. ¿Es eso posible?",
-      "d": "Verizon dice que “no existe una varita mágica”, pero los analistas señalan que SpaceX puede estar buscando algunos atajos.",
-      "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-62238312",
-      "published": "2026-10-28T18:58:00+00:00"
-    },
-    {
-      "h": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "es": "El gobierno de Estados Unidos ya no penalizará a las empresas estadounidenses por fabricar seis péptidos populares",
-      "d": "No tomará medidas contra las farmacias de compuestos que fabrican productos de bienestar populares como BPC-157 y TB-500.",
-      "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87205296",
-      "published": "2026-10-28T18:56:00+00:00"
-    },
-    {
-      "h": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
-      "es": "Los votantes de la Generación Z nos dijeron que las elecciones intermedias se reducirán a brindar vida, no a cuestiones sociales",
-      "d": "MarketWatch habló con votantes más jóvenes que dijeron que muchos objetivos de vida parecen inalcanzables para su generación.",
-      "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40274543",
-      "published": "2026-10-28T18:56:00+00:00"
-    },
-    {
-      "h": "Five ways the Budget will affect you if you are under 25",
-      "es": "Cinco formas en que te afectará el Presupuesto si tienes menos de 25 años",
-      "d": "La canciller anunció una serie de medidas que afectarán a los menores de 25 años, desde la vivienda hasta el salario mínimo.",
-      "u": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T18:55:56+00:00"
-    },
-    {
-      "h": "Oracle expects to turn cash flow positive in second half of fiscal 2028",
-      "es": "Oracle espera generar un flujo de caja positivo en la segunda mitad del año fiscal 2028",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oracle-expects-to-turn-cash-flow-positive-in-second-half-of-fiscal-2028-4980458",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R25W_L.jpg",
-      "published": "2026-10-28T18:48:37+00:00"
-    },
-    {
-      "h": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "es": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "d": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "u": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-10-28T18:45:09+00:00"
-    },
-    {
-      "h": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "es": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "d": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
-      "u": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:44:40+00:00"
-    },
-    {
-      "h": "Why is Canadian Natural Resources stock climbing today?",
-      "es": "¿Por qué están aumentando hoy las existencias de recursos naturales canadienses?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-climbing-today-93CH-4980461",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-10-28T18:44:13+00:00"
     }
   ],
   "sources": [
