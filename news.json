@@ -1,6 +1,186 @@
 {
-  "updated": "2026-10-28T18:25:36.983496+00:00",
+  "updated": "2026-10-28T19:24:46.240605+00:00",
   "news": [
+    {
+      "h": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "es": "Las acciones de Oracle suben un 12% a medida que el pronóstico de ingresos a largo plazo y la claridad sobre el financiamiento alivian las preocupaciones sobre la deuda",
+      "d": "Oracle emitió un pronóstico de ingresos para el año fiscal 2030 de 225 mil millones de dólares y dijo que limitará la recaudación de fondos adicional durante ese tramo a 20 mil millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T19:20:19+00:00"
+    },
+    {
+      "h": "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
+      "es": "Microsoft publicará resultados después de la campana en medio de recortes de empleo y una nueva prueba de flujo de caja",
+      "d": "Microsoft informará los ingresos de Azure en dólares por primera vez, ya que gasta mucho para ampliar la capacidad de la infraestructura de inteligencia artificial.",
+      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T19:19:38+00:00"
+    },
+    {
+      "h": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+      "es": "El inversor en bonos Jeff Gundlach sobre la pausa en los tipos de la Fed: \"¿A qué estás esperando?\"",
+      "d": "El fundador de DoubleLine habló con el programa \"Closing Bell\" de CNBC el miércoles después de que la Reserva Federal anunciara su decisión de mantener estables las tasas de interés.",
+      "u": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T19:18:44+00:00"
+    },
+    {
+      "h": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "es": "Elon Musk es un \"verdadero genio\", dice Putin después de las conversaciones sobre satélites con el jefe de SpaceX",
+      "d": "El presidente ruso elogió a Musk y dijo que están en contacto \"estrecho\".",
+      "u": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+      "published": "2026-10-28T19:15:58+00:00"
+    },
+    {
+      "h": "Pennsylvania measles cases near 1,400, state health department says",
+      "es": "Los casos de sarampión en Pensilvania se acercan a los 1.400, dice el departamento de salud estatal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pennsylvania-measles-cases-near-1400-state-health-department-says-4980479",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-28T19:00:26+00:00"
+    },
+    {
+      "h": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+      "es": "Elon Musk dice que puede construir un proveedor de servicios inalámbricos en dos o tres años. ¿Es eso posible?",
+      "d": "Verizon dice que “no existe una varita mágica”, pero los analistas señalan que SpaceX puede estar buscando algunos atajos.",
+      "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-62238312",
+      "published": "2026-10-28T18:58:00+00:00"
+    },
+    {
+      "h": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "es": "El gobierno de Estados Unidos ya no penalizará a las empresas estadounidenses por fabricar seis péptidos populares",
+      "d": "No tomará medidas contra las farmacias de compuestos que fabrican productos de bienestar populares como BPC-157 y TB-500.",
+      "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-87205296",
+      "published": "2026-10-28T18:56:00+00:00"
+    },
+    {
+      "h": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+      "es": "Los votantes de la Generación Z nos dijeron que las elecciones intermedias se reducirán a brindar vida, no a cuestiones sociales",
+      "d": "MarketWatch habló con votantes más jóvenes que dijeron que muchos objetivos de vida parecen inalcanzables para su generación.",
+      "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-40274543",
+      "published": "2026-10-28T18:56:00+00:00"
+    },
+    {
+      "h": "Five ways the Budget will affect you if you are under 25",
+      "es": "Cinco formas en que te afectará el Presupuesto si tienes menos de 25 años",
+      "d": "La canciller anunció una serie de medidas que afectarán a los menores de 25 años, desde la vivienda hasta el salario mínimo.",
+      "u": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-10-28T18:55:56+00:00"
+    },
+    {
+      "h": "Oracle expects to turn cash flow positive in second half of fiscal 2028",
+      "es": "Oracle espera generar un flujo de caja positivo en la segunda mitad del año fiscal 2028",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-expects-to-turn-cash-flow-positive-in-second-half-of-fiscal-2028-4980458",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R25W_L.jpg",
+      "published": "2026-10-28T18:48:37+00:00"
+    },
+    {
+      "h": "Why is Canadian Natural Resources stock climbing today?",
+      "es": "¿Por qué están aumentando hoy las existencias de recursos naturales canadienses?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-canadian-natural-resources-stock-climbing-today-93CH-4980461",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-10-28T18:44:13+00:00"
+    },
+    {
+      "h": "Meta delays indefinitely its rollout of new commercial terms after publishers’ concerns",
+      "es": "Meta retrasa indefinidamente el lanzamiento de nuevos términos comerciales tras las preocupaciones de los editores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-delays-indefinitely-its-rollout-of-new-commercial-terms-after-publishers-concerns-4980457",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R262_L.jpg",
+      "published": "2026-10-28T18:42:44+00:00"
+    },
+    {
+      "h": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
+      "es": "Exclusivo: el Departamento de Justicia de EE. UU. está preguntando sobre la compra de Hugging Face por parte de Nvidia, dicen fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R25H_L.jpg",
+      "published": "2026-10-28T18:36:43+00:00"
+    },
+    {
+      "h": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+      "es": "Estamos agregando una nueva jugada de IA de alto perfil a nuestra lista de acciones de Bullpen para observar",
+      "d": "Con la cartera del Club ahora reducida a 31 posiciones, estamos trabajando en nuevas ideas para agregar al Bullpen.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:33:53+00:00"
+    },
+    {
+      "h": "Oracle shares jump as long-term outlook targets $225 billion in revenue",
+      "es": "Las acciones de Oracle saltan mientras la perspectiva a largo plazo apunta a 225 mil millones de dólares en ingresos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-shares-jump-as-longterm-outlook-targets-225-billion-in-revenue-4980445",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
+      "published": "2026-10-28T18:33:38+00:00"
+    },
+    {
+      "h": "Three ways the Budget affects you",
+      "es": "Tres formas en que te afecta el Presupuesto",
+      "d": "Esyllt Carr, de la BBC, explica cómo los planes de gasto del canciller impactan a los jóvenes.",
+      "u": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de5b/live/ea1b69e0-d2fd-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-28T18:32:56+00:00"
+    },
+    {
+      "h": "Dollar edges higher after Fed holds rates as inflation risks persist",
+      "es": "El dólar sube después de que la Fed mantenga los tipos mientras persisten los riesgos de inflación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-fx-mixed-as-dollar-holds-near-twoweek-high-kiwi-sinks-after-rbnz-hold-4977438",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3R0Z9_1200_L.jpg",
+      "published": "2026-10-28T18:31:47+00:00"
+    },
+    {
+      "h": "Exclusive-US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing",
+      "es": "La FTC exclusiva de EE. UU. exige a Walmart, Uber, Delta y otros que entreguen datos sobre precios personalizados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-ftc-demands-walmart-uber-delta-and-others-hand-over-data-on-personalized-pricing-4980434",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R24Y_L.jpg",
+      "published": "2026-10-28T18:30:44+00:00"
+    },
+    {
+      "h": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+      "es": "Estoy planeando un viaje a Europa. ¿Es tonto seguir los consejos de viaje de personas influyentes?",
+      "d": "\"¿Cómo puedo saber si algo es una experiencia real en mi rango de precio?\"",
+      "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-43158472",
+      "published": "2026-10-28T18:30:00+00:00"
+    },
+    {
+      "h": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+      "es": "Asistentes de campaña de Peltola y funcionarios del DSCC ayudaron a reclutar al segundo Dan Sullivan en la carrera de Alaska: NYT",
+      "d": "El Departamento de Justicia quiere que un juez bloquee temporalmente la certificación de las elecciones al Senado de Alaska si el actual senador Dan Sullivan pierde debido a la confusión de los votantes.",
+      "u": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:22:14+00:00"
+    },
     {
       "h": "Fed holds rates steady despite concerns over inflation",
       "es": "Fed holds rates steady despite concerns over inflation",
@@ -11,6 +191,15 @@
       "published": "2026-10-28T18:19:58+00:00"
     },
     {
+      "h": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+      "es": "Google lanza el modelo Gemini 4 Carbon AI con enfoque en ciberseguridad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-4980426",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R24K_L.jpg",
+      "published": "2026-10-28T18:18:17+00:00"
+    },
+    {
       "h": "The Budget explained in less than one minute",
       "es": "The Budget explained in less than one minute",
       "d": "What the Budget means for you in under a minute",
@@ -18,6 +207,24 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/2d2d16f0-d2fb-11f1-93e1-3b657b665bcf.jpg",
       "published": "2026-10-28T18:17:43+00:00"
+    },
+    {
+      "h": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "es": "Los umbrales impositivos permanecen sin cambios: esto es lo que significa para su salario",
+      "d": "El punto en el que empiezas a pagar impuestos y el punto en el que te inclinas a pagar una tasa impositiva más alta se han congelado durante tres años más.",
+      "u": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
+      "published": "2026-10-28T18:12:24+00:00"
+    },
+    {
+      "h": "Here is what changed in the new Fed statement",
+      "es": "Esto es lo que cambió en la nueva declaración de la Reserva Federal",
+      "d": "Esta es una comparación de la declaración del Comité Federal de Mercado Abierto del miércoles con la emitida después de la anterior reunión de formulación de políticas de la Reserva Federal en septiembre.",
+      "u": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:06:50+00:00"
     },
     {
       "h": "GDP, core PCE, and jobless claims among economic data due Thursday",
@@ -63,213 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1DQ_L.jpg",
       "published": "2026-10-28T17:49:26+00:00"
-    },
-    {
-      "h": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
-      "es": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R19I_L.jpg",
-      "published": "2026-10-28T17:49:08+00:00"
-    },
-    {
-      "h": "Frontier swings to surprise profit on ’healthy balance’ between higher fares and demand",
-      "es": "Frontier swings to surprise profit on ’healthy balance’ between higher fares and demand",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/frontier-swings-to-surprise-profit-on-healthy-balance-between-higher-fares-and-demand-4980399",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1AS_L.jpg",
-      "published": "2026-10-28T17:48:57+00:00"
-    },
-    {
-      "h": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
-      "es": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alvin-hellerstein-federal-judge-who-oversaw-trump-maduro-and-september-11-cases-dies-at-92-4980397",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-28T17:48:15+00:00"
-    },
-    {
-      "h": "European shares edge higher ahead of Big Tech, Fed test",
-      "es": "European shares edge higher ahead of Big Tech, Fed test",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-stutter-as-bank-earnings-fail-to-offset-prefed-jitters-4977566",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "published": "2026-10-28T17:45:36+00:00"
-    },
-    {
-      "h": "Palantir defense chief says AI advances may force China to invade Taiwan",
-      "es": "Palantir defense chief says AI advances may force China to invade Taiwan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/palantir-defense-chief-says-ai-advances-may-force-china-to-invade-taiwan-4980393",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL440S3_L.jpg",
-      "published": "2026-10-28T17:45:14+00:00"
-    },
-    {
-      "h": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "es": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "d": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
-      "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21062271",
-      "published": "2026-10-28T17:44:00+00:00"
-    },
-    {
-      "h": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
-      "es": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sap-swaps-costly-ai-models-for-cheaper-alternatives-targets-over-2-billion-in-gains-4979724",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1MD_L.jpg",
-      "published": "2026-10-28T17:42:23+00:00"
-    },
-    {
-      "h": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
-      "es": "Mire en vivo: los operadores de opciones descomponen una operación masiva de Alphabet en ganancias",
-      "d": "El mini repunte del mercado se enfrenta a una prueba clave después de la campana cuando los gigantes tecnológicos Alphabet y Microsoft informen.",
-      "u": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T17:41:47+00:00"
-    },
-    {
-      "h": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "es": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "d": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-      "u": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T17:39:43+00:00"
-    },
-    {
-      "h": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "es": "Dharshini David: Healey gana algo de tiempo, pero grandes preguntas aún sin respuesta",
-      "d": "El canciller habló de trazar un nuevo rumbo para Gran Bretaña, pero el impacto de la guerra con Irán ha limitado sus opciones.",
-      "u": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
-      "published": "2026-10-28T17:32:51+00:00"
-    },
-    {
-      "h": "Healey tells departments to make 1% cuts to fund defence",
-      "es": "Healey pide a los departamentos que hagan recortes del 1% para financiar la defensa",
-      "d": "La reducción del gasto público se destinará a costear el Plan de Inversiones en Defensa.",
-      "u": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
-      "published": "2026-10-28T17:32:20+00:00"
-    },
-    {
-      "h": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "es": "Apple lleva el toque a la Mac, revirtiendo la postura de años atrás sobre la computadora portátil con pantalla táctil",
-      "d": "Apple anuncia una nueva computadora portátil con pantalla táctil, el tercer lanzamiento importante de la compañía bajo el nuevo director ejecutivo John Ternus.",
-      "u": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T17:29:21+00:00"
-    },
-    {
-      "h": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-      "es": "La presentación de una oferta pública inicial antrópica advierte que algunos riesgos pueden no ser asegurables. La cobertura de IA será un problema para todas las empresas",
-      "d": "Anthropic advirtió al mercado que es posible que no haya suficientes seguros en el mundo para cubrir los riesgos de la IA. En grados menos extremos, es un problema que enfrentan todas las empresas.",
-      "u": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T17:26:06+00:00"
-    },
-    {
-      "h": "Apple unveils MacBook Pro with touchscreen OLED display",
-      "es": "Apple presenta MacBook Pro con pantalla táctil OLED",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-unveils-macbook-pro-with-touchscreen-oled-display-4980367",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D146_L.jpg",
-      "published": "2026-10-28T17:24:50+00:00"
-    },
-    {
-      "h": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-      "es": "La oferta de compra de Wendy's sugiere que la reforma de la cadena de hamburguesas podría ser muy costosa",
-      "d": "Trian Fund Management de Nelson Peltz ha hecho una oferta de 1.400 millones de dólares por Wendy's y dice que la empresa \"requiere una importante inversión de capital\" para volver a encarrilarse.",
-      "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15993308",
-      "published": "2026-10-28T17:24:00+00:00"
-    },
-    {
-      "h": "Airbus holds annual targets, bets on year-end delivery surge",
-      "es": "Airbus mantiene objetivos anuales y apuesta por un aumento de las entregas a finales de año",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/airbus-holds-annual-targets-bets-on-yearend-delivery-surge-4980299",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1YK_L.jpg",
-      "published": "2026-10-28T17:18:28+00:00"
-    },
-    {
-      "h": "Google unveils Gemini 4 Carbon with advanced cybersecurity features",
-      "es": "Google presenta Gemini 4 Carbon con funciones avanzadas de ciberseguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-unveils-gemini-4-carbon-with-advanced-cybersecurity-features-4980345",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7C1HU_L.jpg",
-      "published": "2026-10-28T17:11:18+00:00"
-    },
-    {
-      "h": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.10%",
-      "es": "Las bolsas de valores del Reino Unido cierran al alza; Investing.com Reino Unido 100 sube un 0,10%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-010-4980344",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LondonStockExchange_800x533_L_1623406565.jpg",
-      "published": "2026-10-28T17:09:19+00:00"
-    },
-    {
-      "h": "Spain stocks lower at close of trade; IBEX 35 down 1.45%",
-      "es": "Las bolsas de España cierran a la baja; El IBEX 35 cae un 1,45%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-145-4980343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/bmachada1_p1_M_1440050351.jpg",
-      "published": "2026-10-28T17:08:52+00:00"
-    },
-    {
-      "h": "Portugal stocks lower at close of trade; PSI down 0.08%",
-      "es": "Las bolsas de Portugal cierran a la baja; El PSI bajó un 0,08%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-008-4980341",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEA8T0B7_M.jpg",
-      "published": "2026-10-28T17:08:19+00:00"
-    },
-    {
-      "h": "Netherlands stocks lower at close of trade; AEX down 0.37%",
-      "es": "Las Bolsas de Países Bajos cierran a la baja; AEX cae un 0,37%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-037-4980339",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL7I0DZ_L.jpg",
-      "published": "2026-10-28T17:07:48+00:00"
-    },
-    {
-      "h": "Italy stocks higher at close of trade; Investing.com Italy 40 up 0.39%",
-      "es": "Las bolsas de valores de Italia cierran al alza; Investing.com Italia 40 sube un 0,39%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-039-4980338",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Borsa-milan_M_1440048322.jpg",
-      "published": "2026-10-28T17:07:22+00:00"
-    },
-    {
-      "h": "Germany stocks mixed at close of trade; DAX up 0.42%",
-      "es": "Las bolsas de valores de Alemania cerraron mixtas; El DAX sube un 0,42%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/germany-stocks-mixed-at-close-of-trade-dax-up-042-4980337",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEAB10I3_M.jpg",
-      "published": "2026-10-28T17:06:21+00:00"
     }
   ],
   "sources": [
