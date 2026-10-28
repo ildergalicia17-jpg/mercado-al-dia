@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-28T22:57:55.148166+00:00",
+  "updated": "2026-10-28T23:32:36.943984+00:00",
   "news": [
+    {
+      "h": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "es": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "d": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
+      "u": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T23:24:37+00:00"
+    },
+    {
+      "h": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "es": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "d": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "u": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54642161",
+      "published": "2026-10-28T23:18:00+00:00"
+    },
+    {
+      "h": "Zillow to pay $212.5 million to settle class action over failed real estate venture",
+      "es": "Zillow to pay $212.5 million to settle class action over failed real estate venture",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/zillow-to-pay-2125-million-to-settle-class-action-over-failed-real-estate-venture-4981184",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2LH_L.jpg",
+      "published": "2026-10-28T23:07:13+00:00"
+    },
+    {
+      "h": "FedEx margins decline as it pays more to hire truckers, shares fall",
+      "es": "FedEx margins decline as it pays more to hire truckers, shares fall",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fedex-forecasts-annual-profit-above-estimates-posts-higher-quarterly-earnings-on-better-pricing-volumes-4980618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2C9_L.jpg",
+      "published": "2026-10-28T23:06:27+00:00"
+    },
+    {
+      "h": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "es": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "d": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+      "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13468523",
+      "published": "2026-10-28T23:02:00+00:00"
+    },
+    {
+      "h": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "es": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "d": "CNBC’s Jim Cramer said SK Hynix’s blockbuster earnings showed that AI stocks can still rally.",
+      "u": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T23:00:27+00:00"
+    },
+    {
+      "h": "Sobering quarter for Jose Cuervo distiller as profit slumps",
+      "es": "Sobering quarter for Jose Cuervo distiller as profit slumps",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sobering-quarter-for-jose-cuervo-distiller-as-profit-slumps-4981167",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2KJ_L.jpg",
+      "published": "2026-10-28T22:48:42+00:00"
+    },
     {
       "h": "Cyberattack concealed political spending by big donors before US midterm elections",
       "es": "Cyberattack concealed political spending by big donors before US midterm elections",
@@ -38,6 +101,15 @@
       "published": "2026-10-28T22:36:25+00:00"
     },
     {
+      "h": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "es": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "d": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T22:34:56+00:00"
+    },
+    {
       "h": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
       "es": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
       "d": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
@@ -54,6 +126,15 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-28T22:26:48+00:00"
+    },
+    {
+      "h": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "es": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "d": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+      "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-69392941",
+      "published": "2026-10-28T22:25:00+00:00"
     },
     {
       "h": "Chipotle tops quarterly sales expectations as it continues to attract diners",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
       "published": "2026-10-28T21:52:37+00:00"
-    },
-    {
-      "h": "Why is Equinix stock surging today?",
-      "es": "Why is Equinix stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-equinix-stock-surging-today-93CH-4981045",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-28T21:52:32+00:00"
-    },
-    {
-      "h": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-      "es": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-      "d": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T21:47:47+00:00"
-    },
-    {
-      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-10-28T21:45:00+00:00"
-    },
-    {
-      "h": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-      "es": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-      "d": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
-      "u": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T21:42:24+00:00"
-    },
-    {
-      "h": "Why is Honeywell Aerospace stock sliding today?",
-      "es": "Why is Honeywell Aerospace stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-honeywell-aerospace-stock-sliding-today-93CH-4981018",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-28T21:41:42+00:00"
-    },
-    {
-      "h": "Why is MGM Resorts stock sliding today?",
-      "es": "Why is MGM Resorts stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-mgm-resorts-stock-sliding-today-93CH-4981008",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-28T21:40:18+00:00"
-    },
-    {
-      "h": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "es": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "d": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-      "u": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T21:31:46+00:00"
-    },
-    {
-      "h": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "es": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "d": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65126339",
-      "published": "2026-10-28T21:30:00+00:00"
-    },
-    {
-      "h": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
-      "es": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
-      "d": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
-      "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-91160392",
-      "published": "2026-10-28T21:27:00+00:00"
     }
   ],
   "sources": [
