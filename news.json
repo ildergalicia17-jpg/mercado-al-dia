@@ -1,6 +1,105 @@
 {
-  "updated": "2026-10-28T04:12:45.165294+00:00",
+  "updated": "2026-10-28T04:59:18.656267+00:00",
   "news": [
+    {
+      "h": "Ambani’s Jio surges 21% in Mumbai debut after record $3.2 billion India IPO",
+      "es": "Ambani’s Jio surges 21% in Mumbai debut after record $3.2 billion India IPO",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ambanis-jio-surges-21-in-mumbai-debut-after-record-32-billion-india-ipo-4977466",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R09H_L.jpg",
+      "published": "2026-10-28T04:54:36+00:00"
+    },
+    {
+      "h": "Exclusive-China’s CXMT to start advanced AI memory production despite poor yields, sources say",
+      "es": "Exclusive-China’s CXMT to start advanced AI memory production despite poor yields, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivechinas-cxmt-to-start-advanced-ai-memory-production-despite-poor-yields-sources-say-4977472",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0A0_L.jpg",
+      "published": "2026-10-28T04:54:20+00:00"
+    },
+    {
+      "h": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+      "es": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+      "d": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+      "u": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T04:51:42+00:00"
+    },
+    {
+      "h": "Pop Mart shares fall 6% as cooling Labubu craze spurs sharp drop in Q3 sales",
+      "es": "Pop Mart shares fall 6% as cooling Labubu craze spurs sharp drop in Q3 sales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pop-mart-shares-fall-6-as-cooling-labubu-craze-spurs-sharp-drop-in-q3-sales-4977462",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6703X_M.jpg",
+      "published": "2026-10-28T04:33:03+00:00"
+    },
+    {
+      "h": "StanChart lifts full-year targets after quarterly profit jump trounces forecasts",
+      "es": "StanChart lifts full-year targets after quarterly profit jump trounces forecasts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/stanchart-thirdquarter-profit-surges-27-lifts-income-target-4977451",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R08Q_L.jpg",
+      "published": "2026-10-28T04:30:26+00:00"
+    },
+    {
+      "h": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "es": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "d": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
+      "u": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T04:29:20+00:00"
+    },
+    {
+      "h": "Why is Shin-Etsu Chemical stock rallying today?",
+      "es": "Why is Shin-Etsu Chemical stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-shinetsu-chemical-stock-rallying-today-93CH-4977453",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-28T04:19:08+00:00"
+    },
+    {
+      "h": "Why is Canon stock sliding today?",
+      "es": "Why is Canon stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-canon-stock-sliding-today-93CH-4977452",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-28T04:18:56+00:00"
+    },
+    {
+      "h": "Why is the New Zealand Dollar sliding today?",
+      "es": "Why is the New Zealand Dollar sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-the-new-zealand-dollar-sliding-today-93CH-4977440",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-28T04:09:17+00:00"
+    },
+    {
+      "h": "Asia FX mixed as dollar holds near two-week high, kiwi sinks after RBNZ hold",
+      "es": "Asia FX mixed as dollar holds near two-week high, kiwi sinks after RBNZ hold",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-fx-mixed-as-dollar-holds-near-twoweek-high-kiwi-sinks-after-rbnz-hold-4977438",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3R0Z9_1200_L.jpg",
+      "published": "2026-10-28T04:05:26+00:00"
+    },
+    {
+      "h": "Gift Nifty 50 bear flag 80% complete near 22571: Live levels",
+      "es": "Gift Nifty 50 bear flag 80% complete near 22571: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-28T04:02:28+00:00"
+    },
     {
       "h": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
       "es": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM3F1D5_L.jpg",
       "published": "2026-10-28T01:09:31+00:00"
-    },
-    {
-      "h": "Nikkei 225 tests SMA 50 resistance in macro downtrend: Live",
-      "es": "Nikkei 225 tests SMA 50 resistance in macro downtrend: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-in-strong-downtrend-tests-key-support-live-levels-93CH-4971336",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-28T01:07:36+00:00"
-    },
-    {
-      "h": "SK Hynix tests SuperTrend resistance at KRW 1,375,000: Live",
-      "es": "SK Hynix tests SuperTrend resistance at KRW 1,375,000: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-28T01:07:24+00:00"
-    },
-    {
-      "h": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
-      "es": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-with-fed-rate-decision-megacap-tech-earnings-on-tap-4977314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
-      "published": "2026-10-28T00:53:02+00:00"
-    },
-    {
-      "h": "Anthropic's IPO is risky business",
-      "es": "Anthropic's IPO is risky business",
-      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T00:43:59+00:00"
-    },
-    {
-      "h": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "es": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "d": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
-      "u": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T00:14:24+00:00"
-    },
-    {
-      "h": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "es": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "d": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-28T00:03:10+00:00"
-    },
-    {
-      "h": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-      "es": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-      "d": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "u": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T00:03:05+00:00"
-    },
-    {
-      "h": "'An annoying buzz': The search for stealthier drones",
-      "es": "'An annoying buzz': The search for stealthier drones",
-      "d": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "u": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-10-28T00:01:10+00:00"
-    },
-    {
-      "h": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-      "es": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-q3-profit-jumps-more-than-7fold-beats-forecasts-4977256",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q26L_L.jpg",
-      "published": "2026-10-27T23:54:14+00:00"
-    },
-    {
-      "h": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "es": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "d": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-      "u": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T23:50:03+00:00"
-    },
-    {
-      "h": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "es": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "d": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
-      "u": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T23:45:49+00:00"
     }
   ],
   "sources": [
