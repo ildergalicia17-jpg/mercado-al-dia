@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-28T02:38:05.692618+00:00",
+  "updated": "2026-10-28T03:22:46.154950+00:00",
   "news": [
+    {
+      "h": "Six AI picks are up 13%–66% since entry, and a generic-drug maker leads them all",
+      "es": "Six AI picks are up 13%–66% since entry, and a generic-drug maker leads them all",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/six-ai-picks-are-up-1366-since-entry-and-a-genericdrug-maker-leads-them-all-4977418",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
+      "published": "2026-10-28T03:12:54+00:00"
+    },
+    {
+      "h": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "es": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "d": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+      "u": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+      "published": "2026-10-28T03:05:11+00:00"
+    },
+    {
+      "h": "Why is Kioxia stock surging today?",
+      "es": "Why is Kioxia stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-4977415",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-28T03:03:14+00:00"
+    },
+    {
+      "h": "Why is Samsung Electronics stock surging today?",
+      "es": "Why is Samsung Electronics stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4977414",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-28T03:03:01+00:00"
+    },
+    {
+      "h": "Onsemi in talks to acquire chip startup Ferric for $1 billion- The Information",
+      "es": "Onsemi in talks to acquire chip startup Ferric for $1 billion- The Information",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/onsemi-in-talks-to-acquire-chip-startup-ferric-for-1-billion-the-information-93CH-4977413",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-28T03:02:53+00:00"
+    },
+    {
+      "h": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "es": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "d": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+      "u": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T03:02:44+00:00"
+    },
+    {
+      "h": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+      "es": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+      "d": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
+      "u": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T02:57:36+00:00"
+    },
+    {
+      "h": "Why is SK Hynix stock surging today?",
+      "es": "Why is SK Hynix stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4977400",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-10-28T02:48:33+00:00"
+    },
+    {
+      "h": "+67%, +48%, +39%: our AI called these blue-chip breakouts and still holds them",
+      "es": "+67%, +48%, +39%: our AI called these blue-chip breakouts and still holds them",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/67-48-39-our-ai-called-these-bluechip-breakouts-and-still-holds-them-4977394",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D101_L.jpg",
+      "published": "2026-10-28T02:41:20+00:00"
+    },
+    {
+      "h": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information",
+      "es": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-google-ai-chips-to-expand-computing-capacity--the-information-4977389",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L16G_L.jpg",
+      "published": "2026-10-28T02:22:09+00:00"
+    },
     {
       "h": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
       "es": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
@@ -146,6 +236,15 @@
       "published": "2026-10-27T23:54:14+00:00"
     },
     {
+      "h": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+      "es": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+      "d": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+      "u": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-27T23:50:03+00:00"
+    },
+    {
       "h": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
       "es": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
       "d": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
@@ -171,105 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5cb/live/e402a860-d21d-11f1-a701-fddedf244c16.jpg",
       "published": "2026-10-27T23:04:12+00:00"
-    },
-    {
-      "h": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "es": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "d": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T23:03:09+00:00"
-    },
-    {
-      "h": "Visa results beat estimates as resilient customers keep up spending",
-      "es": "Visa results beat estimates as resilient customers keep up spending",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1ZM_L.jpg",
-      "published": "2026-10-27T22:54:38+00:00"
-    },
-    {
-      "h": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
-      "es": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
-      "d": "Some families say they cannot afford to stockpile in line with the government's advice.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e6/live/7feaccc0-d210-11f1-b3b6-c1e79e957e40.jpg",
-      "published": "2026-10-27T22:51:50+00:00"
-    },
-    {
-      "h": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-      "es": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-      "d": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
-      "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-564483",
-      "published": "2026-10-27T22:51:00+00:00"
-    },
-    {
-      "h": "Where Cramer stands on two beaten-down aerospace stocks — and the one to buy",
-      "es": "Where Cramer stands on two beaten-down aerospace stocks — and the one to buy",
-      "d": "CNBC’s Jim Cramer likes this beaten-down aerospace stock after a post-earnings pullback.",
-      "u": "https://www.cnbc.com/2026/10/27/cramer-ge-aerospace-boeing-stock-selloff.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-27T22:49:08+00:00"
-    },
-    {
-      "h": "Trump administration sued over rollback of corporate ownership reporting rules",
-      "es": "Trump administration sued over rollback of corporate ownership reporting rules",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-administration-sued-over-rollback-of-corporate-ownership-reporting-rules-4977180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-27T22:42:20+00:00"
-    },
-    {
-      "h": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-      "es": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-      "d": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-      "u": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T22:35:25+00:00"
-    },
-    {
-      "h": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "es": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "d": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
-      "u": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T22:24:19+00:00"
-    },
-    {
-      "h": "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
-      "es": "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/td-cowen-keeps-united-delta-top-airline-picks-as-fuel-costs-threaten-earnings-4977155",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC9H0RJ_M.jpg",
-      "published": "2026-10-27T22:20:26+00:00"
-    },
-    {
-      "h": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "es": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "d": "“My late father bought our house for $250,000 in the 1990s.”",
-      "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92522168",
-      "published": "2026-10-27T22:18:00+00:00"
-    },
-    {
-      "h": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-      "es": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-      "d": "Credit markets will be closely watching updates from Oracle and other hyperscalers later this week. What to expect.",
-      "u": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:58:48+00:00"
     }
   ],
   "sources": [
