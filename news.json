@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-28T19:24:46.240605+00:00",
+  "updated": "2026-10-28T20:11:41.916821+00:00",
   "news": [
+    {
+      "h": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+      "es": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+      "d": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+      "u": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T20:09:47+00:00"
+    },
+    {
+      "h": "Leak website releases data on tens of thousands of DHS employees",
+      "es": "Leak website releases data on tens of thousands of DHS employees",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/leak-website-releases-data-on-tens-of-thousands-of-dhs-employees-4980570",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-28T20:06:24+00:00"
+    },
+    {
+      "h": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+      "es": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+      "d": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+      "u": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T20:06:21+00:00"
+    },
+    {
+      "h": "America's largest budget airline reports 71% jump in airfare",
+      "es": "America's largest budget airline reports 71% jump in airfare",
+      "d": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
+      "u": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:06:19+00:00"
+    },
+    {
+      "h": "S&P upgrades Aeromexico to ’BB-’ on resilient margins and debt reduction",
+      "es": "S&P upgrades Aeromexico to ’BB-’ on resilient margins and debt reduction",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-upgrades-aeromexico-to-bb-on-resilient-margins-and-debt-reduction-4980544",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "published": "2026-10-28T19:56:30+00:00"
+    },
+    {
+      "h": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+      "es": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+      "d": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
+      "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-91160392",
+      "published": "2026-10-28T19:56:00+00:00"
+    },
+    {
+      "h": "Three media outlets seek full White House access in amended lawsuit",
+      "es": "Three media outlets seek full White House access in amended lawsuit",
+      "d": "President Donald Trump banned MS NOW, CNN and Politico from the White House in September, only to have a judge he appointed order their return.",
+      "u": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T19:54:49+00:00"
+    },
+    {
+      "h": "Moody’s cuts Whirlpool rating to B1 on housing slump and weak margins",
+      "es": "Moody’s cuts Whirlpool rating to B1 on housing slump and weak margins",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/moodys-cuts-whirlpool-rating-to-b1-on-housing-slump-and-weak-margins-4980541",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED3O0SK_M.jpg",
+      "published": "2026-10-28T19:54:22+00:00"
+    },
+    {
+      "h": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
+      "es": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
+      "d": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
+      "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-15993308",
+      "published": "2026-10-28T19:54:00+00:00"
+    },
+    {
+      "h": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "es": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "d": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "u": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
+      "published": "2026-10-28T19:51:01+00:00"
+    },
+    {
+      "h": "Nvidia faces DOJ antitrust scrutiny over $12.9B Hugging Face deal, Reuters says",
+      "es": "Nvidia faces DOJ antitrust scrutiny over $12.9B Hugging Face deal, Reuters says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-faces-doj-antitrust-scrutiny-over-129b-hugging-face-deal-reuters-says-4980539",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg",
+      "published": "2026-10-28T19:50:28+00:00"
+    },
+    {
+      "h": "Here’s what just sent Oracle’s stock soaring",
+      "es": "Here’s what just sent Oracle’s stock soaring",
+      "d": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
+      "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39641001",
+      "published": "2026-10-28T19:40:00+00:00"
+    },
+    {
+      "h": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
+      "es": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/prediction-market-bets-set-the-tone-for-anthropics-muchawaited-ipo-4980048",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1T0_L.jpg",
+      "published": "2026-10-28T19:37:11+00:00"
+    },
+    {
+      "h": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
+      "es": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
+      "d": "Chipotle's stock has fallen about 22% so far this year, dragging its market cap down to about $36 billion.",
+      "u": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T19:30:01+00:00"
+    },
     {
       "h": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
       "es": "Las acciones de Oracle suben un 12% a medida que el pronóstico de ingresos a largo plazo y la claridad sobre el financiamiento alivian las preocupaciones sobre la deuda",
@@ -38,6 +164,24 @@
       "published": "2026-10-28T19:15:58+00:00"
     },
     {
+      "h": "Healey tells departments to make 1% cuts to fund defence",
+      "es": "Healey tells departments to make 1% cuts to fund defence",
+      "d": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+      "u": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/ac2b2f40-d2de-11f1-b677-b762d2f83f6e.jpg",
+      "published": "2026-10-28T19:01:34+00:00"
+    },
+    {
+      "h": "Options traders break down a massive Alphabet trade into earnings",
+      "es": "Options traders break down a massive Alphabet trade into earnings",
+      "d": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+      "u": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T19:01:03+00:00"
+    },
+    {
       "h": "Pennsylvania measles cases near 1,400, state health department says",
       "es": "Los casos de sarampión en Pensilvania se acercan a los 1.400, dice el departamento de salud estatal",
       "d": "",
@@ -45,6 +189,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
       "published": "2026-10-28T19:00:26+00:00"
+    },
+    {
+      "h": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "es": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "d": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+      "u": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:58:04+00:00"
     },
     {
       "h": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
@@ -92,6 +245,24 @@
       "published": "2026-10-28T18:48:37+00:00"
     },
     {
+      "h": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "es": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "d": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "u": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-10-28T18:45:09+00:00"
+    },
+    {
+      "h": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "es": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "d": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
+      "u": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:44:40+00:00"
+    },
+    {
       "h": "Why is Canadian Natural Resources stock climbing today?",
       "es": "¿Por qué están aumentando hoy las existencias de recursos naturales canadienses?",
       "d": "",
@@ -99,177 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
       "published": "2026-10-28T18:44:13+00:00"
-    },
-    {
-      "h": "Meta delays indefinitely its rollout of new commercial terms after publishers’ concerns",
-      "es": "Meta retrasa indefinidamente el lanzamiento de nuevos términos comerciales tras las preocupaciones de los editores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-delays-indefinitely-its-rollout-of-new-commercial-terms-after-publishers-concerns-4980457",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R262_L.jpg",
-      "published": "2026-10-28T18:42:44+00:00"
-    },
-    {
-      "h": "Exclusive-US DOJ is inquiring about Nvidia’s purchase of Hugging Face, sources say",
-      "es": "Exclusivo: el Departamento de Justicia de EE. UU. está preguntando sobre la compra de Hugging Face por parte de Nvidia, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R25H_L.jpg",
-      "published": "2026-10-28T18:36:43+00:00"
-    },
-    {
-      "h": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "es": "Estamos agregando una nueva jugada de IA de alto perfil a nuestra lista de acciones de Bullpen para observar",
-      "d": "Con la cartera del Club ahora reducida a 31 posiciones, estamos trabajando en nuevas ideas para agregar al Bullpen.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:33:53+00:00"
-    },
-    {
-      "h": "Oracle shares jump as long-term outlook targets $225 billion in revenue",
-      "es": "Las acciones de Oracle saltan mientras la perspectiva a largo plazo apunta a 225 mil millones de dólares en ingresos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oracle-shares-jump-as-longterm-outlook-targets-225-billion-in-revenue-4980445",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
-      "published": "2026-10-28T18:33:38+00:00"
-    },
-    {
-      "h": "Three ways the Budget affects you",
-      "es": "Tres formas en que te afecta el Presupuesto",
-      "d": "Esyllt Carr, de la BBC, explica cómo los planes de gasto del canciller impactan a los jóvenes.",
-      "u": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de5b/live/ea1b69e0-d2fd-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-28T18:32:56+00:00"
-    },
-    {
-      "h": "Dollar edges higher after Fed holds rates as inflation risks persist",
-      "es": "El dólar sube después de que la Fed mantenga los tipos mientras persisten los riesgos de inflación",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-fx-mixed-as-dollar-holds-near-twoweek-high-kiwi-sinks-after-rbnz-hold-4977438",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3R0Z9_1200_L.jpg",
-      "published": "2026-10-28T18:31:47+00:00"
-    },
-    {
-      "h": "Exclusive-US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing",
-      "es": "La FTC exclusiva de EE. UU. exige a Walmart, Uber, Delta y otros que entreguen datos sobre precios personalizados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-ftc-demands-walmart-uber-delta-and-others-hand-over-data-on-personalized-pricing-4980434",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R24Y_L.jpg",
-      "published": "2026-10-28T18:30:44+00:00"
-    },
-    {
-      "h": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "es": "Estoy planeando un viaje a Europa. ¿Es tonto seguir los consejos de viaje de personas influyentes?",
-      "d": "\"¿Cómo puedo saber si algo es una experiencia real en mi rango de precio?\"",
-      "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-43158472",
-      "published": "2026-10-28T18:30:00+00:00"
-    },
-    {
-      "h": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-      "es": "Asistentes de campaña de Peltola y funcionarios del DSCC ayudaron a reclutar al segundo Dan Sullivan en la carrera de Alaska: NYT",
-      "d": "El Departamento de Justicia quiere que un juez bloquee temporalmente la certificación de las elecciones al Senado de Alaska si el actual senador Dan Sullivan pierde debido a la confusión de los votantes.",
-      "u": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:22:14+00:00"
-    },
-    {
-      "h": "Fed holds rates steady despite concerns over inflation",
-      "es": "Fed holds rates steady despite concerns over inflation",
-      "d": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
-      "u": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:19:58+00:00"
-    },
-    {
-      "h": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-      "es": "Google lanza el modelo Gemini 4 Carbon AI con enfoque en ciberseguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-4980426",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R24K_L.jpg",
-      "published": "2026-10-28T18:18:17+00:00"
-    },
-    {
-      "h": "The Budget explained in less than one minute",
-      "es": "The Budget explained in less than one minute",
-      "d": "What the Budget means for you in under a minute",
-      "u": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/2d2d16f0-d2fb-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-28T18:17:43+00:00"
-    },
-    {
-      "h": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "es": "Los umbrales impositivos permanecen sin cambios: esto es lo que significa para su salario",
-      "d": "El punto en el que empiezas a pagar impuestos y el punto en el que te inclinas a pagar una tasa impositiva más alta se han congelado durante tres años más.",
-      "u": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-      "published": "2026-10-28T18:12:24+00:00"
-    },
-    {
-      "h": "Here is what changed in the new Fed statement",
-      "es": "Esto es lo que cambió en la nueva declaración de la Reserva Federal",
-      "d": "Esta es una comparación de la declaración del Comité Federal de Mercado Abierto del miércoles con la emitida después de la anterior reunión de formulación de políticas de la Reserva Federal en septiembre.",
-      "u": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:06:50+00:00"
-    },
-    {
-      "h": "GDP, core PCE, and jobless claims among economic data due Thursday",
-      "es": "GDP, core PCE, and jobless claims among economic data due Thursday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gdp-core-pce-and-jobless-claims-among-economic-data-due-thursday-93CH-4980405",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-28T18:01:22+00:00"
-    },
-    {
-      "h": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "es": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "d": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
-      "u": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T18:01:20+00:00"
-    },
-    {
-      "h": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
-      "es": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-expected-to-show-first-touchscreen-laptops-amid-product-blitz-4978532",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R12R_L.jpg",
-      "published": "2026-10-28T17:54:38+00:00"
-    },
-    {
-      "h": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
-      "es": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
-      "d": "We're reiterating our buy-equivalent 1 rating on the stock after another strong earnings report.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T17:50:44+00:00"
-    },
-    {
-      "h": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
-      "es": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1DQ_L.jpg",
-      "published": "2026-10-28T17:49:26+00:00"
     }
   ],
   "sources": [
