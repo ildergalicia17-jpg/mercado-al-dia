@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-28T00:59:20.319479+00:00",
+  "updated": "2026-10-28T01:55:04.766785+00:00",
   "news": [
+    {
+      "h": "OpenAI plans to buy Google’s AI chips, The Information reports",
+      "es": "OpenAI plans to buy Google’s AI chips, The Information reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R034_L.jpg",
+      "published": "2026-10-28T01:30:22+00:00"
+    },
+    {
+      "h": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "es": "Anthropic taps JPMorgan to lead IPO’s U.S. retail sales, Bloomberg reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-taps-jpmorgan-to-lead-ipos-us-retail-sales-bloomberg-reports-4977334",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3F1D5_L.jpg",
+      "published": "2026-10-28T01:09:31+00:00"
+    },
+    {
+      "h": "Nikkei 225 tests SMA 50 resistance in macro downtrend: Live",
+      "es": "Nikkei 225 tests SMA 50 resistance in macro downtrend: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nikkei-225-in-strong-downtrend-tests-key-support-live-levels-93CH-4971336",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-10-28T01:07:36+00:00"
+    },
+    {
+      "h": "SK Hynix tests SuperTrend resistance at KRW 1,375,000: Live",
+      "es": "SK Hynix tests SuperTrend resistance at KRW 1,375,000: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-28T01:07:24+00:00"
+    },
     {
       "h": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
       "es": "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
@@ -9,6 +45,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
       "published": "2026-10-28T00:53:02+00:00"
+    },
+    {
+      "h": "Anthropic's IPO is risky business",
+      "es": "Anthropic's IPO is risky business",
+      "d": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+      "u": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T00:43:59+00:00"
     },
     {
       "h": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
@@ -99,6 +144,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e6/live/7feaccc0-d210-11f1-b3b6-c1e79e957e40.jpg",
       "published": "2026-10-27T22:51:50+00:00"
+    },
+    {
+      "h": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "es": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+      "d": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
+      "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-564483",
+      "published": "2026-10-27T22:51:00+00:00"
     },
     {
       "h": "Where Cramer stands on two beaten-down aerospace stocks — and the one to buy",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
       "published": "2026-10-27T21:30:04+00:00"
-    },
-    {
-      "h": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-      "es": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-      "d": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
-      "u": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76497917",
-      "published": "2026-10-27T21:29:00+00:00"
-    },
-    {
-      "h": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "es": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "d": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
-      "u": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67253857",
-      "published": "2026-10-27T21:28:00+00:00"
-    },
-    {
-      "h": "Colombia stocks higher at close of trade; COLCAP up 0.06%",
-      "es": "Colombia stocks higher at close of trade; COLCAP up 0.06%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-006-4977069",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg",
-      "published": "2026-10-27T21:25:03+00:00"
-    },
-    {
-      "h": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading",
-      "es": "Robinhood misses quarterly profit estimates as softer crypto activity outweighs robust trading",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/robinhood-quarterly-profit-falls-as-softer-crypto-activity-outweighs-robust-trading-4976781",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9Q1ZH_L.jpg",
-      "published": "2026-10-27T21:24:17+00:00"
-    },
-    {
-      "h": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-      "es": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-      "d": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
-      "u": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:24:06+00:00"
-    },
-    {
-      "h": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "es": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "d": "Anthropic's cash pile $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
-      "u": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-27T21:22:03+00:00"
     }
   ],
   "sources": [
