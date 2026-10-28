@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-28T17:46:20.222930+00:00",
+  "updated": "2026-10-28T18:25:36.983496+00:00",
   "news": [
+    {
+      "h": "Fed holds rates steady despite concerns over inflation",
+      "es": "Fed holds rates steady despite concerns over inflation",
+      "d": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
+      "u": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:19:58+00:00"
+    },
+    {
+      "h": "The Budget explained in less than one minute",
+      "es": "The Budget explained in less than one minute",
+      "d": "What the Budget means for you in under a minute",
+      "u": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/2d2d16f0-d2fb-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-10-28T18:17:43+00:00"
+    },
+    {
+      "h": "GDP, core PCE, and jobless claims among economic data due Thursday",
+      "es": "GDP, core PCE, and jobless claims among economic data due Thursday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gdp-core-pce-and-jobless-claims-among-economic-data-due-thursday-93CH-4980405",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-28T18:01:22+00:00"
+    },
+    {
+      "h": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "es": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "d": "This could be one of the best times to buy corporate bonds in recent history, investing experts say, with treasuries yielding 5% boosting fixed income market.",
+      "u": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T18:01:20+00:00"
+    },
+    {
+      "h": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+      "es": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-expected-to-show-first-touchscreen-laptops-amid-product-blitz-4978532",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R12R_L.jpg",
+      "published": "2026-10-28T17:54:38+00:00"
+    },
+    {
+      "h": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
+      "es": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
+      "d": "We're reiterating our buy-equivalent 1 rating on the stock after another strong earnings report.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T17:50:44+00:00"
+    },
+    {
+      "h": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
+      "es": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1DQ_L.jpg",
+      "published": "2026-10-28T17:49:26+00:00"
+    },
+    {
+      "h": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
+      "es": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R19I_L.jpg",
+      "published": "2026-10-28T17:49:08+00:00"
+    },
+    {
+      "h": "Frontier swings to surprise profit on ’healthy balance’ between higher fares and demand",
+      "es": "Frontier swings to surprise profit on ’healthy balance’ between higher fares and demand",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/frontier-swings-to-surprise-profit-on-healthy-balance-between-higher-fares-and-demand-4980399",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1AS_L.jpg",
+      "published": "2026-10-28T17:48:57+00:00"
+    },
+    {
+      "h": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
+      "es": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alvin-hellerstein-federal-judge-who-oversaw-trump-maduro-and-september-11-cases-dies-at-92-4980397",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-28T17:48:15+00:00"
+    },
+    {
+      "h": "European shares edge higher ahead of Big Tech, Fed test",
+      "es": "European shares edge higher ahead of Big Tech, Fed test",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-stutter-as-bank-earnings-fail-to-offset-prefed-jitters-4977566",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-10-28T17:45:36+00:00"
+    },
+    {
+      "h": "Palantir defense chief says AI advances may force China to invade Taiwan",
+      "es": "Palantir defense chief says AI advances may force China to invade Taiwan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/palantir-defense-chief-says-ai-advances-may-force-china-to-invade-taiwan-4980393",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL440S3_L.jpg",
+      "published": "2026-10-28T17:45:14+00:00"
+    },
+    {
+      "h": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "es": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "d": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
+      "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21062271",
+      "published": "2026-10-28T17:44:00+00:00"
+    },
+    {
+      "h": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "es": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sap-swaps-costly-ai-models-for-cheaper-alternatives-targets-over-2-billion-in-gains-4979724",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1MD_L.jpg",
+      "published": "2026-10-28T17:42:23+00:00"
+    },
     {
       "h": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
       "es": "Mire en vivo: los operadores de opciones descomponen una operación masiva de Alphabet en ganancias",
@@ -9,6 +135,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-28T17:41:47+00:00"
+    },
+    {
+      "h": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "es": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "d": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
+      "u": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T17:39:43+00:00"
     },
     {
       "h": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEAB10I3_M.jpg",
       "published": "2026-10-28T17:06:21+00:00"
-    },
-    {
-      "h": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-      "es": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-      "d": "A Democratic House could increase scrutiny of prediction markets, the CFTC and the industry’s ties to the Trump family after the midterms.",
-      "u": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T16:58:42+00:00"
-    },
-    {
-      "h": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "es": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "d": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
-      "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87205296",
-      "published": "2026-10-28T16:57:00+00:00"
-    },
-    {
-      "h": "Budget 2026: Key points at a glance",
-      "es": "Presupuesto 2026: puntos clave de un vistazo",
-      "d": "Esto es lo que necesita saber del primer presupuesto de John Healey, mientras el canciller establece los planes de impuestos y gastos del gobierno.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-28T16:55:27+00:00"
-    },
-    {
-      "h": "The one thing that didn't change that will affect your pay the most",
-      "es": "Lo único que no cambió y que afectará más su salario",
-      "d": "El punto en el que empiezas a pagar impuestos y el punto en el que te inclinas a pagar una tasa impositiva más alta se han congelado durante tres años más.",
-      "u": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-      "published": "2026-10-28T16:55:03+00:00"
-    },
-    {
-      "h": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-      "es": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-      "d": "The typically boring healthcare space has delivered a flash of excitement for investors in October, building on its gains from earlier in the year.",
-      "u": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-92764664",
-      "published": "2026-10-28T16:49:00+00:00"
-    },
-    {
-      "h": "Your pay, energy bills and savings: How the Budget affects you",
-      "es": "Tu sueldo, facturas de energía y ahorros: cómo te afecta el Presupuesto",
-      "d": "Los cambios anunciados por el Canciller John Healey en su primer Presupuesto afectarán directamente a sus finanzas. Así es como.",
-      "u": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
-      "published": "2026-10-28T16:43:35+00:00"
-    },
-    {
-      "h": "Poland stocks higher at close of trade; WIG30 up 0.19%",
-      "es": "Poland stocks higher at close of trade; WIG30 up 0.19%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-019-4980264",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
-      "published": "2026-10-28T16:35:04+00:00"
-    },
-    {
-      "h": "GE Vernova meets high bar, but slot conversions now in focus: BNP Paribas",
-      "es": "GE Vernova meets high bar, but slot conversions now in focus: BNP Paribas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ge-vernova-meets-high-bar-but-slot-conversions-now-in-focus-bnp-paribas-4980263",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBA00C_L.jpg",
-      "published": "2026-10-28T16:34:57+00:00"
-    },
-    {
-      "h": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "es": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "d": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-      "u": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T16:33:22+00:00"
-    },
-    {
-      "h": "Will I get the £100 energy payment and when will I receive it?",
-      "es": "Will I get the £100 energy payment and when will I receive it?",
-      "d": "Here is what you need to know about the payment that millions will receive from January.",
-      "u": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-      "published": "2026-10-28T16:30:53+00:00"
-    },
-    {
-      "h": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.88%",
-      "es": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.88%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-188-4980244",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-      "published": "2026-10-28T16:30:05+00:00"
-    },
-    {
-      "h": "America's largest budget airline reports 71% jump in airfare",
-      "es": "America's largest budget airline reports 71% jump in airfare",
-      "d": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-      "u": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T16:29:09+00:00"
-    },
-    {
-      "h": "Wall Street makes small moves ahead of Fed rate decision, Mag 7 earnings",
-      "es": "Wall Street makes small moves ahead of Fed rate decision, Mag 7 earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-with-fed-rate-decision-megacap-tech-earnings-on-tap-4977314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
-      "published": "2026-10-28T16:26:03+00:00"
-    },
-    {
-      "h": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
-      "es": "Prediction market bets set the tone for Anthropic’s much-awaited IPO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/prediction-market-bets-set-the-tone-for-anthropics-muchawaited-ipo-4980048",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1T0_L.jpg",
-      "published": "2026-10-28T16:25:22+00:00"
-    },
-    {
-      "h": "UBS lifts profit to $2.7 billion, speeds up buybacks despite capital concerns",
-      "es": "UBS lifts profit to $2.7 billion, speeds up buybacks despite capital concerns",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubs-meets-expectations-with-27-billion-q3-profit-4977500",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0CY_L.jpg",
-      "published": "2026-10-28T16:25:05+00:00"
     }
   ],
   "sources": [
