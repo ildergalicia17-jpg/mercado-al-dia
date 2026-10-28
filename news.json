@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-28T20:56:23.361089+00:00",
+  "updated": "2026-10-28T21:32:20.265470+00:00",
   "news": [
+    {
+      "h": "Colombia stocks lower at close of trade; COLCAP down 0.03%",
+      "es": "Las bolsas de Colombia cierran a la baja; COLCAP cae 0.03%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-003-4980964",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R8_L.jpg",
+      "published": "2026-10-28T21:25:03+00:00"
+    },
+    {
+      "h": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
+      "es": "Estados Unidos prohíbe las importaciones de BGI Genomics y MGI Tech, citando vínculos con el trabajo forzoso en Xinjiang",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-bans-imports-from-three-chinese-genomics-companies-citing-forced-labor-4979357",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1DQ_L.jpg",
+      "published": "2026-10-28T21:24:19+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.66%",
+      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,66%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-066-4980947",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC5E0JS_M.jpg",
+      "published": "2026-10-28T21:20:04+00:00"
+    },
+    {
+      "h": "Weil Gotshal law firm plans to dissolve, capping dizzying fall",
+      "es": "El bufete de abogados Weil Gotshal planea disolverse y poner fin a una caída vertiginosa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weil-gotshal-law-firm-plans-to-dissolve-capping-dizzying-fall-4980858",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2FO_L.jpg",
+      "published": "2026-10-28T21:18:52+00:00"
+    },
+    {
+      "h": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "es": "Las acciones de Microsoft suben un 4% a medida que el crecimiento de la nube impulsa las ganancias y los ingresos",
+      "d": "Microsoft informó resultados mejores de lo esperado impulsados ​​por un crecimiento del 48 % en los ingresos de Azure.",
+      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-28T21:12:52+00:00"
+    },
+    {
+      "h": "Why is Fortinet stock plunging today?",
+      "es": "¿Por qué se están desplomando las acciones de Fortinet hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-plunging-today-93CH-4980914",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-28T21:09:53+00:00"
+    },
+    {
+      "h": "Alphabet shares tumble 8.5% as earnings miss overshadows cloud boom",
+      "es": "Las acciones de Alphabet caen un 8,5% mientras la pérdida de resultados eclipsa el auge de la nube",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-shares-tumble-65-as-earnings-miss-overshadows-cloud-boom-4980569",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M1EC_1200_L.jpg",
+      "published": "2026-10-28T21:05:05+00:00"
+    },
+    {
+      "h": "Canadian bond yields climb as Bank of Canada raises rates",
+      "es": "Los rendimientos de los bonos canadienses suben a medida que el Banco de Canadá sube las tasas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-climb-as-bank-of-canada-raises-rates-4980888",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
+      "published": "2026-10-28T21:02:11+00:00"
+    },
+    {
+      "h": "Bank of Canada raises rates for first time in three years on inflation fears",
+      "es": "El Banco de Canadá sube los tipos por primera vez en tres años por temor a la inflación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-of-canada-raises-rates-for-first-time-in-three-years-on-inflation-fears-4980892",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE3M1OX_M.jpg",
+      "published": "2026-10-28T21:02:10+00:00"
+    },
+    {
+      "h": "Aritzia’s five-year growth plan prompts Scotiabank to raise price target",
+      "es": "El plan de crecimiento quinquenal de Aritzia impulsa a Scotiabank a elevar el precio objetivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aritzias-fiveyear-growth-plan-prompts-scotiabank-to-raise-price-target-4980889",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA620BK_M.jpg",
+      "published": "2026-10-28T21:02:09+00:00"
+    },
+    {
+      "h": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+      "es": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+      "d": "The Fed's benchmark affects many consumer borrowing costs, including the rates tied to mortgages, credit cards, auto loans and savings accounts.",
+      "u": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:59:23+00:00"
+    },
+    {
+      "h": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
+      "es": "Chipotle espera ventas modestamente mayores este año a medida que los 'Chipotlanes' de autoservicio lleguen a más tiendas",
+      "d": "La cadena de comida rápida e informal dice que los aumentos en los precios del menú ayudaron a obtener resultados. También señaló el aumento de los costos de la carne de vacuno y un “mayor uso de proteínas” a medida que las personas intentan encontrar formas de incluir más proteínas en sus dietas.",
+      "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-69392941",
+      "published": "2026-10-28T20:58:00+00:00"
+    },
     {
       "h": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
       "es": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -65,6 +173,15 @@
       "published": "2026-10-28T20:40:02+00:00"
     },
     {
+      "h": "Here’s what just sent Oracle’s stock soaring",
+      "es": "Esto es lo que acaba de disparar las acciones de Oracle",
+      "d": "Los nuevos objetivos financieros de la compañía pintan un panorama más optimista de su economía de IA de lo que temían los inversores.",
+      "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39641001",
+      "published": "2026-10-28T20:38:00+00:00"
+    },
+    {
       "h": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
       "es": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
       "d": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
@@ -119,6 +236,15 @@
       "published": "2026-10-28T20:30:04+00:00"
     },
     {
+      "h": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "es": "Apple lleva el toque a la Mac, revirtiendo la postura de años atrás sobre la computadora portátil con pantalla táctil",
+      "d": "Apple announces a new touchscreen laptop, the company's third major launch under new CEO John Ternus.",
+      "u": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-28T20:26:06+00:00"
+    },
+    {
       "h": "FedEx forecasts annual profit above estimates, posts higher quarterly earnings on better pricing, volumes",
       "es": "FedEx forecasts annual profit above estimates, posts higher quarterly earnings on better pricing, volumes",
       "d": "",
@@ -144,132 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CP_L.jpg",
       "published": "2026-10-28T20:25:12+00:00"
-    },
-    {
-      "h": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-      "es": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-      "d": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-      "u": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T20:23:48+00:00"
-    },
-    {
-      "h": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-      "es": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-      "d": "Nvidia faces DOJ inquiry over its $12.9 billion purchase of Hugging Face.",
-      "u": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T20:23:00+00:00"
-    },
-    {
-      "h": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-      "es": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-      "d": "Even with an uptick in multi-million-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics",
-      "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13468523",
-      "published": "2026-10-28T20:22:00+00:00"
-    },
-    {
-      "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "es": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "d": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-      "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86491605",
-      "published": "2026-10-28T20:18:00+00:00"
-    },
-    {
-      "h": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-      "es": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-      "d": "Analyst predicts the ‘mother of all maintenance seasons’ for refineries that have been running at high capacity",
-      "u": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12312453",
-      "published": "2026-10-28T20:16:00+00:00"
-    },
-    {
-      "h": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "es": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "d": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.",
-      "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-47992570",
-      "published": "2026-10-28T20:11:00+00:00"
-    },
-    {
-      "h": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-      "es": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-      "d": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-      "u": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T20:09:47+00:00"
-    },
-    {
-      "h": "What we now know about the UK economy in four charts",
-      "es": "What we now know about the UK economy in four charts",
-      "d": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "u": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
-      "published": "2026-10-28T20:08:45+00:00"
-    },
-    {
-      "h": "Leak website releases data on tens of thousands of DHS employees",
-      "es": "Leak website releases data on tens of thousands of DHS employees",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/leak-website-releases-data-on-tens-of-thousands-of-dhs-employees-4980570",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-28T20:06:24+00:00"
-    },
-    {
-      "h": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-      "es": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-      "d": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
-      "u": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T20:06:21+00:00"
-    },
-    {
-      "h": "America's largest budget airline reports 71% jump in airfare",
-      "es": "America's largest budget airline reports 71% jump in airfare",
-      "d": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-      "u": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T20:06:19+00:00"
-    },
-    {
-      "h": "S&P upgrades Aeromexico to ’BB-’ on resilient margins and debt reduction",
-      "es": "S&P upgrades Aeromexico to ’BB-’ on resilient margins and debt reduction",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-upgrades-aeromexico-to-bb-on-resilient-margins-and-debt-reduction-4980544",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "published": "2026-10-28T19:56:30+00:00"
-    },
-    {
-      "h": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
-      "es": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
-      "d": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
-      "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-91160392",
-      "published": "2026-10-28T19:56:00+00:00"
-    },
-    {
-      "h": "Three media outlets seek full White House access in amended lawsuit",
-      "es": "Three media outlets seek full White House access in amended lawsuit",
-      "d": "President Donald Trump banned MS NOW, CNN and Politico from the White House in September, only to have a judge he appointed order their return.",
-      "u": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T19:54:49+00:00"
     }
   ],
   "sources": [
