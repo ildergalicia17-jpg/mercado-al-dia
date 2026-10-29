@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-29T05:54:51.196242+00:00",
+  "updated": "2026-10-29T06:38:36.527117+00:00",
   "news": [
+    {
+      "h": "'We need help for small businesses, not punishment'",
+      "es": "'We need help for small businesses, not punishment'",
+      "d": "People in Bilston react to the new Budget set out by Chancellor John Healey.",
+      "u": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aff/live/f7c10fe0-d308-11f1-ad4f-5d2bbacf0caf.jpg",
+      "published": "2026-10-29T06:27:28+00:00"
+    },
+    {
+      "h": "Budweiser brewer AB InBev hits Q3 profit forecast, but costs on the rise",
+      "es": "Budweiser brewer AB InBev hits Q3 profit forecast, but costs on the rise",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/budweiser-brewer-ab-inbev-hits-q3-profit-forecast-but-costs-on-the-rise-4981547",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0HK_L.jpg",
+      "published": "2026-10-29T06:24:24+00:00"
+    },
+    {
+      "h": "Haulier blames fuel prices for diesel theft",
+      "es": "Haulier blames fuel prices for diesel theft",
+      "d": "Martin Pinches said someone had stolen 400 litres of diesel from two of his lorries",
+      "u": "https://www.bbc.co.uk/news/articles/ck9qzdwjp03lo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fe4/live/ee945230-d2d9-11f1-b677-b762d2f83f6e.jpg",
+      "published": "2026-10-29T06:17:02+00:00"
+    },
+    {
+      "h": "Renault reports slight growth in third-quarter revenue",
+      "es": "Renault reports slight growth in third-quarter revenue",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/renault-reports-slight-growth-in-thirdquarter-revenue-4981542",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0H7_L.jpg",
+      "published": "2026-10-29T06:12:22+00:00"
+    },
+    {
+      "h": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "es": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "d": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T06:03:35+00:00"
+    },
+    {
+      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.51%",
+      "es": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.51%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-151-4981536",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Taiwan_M_1440053337.jpg",
+      "published": "2026-10-29T06:00:05+00:00"
+    },
     {
       "h": "Why is Hitachi stock plunging today?",
       "es": "Why is Hitachi stock plunging today?",
@@ -216,60 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg",
       "published": "2026-10-29T03:16:19+00:00"
-    },
-    {
-      "h": "Why is Nomura stock climbing today?",
-      "es": "Why is Nomura stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nomura-stock-climbing-today-93CH-4981396",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-29T03:09:10+00:00"
-    },
-    {
-      "h": "Why is Alphabet stock plunging afterhours today?",
-      "es": "Why is Alphabet stock plunging afterhours today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-plunging-afterhours-today-93CH-4981395",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHB50G1_L.jpg",
-      "published": "2026-10-29T03:09:04+00:00"
-    },
-    {
-      "h": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
-      "es": "Wendy’s gets $1.4 billion take-private offer from Peltz-led group",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trian-fund-management-offers-to-buy-wendys-for-14-billion-wsj-reports-4979065",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R19I_L.jpg",
-      "published": "2026-10-29T02:54:34+00:00"
-    },
-    {
-      "h": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "es": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "d": "Samsung Electronics reported third-quarter earnings on Thursday.",
-      "u": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T02:49:39+00:00"
-    },
-    {
-      "h": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
-      "es": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fords-thirdquarter-core-profit-ticks-higher-despite-rising-commodity-costs-4980617",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CO_L.jpg",
-      "published": "2026-10-29T02:48:25+00:00"
-    },
-    {
-      "h": "Cash is king as investors draw new battle lines in AI spending boom",
-      "es": "Cash is king as investors draw new battle lines in AI spending boom",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cash-is-king-as-investors-draw-new-battle-lines-in-ai-spending-boom-4981382",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S06X_L.jpg",
-      "published": "2026-10-29T02:36:17+00:00"
     }
   ],
   "sources": [
