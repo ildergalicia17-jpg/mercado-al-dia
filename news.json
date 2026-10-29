@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-29T21:19:37.609640+00:00",
+  "updated": "2026-10-29T22:02:29.667703+00:00",
   "news": [
+    {
+      "h": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "es": "Amazon AWS registra un crecimiento de ingresos del 39% a medida que los rivales de la nube también se aceleran",
+      "d": "La nube de Amazon firmó acuerdos con Meta y OpenAI durante el trimestre, lo que ayudó a que los ingresos superaran el consenso.",
+      "u": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T21:59:31+00:00"
+    },
+    {
+      "h": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+      "es": "Las acciones de Intel se desploman un 16% mientras el fabricante de chips culpa a la desaceleración de las PC por una guía débil",
+      "d": "Intel ha sido una de las favoritas de Wall Street este año debido a su surgimiento como actor en IA, pero la compañía está siendo afectada por un mercado de PC en dificultades.",
+      "u": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T21:55:44+00:00"
+    },
+    {
+      "h": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+      "es": "El director ejecutivo del IRS, Bisignano, dona a Trump Accounts en el código postal de Brooklyn de su infancia",
+      "d": "El director ejecutivo del IRS, Frank Bisignano, ha donado a Trump Accounts para niños de Brooklyn del código postal de su ciudad natal. Esto es lo que las familias necesitan saber.",
+      "u": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T21:55:42+00:00"
+    },
+    {
+      "h": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "es": "El valor de Google se desploma en 500.000 millones de dólares mientras los temores sobre la IA sacuden a Wall Street",
+      "d": "Google asustó tanto a los inversores que sus acciones alcanzaron un mínimo de seis meses, después de que reveló que sus resúmenes de búsqueda de IA estaban afectando los ingresos por publicidad.",
+      "u": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-29T21:52:13+00:00"
+    },
+    {
+      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
+      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
+      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24279758",
+      "published": "2026-10-29T21:52:00+00:00"
+    },
+    {
+      "h": "Merck to boost next decade revenue forecast on new drugs optimism",
+      "es": "Merck aumentará la previsión de ingresos para la próxima década gracias al optimismo sobre nuevos fármacos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S167_L.jpg",
+      "published": "2026-10-29T21:42:46+00:00"
+    },
+    {
+      "h": "Gilead hikes 2026 sales outlook, says Medicare cuts Biktarvy price by 38% starting in 2028",
+      "es": "Gilead aumenta las perspectivas de ventas para 2026 y dice que Medicare reduce el precio de Biktarvy en un 38% a partir de 2028",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HQ_L.jpg",
+      "published": "2026-10-29T21:42:21+00:00"
+    },
+    {
+      "h": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+      "es": "El gobernador de Alaska ordena una investigación sobre el presunto reclutamiento del segundo Sullivan por parte de la campaña del Senado de Peltola",
+      "d": "La elección de Alaska podría determinar qué partido tiene mayoría en el Senado. El senador republicano Dan Sullivan enfrenta un fuerte desafío de la demócrata Mary Peltola.",
+      "u": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T21:42:06+00:00"
+    },
+    {
+      "h": "Why is Gilead Sciences stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Gilead Sciences hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-gilead-sciences-stock-surging-today-93CH-4985390",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Gilead_800x533_L_1598282999.jpg",
+      "published": "2026-10-29T21:40:34+00:00"
+    },
+    {
+      "h": "Why is Cavco Industries stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Cavco Industries hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-cavco-industries-stock-climbing-today-93CH-4985384",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-29T21:38:21+00:00"
+    },
+    {
+      "h": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+      "es": "Los ingresos netos de Coinbase aumentan un 66% en el tercer trimestre, beneficiándose de las ganancias de la inversión en bitcoins",
+      "d": "Coinbase registró ganancias mejores de lo esperado en el tercer trimestre, en gran parte debido a una recuperación en el mercado de las criptomonedas.",
+      "u": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T21:38:16+00:00"
+    },
+    {
+      "h": "Why is Strategy stock sliding today?",
+      "es": "¿Por qué las acciones de Strategy están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4985380",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
+      "published": "2026-10-29T21:36:39+00:00"
+    },
+    {
+      "h": "Why is Roblox stock plunging today?",
+      "es": "¿Por qué se están desplomando las acciones de Roblox hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-plunging-today-93CH-4985377",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Roblox_800x533_L_1644999130.jpg",
+      "published": "2026-10-29T21:35:48+00:00"
+    },
+    {
+      "h": "Why is DexCom stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de DexCom hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-dexcom-stock-climbing-today-93CH-4985376",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-10-29T21:33:56+00:00"
+    },
+    {
+      "h": "Why is Coinbase stock sliding today?",
+      "es": "¿Por qué las acciones de Coinbase están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-sliding-today-93CH-4985369",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T1V4_L.jpg",
+      "published": "2026-10-29T21:32:30+00:00"
+    },
+    {
+      "h": "Why is Amazon stock sliding today?",
+      "es": "¿Por qué las acciones de Amazon están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-sliding-today-93CH-4985367",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE2Q1W2_M.jpg",
+      "published": "2026-10-29T21:32:16+00:00"
+    },
+    {
+      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "es": "“Los coches lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastar, gastar, gastar?",
+      "d": "\"Yo tengo 68 años, ella 74 y ambos gozamos de buena salud. Nos casamos más tarde y no tenemos hijos\".",
+      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21005604",
+      "published": "2026-10-29T21:31:00+00:00"
+    },
     {
       "h": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
       "es": "Se está gestando un cambio de rumbo en Starbucks, pero quizás no lo suficientemente rápido",
@@ -47,21 +200,21 @@
       "published": "2026-10-29T20:42:31+00:00"
     },
     {
-      "h": "The S&P 500 isn’t the big winner you may think it is",
-      "es": "El S&P 500 no es el gran ganador que podrías pensar",
-      "d": "La debilidad del índice puede sorprender a una generación de inversores criados en el culto de que \"las acciones siempre suben\".",
-      "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08594984",
-      "published": "2026-10-29T20:39:00+00:00"
-    },
-    {
       "h": "Sandisk sees revenue nearly quintuple — and its stock is heading higher",
       "es": "Sandisk prevé que sus ingresos casi se quintuplicarán y sus acciones subirán",
       "d": "Las ganancias de Sandisk muestran que la empresa está creciendo de manera bastante rentable.",
       "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-04029946",
+      "published": "2026-10-29T20:39:00+00:00"
+    },
+    {
+      "h": "The S&P 500 isn’t the big winner you may think it is",
+      "es": "El S&P 500 no es el gran ganador que podrías pensar",
+      "d": "La debilidad del índice puede sorprender a una generación de inversores criados en el culto de que \"las acciones siempre suben\".",
+      "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08594984",
       "published": "2026-10-29T20:39:00+00:00"
     },
     {
@@ -117,159 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T20:30:24+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 1.06%",
-      "es": "Las bolsas de Brasil cierran a la baja; Bovespa cae un 1,06%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-106-4985095",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM3J15I_1200_L.jpg",
-      "published": "2026-10-29T20:30:04+00:00"
-    },
-    {
-      "h": "This is where most people go wrong in their 30s and 40s",
-      "es": "Aquí es donde la mayoría de las personas se equivocan entre los 30 y los 40 años.",
-      "d": "Estas grandes decisiones de vida determinarán qué tan bien se jubilará.",
-      "u": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15921386",
-      "published": "2026-10-29T20:30:00+00:00"
-    },
-    {
-      "h": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
-      "es": "Las ventas de Starbucks no cumplen con las expectativas, pero su recuperación en EE. UU. sigue ganando fuerza",
-      "d": "Las tiendas de Starbucks en Estados Unidos superaron las expectativas de ventas comparables de Wall Street, pero su negocio internacional no cumplió con las estimaciones.",
-      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T20:29:10+00:00"
-    },
-    {
-      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "es": "Las acciones de Reddit se hunden debido a una débil orientación de ventas y planean una prueba de requisitos de inicio de sesión a medida que el tráfico de búsqueda de Google se reduce",
-      "d": "Reddit publica ganancias del tercer trimestre y revela planes para exigir que todos los usuarios creen cuentas oficiales a medida que se reduce el tráfico de búsqueda de Google.",
-      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T20:28:13+00:00"
-    },
-    {
-      "h": "The stock market’s best forecasting tool says returns over the next 10 years will be dismal",
-      "es": "La mejor herramienta de pronóstico del mercado de valores dice que los rendimientos en los próximos 10 años serán sombríos",
-      "d": "La asignación de capital de los hogares estadounidenses promedio está en su punto más alto de todos los tiempos, y eso no augura nada bueno, según el 'Single Greatest Predictor'.",
-      "u": "https://www.marketwatch.com/story/the-stock-markets-best-forecasting-tool-says-returns-over-the-next-10-years-will-be-dismal-f94fcd87?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-63427224",
-      "published": "2026-10-29T20:26:00+00:00"
-    },
-    {
-      "h": "Coinbase snaps losing streak with third-quarter profit on crypto trading rebound",
-      "es": "Coinbase rompe la racha de pérdidas con ganancias del tercer trimestre gracias al repunte del comercio de criptomonedas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
-      "published": "2026-10-29T20:25:17+00:00"
-    },
-    {
-      "h": "Walmart commits $6 billion to expand Symbotic deal",
-      "es": "Walmart compromete 6.000 millones de dólares para ampliar el acuerdo con Symbotic",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/walmart-commits-6-billion-to-expand-symbotic-deal-4985071",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IZ_L.jpg",
-      "published": "2026-10-29T20:24:48+00:00"
-    },
-    {
-      "h": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
-      "es": "Lilly elevó sus previsiones de ventas por tercera vez este año a medida que se disparan las ventas de Zepbound. Sus acciones cerraron en un máximo histórico.",
-      "d": "El fabricante de medicamentos continúa dominando el mercado de medicamentos recetados para bajar de peso en los EE. UU.",
-      "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31409836",
-      "published": "2026-10-29T20:22:00+00:00"
-    },
-    {
-      "h": "The midterms are crucial to the future of Social Security — no matter how old you are",
-      "es": "Las elecciones intermedias son cruciales para el futuro de la Seguridad Social, sin importar la edad que tengas",
-      "d": "Se espera que el programa se quede sin dinero en los próximos seis años, que es el mismo período que el mandato de un senador.",
-      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13598905",
-      "published": "2026-10-29T20:22:00+00:00"
-    },
-    {
-      "h": "Starbucks forecasts annual profit above estimates",
-      "es": "Starbucks pronostica ganancias anuales superiores a las estimaciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HW_L.jpg",
-      "published": "2026-10-29T20:19:17+00:00"
-    },
-    {
-      "h": "Mondelez misses third-quarter sales estimates",
-      "es": "Mondelez incumple las estimaciones de ventas del tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mondelez-misses-thirdquarter-sales-estimates-4985036",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IQ_L.jpg",
-      "published": "2026-10-29T20:18:46+00:00"
-    },
-    {
-      "h": "Intel forecast disappoints as Israel fab blast, PC weakness weigh",
-      "es": "El pronóstico de Intel decepciona mientras la fabulosa explosión de Israel y la debilidad de las PC pesan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HF_L.jpg",
-      "published": "2026-10-29T20:18:28+00:00"
-    },
-    {
-      "h": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-      "es": "Alphabet se desploma casi un 13% en el peor día de su historia, perdiendo 500.000 millones de dólares en valor",
-      "d": "Alphabet informó de un flujo de caja libre negativo mayor de lo que esperaban los analistas, al tiempo que mantuvo su orientación de gasto para el año.",
-      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T20:15:19+00:00"
-    },
-    {
-      "h": "Norwegian shares surge 13% on earnings beat, guidance raise",
-      "es": "Las acciones noruegas suben un 13% tras superar las ganancias y aumentar las previsiones",
-      "d": "Norwegian dijo que las reservas de la compañía habían \"mejorado modestamente\", pero siguen por debajo de su rango óptimo.",
-      "u": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T20:14:15+00:00"
-    },
-    {
-      "h": "Intel plunges 20% as weak Q4 forecast overshadows earnings beat",
-      "es": "Intel se desploma un 20% mientras las débiles previsiones del cuarto trimestre eclipsan las ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7A0R8_1200_L.jpg",
-      "published": "2026-10-29T20:13:56+00:00"
-    },
-    {
-      "h": "Aon CEO warns AI data center insurance risks could threaten financing",
-      "es": "El CEO de Aon advierte que los riesgos del seguro del centro de datos de IA podrían amenazar la financiación",
-      "d": "El director ejecutivo de Aon, Greg Case, dijo que el riesgo de concentración en los centros de datos de IA podría limitar la capacidad de seguros y alterar la financiación de nuevos proyectos.",
-      "u": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T20:12:29+00:00"
-    },
-    {
-      "h": "Nasdaq closes over 1% lower as post-earnings slide in Alphabet weighs on AI trade",
-      "es": "Nasdaq cierra con una caída de más del 1% mientras la caída posterior a las ganancias en Alphabet pesa sobre el comercio de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-29T20:09:31+00:00"
     }
   ],
   "sources": [
