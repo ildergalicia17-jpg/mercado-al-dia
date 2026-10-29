@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-29T00:09:24.518849+00:00",
+  "updated": "2026-10-29T01:05:48.556690+00:00",
   "news": [
+    {
+      "h": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "es": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+      "d": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "u": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T01:02:10+00:00"
+    },
+    {
+      "h": "Samsung posts record profit in Q3 on AI chip boom",
+      "es": "Samsung posts record profit in Q3 on AI chip boom",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S02T_L.jpg",
+      "published": "2026-10-29T01:00:28+00:00"
+    },
+    {
+      "h": "FedEx's soft holiday-quarter outlook doesn't change our view on the stock",
+      "es": "FedEx's soft holiday-quarter outlook doesn't change our view on the stock",
+      "d": "CEO Raj Subramaniam's transformation is making progress.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/28/fedexs-soft-holiday-quarter-outlook-doesnt-change-our-view-on-the-stock.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T00:58:50+00:00"
+    },
+    {
+      "h": "Bloomberg, 2 trading firms subscribe to faster access to Trump posts- Reuters",
+      "es": "Bloomberg, 2 trading firms subscribe to faster access to Trump posts- Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bloomberg-2-trading-firms-subscribe-to-faster-access-to-trump-posts-reuters-4981277",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL5O0SA_L.jpg",
+      "published": "2026-10-29T00:43:45+00:00"
+    },
+    {
+      "h": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+      "es": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+      "d": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "u": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
+      "published": "2026-10-29T00:36:12+00:00"
+    },
+    {
+      "h": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "es": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "d": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T00:32:02+00:00"
+    },
+    {
+      "h": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
+      "es": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-29T00:31:36+00:00"
+    },
+    {
+      "h": "Exclusive-Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say",
+      "es": "Exclusive-Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivebloomberg-two-trading-firms-agree-to-pay-trumps-truth-social-for-faster-access-to-presidents-posts-sources-say-4981264",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S00N_L.jpg",
+      "published": "2026-10-29T00:30:37+00:00"
+    },
+    {
+      "h": "Weil Gotshal law firm plans to dissolve, capping dizzying fall",
+      "es": "Weil Gotshal law firm plans to dissolve, capping dizzying fall",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weil-gotshal-law-firm-plans-to-dissolve-capping-dizzying-fall-4980858",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2FO_L.jpg",
+      "published": "2026-10-29T00:18:20+00:00"
+    },
+    {
+      "h": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "es": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "d": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "u": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T00:16:39+00:00"
+    },
+    {
+      "h": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "es": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "d": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+      "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19205579",
+      "published": "2026-10-29T00:15:00+00:00"
+    },
+    {
+      "h": "Australia’s Star Entertainment accepts $183.6 million anti-money laundering penalty",
+      "es": "Australia’s Star Entertainment accepts $183.6 million anti-money laundering penalty",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australias-star-entertainment-accepts-1836-million-antimoney-laundering-penalty-4981241",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S00C_L.jpg",
+      "published": "2026-10-29T00:12:24+00:00"
+    },
+    {
+      "h": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "es": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "d": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+      "u": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T00:11:14+00:00"
+    },
+    {
+      "h": "The major reason Microsoft’s stock is heading higher after earnings",
+      "es": "The major reason Microsoft’s stock is heading higher after earnings",
+      "d": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "u": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-99465391",
+      "published": "2026-10-29T00:10:00+00:00"
+    },
     {
       "h": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
       "es": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
@@ -9,6 +135,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
       "published": "2026-10-29T00:00:25+00:00"
+    },
+    {
+      "h": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "es": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "d": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "u": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
+      "published": "2026-10-29T00:00:15+00:00"
     },
     {
       "h": "As Waymo expands overseas, it remains a niche cash-burning business",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2KB_L.jpg",
       "published": "2026-10-28T22:42:26+00:00"
-    },
-    {
-      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "es": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "d": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24279758",
-      "published": "2026-10-28T22:41:00+00:00"
-    },
-    {
-      "h": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-      "es": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-      "d": "Any button that can be clicked can also be touched.",
-      "u": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T22:38:41+00:00"
-    },
-    {
-      "h": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
-      "es": "Ford’s third-quarter core profit ticks higher despite rising commodity costs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fords-thirdquarter-core-profit-ticks-higher-despite-rising-commodity-costs-4980617",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CO_L.jpg",
-      "published": "2026-10-28T22:36:25+00:00"
-    },
-    {
-      "h": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-      "es": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-      "d": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-      "u": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T22:34:56+00:00"
-    },
-    {
-      "h": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "es": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "d": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
-      "u": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T22:27:00+00:00"
-    },
-    {
-      "h": "Jim Cramer says these tech giants can weather market turbulence",
-      "es": "Jim Cramer says these tech giants can weather market turbulence",
-      "d": "Cramer said a select group of technology stocks are less vulnerable to economic pressures.",
-      "u": "https://www.cnbc.com/2026/10/28/jim-cramer-tech-giants-nation-states.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T22:26:48+00:00"
-    },
-    {
-      "h": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "es": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "d": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-      "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-69392941",
-      "published": "2026-10-28T22:25:00+00:00"
-    },
-    {
-      "h": "Chipotle tops quarterly sales expectations as it continues to attract diners",
-      "es": "Chipotle tops quarterly sales expectations as it continues to attract diners",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chipotle-beats-quarterly-sales-expectations-on-resilient-demand-4980716",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2D9_L.jpg",
-      "published": "2026-10-28T22:18:18+00:00"
-    },
-    {
-      "h": "US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing",
-      "es": "US FTC demands Walmart, Uber, Delta and others hand over data on personalized pricing",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveus-ftc-demands-walmart-uber-delta-and-others-hand-over-data-on-personalized-pricing-4980434",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R24Y_L.jpg",
-      "published": "2026-10-28T22:13:23+00:00"
-    },
-    {
-      "h": "Airbus holds annual targets, bets on year-end delivery surge",
-      "es": "Airbus holds annual targets, bets on year-end delivery surge",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/airbus-holds-annual-targets-bets-on-yearend-delivery-surge-4980299",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1YK_L.jpg",
-      "published": "2026-10-28T22:12:58+00:00"
-    },
-    {
-      "h": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates",
-      "es": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-lifts-2026-secondhalf-free-cash-forecast-declares-dividend-4980623",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CJ_L.jpg",
-      "published": "2026-10-28T22:12:41+00:00"
-    },
-    {
-      "h": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-      "es": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-      "d": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
-      "u": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-28T22:12:28+00:00"
-    },
-    {
-      "h": "Guggenheim names LB Pharmaceuticals a top idea ahead of pivotal trial data",
-      "es": "Guggenheim names LB Pharmaceuticals a top idea ahead of pivotal trial data",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/guggenheim-names-lb-pharmaceuticals-a-top-idea-ahead-of-pivotal-trial-data-4981097",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF102VH_M.jpg",
-      "published": "2026-10-28T22:10:17+00:00"
-    },
-    {
-      "h": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-      "es": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-      "d": "An agreement between the companies could come next week, Bloomberg reported",
-      "u": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-93320117",
-      "published": "2026-10-28T22:08:00+00:00"
-    },
-    {
-      "h": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-      "es": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-      "d": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-      "u": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-28T22:07:17+00:00"
     }
   ],
   "sources": [
