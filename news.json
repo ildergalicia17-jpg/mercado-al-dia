@@ -1,6 +1,213 @@
 {
-  "updated": "2026-10-29T14:38:16.011629+00:00",
+  "updated": "2026-10-29T15:33:13.238383+00:00",
   "news": [
+    {
+      "h": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
+      "es": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
+      "d": "Many different options were considered before the WNBA decided to move Thursday's Game 6 of the WNBA Finals to a midday time slot.",
+      "u": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T15:28:27+00:00"
+    },
+    {
+      "h": "Bereaved families will not face tax bill over pension delays under new rules",
+      "es": "Bereaved families will not face tax bill over pension delays under new rules",
+      "d": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+      "u": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg",
+      "published": "2026-10-29T15:18:04+00:00"
+    },
+    {
+      "h": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
+      "es": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
+      "d": "Caterpillar’s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
+      "u": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-42455834",
+      "published": "2026-10-29T15:12:00+00:00"
+    },
+    {
+      "h": "Your pay, energy bills and savings: How the Budget affects you",
+      "es": "Your pay, energy bills and savings: How the Budget affects you",
+      "d": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "u": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-29T15:11:35+00:00"
+    },
+    {
+      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
+      "es": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-047-4984550",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
+      "published": "2026-10-29T15:10:04+00:00"
+    },
+    {
+      "h": "Doordash to buy Instacart in $17bn deal it says will expand customer options",
+      "es": "Doordash to buy Instacart in $17bn deal it says will expand customer options",
+      "d": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+      "u": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde4/live/a139f9d0-d3a2-11f1-a5cd-49637fcbd4e4.jpg",
+      "published": "2026-10-29T15:05:15+00:00"
+    },
+    {
+      "h": "Consumer spending flattens out after U.S. inflation surge",
+      "es": "Consumer spending flattens out after U.S. inflation surge",
+      "d": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
+      "u": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89314087",
+      "published": "2026-10-29T15:04:00+00:00"
+    },
+    {
+      "h": "‘Fair prices for the buyers’: UK small caps sold too cheaply, fund managers say",
+      "es": "‘Fair prices for the buyers’: UK small caps sold too cheaply, fund managers say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fair-prices-for-the-buyers-uk-small-caps-sold-too-cheaply-fund-managers-say-4984521",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC1S0OV_M.jpg",
+      "published": "2026-10-29T15:03:15+00:00"
+    },
+    {
+      "h": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
+      "es": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
+      "d": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "u": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
+      "published": "2026-10-29T14:58:04+00:00"
+    },
+    {
+      "h": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+      "es": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+      "d": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
+      "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T14:58:03+00:00"
+    },
+    {
+      "h": "Harley-Davidson near-term outlook: cautiously bullish but fragile after Q3 misses",
+      "es": "Harley-Davidson near-term outlook: cautiously bullish but fragile after Q3 misses",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/harleydavidson-nearterm-outlook-cautiously-bullish-but-fragile-after-q3-misses-93CH-4984492",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEI5L0M0_L.jpg",
+      "published": "2026-10-29T14:56:13+00:00"
+    },
+    {
+      "h": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
+      "es": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
+      "d": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+      "u": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T14:53:06+00:00"
+    },
+    {
+      "h": "ADT stock spikes 34% on $7.6 billion takeover deal by Josh Kushner’s Thrive",
+      "es": "ADT stock spikes 34% on $7.6 billion takeover deal by Josh Kushner’s Thrive",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/adt-stock-spikes-34-on-76-billion-takeover-deal-by-josh-kushners-thrive-4984472",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC1F0PR_M.jpg",
+      "published": "2026-10-29T14:52:35+00:00"
+    },
+    {
+      "h": "The South West reacts to Budget announcements",
+      "es": "The South West reacts to Budget announcements",
+      "d": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+      "u": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/433b/live/f9832770-d3a6-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-10-29T14:52:12+00:00"
+    },
+    {
+      "h": "Why is GBank Financial stock plunging today?",
+      "es": "Why is GBank Financial stock plunging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-gbank-financial-stock-plunging-today-93CH-4984469",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-29T14:51:41+00:00"
+    },
+    {
+      "h": "Why is Kodiak AI stock climbing today?",
+      "es": "Why is Kodiak AI stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kodiak-ai-stock-climbing-today-93CH-4984467",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-29T14:51:35+00:00"
+    },
+    {
+      "h": "NBIS vs CRWV: growth quality against valuation and leverage",
+      "es": "NBIS vs CRWV: growth quality against valuation and leverage",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nbis-vs-crwv-growth-quality-against-valuation-and-leverage-93CH-4984459",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "published": "2026-10-29T14:50:17+00:00"
+    },
+    {
+      "h": "Why is Meta Platforms stock climbing today?",
+      "es": "Why is Meta Platforms stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-climbing-today-93CH-4984457",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB5E0HH_M.jpg",
+      "published": "2026-10-29T14:49:49+00:00"
+    },
+    {
+      "h": "Why is Gen Digital stock surging today?",
+      "es": "Why is Gen Digital stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-gen-digital-stock-surging-today-93CH-4984458",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-29T14:49:49+00:00"
+    },
+    {
+      "h": "Meta loses appeals against interim measures imposed by French regulators",
+      "es": "Meta loses appeals against interim measures imposed by French regulators",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-4984447",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S10A_L.jpg",
+      "published": "2026-10-29T14:48:35+00:00"
+    },
+    {
+      "h": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
+      "es": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
+      "d": "Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.",
+      "u": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-36113702",
+      "published": "2026-10-29T14:38:00+00:00"
+    },
+    {
+      "h": "The midterms are crucial to the future of Social Security – no matter how old you are",
+      "es": "The midterms are crucial to the future of Social Security – no matter how old you are",
+      "d": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13598905",
+      "published": "2026-10-29T14:37:00+00:00"
+    },
+    {
+      "h": "3 reasons home prices keep going up, even though fewer people are buying",
+      "es": "3 reasons home prices keep going up, even though fewer people are buying",
+      "d": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
+      "u": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07831102",
+      "published": "2026-10-29T14:36:00+00:00"
+    },
     {
       "h": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
       "es": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
@@ -63,213 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC5S097_M.jpg",
       "published": "2026-10-29T14:24:12+00:00"
-    },
-    {
-      "h": "Microchip Technology shares may move 6.9% on earnings release",
-      "es": "Microchip Technology shares may move 6.9% on earnings release",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microchip-technology-shares-may-move-69-on-earnings-release-93CH-4984289",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-29T14:23:18+00:00"
-    },
-    {
-      "h": "Why is Salesforce stock sliding today?",
-      "es": "Why is Salesforce stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-sliding-today-93CH-4984287",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1O0N5_M.jpg",
-      "published": "2026-10-29T14:23:07+00:00"
-    },
-    {
-      "h": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "es": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "d": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-      "published": "2026-10-29T14:22:34+00:00"
-    },
-    {
-      "h": "Advance Auto Parts options data points to 6.4% move on earnings",
-      "es": "Advance Auto Parts options data points to 6.4% move on earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/advance-auto-parts-options-data-points-to-64-move-on-earnings-93CH-4984283",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-29T14:22:02+00:00"
-    },
-    {
-      "h": "Kratos Defense shares may move 9% on earnings release",
-      "es": "Kratos Defense shares may move 9% on earnings release",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kratos-defense-shares-may-move-9-on-earnings-release-93CH-4984277",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-29T14:20:57+00:00"
-    },
-    {
-      "h": "Unity Software stock may move 11% on upcoming earnings report",
-      "es": "Unity Software stock may move 11% on upcoming earnings report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/unity-software-stock-may-move-11-on-upcoming-earnings-report-93CH-4984271",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-29T14:19:42+00:00"
-    },
-    {
-      "h": "Why is Amazon stock sliding today?",
-      "es": "Why is Amazon stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-sliding-today-93CH-4984268",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED3R0VV_M.jpg",
-      "published": "2026-10-29T14:19:14+00:00"
-    },
-    {
-      "h": "Kimberly-Clark shares may move 2.6% on Nov. 5 earnings report",
-      "es": "Kimberly-Clark shares may move 2.6% on Nov. 5 earnings report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kimberlyclark-shares-may-move-26-on-nov-5-earnings-report-93CH-4984258",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-10-29T14:18:16+00:00"
-    },
-    {
-      "h": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "es": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "d": "The noted investor, famous from \"The Big Short,\" says it would be \"impossible\" for an AI crash not to hurt the broader market",
-      "u": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T14:15:43+00:00"
-    },
-    {
-      "h": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
-      "es": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
-      "d": "Shares in the software company were down 24% on Thursday morning as investors digested its third-quarter earnings.",
-      "u": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-56113489",
-      "published": "2026-10-29T14:01:00+00:00"
-    },
-    {
-      "h": "Open enrollment is a chance to get this ‘sneaky-good’ investment account that can be ‘better than a Roth’",
-      "es": "Open enrollment is a chance to get this ‘sneaky-good’ investment account that can be ‘better than a Roth’",
-      "d": "During open enrollment, financial planners say HSAs are worth a closer look for their unusual tax advantages and potential as a long-term investment account.",
-      "u": "https://www.cnbc.com/make-it/2026/10/29/hsa-retirement-investing.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T14:00:01+00:00"
-    },
-    {
-      "h": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
-      "es": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
-      "d": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve held rates steady on Wednesday",
-      "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-47992570",
-      "published": "2026-10-29T13:57:00+00:00"
-    },
-    {
-      "h": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
-      "es": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
-      "d": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
-      "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31409836",
-      "published": "2026-10-29T13:49:00+00:00"
-    },
-    {
-      "h": "Why Alphabet’s stock could see its worst day ever after the latest results",
-      "es": "Why Alphabet’s stock could see its worst day ever after the latest results",
-      "d": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-      "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-69922963",
-      "published": "2026-10-29T13:47:00+00:00"
-    },
-    {
-      "h": "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
-      "es": "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
-      "d": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
-      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T13:46:52+00:00"
-    },
-    {
-      "h": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-      "es": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-      "d": "Anthropic CEO Dario Amodei has pledged a portion of his company shares to charity with unusual conditions, according to an SEC filing.",
-      "u": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T13:44:56+00:00"
-    },
-    {
-      "h": "DoorDash to acquire Instacart for $17 billion",
-      "es": "DoorDash to acquire Instacart for $17 billion",
-      "d": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
-      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T13:44:32+00:00"
-    },
-    {
-      "h": "Island Energy: No plans to remove gas standing charge",
-      "es": "Island Energy: No plans to remove gas standing charge",
-      "d": "The provider said any change would need support from the community, the regulator and government.",
-      "u": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8049/live/cbd84720-d396-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-29T13:39:54+00:00"
-    },
-    {
-      "h": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "es": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "d": "",
-      "u": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T13:30:06+00:00"
-    },
-    {
-      "h": "Minimum wage rise 'a massive blow' says farmer",
-      "es": "Minimum wage rise 'a massive blow' says farmer",
-      "d": "Tristan Bennett voices his disappointment in the Budget, describing it as \"a lot of tinkering\".",
-      "u": "https://www.bbc.co.uk/news/articles/c6zxj9qy4yg8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d953/live/efb9ae60-d394-11f1-b490-07d78ce4b8e5.jpg",
-      "published": "2026-10-29T13:29:15+00:00"
-    },
-    {
-      "h": "Minimum wage increase accepted by minister",
-      "es": "Minimum wage increase accepted by minister",
-      "d": "A recommendation to increase the minimum wage by 2.8% is agreed by Senator Elaine Millar.",
-      "u": "https://www.bbc.co.uk/news/articles/cq77pm5ykrpzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b3/live/4be244a0-d38f-11f1-b31d-29088a2dcf13.jpg",
-      "published": "2026-10-29T13:27:44+00:00"
-    },
-    {
-      "h": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-      "es": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-caught-up-in-reported-chinese-spy-probe-as-ai-stocks-slide-4983897",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q0YE_1200_L.jpg",
-      "published": "2026-10-29T13:23:30+00:00"
-    },
-    {
-      "h": "Barclays lowers PayPal stock to Underweight on slowing fundamentals",
-      "es": "Barclays lowers PayPal stock to Underweight on slowing fundamentals",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/barclays-lowers-paypal-stock-to-underweight-on-slowing-fundamentals-4983912",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA719F_L.jpg",
-      "published": "2026-10-29T13:20:28+00:00"
     }
   ],
   "sources": [
