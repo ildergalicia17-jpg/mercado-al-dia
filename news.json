@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-29T22:02:29.667703+00:00",
+  "updated": "2026-10-29T22:45:33.934302+00:00",
   "news": [
+    {
+      "h": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+      "es": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+      "d": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
+      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T22:42:41+00:00"
+    },
+    {
+      "h": "Meta loses appeals against interim measures imposed by French regulators",
+      "es": "Meta loses appeals against interim measures imposed by French regulators",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-4984447",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S10A_L.jpg",
+      "published": "2026-10-29T22:18:39+00:00"
+    },
+    {
+      "h": "The midterms are crucial to the future of Social Security — no matter how old you are",
+      "es": "The midterms are crucial to the future of Social Security — no matter how old you are",
+      "d": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13598905",
+      "published": "2026-10-29T22:01:00+00:00"
+    },
+    {
+      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "es": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "d": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T22:00:20+00:00"
+    },
+    {
+      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05792524",
+      "published": "2026-10-29T22:00:00+00:00"
+    },
     {
       "h": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
       "es": "Amazon AWS registra un crecimiento de ingresos del 39% a medida que los rivales de la nube también se aceleran",
@@ -27,6 +72,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T21:55:42+00:00"
+    },
+    {
+      "h": "Starbucks sees annual profit above estimates as turnaround gains traction",
+      "es": "Starbucks sees annual profit above estimates as turnaround gains traction",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HW_L.jpg",
+      "published": "2026-10-29T21:54:59+00:00"
     },
     {
       "h": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -110,6 +164,15 @@
       "published": "2026-10-29T21:36:39+00:00"
     },
     {
+      "h": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
+      "es": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
+      "published": "2026-10-29T21:36:38+00:00"
+    },
+    {
       "h": "Why is Roblox stock plunging today?",
       "es": "¿Por qué se están desplomando las acciones de Roblox hoy?",
       "d": "",
@@ -155,6 +218,15 @@
       "published": "2026-10-29T21:31:00+00:00"
     },
     {
+      "h": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "es": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "d": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T21:29:59+00:00"
+    },
+    {
       "h": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
       "es": "Se está gestando un cambio de rumbo en Starbucks, pero quizás no lo suficientemente rápido",
       "d": "La cadena de café superó las expectativas en una métrica de ventas clave, pero sus acciones aún estaban cayendo.",
@@ -198,78 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2JP_L.jpg",
       "published": "2026-10-29T20:42:31+00:00"
-    },
-    {
-      "h": "Sandisk sees revenue nearly quintuple — and its stock is heading higher",
-      "es": "Sandisk prevé que sus ingresos casi se quintuplicarán y sus acciones subirán",
-      "d": "Las ganancias de Sandisk muestran que la empresa está creciendo de manera bastante rentable.",
-      "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04029946",
-      "published": "2026-10-29T20:39:00+00:00"
-    },
-    {
-      "h": "The S&P 500 isn’t the big winner you may think it is",
-      "es": "El S&P 500 no es el gran ganador que podrías pensar",
-      "d": "La debilidad del índice puede sorprender a una generación de inversores criados en el culto de que \"las acciones siempre suben\".",
-      "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08594984",
-      "published": "2026-10-29T20:39:00+00:00"
-    },
-    {
-      "h": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
-      "es": "Amazon no logra ganancias y mantiene estable el gasto de capital, lo que aumenta el nerviosismo por el gasto en IA",
-      "d": "Amazon informó las ganancias del tercer trimestre el jueves después de la campana.",
-      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T20:35:26+00:00"
-    },
-    {
-      "h": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-      "es": "Las ganancias de Rivian en el tercer trimestre superaron las estimaciones a medida que aumentan los ingresos por software y las entregas de R2",
-      "d": "Rivian también revisó su guía para 2026 para marcar las mejoras esperadas en las entregas de vehículos, las ganancias ajustadas antes de impuestos y los gastos de capital.",
-      "u": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T20:35:04+00:00"
-    },
-    {
-      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.25%",
-      "es": "Las bolsas de Estados Unidos cierran a la baja; El Promedio Industrial Dow Jones cae un 0,25%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-025-4985114",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
-      "published": "2026-10-29T20:31:05+00:00"
-    },
-    {
-      "h": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
-      "es": "Todas las razones por las que los inversores de Marvell están \"asustados\" mientras aumentan los rumores sobre el acuerdo con Lumentum",
-      "d": "Los inversores están nerviosos de que Marvell tenga que pagar una gran prima y esperar un tiempo hasta que China apruebe cualquier acuerdo.",
-      "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08108156",
-      "published": "2026-10-29T20:31:00+00:00"
-    },
-    {
-      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.04%",
-      "es": "Las bolsas de Canadá cierran a la baja; El S&P/TSX Composite cae un 0,04%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-004-4985104",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
-      "published": "2026-10-29T20:30:34+00:00"
-    },
-    {
-      "h": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "es": "Algunos fondos de usuarios de Polymarket robados por piratas informáticos; intercambio remitiendo el asunto a las autoridades del Reino Unido",
-      "d": "La interrupción se produce pocos días antes de que se espera que la plataforma experimente un mayor comercio durante las elecciones de mitad de período en Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T20:30:24+00:00"
     }
   ],
   "sources": [
