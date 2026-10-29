@@ -1,6 +1,204 @@
 {
-  "updated": "2026-10-29T11:54:45.675181+00:00",
+  "updated": "2026-10-29T12:38:19.107558+00:00",
   "news": [
+    {
+      "h": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
+      "es": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
+      "d": "Yearly rate of U.S. inflation climbs to 3.6%",
+      "u": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-36113702",
+      "published": "2026-10-29T12:36:00+00:00"
+    },
+    {
+      "h": "U.S. economy grows at fastest pace in almost three years, third-quarter GDP shows",
+      "es": "U.S. economy grows at fastest pace in almost three years, third-quarter GDP shows",
+      "d": "AI revolution and ‘wealth effect’ fuel expansion",
+      "u": "https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-73794612",
+      "published": "2026-10-29T12:35:00+00:00"
+    },
+    {
+      "h": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "es": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+      "d": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+      "u": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:32:52+00:00"
+    },
+    {
+      "h": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+      "es": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+      "d": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+      "u": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:31:48+00:00"
+    },
+    {
+      "h": "The Bottom Line",
+      "es": "The Bottom Line",
+      "d": "How easy is it to build a business after serving time in jail?",
+      "u": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/images/ic/240x135/p0m2ffyg.jpg",
+      "published": "2026-10-29T12:30:00+00:00"
+    },
+    {
+      "h": "Caterpillar’s stock heads for worst day in 7 years — and what that means for the Dow",
+      "es": "Caterpillar’s stock heads for worst day in 7 years — and what that means for the Dow",
+      "d": "Caterpillar’s data center business is fine, but other areas disappointed and the stock was heading for its biggest loss in years.",
+      "u": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-42455834",
+      "published": "2026-10-29T12:25:00+00:00"
+    },
+    {
+      "h": "SAP stock drops after ServiceNow, Fortinet results weigh",
+      "es": "SAP stock drops after ServiceNow, Fortinet results weigh",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sap-stock-drops-after-servicenow-fortinet-results-weigh-4983403",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBS0BS_M.jpg",
+      "published": "2026-10-29T12:19:16+00:00"
+    },
+    {
+      "h": "Exclusive-Swiss assess potential UBS relocation, highlight difficulties",
+      "es": "Exclusive-Swiss assess potential UBS relocation, highlight difficulties",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveswiss-assess-potential-ubs-relocation-highlight-difficulties-4983399",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1FS_L.jpg",
+      "published": "2026-10-29T12:18:41+00:00"
+    },
+    {
+      "h": "Why is Deutsche Telekom stock rallying today?",
+      "es": "Why is Deutsche Telekom stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-deutsche-telekom-stock-rallying-today-93CH-4983369",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED9M0ZB_M.jpg",
+      "published": "2026-10-29T12:13:56+00:00"
+    },
+    {
+      "h": "Brewers start to feel the costs of prolonged war in Iran",
+      "es": "Brewers start to feel the costs of prolonged war in Iran",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/budweiser-brewer-ab-inbev-hits-q3-profit-forecast-but-costs-on-the-rise-4981547",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0HK_L.jpg",
+      "published": "2026-10-29T12:12:46+00:00"
+    },
+    {
+      "h": "Why is Oshkosh stock tumbling today?",
+      "es": "Why is Oshkosh stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-oshkosh-stock-tumbling-today-93CH-4983343",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-10-29T12:10:44+00:00"
+    },
+    {
+      "h": "Why is Carrier Global stock sliding today?",
+      "es": "Why is Carrier Global stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-carrier-global-stock-sliding-today-93CH-4983342",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-29T12:10:29+00:00"
+    },
+    {
+      "h": "Why is Eli Lilly stock surging today?",
+      "es": "Why is Eli Lilly stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-eli-lilly-stock-surging-today-93CH-4983340",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Olumiant_800x533_L_1790686437.jpg",
+      "published": "2026-10-29T12:10:04+00:00"
+    },
+    {
+      "h": "Nasdaq futures drop as Alphabet earnings revive AI jitters",
+      "es": "Nasdaq futures drop as Alphabet earnings revive AI jitters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-29T12:09:56+00:00"
+    },
+    {
+      "h": "Why is Bristol-Myers Squibb stock gaining today?",
+      "es": "Why is Bristol-Myers Squibb stock gaining today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bristolmyers-squibb-stock-gaining-today-93CH-4983339",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE6P1NM_M.jpg",
+      "published": "2026-10-29T12:09:45+00:00"
+    },
+    {
+      "h": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "es": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "d": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+      "published": "2026-10-29T12:09:14+00:00"
+    },
+    {
+      "h": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+      "es": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+      "d": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+      "u": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:06:03+00:00"
+    },
+    {
+      "h": "Kalshi valuation jumps to $40 billion in latest funding round",
+      "es": "Kalshi valuation jumps to $40 billion in latest funding round",
+      "d": "The prediction market platform one year ago was valued at $5 billion.",
+      "u": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:05:18+00:00"
+    },
+    {
+      "h": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
+      "es": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
+      "d": "Warren asked the DOJ to disclose by Nov. 12 whether it has launched a criminal investigation into Bank of America after it admitted to violations.",
+      "u": "https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:00:01+00:00"
+    },
+    {
+      "h": "Family offices can save millions with this tax strategy but it can strain family ties",
+      "es": "Family offices can save millions with this tax strategy but it can strain family ties",
+      "d": "More wealthy families are reconsidering a valuable but rigorous tax strategy, lawyers and CPAs told CNBC.",
+      "u": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:00:01+00:00"
+    },
+    {
+      "h": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+      "es": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+      "d": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
+      "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-56427244",
+      "published": "2026-10-29T12:00:00+00:00"
+    },
+    {
+      "h": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+      "es": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+      "d": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+      "u": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T11:56:23+00:00"
+    },
     {
       "h": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
       "es": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
@@ -38,6 +236,15 @@
       "published": "2026-10-29T11:48:00+00:00"
     },
     {
+      "h": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+      "es": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+      "d": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+      "u": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T11:44:57+00:00"
+    },
+    {
       "h": "Why is Glaukos stock surging today?",
       "es": "Why is Glaukos stock surging today?",
       "d": "",
@@ -63,213 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0L1_L.jpg",
       "published": "2026-10-29T11:43:09+00:00"
-    },
-    {
-      "h": "Caterpillar tops quarterly profit view, but shares sink after unchanged annual growth forecast",
-      "es": "Caterpillar tops quarterly profit view, but shares sink after unchanged annual growth forecast",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/caterpillar-thirdquarter-profit-rises-on-power-equipment-demand-4982548",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S172_L.jpg",
-      "published": "2026-10-29T11:42:42+00:00"
-    },
-    {
-      "h": "Clorox appoints Unilever executive as its new CEO",
-      "es": "Clorox appoints Unilever executive as its new CEO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/clorox-appoints-unilever-executive-as-its-new-ceo-4983032",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-29T11:42:32+00:00"
-    },
-    {
-      "h": "Micron shares dip as Samsung’s post-earnings selloff spreads to memory peers",
-      "es": "Micron shares dip as Samsung’s post-earnings selloff spreads to memory peers",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/micron-shares-dip-as-samsungs-postearnings-selloff-spreads-to-memory-peers-4983079",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Micron_800x533_L_1634733965.jpg",
-      "published": "2026-10-29T11:41:57+00:00"
-    },
-    {
-      "h": "Premarket movers: Microsoft rises; Alphabet drags software stocks lower",
-      "es": "Premarket movers: Microsoft rises; Alphabet drags software stocks lower",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-microsoft-rises-alphabet-drags-software-stocks-lower-4982710",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-10-29T11:41:26+00:00"
-    },
-    {
-      "h": "Analyst explains why you should buy the pullback in Google shares",
-      "es": "Analyst explains why you should buy the pullback in Google shares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-buy-the-pullback-in-google-shares-4983041",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL410PO_L.jpg",
-      "published": "2026-10-29T11:37:31+00:00"
-    },
-    {
-      "h": "Why is Sprouts Farmers Market stock plunging today?",
-      "es": "Why is Sprouts Farmers Market stock plunging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sprouts-farmers-market-stock-plunging-today-93CH-4982947",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-29T11:31:06+00:00"
-    },
-    {
-      "h": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
-      "es": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2CP_L.jpg",
-      "published": "2026-10-29T11:30:46+00:00"
-    },
-    {
-      "h": "You can’t rely on the S&P 500 as much as you may think",
-      "es": "You can’t rely on the S&P 500 as much as you may think",
-      "d": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
-      "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08594984",
-      "published": "2026-10-29T11:30:00+00:00"
-    },
-    {
-      "h": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
-      "es": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
-      "d": "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
-      "u": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:16:52+00:00"
-    },
-    {
-      "h": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "es": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "d": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65126339",
-      "published": "2026-10-29T11:15:00+00:00"
-    },
-    {
-      "h": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
-      "es": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
-      "d": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
-      "u": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78425460",
-      "published": "2026-10-29T11:11:00+00:00"
-    },
-    {
-      "h": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-      "es": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-      "d": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
-      "u": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-60818668",
-      "published": "2026-10-29T11:09:00+00:00"
-    },
-    {
-      "h": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
-      "es": "Merck supera las estimaciones trimestrales y aumenta las perspectivas de beneficios a medida que el nuevo formulario Keytruda muestra fortaleza",
-      "d": "La inmunoterapia Keytruda de Merck, incluida una nueva forma inyectable del fármaco, registró ventas mayores de lo esperado.",
-      "u": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T11:08:18+00:00"
-    },
-    {
-      "h": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-      "es": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-      "d": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
-      "u": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:04:27+00:00"
-    },
-    {
-      "h": "Why is DR Horton stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de DR Horton hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dr-horton-stock-sliding-today-93CH-4982733",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-29T11:03:16+00:00"
-    },
-    {
-      "h": "Lilly raises outlook for third time this year as Zepbound sales soar.",
-      "es": "Lilly eleva las perspectivas por tercera vez este año a medida que se disparan las ventas de Zepbound.",
-      "d": "El medicamento continúa dominando el mercado de medicamentos recetados para bajar de peso en los EE. UU.",
-      "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-31409836",
-      "published": "2026-10-29T11:03:00+00:00"
-    },
-    {
-      "h": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "es": "La pérdida de resultados de Alphabet refleja la primera señal real de que la IA está afectando las búsquedas",
-      "d": "Wall Street criticó duramente a Alphabet por no lograr resultados satisfactorios que incluyeron ingresos más débiles de lo esperado del negocio principal de la compañía.",
-      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:00:02+00:00"
-    },
-    {
-      "h": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "es": "Medicare utilizó IA para preaprobar la atención al paciente e inmediatamente provocó una gran caída en los servicios médicos.",
-      "d": "Medicare está probando el uso de IA para realizar autorizaciones previas para abordar el gasto médico despilfarrador",
-      "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-74822336",
-      "published": "2026-10-29T11:00:00+00:00"
-    },
-    {
-      "h": "Why is Norwegian Cruise Line stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Norwegian Cruise Line hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-norwegian-cruise-line-stock-surging-today-93CH-4982683",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-29T10:59:55+00:00"
-    },
-    {
-      "h": "Why is Siemens Energy stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Siemens Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-climbing-today-93CH-4982681",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEAAC0WU_M.jpg",
-      "published": "2026-10-29T10:59:04+00:00"
-    },
-    {
-      "h": "Why is Mobileye stock sliding today?",
-      "es": "¿Por qué las acciones de Mobileye están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-sliding-today-93CH-4982679",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-10-29T10:58:52+00:00"
-    },
-    {
-      "h": "Why is Caterpillar stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Caterpillar hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-caterpillar-stock-sliding-today-93CH-4982677",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED301WM_L.jpg",
-      "published": "2026-10-29T10:58:40+00:00"
-    },
-    {
-      "h": "Shell and Total post highest quarterly profit since 2022",
-      "es": "Shell y Total registran el mayor beneficio trimestral desde 2022",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/shell-beats-expectations-with-108-billion-thirdquarter-profit-4981606",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0NT_L.jpg",
-      "published": "2026-10-29T10:54:44+00:00"
     }
   ],
   "sources": [
