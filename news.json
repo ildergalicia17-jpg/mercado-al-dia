@@ -1,6 +1,195 @@
 {
-  "updated": "2026-10-29T12:38:19.107558+00:00",
+  "updated": "2026-10-29T13:42:51.493334+00:00",
   "news": [
+    {
+      "h": "Island Energy: No plans to remove gas standing charge",
+      "es": "Island Energy: No plans to remove gas standing charge",
+      "d": "The provider said any change would need support from the community, the regulator and government.",
+      "u": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8049/live/cbd84720-d396-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-29T13:39:54+00:00"
+    },
+    {
+      "h": "European Central Bank keeps key interest rate on hold at 2.5%",
+      "es": "European Central Bank keeps key interest rate on hold at 2.5%",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T13:30:06+00:00"
+    },
+    {
+      "h": "Minimum wage rise 'a massive blow' says farmer",
+      "es": "Minimum wage rise 'a massive blow' says farmer",
+      "d": "Tristan Bennett voices his disappointment in the Budget, describing it as \"a lot of tinkering\".",
+      "u": "https://www.bbc.co.uk/news/articles/c6zxj9qy4yg8o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d953/live/efb9ae60-d394-11f1-b490-07d78ce4b8e5.jpg",
+      "published": "2026-10-29T13:29:15+00:00"
+    },
+    {
+      "h": "Minimum wage increase accepted by minister",
+      "es": "Minimum wage increase accepted by minister",
+      "d": "A recommendation to increase the minimum wage by 2.8% is agreed by Senator Elaine Millar.",
+      "u": "https://www.bbc.co.uk/news/articles/cq77pm5ykrpzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b3/live/4be244a0-d38f-11f1-b31d-29088a2dcf13.jpg",
+      "published": "2026-10-29T13:27:44+00:00"
+    },
+    {
+      "h": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
+      "es": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-caught-up-in-reported-chinese-spy-probe-as-ai-stocks-slide-4983897",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q0YE_1200_L.jpg",
+      "published": "2026-10-29T13:23:30+00:00"
+    },
+    {
+      "h": "Barclays lowers PayPal stock to Underweight on slowing fundamentals",
+      "es": "Barclays lowers PayPal stock to Underweight on slowing fundamentals",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-lowers-paypal-stock-to-underweight-on-slowing-fundamentals-4983912",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA719F_L.jpg",
+      "published": "2026-10-29T13:20:28+00:00"
+    },
+    {
+      "h": "JPMorgan starts Palantir at Overweight, calls it a disruptive AI leader",
+      "es": "JPMorgan starts Palantir at Overweight, calls it a disruptive AI leader",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-starts-palantir-at-overweight-calls-it-a-disruptive-ai-leader-4983906",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK770GR_L.jpg",
+      "published": "2026-10-29T13:20:16+00:00"
+    },
+    {
+      "h": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "es": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "d": "Budget forecasts show growth in living standards grinding almost to a halt.",
+      "u": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cd/live/c93e7220-d385-11f1-b5f4-fd541fd21001.jpg",
+      "published": "2026-10-29T13:19:24+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "es": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "d": "Tech is taking it on the chin.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T13:13:08+00:00"
+    },
+    {
+      "h": "Amazon stock setup into today’s earnings: What could push shares higher or lower?",
+      "es": "Amazon stock setup into today’s earnings: What could push shares higher or lower?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-stock-setup-into-todays-earnings-what-could-push-shares-higher-or-lower-93CH-4983838",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0JY_L.jpg",
+      "published": "2026-10-29T13:08:16+00:00"
+    },
+    {
+      "h": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
+      "es": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
+      "d": "Shares in Lumentum Holdings rose 5.5% in premarket trading as investors weighed a potential combination with Marvell Technology.",
+      "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-759206",
+      "published": "2026-10-29T13:05:00+00:00"
+    },
+    {
+      "h": "Wednesday’s insider activity: Major buys at TTM Technologies",
+      "es": "Wednesday’s insider activity: Major buys at TTM Technologies",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wednesdays-insider-activity-major-buys-at-ttm-technologies-93CH-4983718",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-29T13:01:53+00:00"
+    },
+    {
+      "h": "ServiceNow stock tumbles after earnings: Buy the dip or stay put?",
+      "es": "ServiceNow stock tumbles after earnings: Buy the dip or stay put?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/servicenow-stock-tumbles-after-earnings-buy-the-dip-or-stay-put-93CH-4983714",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/sad_trader_M_1440048075.jpg",
+      "published": "2026-10-29T13:01:26+00:00"
+    },
+    {
+      "h": "Consumer spending flattens out after inflation surge",
+      "es": "Consumer spending flattens out after inflation surge",
+      "d": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
+      "u": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89314087",
+      "published": "2026-10-29T13:01:00+00:00"
+    },
+    {
+      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "es": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "d": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13210750",
+      "published": "2026-10-29T13:00:00+00:00"
+    },
+    {
+      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05792524",
+      "published": "2026-10-29T13:00:00+00:00"
+    },
+    {
+      "h": "Deutsche Bank starts positive on TK Accelis, citing value-added growth",
+      "es": "Deutsche Bank starts positive on TK Accelis, citing value-added growth",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/deutsche-bank-starts-positive-on-tk-accelis-citing-valueadded-growth-4983700",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-29T12:59:23+00:00"
+    },
+    {
+      "h": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+      "es": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+      "d": "The companies say their proposed merger will help smaller grocers compete, but analysts wonder if regulators will conduct an “extended review” of antitrust risks.",
+      "u": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-259220",
+      "published": "2026-10-29T12:58:00+00:00"
+    },
+    {
+      "h": "Cheniere boosts forecast as Middle East gas disruptions buoy demand for US LNG",
+      "es": "Cheniere boosts forecast as Middle East gas disruptions buoy demand for US LNG",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cheniere-reports-rise-in-thirdquarter-net-income-4982412",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S13O_L.jpg",
+      "published": "2026-10-29T12:55:21+00:00"
+    },
+    {
+      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "es": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "d": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21005604",
+      "published": "2026-10-29T12:45:00+00:00"
+    },
+    {
+      "h": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
+      "es": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
+      "d": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+      "u": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T12:38:18+00:00"
+    },
     {
       "h": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
       "es": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
@@ -81,195 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED9M0ZB_M.jpg",
       "published": "2026-10-29T12:13:56+00:00"
-    },
-    {
-      "h": "Brewers start to feel the costs of prolonged war in Iran",
-      "es": "Brewers start to feel the costs of prolonged war in Iran",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/budweiser-brewer-ab-inbev-hits-q3-profit-forecast-but-costs-on-the-rise-4981547",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0HK_L.jpg",
-      "published": "2026-10-29T12:12:46+00:00"
-    },
-    {
-      "h": "Why is Oshkosh stock tumbling today?",
-      "es": "Why is Oshkosh stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-oshkosh-stock-tumbling-today-93CH-4983343",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-10-29T12:10:44+00:00"
-    },
-    {
-      "h": "Why is Carrier Global stock sliding today?",
-      "es": "Why is Carrier Global stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-carrier-global-stock-sliding-today-93CH-4983342",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-29T12:10:29+00:00"
-    },
-    {
-      "h": "Why is Eli Lilly stock surging today?",
-      "es": "Why is Eli Lilly stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-eli-lilly-stock-surging-today-93CH-4983340",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Olumiant_800x533_L_1790686437.jpg",
-      "published": "2026-10-29T12:10:04+00:00"
-    },
-    {
-      "h": "Nasdaq futures drop as Alphabet earnings revive AI jitters",
-      "es": "Nasdaq futures drop as Alphabet earnings revive AI jitters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published": "2026-10-29T12:09:56+00:00"
-    },
-    {
-      "h": "Why is Bristol-Myers Squibb stock gaining today?",
-      "es": "Why is Bristol-Myers Squibb stock gaining today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bristolmyers-squibb-stock-gaining-today-93CH-4983339",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE6P1NM_M.jpg",
-      "published": "2026-10-29T12:09:45+00:00"
-    },
-    {
-      "h": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "es": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "d": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-      "published": "2026-10-29T12:09:14+00:00"
-    },
-    {
-      "h": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-      "es": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-      "d": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
-      "u": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T12:06:03+00:00"
-    },
-    {
-      "h": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "es": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "d": "The prediction market platform one year ago was valued at $5 billion.",
-      "u": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T12:05:18+00:00"
-    },
-    {
-      "h": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
-      "es": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
-      "d": "Warren asked the DOJ to disclose by Nov. 12 whether it has launched a criminal investigation into Bank of America after it admitted to violations.",
-      "u": "https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T12:00:01+00:00"
-    },
-    {
-      "h": "Family offices can save millions with this tax strategy but it can strain family ties",
-      "es": "Family offices can save millions with this tax strategy but it can strain family ties",
-      "d": "More wealthy families are reconsidering a valuable but rigorous tax strategy, lawyers and CPAs told CNBC.",
-      "u": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T12:00:01+00:00"
-    },
-    {
-      "h": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "es": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "d": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-      "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-56427244",
-      "published": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "h": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-      "es": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-      "d": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
-      "u": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:56:23+00:00"
-    },
-    {
-      "h": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "es": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "d": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-      "u": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
-      "published": "2026-10-29T11:52:55+00:00"
-    },
-    {
-      "h": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-      "es": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-      "d": "Anthropic CEO Dario Amodei has pledged a portion of his company shares to charity with unusual conditions, according to an SEC filing.",
-      "u": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:52:14+00:00"
-    },
-    {
-      "h": "DoorDash to acquire Instacart for $17 billion",
-      "es": "DoorDash to acquire Instacart for $17 billion",
-      "d": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:52:12+00:00"
-    },
-    {
-      "h": "Is it dumb to take travel advice from influencers?",
-      "es": "Is it dumb to take travel advice from influencers?",
-      "d": "“I want to travel to Europe … How can I tell if something is a real experience in my price range?”",
-      "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-43158472",
-      "published": "2026-10-29T11:48:00+00:00"
-    },
-    {
-      "h": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
-      "es": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
-      "d": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
-      "u": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T11:44:57+00:00"
-    },
-    {
-      "h": "Why is Glaukos stock surging today?",
-      "es": "Why is Glaukos stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-glaukos-stock-surging-today-93CH-4983104",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-29T11:44:10+00:00"
-    },
-    {
-      "h": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-      "es": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-      "d": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
-      "u": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T11:43:26+00:00"
-    },
-    {
-      "h": "Adidas sees Europe rebound in fourth quarter, streaks ahead in China",
-      "es": "Adidas sees Europe rebound in fourth quarter, streaks ahead in China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/adidas-confirms-preliminary-results-raises-guidance-4981583",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0L1_L.jpg",
-      "published": "2026-10-29T11:43:09+00:00"
     }
   ],
   "sources": [
