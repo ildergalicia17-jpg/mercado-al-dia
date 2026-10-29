@@ -1,6 +1,222 @@
 {
-  "updated": "2026-10-29T15:33:13.238383+00:00",
+  "updated": "2026-10-29T16:29:10.211245+00:00",
   "news": [
+    {
+      "h": "You can’t rely on the S&P 500 as much as you may think",
+      "es": "You can’t rely on the S&P 500 as much as you may think",
+      "d": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08594984",
+      "published": "2026-10-29T16:26:00+00:00"
+    },
+    {
+      "h": "Nasdaq falls over 1% as post-earnings slide in Alphabet weighs on AI trade",
+      "es": "Nasdaq falls over 1% as post-earnings slide in Alphabet weighs on AI trade",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-29T16:25:51+00:00"
+    },
+    {
+      "h": "DoorDash’s Instacart deal may draw FTC scrutiny amid cost-of-living concerns",
+      "es": "DoorDash’s Instacart deal may draw FTC scrutiny amid cost-of-living concerns",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/doordashs-instacart-deal-may-draw-ftc-scrutiny-amid-costofliving-concerns-4984745",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S261_L.jpg",
+      "published": "2026-10-29T16:24:28+00:00"
+    },
+    {
+      "h": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "es": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "d": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+      "u": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T16:22:19+00:00"
+    },
+    {
+      "h": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+      "es": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+      "d": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout.",
+      "u": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T16:20:51+00:00"
+    },
+    {
+      "h": "FTC, states sue Toast over fees, deceptive subscription practices",
+      "es": "FTC, states sue Toast over fees, deceptive subscription practices",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftc-states-sue-toast-over-fees-deceptive-subscription-practices-4984736",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S25G_L.jpg",
+      "published": "2026-10-29T16:19:13+00:00"
+    },
+    {
+      "h": "Whirlpool downgraded to B by S&P as earnings slump pushes leverage to 11x",
+      "es": "Whirlpool downgraded to B by S&P as earnings slump pushes leverage to 11x",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/whirlpool-downgraded-to-b-by-sp-as-earnings-slump-pushes-leverage-to-11x-4984734",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3P0JI_M.jpg",
+      "published": "2026-10-29T16:17:39+00:00"
+    },
+    {
+      "h": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+      "es": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+      "d": "The oil major hiked its share buyback program as geopolitical volatility and a refined products crunch drove energy and fuel prices sharply higher.",
+      "u": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T16:13:38+00:00"
+    },
+    {
+      "h": "AI data center boom faces backlash at US ballot box",
+      "es": "AI data center boom faces backlash at US ballot box",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ai-data-center-boom-faces-backlash-at-us-ballot-box-4982297",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S11W_L.jpg",
+      "published": "2026-10-29T16:13:04+00:00"
+    },
+    {
+      "h": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+      "es": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+      "d": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
+      "u": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T16:06:02+00:00"
+    },
+    {
+      "h": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
+      "es": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
+      "d": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T16:01:51+00:00"
+    },
+    {
+      "h": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "es": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "d": "Amazon Web Services sales are projected to grow 38%, marking a fifth consecutive quarter of revenue expansion.",
+      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T16:00:01+00:00"
+    },
+    {
+      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05792524",
+      "published": "2026-10-29T16:00:00+00:00"
+    },
+    {
+      "h": "Why is Coherent stock gaining today?",
+      "es": "Why is Coherent stock gaining today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-gaining-today-93CH-4984689",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-29T15:58:02+00:00"
+    },
+    {
+      "h": "Why is Titan International stock plunging today?",
+      "es": "Why is Titan International stock plunging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-titan-international-stock-plunging-today-93CH-4984688",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-29T15:57:22+00:00"
+    },
+    {
+      "h": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
+      "es": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-071-4984685",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg",
+      "published": "2026-10-29T15:55:59+00:00"
+    },
+    {
+      "h": "Israel stocks higher at close of trade; TA 35 up 0.34%",
+      "es": "Israel stocks higher at close of trade; TA 35 up 0.34%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-034-4984684",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/TelAvivStockExchange_800x533_L_1640617917.jpg",
+      "published": "2026-10-29T15:55:32+00:00"
+    },
+    {
+      "h": "Greece stocks higher at close of trade; Athens General Composite up 0.67%",
+      "es": "Greece stocks higher at close of trade; Athens General Composite up 0.67%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-067-4984683",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC5N0UX_M.jpg",
+      "published": "2026-10-29T15:55:04+00:00"
+    },
+    {
+      "h": "Looking for income? These dividend stocks have high yields that seem well supported.",
+      "es": "Looking for income? These dividend stocks have high yields that seem well supported.",
+      "d": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+      "u": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-44966695",
+      "published": "2026-10-29T15:54:00+00:00"
+    },
+    {
+      "h": "DoorDash to acquire Instacart for $17 billion",
+      "es": "DoorDash to acquire Instacart for $17 billion",
+      "d": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
+      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T15:53:12+00:00"
+    },
+    {
+      "h": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+      "es": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
+      "d": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
+      "u": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T15:50:36+00:00"
+    },
+    {
+      "h": "Family offices can save millions with this tax strategy — but it can create bad blood",
+      "es": "Family offices can save millions with this tax strategy — but it can create bad blood",
+      "d": "More wealthy families are reconsidering a valuable but rigorous tax strategy, lawyers and CPAs told CNBC.",
+      "u": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T15:48:56+00:00"
+    },
+    {
+      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "es": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "d": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21005604",
+      "published": "2026-10-29T15:45:00+00:00"
+    },
+    {
+      "h": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+      "es": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+      "d": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+      "u": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-99463566",
+      "published": "2026-10-29T15:39:00+00:00"
+    },
     {
       "h": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
       "es": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
@@ -9,6 +225,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T15:28:27+00:00"
+    },
+    {
+      "h": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "es": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "d": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+      "published": "2026-10-29T15:25:08+00:00"
     },
     {
       "h": "Bereaved families will not face tax bill over pension delays under new rules",
@@ -45,231 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
       "published": "2026-10-29T15:10:04+00:00"
-    },
-    {
-      "h": "Doordash to buy Instacart in $17bn deal it says will expand customer options",
-      "es": "Doordash to buy Instacart in $17bn deal it says will expand customer options",
-      "d": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
-      "u": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde4/live/a139f9d0-d3a2-11f1-a5cd-49637fcbd4e4.jpg",
-      "published": "2026-10-29T15:05:15+00:00"
-    },
-    {
-      "h": "Consumer spending flattens out after U.S. inflation surge",
-      "es": "Consumer spending flattens out after U.S. inflation surge",
-      "d": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
-      "u": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-89314087",
-      "published": "2026-10-29T15:04:00+00:00"
-    },
-    {
-      "h": "‘Fair prices for the buyers’: UK small caps sold too cheaply, fund managers say",
-      "es": "‘Fair prices for the buyers’: UK small caps sold too cheaply, fund managers say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/fair-prices-for-the-buyers-uk-small-caps-sold-too-cheaply-fund-managers-say-4984521",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1S0OV_M.jpg",
-      "published": "2026-10-29T15:03:15+00:00"
-    },
-    {
-      "h": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
-      "es": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
-      "d": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "u": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
-      "published": "2026-10-29T14:58:04+00:00"
-    },
-    {
-      "h": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
-      "es": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
-      "d": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
-      "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T14:58:03+00:00"
-    },
-    {
-      "h": "Harley-Davidson near-term outlook: cautiously bullish but fragile after Q3 misses",
-      "es": "Harley-Davidson near-term outlook: cautiously bullish but fragile after Q3 misses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/harleydavidson-nearterm-outlook-cautiously-bullish-but-fragile-after-q3-misses-93CH-4984492",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI5L0M0_L.jpg",
-      "published": "2026-10-29T14:56:13+00:00"
-    },
-    {
-      "h": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
-      "es": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
-      "d": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
-      "u": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T14:53:06+00:00"
-    },
-    {
-      "h": "ADT stock spikes 34% on $7.6 billion takeover deal by Josh Kushner’s Thrive",
-      "es": "ADT stock spikes 34% on $7.6 billion takeover deal by Josh Kushner’s Thrive",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/adt-stock-spikes-34-on-76-billion-takeover-deal-by-josh-kushners-thrive-4984472",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC1F0PR_M.jpg",
-      "published": "2026-10-29T14:52:35+00:00"
-    },
-    {
-      "h": "The South West reacts to Budget announcements",
-      "es": "The South West reacts to Budget announcements",
-      "d": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "u": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/433b/live/f9832770-d3a6-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-29T14:52:12+00:00"
-    },
-    {
-      "h": "Why is GBank Financial stock plunging today?",
-      "es": "Why is GBank Financial stock plunging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-gbank-financial-stock-plunging-today-93CH-4984469",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-10-29T14:51:41+00:00"
-    },
-    {
-      "h": "Why is Kodiak AI stock climbing today?",
-      "es": "Why is Kodiak AI stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-kodiak-ai-stock-climbing-today-93CH-4984467",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-29T14:51:35+00:00"
-    },
-    {
-      "h": "NBIS vs CRWV: growth quality against valuation and leverage",
-      "es": "NBIS vs CRWV: growth quality against valuation and leverage",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nbis-vs-crwv-growth-quality-against-valuation-and-leverage-93CH-4984459",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "published": "2026-10-29T14:50:17+00:00"
-    },
-    {
-      "h": "Why is Meta Platforms stock climbing today?",
-      "es": "Why is Meta Platforms stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-climbing-today-93CH-4984457",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB5E0HH_M.jpg",
-      "published": "2026-10-29T14:49:49+00:00"
-    },
-    {
-      "h": "Why is Gen Digital stock surging today?",
-      "es": "Why is Gen Digital stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-gen-digital-stock-surging-today-93CH-4984458",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-10-29T14:49:49+00:00"
-    },
-    {
-      "h": "Meta loses appeals against interim measures imposed by French regulators",
-      "es": "Meta loses appeals against interim measures imposed by French regulators",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-4984447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S10A_L.jpg",
-      "published": "2026-10-29T14:48:35+00:00"
-    },
-    {
-      "h": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
-      "es": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
-      "d": "Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.",
-      "u": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-36113702",
-      "published": "2026-10-29T14:38:00+00:00"
-    },
-    {
-      "h": "The midterms are crucial to the future of Social Security – no matter how old you are",
-      "es": "The midterms are crucial to the future of Social Security – no matter how old you are",
-      "d": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13598905",
-      "published": "2026-10-29T14:37:00+00:00"
-    },
-    {
-      "h": "3 reasons home prices keep going up, even though fewer people are buying",
-      "es": "3 reasons home prices keep going up, even though fewer people are buying",
-      "d": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
-      "u": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-07831102",
-      "published": "2026-10-29T14:36:00+00:00"
-    },
-    {
-      "h": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-      "es": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-      "d": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
-      "u": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T14:34:59+00:00"
-    },
-    {
-      "h": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "es": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "d": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T14:34:21+00:00"
-    },
-    {
-      "h": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-      "es": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-      "d": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
-      "u": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T14:29:09+00:00"
-    },
-    {
-      "h": "Gen Z midterm voters told us they’re focused on their financial future, as social causes take a back seat",
-      "es": "Gen Z midterm voters told us they’re focused on their financial future, as social causes take a back seat",
-      "d": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
-      "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40274543",
-      "published": "2026-10-29T14:29:00+00:00"
-    },
-    {
-      "h": "Analysts slash GBank Financial price targets following third-quarter miss",
-      "es": "Analysts slash GBank Financial price targets following third-quarter miss",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysts-slash-gbank-financial-price-targets-following-thirdquarter-miss-4984307",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
-      "published": "2026-10-29T14:25:37+00:00"
-    },
-    {
-      "h": "Lyft stock may move 10% on earnings release next week",
-      "es": "Lyft stock may move 10% on earnings release next week",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lyft-stock-may-move-10-on-earnings-release-next-week-93CH-4984305",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL301UF_L.jpg",
-      "published": "2026-10-29T14:25:27+00:00"
-    },
-    {
-      "h": "Airbnb options data suggests 6.7% move on earnings release",
-      "es": "Airbnb options data suggests 6.7% move on earnings release",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/airbnb-options-data-suggests-67-move-on-earnings-release-93CH-4984294",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC5S097_M.jpg",
-      "published": "2026-10-29T14:24:12+00:00"
     }
   ],
   "sources": [
