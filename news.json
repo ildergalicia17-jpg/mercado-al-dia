@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-29T19:08:28.410613+00:00",
+  "updated": "2026-10-29T19:54:45.196940+00:00",
   "news": [
+    {
+      "h": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+      "es": "DoorDash e Instacart quieren unir fuerzas. ¿Se interpondrá el gobierno de Estados Unidos en su camino?",
+      "d": "Las empresas dicen que su propuesta de fusión ayudará a los pequeños supermercados a competir, pero los analistas se preguntan si los reguladores llevarán a cabo una \"revisión ampliada\" de los riesgos antimonopolio.",
+      "u": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-259220",
+      "published": "2026-10-29T19:49:00+00:00"
+    },
+    {
+      "h": "Amazon earnings watch: AWS growth, capex and margins in focus",
+      "es": "Panorama de ganancias de Amazon: el crecimiento, el gasto de capital y los márgenes de AWS en el punto de mira",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-earnings-watch-aws-growth-capex-and-margins-in-focus-93CH-4984933",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0I0U2_M.jpg",
+      "published": "2026-10-29T19:38:08+00:00"
+    },
+    {
+      "h": "eBay earnings analysis: questions answered and next catalysts",
+      "es": "Análisis de ganancias de eBay: preguntas respondidas y próximos catalizadores",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ebay-earnings-analysis-questions-answered-and-next-catalysts-93CH-4984931",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7K0QK_M.jpg",
+      "published": "2026-10-29T19:36:38+00:00"
+    },
+    {
+      "h": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+      "es": "Las compañías de cruceros pretenden mantener bajos los costes del combustible. Sus estrategias para hacerlo difieren.",
+      "d": "Carnival está reduciendo el uso de combustible, mientras que Royal Caribbean y Norwegian dependen de la \"cobertura\" para mantener bajos los costos del combustible en medio del conflicto en el Medio Oriente.",
+      "u": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T19:36:04+00:00"
+    },
+    {
+      "h": "Starbucks is about to report earnings. Here's what to expect",
+      "es": "Starbucks está a punto de informar sus ganancias. Esto es lo que puede esperar",
+      "d": "Las acciones de Starbucks han subido alrededor de 24% este año, elevando su capitalización de mercado a aproximadamente 119 mil millones de dólares.",
+      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T19:30:01+00:00"
+    },
+    {
+      "h": "S&P cuts Navient outlook to negative on corporate restructuring plan",
+      "es": "S&P recorta la perspectiva de Navient a negativa por el plan de reestructuración corporativa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-cuts-navient-outlook-to-negative-on-corporate-restructuring-plan-4984917",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
+      "published": "2026-10-29T19:20:08+00:00"
+    },
+    {
+      "h": "Dow Jones tests critical 52200 support amid bearish signals: Live",
+      "es": "Dow Jones prueba el soporte crítico de 52200 en medio de señales bajistas: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-10-29T19:18:58+00:00"
+    },
+    {
+      "h": "Tesla consolidates below $410 resistance with Bull Flag: Live levels",
+      "es": "Tesla se consolida por debajo de la resistencia de $ 410 con Bull Flag: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE310Y8_M.jpg",
+      "published": "2026-10-29T19:18:50+00:00"
+    },
+    {
+      "h": "Nasdaq 100 tests key support at 29000 after H&S breakdown: Live",
+      "es": "Nasdaq 100 prueba soporte clave en 29000 después del colapso de H&S: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-29T19:18:48+00:00"
+    },
+    {
+      "h": "Alphabet C crashes into extreme oversold: Live levels",
+      "es": "Alphabet C cae en sobreventa extrema: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-29T19:18:47+00:00"
+    },
+    {
+      "h": "S&P 500 trapped in consolidation range near key MAs: Live",
+      "es": "S&P 500 atrapado en rango de consolidación cerca de MA clave: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-29T19:18:29+00:00"
+    },
+    {
+      "h": "Apple tests ATH resistance with ascending triangle: Live levels",
+      "es": "Apple prueba la resistencia de ATH con un triángulo ascendente: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-pulls-back-in-ascending-channel-near-ath-live-levels-93CH-4973060",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEA9F0Z3_M.jpg",
+      "published": "2026-10-29T19:18:17+00:00"
+    },
+    {
+      "h": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "es": "Nvidia responde al informe que Jensen Huang fue objetivo de activos chinos y dice que las acusaciones de desvío fueron \"investigadas y desacreditadas\"",
+      "d": "Nvidia cuestionó un informe del New York Times de que las agencias de inteligencia estadounidenses vigilaron a una persona cercana al director ejecutivo Jensen Huang por temor a que pudiera ser una espía china.",
+      "u": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T19:16:32+00:00"
+    },
+    {
+      "h": "We’re downgrading Alphabet after its rough quarter. Here’s where we’d buy again",
+      "es": "Estamos rebajando la calificación de Alphabet después de su difícil trimestre. Aquí es donde compraríamos de nuevo.",
+      "d": "Todos los días de la semana, el Investing Club publica Homestretch, una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/were-downgrading-alphabet-after-a-rough-quarter-where-wed-buy-again.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T19:12:06+00:00"
+    },
+    {
+      "h": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
+      "es": "“El nivel de 100 dólares es nuestro por un tiempo”: el petróleo no se abaratará pronto, pase lo que pase en el Golfo",
+      "d": "El mercado del petróleo pronto podría llegar a un punto en el que el polvo finalmente se calme lo suficiente como para ver el verdadero caos que el conflicto de ocho meses en el Medio Oriente y sus interrupciones en el transporte marítimo han provocado en el sector mundial del crudo.",
+      "u": "https://www.marketwatch.com/story/the-100-level-is-ours-for-awhile-oil-wont-be-getting-cheap-anytime-soon-no-matter-what-happens-in-the-gulf-99d628bf?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-42221647",
+      "published": "2026-10-29T19:12:00+00:00"
+    },
+    {
+      "h": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "es": "Burnham 'listo para apoyar' al personal de Poundland mientras el minorista se enfrenta al colapso",
+      "d": "Los jefes de Poundland están presentando un aviso de intención de nombrar administradores para el negocio.",
+      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+      "published": "2026-10-29T19:11:10+00:00"
+    },
+    {
+      "h": "Alphabet’s stock just triggered a ‘death cross.’ Could the worst of the selloff be over?",
+      "es": "Las acciones de Alphabet acaban de provocar una “cruz de la muerte”. ¿Podría haber pasado lo peor de la liquidación?",
+      "d": "Una caída posterior a las ganancias hizo que las acciones de la matriz de Google cayeran en territorio bajista, pero algunas señales comerciales insinúan un cambio de rumbo.",
+      "u": "https://www.marketwatch.com/story/alphabets-stock-just-triggered-a-death-cross-could-the-worst-of-the-selloff-be-over-9f70d765?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-38559786",
+      "published": "2026-10-29T19:09:00+00:00"
+    },
     {
       "h": "Medline exits bed market after two deaths linked to safety risks",
       "es": "Medline exits bed market after two deaths linked to safety risks",
@@ -117,159 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
       "published": "2026-10-29T18:43:50+00:00"
-    },
-    {
-      "h": "Why is O’Reilly Automotive stock sliding today?",
-      "es": "Why is O’Reilly Automotive stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-oreilly-automotive-stock-sliding-today-93CH-4984888",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-29T18:43:44+00:00"
-    },
-    {
-      "h": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "es": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "d": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-      "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-56427244",
-      "published": "2026-10-29T18:42:00+00:00"
-    },
-    {
-      "h": "ServiceNow shares plunge 27% after earnings revive AI disruption fears",
-      "es": "ServiceNow shares plunge 27% after earnings revive AI disruption fears",
-      "d": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
-      "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T18:38:34+00:00"
-    },
-    {
-      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05792524",
-      "published": "2026-10-29T18:30:00+00:00"
-    },
-    {
-      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "es": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "d": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21005604",
-      "published": "2026-10-29T18:16:00+00:00"
-    },
-    {
-      "h": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-      "es": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-      "d": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
-      "u": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T18:13:32+00:00"
-    },
-    {
-      "h": "The South West reacts to Budget announcements",
-      "es": "El suroeste reacciona a los anuncios presupuestarios",
-      "d": "Los líderes turísticos y empresariales han estado reaccionando al primer presupuesto de John Healey como canciller.",
-      "u": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/433b/live/f9832770-d3a6-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-10-29T18:07:26+00:00"
-    },
-    {
-      "h": "Clorox appoints Unilever executive as its new CEO",
-      "es": "Clorox nombra a ejecutivo de Unilever como su nuevo CEO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/clorox-appoints-unilever-executive-as-its-new-ceo-4983032",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-29T18:06:51+00:00"
-    },
-    {
-      "h": "Kalshi raises $1 billion at $40 billion valuation as it expands beyond prediction markets",
-      "es": "Kalshi recauda mil millones de dólares con una valoración de 40 mil millones de dólares a medida que se expande más allá de los mercados de predicción",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kalshi-raises-1-billion-at-40-billion-valuation-as-it-expands-beyond-prediction-markets-4983248",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1FH_L.jpg",
-      "published": "2026-10-29T18:06:35+00:00"
-    },
-    {
-      "h": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-      "es": "El PIB de EE.UU. en el tercer trimestre aumenta un 3,4% mejor de lo esperado a medida que se acelera la inflación de septiembre",
-      "d": "Se prevé que el índice de precios de los gastos de consumo personal aumentará un 0,5% en septiembre, lo que supone una tasa anual del 3,7%, según el consenso del Dow Jones.",
-      "u": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T18:06:31+00:00"
-    },
-    {
-      "h": "Google, ServiceNow among market cap stock movers on Thursday",
-      "es": "Google y ServiceNow entre los impulsores de la capitalización de mercado el jueves",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-servicenow-among-market-cap-stock-movers-on-thursday-93CH-4984854",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL6U14B_L.jpg",
-      "published": "2026-10-29T18:06:01+00:00"
-    },
-    {
-      "h": "Employment Cost Index and Chicago PMI data due Friday",
-      "es": "Los datos del índice de coste del empleo y del PMI de Chicago se publicarán el viernes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/employment-cost-index-and-chicago-pmi-data-due-friday-93CH-4984851",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-29T18:00:50+00:00"
-    },
-    {
-      "h": "World’s oldest bank fights for its future as Italian rival nears takeover",
-      "es": "El banco más antiguo del mundo lucha por su futuro mientras su rival italiano se acerca a su adquisición",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/worlds-oldest-bank-fights-for-its-future-as-italian-rival-nears-takeover-4984850",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2AX_L.jpg",
-      "published": "2026-10-29T18:00:45+00:00"
-    },
-    {
-      "h": "Cheniere boosts forecast as Middle East gas disruptions buoy demand for US LNG",
-      "es": "Cheniere aumenta el pronóstico a medida que las interrupciones del gas en Medio Oriente impulsan la demanda de GNL de EE. UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cheniere-reports-rise-in-thirdquarter-net-income-4982412",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S13O_L.jpg",
-      "published": "2026-10-29T18:00:28+00:00"
-    },
-    {
-      "h": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
-      "es": "¿Cometió un error la Reserva Federal con su pausa en las tasas de octubre? El Tesoro podría ayudar a salvar el día.",
-      "d": "A medida que la atención se centra en los planes de financiación del Tesoro, existe cierta expectativa de que la oferta a largo plazo podría reducirse en un intento de impulsar la demanda y reducir los rendimientos.",
-      "u": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-29452074",
-      "published": "2026-10-29T17:59:00+00:00"
-    },
-    {
-      "h": "Exxon and Chevron cancel UAE oil show trips amid safety concerns - report",
-      "es": "Exxon y Chevron cancelan viajes a ferias petroleras en los Emiratos Árabes Unidos por motivos de seguridad: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exxon-and-chevron-cancel-uae-oil-show-trips-amid-safety-concerns--report-4984846",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBD0V5_M.jpg",
-      "published": "2026-10-29T17:55:46+00:00"
-    },
-    {
-      "h": "Exclusive-Exxon, Chevron cancel ADIPEC executive trips, sources say",
-      "es": "Exxon y Chevron cancelan viajes ejecutivos de ADIPEC, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveexxon-chevron-cancel-adipec-executive-trips-sources-say-4984845",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2A8_L.jpg",
-      "published": "2026-10-29T17:55:16+00:00"
     }
   ],
   "sources": [
