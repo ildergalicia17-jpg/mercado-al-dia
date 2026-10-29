@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-29T16:29:10.211245+00:00",
+  "updated": "2026-10-29T17:25:11.978343+00:00",
   "news": [
+    {
+      "h": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "es": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "d": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
+      "u": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T17:22:13+00:00"
+    },
+    {
+      "h": "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
+      "es": "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
+      "d": "The Lilly train keeps on rolling thanks to Mounjaro and Zepbound. And there's more growth to be had.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/were-raising-our-eli-lilly-price-target-as-obesity-drug-boom-continues.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T17:18:33+00:00"
+    },
+    {
+      "h": "Watch: Hundreds queue for city's new Lego store",
+      "es": "Watch: Hundreds queue for city's new Lego store",
+      "d": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
+      "u": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ad/live/ec72aba0-d392-11f1-b490-07d78ce4b8e5.jpg",
+      "published": "2026-10-29T17:10:34+00:00"
+    },
+    {
+      "h": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "es": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "d": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+      "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-74822336",
+      "published": "2026-10-29T17:10:00+00:00"
+    },
+    {
+      "h": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+      "es": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+      "d": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
+      "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08108156",
+      "published": "2026-10-29T17:08:00+00:00"
+    },
+    {
+      "h": "Belgium stocks higher at close of trade; BEL 20 up 0.42%",
+      "es": "Belgium stocks higher at close of trade; BEL 20 up 0.42%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-042-4984795",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM370M2_L.jpg",
+      "published": "2026-10-29T17:05:04+00:00"
+    },
+    {
+      "h": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
+      "es": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 0.41%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-041-4984793",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Sweden_800x533_L_1629201375.jpg",
+      "published": "2026-10-29T17:00:32+00:00"
+    },
+    {
+      "h": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.38%",
+      "es": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.38%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-038-4984790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+      "published": "2026-10-29T17:00:04+00:00"
+    },
+    {
+      "h": "Bank of America Names Top Stock Pick in Memory Sector",
+      "es": "Bank of America Names Top Stock Pick in Memory Sector",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-names-top-stock-pick-in-memory-sector-4984788",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
+      "published": "2026-10-29T16:58:08+00:00"
+    },
+    {
+      "h": "T-Mobile earnings analysis: questions answered and next catalysts",
+      "es": "T-Mobile earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tmobile-earnings-analysis-questions-answered-and-next-catalysts-93CH-4984786",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/T-Mobile_800x533_L_1629564485.jpg",
+      "published": "2026-10-29T16:50:58+00:00"
+    },
+    {
+      "h": "Shell and Total post highest quarterly profit since 2022",
+      "es": "Shell and Total post highest quarterly profit since 2022",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/shell-beats-expectations-with-108-billion-thirdquarter-profit-4981606",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S0NT_L.jpg",
+      "published": "2026-10-29T16:50:13+00:00"
+    },
+    {
+      "h": "Chipotle earnings analysis: questions answered and next catalysts",
+      "es": "Chipotle earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chipotle-earnings-analysis-questions-answered-and-next-catalysts-93CH-4984782",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-29T16:50:05+00:00"
+    },
+    {
+      "h": "FedEx earnings analysis: questions answered and next catalysts",
+      "es": "FedEx earnings analysis: questions answered and next catalysts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fedex-earnings-analysis-questions-answered-and-next-catalysts-93CH-4984781",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-10-29T16:49:47+00:00"
+    },
+    {
+      "h": "DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet",
+      "es": "DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/doordash-strikes-17-billion-deal-for-us-rival-instacart-in-bets-on-grocery-delivery-4983482",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1IC_L.jpg",
+      "published": "2026-10-29T16:49:40+00:00"
+    },
+    {
+      "h": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+      "es": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+      "d": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+      "u": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-84410704",
+      "published": "2026-10-29T16:49:00+00:00"
+    },
+    {
+      "h": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
+      "es": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
+      "d": "More airlines are looking to add the SpaceX-owned satellite internet to their fleets as passengers clamor for fast and reliable wifi/",
+      "u": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06655560",
+      "published": "2026-10-29T16:49:00+00:00"
+    },
+    {
+      "h": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+      "es": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+      "d": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
+      "u": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T16:46:07+00:00"
+    },
+    {
+      "h": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+      "es": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+      "d": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T16:35:25+00:00"
+    },
     {
       "h": "You can’t rely on the S&P 500 as much as you may think",
       "es": "You can’t rely on the S&P 500 as much as you may think",
@@ -20,6 +182,15 @@
       "published": "2026-10-29T16:25:51+00:00"
     },
     {
+      "h": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "es": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "d": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T16:25:40+00:00"
+    },
+    {
       "h": "DoorDash’s Instacart deal may draw FTC scrutiny amid cost-of-living concerns",
       "es": "DoorDash’s Instacart deal may draw FTC scrutiny amid cost-of-living concerns",
       "d": "",
@@ -27,6 +198,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S261_L.jpg",
       "published": "2026-10-29T16:24:28+00:00"
+    },
+    {
+      "h": "Norwegian shares surge 13% on earnings beat, guidance raise",
+      "es": "Norwegian shares surge 13% on earnings beat, guidance raise",
+      "d": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
+      "u": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T16:23:37+00:00"
     },
     {
       "h": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
@@ -90,186 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T16:06:02+00:00"
-    },
-    {
-      "h": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
-      "es": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
-      "d": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T16:01:51+00:00"
-    },
-    {
-      "h": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-      "es": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-      "d": "Amazon Web Services sales are projected to grow 38%, marking a fifth consecutive quarter of revenue expansion.",
-      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T16:00:01+00:00"
-    },
-    {
-      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05792524",
-      "published": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "h": "Why is Coherent stock gaining today?",
-      "es": "Why is Coherent stock gaining today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-gaining-today-93CH-4984689",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-29T15:58:02+00:00"
-    },
-    {
-      "h": "Why is Titan International stock plunging today?",
-      "es": "Why is Titan International stock plunging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-titan-international-stock-plunging-today-93CH-4984688",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-29T15:57:22+00:00"
-    },
-    {
-      "h": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
-      "es": "Norway stocks higher at close of trade; Oslo OBX up 0.71%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-071-4984685",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg",
-      "published": "2026-10-29T15:55:59+00:00"
-    },
-    {
-      "h": "Israel stocks higher at close of trade; TA 35 up 0.34%",
-      "es": "Israel stocks higher at close of trade; TA 35 up 0.34%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-034-4984684",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/TelAvivStockExchange_800x533_L_1640617917.jpg",
-      "published": "2026-10-29T15:55:32+00:00"
-    },
-    {
-      "h": "Greece stocks higher at close of trade; Athens General Composite up 0.67%",
-      "es": "Greece stocks higher at close of trade; Athens General Composite up 0.67%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-067-4984683",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC5N0UX_M.jpg",
-      "published": "2026-10-29T15:55:04+00:00"
-    },
-    {
-      "h": "Looking for income? These dividend stocks have high yields that seem well supported.",
-      "es": "Looking for income? These dividend stocks have high yields that seem well supported.",
-      "d": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
-      "u": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-44966695",
-      "published": "2026-10-29T15:54:00+00:00"
-    },
-    {
-      "h": "DoorDash to acquire Instacart for $17 billion",
-      "es": "DoorDash to acquire Instacart for $17 billion",
-      "d": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
-      "u": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T15:53:12+00:00"
-    },
-    {
-      "h": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-      "es": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-      "d": "Weil, Gotshal & Manges, a multinational law firm, has represented major corporations over its nearly century-long history.",
-      "u": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T15:50:36+00:00"
-    },
-    {
-      "h": "Family offices can save millions with this tax strategy — but it can create bad blood",
-      "es": "Family offices can save millions with this tax strategy — but it can create bad blood",
-      "d": "More wealthy families are reconsidering a valuable but rigorous tax strategy, lawyers and CPAs told CNBC.",
-      "u": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T15:48:56+00:00"
-    },
-    {
-      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "es": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "d": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21005604",
-      "published": "2026-10-29T15:45:00+00:00"
-    },
-    {
-      "h": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
-      "es": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
-      "d": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
-      "u": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-99463566",
-      "published": "2026-10-29T15:39:00+00:00"
-    },
-    {
-      "h": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
-      "es": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
-      "d": "Many different options were considered before the WNBA decided to move Thursday's Game 6 of the WNBA Finals to a midday time slot.",
-      "u": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T15:28:27+00:00"
-    },
-    {
-      "h": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "es": "Poundland's future hangs in the balance as chain edges towards collapse",
-      "d": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
-      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-      "published": "2026-10-29T15:25:08+00:00"
-    },
-    {
-      "h": "Bereaved families will not face tax bill over pension delays under new rules",
-      "es": "Bereaved families will not face tax bill over pension delays under new rules",
-      "d": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
-      "u": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg",
-      "published": "2026-10-29T15:18:04+00:00"
-    },
-    {
-      "h": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
-      "es": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
-      "d": "Caterpillar’s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
-      "u": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-42455834",
-      "published": "2026-10-29T15:12:00+00:00"
-    },
-    {
-      "h": "Your pay, energy bills and savings: How the Budget affects you",
-      "es": "Your pay, energy bills and savings: How the Budget affects you",
-      "d": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "u": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-29T15:11:35+00:00"
-    },
-    {
-      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
-      "es": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-047-4984550",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
-      "published": "2026-10-29T15:10:04+00:00"
     }
   ],
   "sources": [
