@@ -1,6 +1,240 @@
 {
-  "updated": "2026-10-29T19:54:45.196940+00:00",
+  "updated": "2026-10-29T20:36:27.814674+00:00",
   "news": [
+    {
+      "h": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
+      "es": "Amazon no logra ganancias y mantiene estable el gasto de capital, lo que aumenta el nerviosismo por el gasto en IA",
+      "d": "Amazon informó las ganancias del tercer trimestre el jueves después de la campana.",
+      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:35:26+00:00"
+    },
+    {
+      "h": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+      "es": "Las ganancias de Rivian en el tercer trimestre superaron las estimaciones a medida que aumentan los ingresos por software y las entregas de R2",
+      "d": "Rivian también revisó su guía para 2026 para marcar las mejoras esperadas en las entregas de vehículos, las ganancias ajustadas antes de impuestos y los gastos de capital.",
+      "u": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:35:04+00:00"
+    },
+    {
+      "h": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
+      "es": "Todas las razones por las que los inversores de Marvell están \"asustados\" mientras aumentan los rumores sobre el acuerdo con Lumentum",
+      "d": "Los inversores están nerviosos de que Marvell tenga que pagar una gran prima y esperar un tiempo hasta que China apruebe cualquier acuerdo.",
+      "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08108156",
+      "published": "2026-10-29T20:31:00+00:00"
+    },
+    {
+      "h": "This is where most people go wrong in their 30s and 40s",
+      "es": "Aquí es donde la mayoría de las personas se equivocan entre los 30 y los 40 años.",
+      "d": "Estas grandes decisiones de vida determinarán qué tan bien se jubilará.",
+      "u": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-15921386",
+      "published": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "es": "Las acciones de Reddit se hunden debido a una débil orientación de ventas y planean una prueba de requisitos de inicio de sesión a medida que el tráfico de búsqueda de Google se reduce",
+      "d": "Reddit publica ganancias del tercer trimestre y revela planes para exigir que todos los usuarios creen cuentas oficiales a medida que se reduce el tráfico de búsqueda de Google.",
+      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:28:13+00:00"
+    },
+    {
+      "h": "The stock market’s best forecasting tool says returns over the next 10 years will be dismal",
+      "es": "La mejor herramienta de pronóstico del mercado de valores dice que los rendimientos en los próximos 10 años serán sombríos",
+      "d": "La asignación de capital de los hogares estadounidenses promedio está en su punto más alto de todos los tiempos, y eso no augura nada bueno, según el 'Single Greatest Predictor'.",
+      "u": "https://www.marketwatch.com/story/the-stock-markets-best-forecasting-tool-says-returns-over-the-next-10-years-will-be-dismal-f94fcd87?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63427224",
+      "published": "2026-10-29T20:26:00+00:00"
+    },
+    {
+      "h": "Coinbase snaps losing streak with third-quarter profit on crypto trading rebound",
+      "es": "Coinbase rompe la racha de pérdidas con ganancias del tercer trimestre gracias al repunte del comercio de criptomonedas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
+      "published": "2026-10-29T20:25:17+00:00"
+    },
+    {
+      "h": "Walmart commits $6 billion to expand Symbotic deal",
+      "es": "Walmart compromete 6.000 millones de dólares para ampliar el acuerdo con Symbotic",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-commits-6-billion-to-expand-symbotic-deal-4985071",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IZ_L.jpg",
+      "published": "2026-10-29T20:24:48+00:00"
+    },
+    {
+      "h": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
+      "es": "Lilly elevó sus previsiones de ventas por tercera vez este año a medida que se disparan las ventas de Zepbound. Sus acciones cerraron en un máximo histórico.",
+      "d": "El fabricante de medicamentos continúa dominando el mercado de medicamentos recetados para bajar de peso en los EE. UU.",
+      "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-31409836",
+      "published": "2026-10-29T20:22:00+00:00"
+    },
+    {
+      "h": "The midterms are crucial to the future of Social Security — no matter how old you are",
+      "es": "Las elecciones intermedias son cruciales para el futuro de la Seguridad Social, sin importar la edad que tengas",
+      "d": "Se espera que el programa se quede sin dinero en los próximos seis años, que es el mismo período que el mandato de un senador.",
+      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13598905",
+      "published": "2026-10-29T20:22:00+00:00"
+    },
+    {
+      "h": "Starbucks forecasts annual profit above estimates",
+      "es": "Starbucks pronostica ganancias anuales superiores a las estimaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HW_L.jpg",
+      "published": "2026-10-29T20:19:17+00:00"
+    },
+    {
+      "h": "Mondelez misses third-quarter sales estimates",
+      "es": "Mondelez incumple las estimaciones de ventas del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mondelez-misses-thirdquarter-sales-estimates-4985036",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IQ_L.jpg",
+      "published": "2026-10-29T20:18:46+00:00"
+    },
+    {
+      "h": "Intel forecast disappoints as Israel fab blast, PC weakness weigh",
+      "es": "El pronóstico de Intel decepciona mientras la fabulosa explosión de Israel y la debilidad de las PC pesan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HF_L.jpg",
+      "published": "2026-10-29T20:18:28+00:00"
+    },
+    {
+      "h": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
+      "es": "Alphabet se desploma casi un 13% en el peor día de su historia, perdiendo 500.000 millones de dólares en valor",
+      "d": "Alphabet informó de un flujo de caja libre negativo mayor de lo que esperaban los analistas, al tiempo que mantuvo su orientación de gasto para el año.",
+      "u": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T20:15:19+00:00"
+    },
+    {
+      "h": "Norwegian shares surge 13% on earnings beat, guidance raise",
+      "es": "Las acciones noruegas suben un 13% tras superar las ganancias y aumentar las previsiones",
+      "d": "Norwegian dijo que las reservas de la compañía habían \"mejorado modestamente\", pero siguen por debajo de su rango óptimo.",
+      "u": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:14:15+00:00"
+    },
+    {
+      "h": "Intel plunges 20% as weak Q4 forecast overshadows earnings beat",
+      "es": "Intel se desploma un 20% mientras las débiles previsiones del cuarto trimestre eclipsan las ganancias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7A0R8_1200_L.jpg",
+      "published": "2026-10-29T20:13:56+00:00"
+    },
+    {
+      "h": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "es": "El CEO de Aon advierte que los riesgos del seguro del centro de datos de IA podrían amenazar la financiación",
+      "d": "El director ejecutivo de Aon, Greg Case, dijo que el riesgo de concentración en los centros de datos de IA podría limitar la capacidad de seguros y alterar la financiación de nuevos proyectos.",
+      "u": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T20:12:29+00:00"
+    },
+    {
+      "h": "Nasdaq closes over 1% lower as post-earnings slide in Alphabet weighs on AI trade",
+      "es": "Nasdaq cierra con una caída de más del 1% mientras la caída posterior a las ganancias en Alphabet pesa sobre el comercio de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-29T20:09:31+00:00"
+    },
+    {
+      "h": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+      "es": "El gobernador de Alaska ordena una investigación sobre el presunto reclutamiento del segundo Sullivan por parte de la campaña del Senado de Peltola",
+      "d": "La elección de Alaska podría determinar qué partido tiene mayoría en el Senado. El senador republicano Dan Sullivan enfrenta un fuerte desafío de la demócrata Mary Peltola.",
+      "u": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T20:09:00+00:00"
+    },
+    {
+      "h": "Amazon projects fourth quarter sales below estimates",
+      "es": "Amazon proyecta ventas del cuarto trimestre por debajo de las estimaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/amazon-projects-fourth-quarter-sales-below-estimates-4984966",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HS_L.jpg",
+      "published": "2026-10-29T20:06:26+00:00"
+    },
+    {
+      "h": "Intel stock plunges 20% as chipmaker blames PC slowdown for weak guidance",
+      "es": "Las acciones de Intel se desploman un 20% mientras el fabricante de chips culpa a la desaceleración de las PC por una guía débil",
+      "d": "Intel ha sido una de las favoritas de Wall Street este año debido a su surgimiento como actor en IA, pero la compañía está siendo afectada por un mercado de PC en dificultades.",
+      "u": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:06:00+00:00"
+    },
+    {
+      "h": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
+      "es": "Las acciones de ServiceNow se desploman un 27% en el peor día de su historia después de que las ganancias reavivan los temores de interrupción de la IA",
+      "d": "Las acciones de ServiceNow registraron el peor día de su historia tras unos decepcionantes resultados del tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T20:02:32+00:00"
+    },
+    {
+      "h": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+      "es": "Microsoft recaudará hasta 25.000 millones de dólares en el mercado de bonos a medida que los inversores se vuelven más exigentes con la deuda de IA",
+      "d": "Lo que ha cambiado desde el verano es qué empresas quieren respaldar los inversores en la carrera de la IA y a qué nivel.",
+      "u": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-18955705",
+      "published": "2026-10-29T20:01:00+00:00"
+    },
+    {
+      "h": "Nvidia’s Huang says dealings with firm in US spy probe were ’normal’, Bloomberg News reports",
+      "es": "Huang de Nvidia dice que los tratos con la empresa involucrada en la investigación de espionaje de EE. UU. fueron \"normales\", informa Bloomberg News",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidias-huang-says-dealings-with-firm-in-us-spy-probe-were-normal-bloomberg-news-reports-4984950",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2GU_L.jpg",
+      "published": "2026-10-29T20:00:41+00:00"
+    },
+    {
+      "h": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
+      "es": "¿Qué es lo primero que hace la mayoría de las personas con su 401(k) después de jubilarse? Nada.",
+      "d": "Otras repercusiones fiscales surgen en el futuro porque los saldos se acumulan y los RMD se complican.",
+      "u": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26475652",
+      "published": "2026-10-29T19:56:00+00:00"
+    },
+    {
+      "h": "Microsoft expects to raise $25 billion in US bond sale, source says",
+      "es": "Microsoft espera recaudar 25.000 millones de dólares con la venta de bonos estadounidenses, dice una fuente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1HI_L.jpg",
+      "published": "2026-10-29T19:54:17+00:00"
+    },
     {
       "h": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
       "es": "DoorDash e Instacart quieren unir fuerzas. ¿Se interpondrá el gobierno de Estados Unidos en su camino?",
@@ -36,240 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T19:36:04+00:00"
-    },
-    {
-      "h": "Starbucks is about to report earnings. Here's what to expect",
-      "es": "Starbucks está a punto de informar sus ganancias. Esto es lo que puede esperar",
-      "d": "Las acciones de Starbucks han subido alrededor de 24% este año, elevando su capitalización de mercado a aproximadamente 119 mil millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T19:30:01+00:00"
-    },
-    {
-      "h": "S&P cuts Navient outlook to negative on corporate restructuring plan",
-      "es": "S&P recorta la perspectiva de Navient a negativa por el plan de reestructuración corporativa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-cuts-navient-outlook-to-negative-on-corporate-restructuring-plan-4984917",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-10-29T19:20:08+00:00"
-    },
-    {
-      "h": "Dow Jones tests critical 52200 support amid bearish signals: Live",
-      "es": "Dow Jones prueba el soporte crítico de 52200 en medio de señales bajistas: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-29T19:18:58+00:00"
-    },
-    {
-      "h": "Tesla consolidates below $410 resistance with Bull Flag: Live levels",
-      "es": "Tesla se consolida por debajo de la resistencia de $ 410 con Bull Flag: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEE310Y8_M.jpg",
-      "published": "2026-10-29T19:18:50+00:00"
-    },
-    {
-      "h": "Nasdaq 100 tests key support at 29000 after H&S breakdown: Live",
-      "es": "Nasdaq 100 prueba soporte clave en 29000 después del colapso de H&S: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-29T19:18:48+00:00"
-    },
-    {
-      "h": "Alphabet C crashes into extreme oversold: Live levels",
-      "es": "Alphabet C cae en sobreventa extrema: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-29T19:18:47+00:00"
-    },
-    {
-      "h": "S&P 500 trapped in consolidation range near key MAs: Live",
-      "es": "S&P 500 atrapado en rango de consolidación cerca de MA clave: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-10-29T19:18:29+00:00"
-    },
-    {
-      "h": "Apple tests ATH resistance with ascending triangle: Live levels",
-      "es": "Apple prueba la resistencia de ATH con un triángulo ascendente: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apple-pulls-back-in-ascending-channel-near-ath-live-levels-93CH-4973060",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEA9F0Z3_M.jpg",
-      "published": "2026-10-29T19:18:17+00:00"
-    },
-    {
-      "h": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-      "es": "Nvidia responde al informe que Jensen Huang fue objetivo de activos chinos y dice que las acusaciones de desvío fueron \"investigadas y desacreditadas\"",
-      "d": "Nvidia cuestionó un informe del New York Times de que las agencias de inteligencia estadounidenses vigilaron a una persona cercana al director ejecutivo Jensen Huang por temor a que pudiera ser una espía china.",
-      "u": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T19:16:32+00:00"
-    },
-    {
-      "h": "We’re downgrading Alphabet after its rough quarter. Here’s where we’d buy again",
-      "es": "Estamos rebajando la calificación de Alphabet después de su difícil trimestre. Aquí es donde compraríamos de nuevo.",
-      "d": "Todos los días de la semana, el Investing Club publica Homestretch, una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/were-downgrading-alphabet-after-a-rough-quarter-where-wed-buy-again.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T19:12:06+00:00"
-    },
-    {
-      "h": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
-      "es": "“El nivel de 100 dólares es nuestro por un tiempo”: el petróleo no se abaratará pronto, pase lo que pase en el Golfo",
-      "d": "El mercado del petróleo pronto podría llegar a un punto en el que el polvo finalmente se calme lo suficiente como para ver el verdadero caos que el conflicto de ocho meses en el Medio Oriente y sus interrupciones en el transporte marítimo han provocado en el sector mundial del crudo.",
-      "u": "https://www.marketwatch.com/story/the-100-level-is-ours-for-awhile-oil-wont-be-getting-cheap-anytime-soon-no-matter-what-happens-in-the-gulf-99d628bf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-42221647",
-      "published": "2026-10-29T19:12:00+00:00"
-    },
-    {
-      "h": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "es": "Burnham 'listo para apoyar' al personal de Poundland mientras el minorista se enfrenta al colapso",
-      "d": "Los jefes de Poundland están presentando un aviso de intención de nombrar administradores para el negocio.",
-      "u": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-      "published": "2026-10-29T19:11:10+00:00"
-    },
-    {
-      "h": "Alphabet’s stock just triggered a ‘death cross.’ Could the worst of the selloff be over?",
-      "es": "Las acciones de Alphabet acaban de provocar una “cruz de la muerte”. ¿Podría haber pasado lo peor de la liquidación?",
-      "d": "Una caída posterior a las ganancias hizo que las acciones de la matriz de Google cayeran en territorio bajista, pero algunas señales comerciales insinúan un cambio de rumbo.",
-      "u": "https://www.marketwatch.com/story/alphabets-stock-just-triggered-a-death-cross-could-the-worst-of-the-selloff-be-over-9f70d765?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-38559786",
-      "published": "2026-10-29T19:09:00+00:00"
-    },
-    {
-      "h": "Medline exits bed market after two deaths linked to safety risks",
-      "es": "Medline exits bed market after two deaths linked to safety risks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/medline-exits-bed-market-after-two-deaths-linked-to-safety-risks-93CH-4984905",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-29T19:03:47+00:00"
-    },
-    {
-      "h": "Linde delivers a good quarter and puts in a fix for an overhang on the stock",
-      "es": "Linde delivers a good quarter and puts in a fix for an overhang on the stock",
-      "d": "Slicing and dicing by end market for Linde's gases also looked solid.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/linde-delivers-a-good-quarter-and-puts-in-a-fix-for-an-overhang-on-the-stock.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T19:02:00+00:00"
-    },
-    {
-      "h": "Explainer-What’s next for law firm Weil Gotshal as it plans dissolution",
-      "es": "Explainer-What’s next for law firm Weil Gotshal as it plans dissolution",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerwhats-next-for-law-firm-weil-gotshal-as-it-plans-dissolution-4984886",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2D1_L.jpg",
-      "published": "2026-10-29T19:01:35+00:00"
-    },
-    {
-      "h": "FTC, states sue Toast over fees, deceptive subscription practices",
-      "es": "FTC, states sue Toast over fees, deceptive subscription practices",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ftc-states-sue-toast-over-fees-deceptive-subscription-practices-4984736",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S25G_L.jpg",
-      "published": "2026-10-29T19:01:18+00:00"
-    },
-    {
-      "h": "Meta loses appeals against interim measures imposed by French regulators",
-      "es": "Meta loses appeals against interim measures imposed by French regulators",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-4984447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S10A_L.jpg",
-      "published": "2026-10-29T19:00:49+00:00"
-    },
-    {
-      "h": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-      "es": "Nvidia CEO Huang caught up in reported Chinese spy probe as AI stocks slide",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-caught-up-in-reported-chinese-spy-probe-as-ai-stocks-slide-4983897",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q0YE_1200_L.jpg",
-      "published": "2026-10-29T18:58:48+00:00"
-    },
-    {
-      "h": "Polymarket reports outage on international exchange, halts trading",
-      "es": "Polymarket reports outage on international exchange, halts trading",
-      "d": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-      "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T18:57:22+00:00"
-    },
-    {
-      "h": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "es": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "d": "Options traders pounced on the closest publicly-traded play to the news.",
-      "u": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T18:53:50+00:00"
-    },
-    {
-      "h": "Why is CRH stock rallying today?",
-      "es": "Why is CRH stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-crh-stock-rallying-today-93CH-4984895",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-29T18:50:33+00:00"
-    },
-    {
-      "h": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
-      "es": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
-      "d": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-      "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-69922963",
-      "published": "2026-10-29T18:50:00+00:00"
-    },
-    {
-      "h": "OpenAI says human intent at center of updated AI model guidelines",
-      "es": "OpenAI says human intent at center of updated AI model guidelines",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-says-human-intent-at-center-of-updated-ai-model-guidelines-4984893",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2DX_L.jpg",
-      "published": "2026-10-29T18:48:53+00:00"
-    },
-    {
-      "h": "Why is Hyperliquid Strategies stock surging today?",
-      "es": "Why is Hyperliquid Strategies stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hyperliquid-strategies-stock-surging-today-93CH-4984890",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-29T18:44:51+00:00"
-    },
-    {
-      "h": "Why is Trane Technologies stock sliding today?",
-      "es": "Why is Trane Technologies stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-trane-technologies-stock-sliding-today-93CH-4984889",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-10-29T18:43:50+00:00"
     }
   ],
   "sources": [
