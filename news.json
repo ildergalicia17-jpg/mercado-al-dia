@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-29T22:45:33.934302+00:00",
+  "updated": "2026-10-29T23:23:08.122605+00:00",
   "news": [
+    {
+      "h": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "es": "Algunos fondos de usuarios de Polymarket robados por piratas informáticos; intercambio remitiendo el asunto a las autoridades del Reino Unido",
+      "d": "La interrupción se produce pocos días antes de que se espera que la plataforma experimente un mayor comercio durante las elecciones de mitad de período en Estados Unidos.",
+      "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T23:16:11+00:00"
+    },
+    {
+      "h": "Why Intel’s stock is sinking toward its worst drop in two years",
+      "es": "Por qué las acciones de Intel se están hundiendo hacia su peor caída en dos años",
+      "d": "El negocio de PC de Intel está bajo presión a medida que los precios de los chips de memoria hacen mella en la demanda y los equipos de TI corporativos tienen menos presupuesto para computadoras portátiles.",
+      "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37901280",
+      "published": "2026-10-29T23:11:00+00:00"
+    },
+    {
+      "h": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad",
+      "es": "Estamos recortando nuestro precio objetivo de Amazon después de un trimestre difícil. Pero no todo es malo",
+      "d": "El jueves por la noche, Amazon cometió un raro doble error.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/were-cutting-our-amazon-price-target-after-a-tough-quarter-but-it-isnt-all-bad.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T23:08:37+00:00"
+    },
+    {
+      "h": "Rivian says it’s on track for $250 million Uber funding by year-end, R2 demand strong",
+      "es": "Rivian dice que está en camino de obtener una financiación de Uber de 250 millones de dólares para fin de año, la demanda de R2 es fuerte",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PH_L.jpg",
+      "published": "2026-10-29T23:06:20+00:00"
+    },
+    {
+      "h": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
+      "es": "Jim Cramer dice que Wall Street está castigando a las acciones tecnológicas equivocadas",
+      "d": "Los resultados decepcionantes de una empresa no necesariamente indican problemas para toda una industria.",
+      "u": "https://www.cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T23:00:01+00:00"
+    },
+    {
+      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "es": "Mi abusivo exmarido prometió 20.000 dólares para la educación de nuestros hijos. Ahora se niega a pagar. ¿Está legalmente obligado?",
+      "d": "“Antes de nuestro divorcio, mi ex suegra le confió 20.000 dólares para que cada una de nuestras hijas invirtiera en su nombre”.",
+      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-95596293",
+      "published": "2026-10-29T22:45:00+00:00"
+    },
     {
       "h": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
       "es": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
@@ -9,6 +63,33 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-29T22:42:41+00:00"
+    },
+    {
+      "h": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+      "es": "Tether y Circle congelan 2.380 millones de dólares después de que Binance informara un incidente de seguridad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tether-circle-freeze-238-billion-after-binance-reports-security-incident-4985511",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2O7_L.jpg",
+      "published": "2026-10-29T22:30:47+00:00"
+    },
+    {
+      "h": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+      "es": "Amazon registra un flujo de caja libre negativo de 42.400 millones de dólares y mantiene el gasto de capital para 2026 sin cambios",
+      "d": "El flujo de caja libre negativo de Amazon se disparó durante el tercer trimestre, mientras que sus ganancias e ingresos no cumplieron con las expectativas de Wall Street.",
+      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T22:24:49+00:00"
+    },
+    {
+      "h": "Intel shares drop 21% on Israel factory blast, PC weakness",
+      "es": "Las acciones de Intel caen un 21% por la explosión de una fábrica en Israel y la debilidad de las PC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HF_L.jpg",
+      "published": "2026-10-29T22:24:26+00:00"
     },
     {
       "h": "Meta loses appeals against interim measures imposed by French regulators",
@@ -81,6 +162,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HW_L.jpg",
       "published": "2026-10-29T21:54:59+00:00"
+    },
+    {
+      "h": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+      "es": "Las ganancias de Rivian en el tercer trimestre superaron las estimaciones a medida que aumentan los ingresos por software y las entregas de R2",
+      "d": "Rivian también revisó su guía para 2026 para marcar las mejoras esperadas en las entregas de vehículos, las ganancias ajustadas antes de impuestos y los gastos de capital.",
+      "u": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T21:52:27+00:00"
     },
     {
       "h": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -180,96 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Roblox_800x533_L_1644999130.jpg",
       "published": "2026-10-29T21:35:48+00:00"
-    },
-    {
-      "h": "Why is DexCom stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de DexCom hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dexcom-stock-climbing-today-93CH-4985376",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-10-29T21:33:56+00:00"
-    },
-    {
-      "h": "Why is Coinbase stock sliding today?",
-      "es": "¿Por qué las acciones de Coinbase están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-sliding-today-93CH-4985369",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T1V4_L.jpg",
-      "published": "2026-10-29T21:32:30+00:00"
-    },
-    {
-      "h": "Why is Amazon stock sliding today?",
-      "es": "¿Por qué las acciones de Amazon están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-sliding-today-93CH-4985367",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE2Q1W2_M.jpg",
-      "published": "2026-10-29T21:32:16+00:00"
-    },
-    {
-      "h": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "es": "“Los coches lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastar, gastar, gastar?",
-      "d": "\"Yo tengo 68 años, ella 74 y ambos gozamos de buena salud. Nos casamos más tarde y no tenemos hijos\".",
-      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21005604",
-      "published": "2026-10-29T21:31:00+00:00"
-    },
-    {
-      "h": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "es": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "d": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T21:29:59+00:00"
-    },
-    {
-      "h": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-      "es": "Se está gestando un cambio de rumbo en Starbucks, pero quizás no lo suficientemente rápido",
-      "d": "La cadena de café superó las expectativas en una métrica de ventas clave, pero sus acciones aún estaban cayendo.",
-      "u": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-01171452",
-      "published": "2026-10-29T21:07:00+00:00"
-    },
-    {
-      "h": "US promises tariff relief in talks with Audi on Georgia plant, sources say",
-      "es": "Estados Unidos promete alivio arancelario en conversaciones con Audi en planta de Georgia, dicen fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-promises-tariff-relief-in-talks-with-audi-on-georgia-plant-sources-say-4985227",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2DT_L.jpg",
-      "published": "2026-10-29T20:54:59+00:00"
-    },
-    {
-      "h": "After-Hours Movers: AMZN, TWLO, INTC, SNDK, RDDT, RBLX, PINS, RIVN, SBUX, ILMN",
-      "es": "Empresas de mudanzas fuera de horario: AMZN, TWLO, INTC, SNDK, RDDT, RBLX, PINS, RIVN, SBUX, ILMN",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-amzn-twlo-intc-sndk-rddt-rblx-pins-rivn-sbux-ilmn-432SI-4985222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-29T20:54:02+00:00"
-    },
-    {
-      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "es": "Mi esposa lloró cuando descubrí que solo tenía $80,000 en su 401(k). Tengo 2,2 millones de dólares. ¿Me equivoco al sorprenderme?",
-      "d": "“Cuando mencioné la jubilación la primavera pasada, ella dijo que estaba lista cuando yo lo estuviera, y entendí que eso significaba que estábamos en buena forma”.",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-10-29T20:45:00+00:00"
-    },
-    {
-      "h": "Exclusive-Greek PM calls Turkey-Libya maritime deal ’void;’ calls for global truce after Black Sea attacks",
-      "es": "El primer ministro griego exclusivo califica de \"nulo\" el acuerdo marítimo entre Turquía y Libia; pide una tregua global tras los ataques en el Mar Negro",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivegreek-pm-calls-turkeylibya-maritime-deal-void-calls-for-global-truce-after-black-sea-attacks-4985176",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2JP_L.jpg",
-      "published": "2026-10-29T20:42:31+00:00"
     }
   ],
   "sources": [
