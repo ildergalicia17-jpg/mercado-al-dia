@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T23:12:19.137940+00:00",
+  "updated": "2026-10-30T23:50:18.719568+00:00",
   "news": [
+    {
+      "h": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "es": "¿Ha estallado la burbuja tecnológica? Por qué la dura trayectoria del Nasdaq se parece inquietantemente al año 2000.",
+      "d": "La gran caída del viernes plantea paralelismos inquietantes con la cima de la burbuja de las puntocom",
+      "u": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-50502559",
+      "published": "2026-10-30T23:14:00+00:00"
+    },
     {
       "h": "McDonald’s must face lawsuit over McRib, US judge rules",
       "es": "McDonald's debe enfrentar una demanda por McRib, dictamina un juez estadounidense",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM8F117_1200_L.jpg",
       "published": "2026-10-30T21:09:40+00:00"
-    },
-    {
-      "h": "Intel on course for worst day ever, triggers global chip rout",
-      "es": "Intel on course for worst day ever, triggers global chip rout",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T13K_L.jpg",
-      "published": "2026-10-30T20:55:02+00:00"
     }
   ],
   "sources": [
