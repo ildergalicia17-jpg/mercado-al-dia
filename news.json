@@ -1,6 +1,114 @@
 {
-  "updated": "2026-10-30T07:36:06.615781+00:00",
+  "updated": "2026-10-30T08:28:21.568554+00:00",
   "news": [
+    {
+      "h": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
+      "es": "Las bolsas europeas caen mientras Amazon e Intel avivan los temores de quema de efectivo por parte de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-amazon-intel-stoke-ai-cashburn-fears-4985916",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-10-30T08:16:29+00:00"
+    },
+    {
+      "h": "Why is Sanofi stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Sanofi hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sanofi-stock-surging-today-93CH-4986014",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6Q07G_M.jpg",
+      "published": "2026-10-30T08:15:09+00:00"
+    },
+    {
+      "h": "Spain’s inflation rate holds steady at 4.9% in October",
+      "es": "La inflación española se mantiene estable en el 4,9% en octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spains-inflation-rate-holds-steady-at-49-in-october-93CH-4986015",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-10-30T08:15:09+00:00"
+    },
+    {
+      "h": "Why is NatWest stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de NatWest hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-natwest-stock-sliding-today-93CH-4985989",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-10-30T08:12:23+00:00"
+    },
+    {
+      "h": "Tesco to sell Czech and Slovak operations to Ahold Delhaize",
+      "es": "Tesco venderá sus operaciones checas y eslovacas a Ahold Delhaize",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesco-to-sell-czech-and-slovak-operations-to-ahold-delhaize-4985987",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE920TW_M.jpg",
+      "published": "2026-10-30T08:11:50+00:00"
+    },
+    {
+      "h": "Why is Puma stock rallying today?",
+      "es": "¿Por qué las acciones de Puma están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-puma-stock-rallying-today-93CH-4985980",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-30T08:09:57+00:00"
+    },
+    {
+      "h": "Acerinox posts Q3 beat on US strength despite Europe weakness",
+      "es": "Acerinox supera en el tercer trimestre gracias a la fortaleza de EE.UU. a pesar de la debilidad de Europa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/acerinox-posts-q3-beat-on-us-strength-despite-europe-weakness-93CH-4985975",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-10-30T08:08:46+00:00"
+    },
+    {
+      "h": "Why is Airtel Africa stock sliding today?",
+      "es": "¿Por qué las acciones de Airtel Africa están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-airtel-africa-stock-sliding-today-93CH-4985974",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-30T08:07:24+00:00"
+    },
+    {
+      "h": "Why is AstraZeneca stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de AstraZeneca hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-astrazeneca-stock-rallying-today-93CH-4985971",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL320IM_L.jpg",
+      "published": "2026-10-30T08:06:10+00:00"
+    },
+    {
+      "h": "DAX parabolic advance stalls at overbought MFI: Live levels",
+      "es": "El avance parabólico del DAX se detiene en las IMF sobrecompradas: niveles reales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dax-trapped-below-cloud-resistance-with-bear-flag-forming-live-93CH-4971556",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-30T08:05:46+00:00"
+    },
+    {
+      "h": "Yorkshire Water boss resigns after firm downgraded",
+      "es": "El jefe de Yorkshire Water dimite tras la rebaja de calificación de la empresa",
+      "d": "Se anuncia que Nicola Shaw, que dirige la empresa desde 2022, dejará su cargo en enero.",
+      "u": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg",
+      "published": "2026-10-30T07:54:08+00:00"
+    },
+    {
+      "h": "How video game remakes tap the power of nostalgia",
+      "es": "Cómo los remakes de videojuegos aprovechan el poder de la nostalgia",
+      "d": "Los videojuegos son buenos para provocar nostalgia, una razón clave por la que los juegos clásicos se siguen rehaciendo.",
+      "u": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-10-30T07:45:00+00:00"
+    },
     {
       "h": "BP posts net income of $8.46 billion, beating expectations",
       "es": "BP posts net income of $8.46 billion, beating expectations",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
       "published": "2026-10-30T05:39:48+00:00"
-    },
-    {
-      "h": "Why is AIA Group stock rising today?",
-      "es": "Why is AIA Group stock rising today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-aia-group-stock-rising-today-93CH-4985822",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-30T05:39:48+00:00"
-    },
-    {
-      "h": "Why is BYD stock slipping today?",
-      "es": "Why is BYD stock slipping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-byd-stock-slipping-today-93CH-4985820",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB2S09I_M.jpg",
-      "published": "2026-10-30T05:39:43+00:00"
-    },
-    {
-      "h": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.18%",
-      "es": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.18%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-018-4985813",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED840OH_M.jpg",
-      "published": "2026-10-30T05:30:04+00:00"
-    },
-    {
-      "h": "Crypto giant Binance hit by 'largest hack in history'",
-      "es": "Crypto giant Binance hit by 'largest hack in history'",
-      "d": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "u": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
-      "published": "2026-10-30T05:15:16+00:00"
-    },
-    {
-      "h": "BYD shares dip as Q3 earnings disappoint",
-      "es": "BYD shares dip as Q3 earnings disappoint",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/byd-shares-dip-as-q3-earnings-disappoint-4985808",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/BYDCompany_800x533_L_1710763576.jpg",
-      "published": "2026-10-30T05:14:14+00:00"
-    },
-    {
-      "h": "SK Hynix trapped in cloud between SMA(20) and SMA(50): Live",
-      "es": "SK Hynix trapped in cloud between SMA(20) and SMA(50): Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-30T05:05:03+00:00"
-    },
-    {
-      "h": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "es": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "d": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T04:40:17+00:00"
-    },
-    {
-      "h": "Foxconn unveils three new EV models as it expands contract manufacturing push",
-      "es": "Foxconn unveils three new EV models as it expands contract manufacturing push",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/foxconn-unveils-three-new-ev-models-as-it-expands-contract-manufacturing-push-4985791",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL2Q10W_L.jpg",
-      "published": "2026-10-30T04:40:10+00:00"
-    },
-    {
-      "h": "Walmart investigates Flipkart over employee kickback claims: Moneycontrol",
-      "es": "Walmart investigates Flipkart over employee kickback claims: Moneycontrol",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/walmart-investigates-flipkart-over-employee-kickback-claims-moneycontrol-93CH-4985790",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA7805K_M.jpg",
-      "published": "2026-10-30T04:35:59+00:00"
-    },
-    {
-      "h": "Why is Konami stock surging today?",
-      "es": "Why is Konami stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-konami-stock-surging-today-93CH-4985789",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-30T04:35:57+00:00"
-    },
-    {
-      "h": "Why is Fujitsu stock crashing today?",
-      "es": "Why is Fujitsu stock crashing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-fujitsu-stock-crashing-today-93CH-4985788",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-10-30T04:35:53+00:00"
-    },
-    {
-      "h": "Why is Oriental Land stock surging today?",
-      "es": "Why is Oriental Land stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-oriental-land-stock-surging-today-93CH-4985787",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-30T04:35:50+00:00"
     }
   ],
   "sources": [
