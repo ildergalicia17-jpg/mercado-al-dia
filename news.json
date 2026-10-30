@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-30T00:00:02.513627+00:00",
+  "updated": "2026-10-30T00:53:31.620839+00:00",
   "news": [
+    {
+      "h": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+      "es": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+      "d": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+      "u": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
+      "published": "2026-10-30T00:46:41+00:00"
+    },
+    {
+      "h": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
+      "es": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
+      "d": "Shares have struggled since their June debut. But this is a nice step forward.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/fedex-freight-delivers-a-much-needed-quarterly-beat-where-we-stand-on-shares-now.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T00:29:50+00:00"
+    },
+    {
+      "h": "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
+      "es": "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bambusa-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4985632",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-10-30T00:27:02+00:00"
+    },
+    {
+      "h": "Why is Bitcoin dropping today?",
+      "es": "Why is Bitcoin dropping today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+      "published": "2026-10-30T00:26:04+00:00"
+    },
+    {
+      "h": "Why is Binance’s BNB crashing today?",
+      "es": "Why is Binance’s BNB crashing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+      "published": "2026-10-30T00:26:01+00:00"
+    },
+    {
+      "h": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "es": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "d": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+      "u": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-01171452",
+      "published": "2026-10-30T00:14:00+00:00"
+    },
+    {
+      "h": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "es": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "d": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
+      "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04029946",
+      "published": "2026-10-30T00:06:00+00:00"
+    },
+    {
+      "h": "Microsoft expects to raise $25 billion in US bond sale, source says",
+      "es": "Microsoft expects to raise $25 billion in US bond sale, source says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1HI_L.jpg",
+      "published": "2026-10-30T00:00:54+00:00"
+    },
+    {
+      "h": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "es": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "d": "A new generation is embracing eye-catching patching and visible mends.",
+      "u": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-10-30T00:00:35+00:00"
+    },
     {
       "h": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
       "es": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
@@ -9,6 +90,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-49250014",
       "published": "2026-10-29T23:55:00+00:00"
+    },
+    {
+      "h": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy",
+      "es": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japans-beleaguered-shoppers-are-a-worry-for-convenience-stores-and-the-economy-4985612",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2S7_L.jpg",
+      "published": "2026-10-29T23:54:21+00:00"
     },
     {
       "h": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
@@ -180,96 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-29T21:55:44+00:00"
-    },
-    {
-      "h": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-      "es": "El director ejecutivo del IRS, Bisignano, dona a Trump Accounts en el código postal de Brooklyn de su infancia",
-      "d": "El director ejecutivo del IRS, Frank Bisignano, ha donado a Trump Accounts para niños de Brooklyn del código postal de su ciudad natal. Esto es lo que las familias necesitan saber.",
-      "u": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T21:55:42+00:00"
-    },
-    {
-      "h": "Starbucks sees annual profit above estimates as turnaround gains traction",
-      "es": "Starbucks sees annual profit above estimates as turnaround gains traction",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HW_L.jpg",
-      "published": "2026-10-29T21:54:59+00:00"
-    },
-    {
-      "h": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-      "es": "Las ganancias de Rivian en el tercer trimestre superaron las estimaciones a medida que aumentan los ingresos por software y las entregas de R2",
-      "d": "Rivian también revisó su guía para 2026 para marcar las mejoras esperadas en las entregas de vehículos, las ganancias ajustadas antes de impuestos y los gastos de capital.",
-      "u": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T21:52:27+00:00"
-    },
-    {
-      "h": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "es": "El valor de Google se desploma en 500.000 millones de dólares mientras los temores sobre la IA sacuden a Wall Street",
-      "d": "Google asustó tanto a los inversores que sus acciones alcanzaron un mínimo de seis meses, después de que reveló que sus resúmenes de búsqueda de IA estaban afectando los ingresos por publicidad.",
-      "u": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-29T21:52:13+00:00"
-    },
-    {
-      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
-      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
-      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24279758",
-      "published": "2026-10-29T21:52:00+00:00"
-    },
-    {
-      "h": "Merck to boost next decade revenue forecast on new drugs optimism",
-      "es": "Merck aumentará la previsión de ingresos para la próxima década gracias al optimismo sobre nuevos fármacos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S167_L.jpg",
-      "published": "2026-10-29T21:42:46+00:00"
-    },
-    {
-      "h": "Gilead hikes 2026 sales outlook, says Medicare cuts Biktarvy price by 38% starting in 2028",
-      "es": "Gilead aumenta las perspectivas de ventas para 2026 y dice que Medicare reduce el precio de Biktarvy en un 38% a partir de 2028",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HQ_L.jpg",
-      "published": "2026-10-29T21:42:21+00:00"
-    },
-    {
-      "h": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-      "es": "El gobernador de Alaska ordena una investigación sobre el presunto reclutamiento del segundo Sullivan por parte de la campaña del Senado de Peltola",
-      "d": "La elección de Alaska podría determinar qué partido tiene mayoría en el Senado. El senador republicano Dan Sullivan enfrenta un fuerte desafío de la demócrata Mary Peltola.",
-      "u": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T21:42:06+00:00"
-    },
-    {
-      "h": "Why is Gilead Sciences stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Gilead Sciences hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-gilead-sciences-stock-surging-today-93CH-4985390",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Gilead_800x533_L_1598282999.jpg",
-      "published": "2026-10-29T21:40:34+00:00"
-    },
-    {
-      "h": "Why is Cavco Industries stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Cavco Industries hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cavco-industries-stock-climbing-today-93CH-4985384",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-10-29T21:38:21+00:00"
     }
   ],
   "sources": [
