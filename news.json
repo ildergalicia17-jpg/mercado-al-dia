@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T01:48:32.441427+00:00",
+  "updated": "2026-10-30T02:32:21.491649+00:00",
   "news": [
+    {
+      "h": "Aspen Neuroscience prices IPO at $15 per share on Nasdaq",
+      "es": "Aspen Neuroscience prices IPO at $15 per share on Nasdaq",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aspen-neuroscience-prices-ipo-at-15-per-share-on-nasdaq-432SI-4985722",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-10-30T02:24:02+00:00"
+    },
     {
       "h": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
       "es": "El Departamento de Justicia intensifica la demanda del Senado de Alaska por el duelo de candidaturas de Sullivan",
@@ -92,6 +101,15 @@
       "published": "2026-10-30T00:46:41+00:00"
     },
     {
+      "h": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "es": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "d": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "u": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T00:39:52+00:00"
+    },
+    {
       "h": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
       "es": "Microsoft planea recaudar 25 mil millones de dólares en deuda mientras busca desarrollar la IA",
       "d": "Microsoft cuenta con una sólida calificación crediticia y ha logrado mantener un flujo de caja libre positivo, a diferencia de Meta, Alphabet y Amazon.",
@@ -108,6 +126,15 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-30T00:29:50+00:00"
+    },
+    {
+      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "es": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "d": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T00:28:45+00:00"
     },
     {
       "h": "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
@@ -164,6 +191,15 @@
       "published": "2026-10-30T00:06:00+00:00"
     },
     {
+      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05792524",
+      "published": "2026-10-30T00:05:00+00:00"
+    },
+    {
       "h": "Microsoft expects to raise $25 billion in US bond sale, source says",
       "es": "Microsoft expects to raise $25 billion in US bond sale, source says",
       "d": "",
@@ -180,6 +216,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
       "published": "2026-10-30T00:00:35+00:00"
+    },
+    {
+      "h": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+      "es": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+      "d": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
+      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-29T23:56:02+00:00"
     },
     {
       "h": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
@@ -225,51 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PQ_L.jpg",
       "published": "2026-10-29T23:30:29+00:00"
-    },
-    {
-      "h": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "es": "Algunos fondos de usuarios de Polymarket robados por piratas informáticos; intercambio remitiendo el asunto a las autoridades del Reino Unido",
-      "d": "La interrupción se produce pocos días antes de que se espera que la plataforma experimente un mayor comercio durante las elecciones de mitad de período en Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T23:16:11+00:00"
-    },
-    {
-      "h": "Why Intel’s stock is sinking toward its worst drop in two years",
-      "es": "Por qué las acciones de Intel se están hundiendo hacia su peor caída en dos años",
-      "d": "El negocio de PC de Intel está bajo presión a medida que los precios de los chips de memoria hacen mella en la demanda y los equipos de TI corporativos tienen menos presupuesto para computadoras portátiles.",
-      "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37901280",
-      "published": "2026-10-29T23:11:00+00:00"
-    },
-    {
-      "h": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad",
-      "es": "Estamos recortando nuestro precio objetivo de Amazon después de un trimestre difícil. Pero no todo es malo",
-      "d": "El jueves por la noche, Amazon cometió un raro doble error.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/were-cutting-our-amazon-price-target-after-a-tough-quarter-but-it-isnt-all-bad.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T23:08:37+00:00"
-    },
-    {
-      "h": "Rivian says it’s on track for $250 million Uber funding by year-end, R2 demand strong",
-      "es": "Rivian dice que está en camino de obtener una financiación de Uber de 250 millones de dólares para fin de año, la demanda de R2 es fuerte",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rivian-says-its-on-track-for-250-million-uber-funding-by-yearend-r2-demand-strong-4985570",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PH_L.jpg",
-      "published": "2026-10-29T23:06:20+00:00"
-    },
-    {
-      "h": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
-      "es": "Jim Cramer dice que Wall Street está castigando a las acciones tecnológicas equivocadas",
-      "d": "Los resultados decepcionantes de una empresa no necesariamente indican problemas para toda una industria.",
-      "u": "https://www.cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T23:00:01+00:00"
     }
   ],
   "sources": [
