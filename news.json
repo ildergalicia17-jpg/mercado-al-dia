@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-30T20:00:20.466114+00:00",
+  "updated": "2026-10-30T20:40:45.131354+00:00",
   "news": [
+    {
+      "h": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+      "es": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+      "d": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+      "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T20:38:12+00:00"
+    },
+    {
+      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "es": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "d": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "published": "2026-10-30T20:34:46+00:00"
+    },
+    {
+      "h": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "es": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "d": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "u": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T20:30:57+00:00"
+    },
+    {
+      "h": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "es": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "d": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+      "u": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-60634029",
+      "published": "2026-10-30T20:29:00+00:00"
+    },
+    {
+      "h": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "es": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "d": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+      "u": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06307348",
+      "published": "2026-10-30T20:28:00+00:00"
+    },
+    {
+      "h": "The selloff in tech stocks is shifting into overdrive",
+      "es": "The selloff in tech stocks is shifting into overdrive",
+      "d": "Technology stocks had been priced for perfection. They are now getting hammered.",
+      "u": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-56527182",
+      "published": "2026-10-30T20:26:00+00:00"
+    },
+    {
+      "h": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
+      "es": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-outpaces-sp-500-as-nasdaq-rout-puts-tech-stocks-on-the-back-foot-93CH-4988613",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-10-30T20:25:54+00:00"
+    },
+    {
+      "h": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
+      "es": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/evercose-isi-downgrades-reddit-says-monetization-may-not-offset-traffic-weakness-4988622",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9S0WS_L.jpg",
+      "published": "2026-10-30T20:23:39+00:00"
+    },
+    {
+      "h": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "es": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "d": "“A cheaper stock does not necessarily offer better value,” one expert says.",
+      "u": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04329812",
+      "published": "2026-10-30T20:23:00+00:00"
+    },
+    {
+      "h": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+      "es": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+      "d": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
+      "u": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83105072",
+      "published": "2026-10-30T20:23:00+00:00"
+    },
+    {
+      "h": "Baron Capital backs Vail Resorts board in proxy showdown with Oasis",
+      "es": "Baron Capital backs Vail Resorts board in proxy showdown with Oasis",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/baron-capital-backs-vail-resorts-board-in-proxy-showdown-with-oasis-4988619",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
+      "published": "2026-10-30T20:20:31+00:00"
+    },
+    {
+      "h": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "es": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "d": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "u": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-30T20:10:56+00:00"
+    },
+    {
+      "h": "S&P 500 November seasonality: historical trends and this year’s context",
+      "es": "S&P 500 November seasonality: historical trends and this year’s context",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-november-seasonality-historical-trends-and-this-years-context-93CH-4988560",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBG0LD_L.jpg",
+      "published": "2026-10-30T19:59:16+00:00"
+    },
     {
       "h": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
       "es": "“Las joyas vistosas y los autos lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastarlo todo?",
@@ -65,6 +182,15 @@
       "published": "2026-10-30T19:39:00+00:00"
     },
     {
+      "h": "Wage growth hits 5-year low as American workers find their take-home pay is ‘stretched thinner and thinner’",
+      "es": "Wage growth hits 5-year low as American workers find their take-home pay is ‘stretched thinner and thinner’",
+      "d": "Worker compensation grows slower than inflation for second straight quarter",
+      "u": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96229103",
+      "published": "2026-10-30T19:39:00+00:00"
+    },
+    {
       "h": "This is where most people go wrong in their 30s and 40s",
       "es": "Aquí es donde la mayoría de las personas se equivocan entre los 30 y los 40 años.",
       "d": "Estas grandes decisiones de vida determinarán qué tan bien se jubilará.",
@@ -90,6 +216,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-51699751",
       "published": "2026-10-30T19:33:00+00:00"
+    },
+    {
+      "h": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "es": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "d": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+      "u": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T19:27:03+00:00"
     },
     {
       "h": "US approves $2.1 billion Patriot missile sale to Ukraine",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
       "published": "2026-10-30T19:18:55+00:00"
-    },
-    {
-      "h": "S&P 500 breaks 200-day MA with bearish Marubozu: Live levels",
-      "es": "S&P 500 rompe MA de 200 días con Marubozu bajista: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-10-30T19:18:52+00:00"
-    },
-    {
-      "h": "Dollar Index trapped in range with bearish MACD: Live levels",
-      "es": "Índice del dólar atrapado en rango con MACD bajista: niveles vivos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dollar-index-trapped-in-ichimoku-cloud-at-10186-live-levels-93CH-4973064",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-30T19:18:41+00:00"
-    },
-    {
-      "h": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
-      "es": "Bayer gana el juicio contra el cáncer por el herbicida Roundup mientras espera el fallo del acuerdo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T02L_L.jpg",
-      "published": "2026-10-30T19:18:41+00:00"
-    },
-    {
-      "h": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
-      "es": "Meta llega a un acuerdo con un adolescente durante las pruebas de prueba que afirman que las redes sociales causaron depresión y trastornos alimentarios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-settles-with-teen-during-trial-testing-claims-social-media-caused-depression-eating-disorders-4988301",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1LD_L.jpg",
-      "published": "2026-10-30T19:07:14+00:00"
-    },
-    {
-      "h": "Vail Resorts’ biggest investor backs company in fight with activist Oasis",
-      "es": "El mayor inversor de Vail Resorts respalda a la empresa en su lucha con el activista Oasis",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vail-resorts-biggest-investor-backs-company-in-fight-with-activist-oasis-4988370",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1OO_L.jpg",
-      "published": "2026-10-30T19:06:59+00:00"
-    },
-    {
-      "h": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "es": "'Mal momento para trollear': el cofundador de Binance, Zhao, le pide apoyo a Musk después del hackeo",
-      "d": "El cofundador de Binance, Changpeng Zhao, pidió a Elon Musk que dejara de “trollear” después de un hackeo de 6.300 millones de dólares, señalando la participación de Binance en SpaceX, de más de 1.000 millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T19:02:06+00:00"
-    },
-    {
-      "h": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-      "es": "La tecnología es aplastada, las acciones defensivas brillan. Cómo le estamos dando sentido a todo",
-      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T18:55:44+00:00"
-    },
-    {
-      "h": "Is your crypto safe? What Binance’s $6.3 billion hack means for bitcoin investors.",
-      "es": "¿Tu criptografía es segura? Lo que significa el hackeo de 6.300 millones de dólares de Binance para los inversores en bitcoins.",
-      "d": "Una mirada a qué tan seguro está realmente su dinero cuando incluso el intercambio de criptomonedas más grande del mundo puede verse afectado",
-      "u": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-53476673",
-      "published": "2026-10-30T18:50:00+00:00"
-    },
-    {
-      "h": "Nasdaq slides nearly 4%, set for worst month since March 2025 as AI trade suffers",
-      "es": "Nasdaq cae casi un 4% y se encamina al peor mes desde marzo de 2025 a medida que el comercio de IA se ve afectado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
-      "published": "2026-10-30T18:49:15+00:00"
-    },
-    {
-      "h": "Cheaper cars are selling considerably faster than at the beginning of the year",
-      "es": "Los coches más baratos se venden mucho más rápido que a principios de año",
-      "d": "Los datos indican que los autos baratos se están vendiendo rápidamente, pero algunos segmentos de precios más bajos aún vieron caer las ventas en el tercer trimestre. Esto es lo que podría estar pasando.",
-      "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T18:45:35+00:00"
-    },
-    {
-      "h": "Bank of America sued over mandatory arbitration for employee disputes",
-      "es": "Bank of America demandado por arbitraje obligatorio para disputas laborales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-sued-over-mandatory-arbitration-for-employee-disputes-4988505",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1VH_L.jpg",
-      "published": "2026-10-30T18:36:27+00:00"
-    },
-    {
-      "h": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-      "es": "Reid Hoffman da millones a los demócratas en una ola de gastos tardía mientras la pelea con Epstein llega a las elecciones",
-      "d": "Reid Hoffman ha donado 8 millones de dólares a los demócratas de Wisconsin que respaldan a David Crowley mientras Tom Tiffany ataca los vínculos pasados ​​de Hoffman con Jeffrey Epstein.",
-      "u": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T18:32:17+00:00"
-    },
-    {
-      "h": "CD&R explores deal to take payments processor Global Payments private, source says",
-      "es": "CD&R explora un acuerdo para privatizar el procesador de pagos Global Payments, dice una fuente",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1PH_L.jpg",
-      "published": "2026-10-30T18:30:34+00:00"
-    },
-    {
-      "h": "Wall Street slides as AI cash burn worries spark tech selloff",
-      "es": "Wall Street cae mientras las preocupaciones sobre la quema de efectivo de la IA provocan una liquidación tecnológica",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0NT_L.jpg",
-      "published": "2026-10-30T18:30:19+00:00"
-    },
-    {
-      "h": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "es": "Mi padre tiene Alzheimer y su cuidador está usando su tarjeta de débito para DoorDash. ¿Intervengo?",
-      "d": "\"Sospecho que el cuidador interno se está beneficiando de la generosidad de mis padres\".",
-      "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12441339",
-      "published": "2026-10-30T18:30:00+00:00"
     }
   ],
   "sources": [
