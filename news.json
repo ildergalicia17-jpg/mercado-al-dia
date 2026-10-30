@@ -1,6 +1,168 @@
 {
-  "updated": "2026-10-30T14:28:34.646291+00:00",
+  "updated": "2026-10-30T15:23:54.888613+00:00",
   "news": [
+    {
+      "h": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "es": "Dejamos de ayudar a nuestros vecinos con reparaciones gratuitas en el hogar y nuestra amistad se enfrió. ¿Quién tiene la culpa?",
+      "d": "\"El verano pasado, se quejaron de que necesitaban reemplazar el techo. Unos meses más tarde, compraron un nuevo SUV\".",
+      "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13210750",
+      "published": "2026-10-30T15:15:00+00:00"
+    },
+    {
+      "h": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+      "es": "Musk y Zuckerberg se hacen eco del impulso de Trump para cambiar el nombre de la IA a \"superinteligencia\" en las llamadas sobre resultados. Otros no",
+      "d": "Mark Zuckerberg de Meta y Elon Musk de Tesla y SpaceX adoptaron el término \"súper inteligencia\" preferido del presidente Trump en sus llamadas sobre ganancias del tercer trimestre.",
+      "u": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T15:14:27+00:00"
+    },
+    {
+      "h": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+      "es": "Los centros de datos son un tercer carril político. Virginia Occidental se lo está apoderando de todos modos.",
+      "d": "Virginia Occidental quiere más centros de datos, incluso cuando otros estados los frenan.",
+      "u": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39472747",
+      "published": "2026-10-30T15:14:00+00:00"
+    },
+    {
+      "h": "Exxon, Chevron earnings propelled by war-driven refining surge",
+      "es": "Ganancias de Exxon y Chevron impulsadas por aumento de refinación impulsado por la guerra",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0Y9_L.jpg",
+      "published": "2026-10-30T15:13:12+00:00"
+    },
+    {
+      "h": "FedEx Freight shares surge as analysts back growth targets after quarterly beat",
+      "es": "Las acciones de FedEx Freight suben a medida que los analistas respaldan los objetivos de crecimiento después del ritmo trimestral",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fedex-freight-shares-surge-as-analysts-back-growth-targets-after-quarterly-beat-4988218",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1HZ_L.jpg",
+      "published": "2026-10-30T15:12:57+00:00"
+    },
+    {
+      "h": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+      "es": "Nasdaq se enfrenta a una caída de 2 billones de dólares en octubre a medida que se profundizan los temores sobre el gasto en IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen-4988211",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1J0_L.jpg",
+      "published": "2026-10-30T15:12:29+00:00"
+    },
+    {
+      "h": "INTC next support level after a 28% drop",
+      "es": "INTC siguiente nivel de soporte después de una caída del 28%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intc-next-support-level-after-a-28-drop-93CH-4988209",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7A0R8_1200_L.jpg",
+      "published": "2026-10-30T15:11:10+00:00"
+    },
+    {
+      "h": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.98%",
+      "es": "Las bolsas de Marruecos cierran a la baja; Todas las acciones marroquíes bajan un 0,98%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-098-4988208",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "published": "2026-10-30T15:10:04+00:00"
+    },
+    {
+      "h": "RBC Capital cuts Medical Properties Trust to Underperform on tenant risks",
+      "es": "RBC Capital recorta el fideicomiso de propiedades médicas para tener un rendimiento inferior al de los riesgos de los inquilinos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rbc-capital-cuts-medical-properties-trust-to-underperform-on-tenant-risks-4988205",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
+      "published": "2026-10-30T15:08:07+00:00"
+    },
+    {
+      "h": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+      "es": "El banco central suizo registra ganancias extraordinarias de 23.000 millones de dólares gracias al oro y los activos extranjeros",
+      "d": "A diferencia de otros bancos centrales importantes, el Banco Nacional Suizo tiene una importante cartera de acciones.",
+      "u": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T15:07:48+00:00"
+    },
+    {
+      "h": "RDDT support levels to watch as shares test fresh lows",
+      "es": "Niveles de soporte de RDDT a tener en cuenta mientras las acciones prueban nuevos mínimos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rddt-support-levels-to-watch-as-shares-test-fresh-lows-93CH-4988201",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9S0WS_L.jpg",
+      "published": "2026-10-30T15:05:56+00:00"
+    },
+    {
+      "h": "US tech stocks see sharp falls over AI cost concerns",
+      "es": "Las acciones tecnológicas estadounidenses sufren fuertes caídas por las preocupaciones sobre los costes de la IA",
+      "d": "Las acciones de Intel han seguido cayendo mientras el Nasdaq, de gran tecnología, abre en su nivel más bajo en más de dos meses.",
+      "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "published": "2026-10-30T15:01:56+00:00"
+    },
+    {
+      "h": "Oracle near-term outlook: bull and bear cases as AI backlog meets debt burden",
+      "es": "Perspectiva a corto plazo de Oracle: casos alcistas y bajistas a medida que la acumulación de IA se enfrenta a la carga de la deuda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/oracle-nearterm-outlook-bull-and-bear-cases-as-ai-backlog-meets-debt-burden-93CH-4988199",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
+      "published": "2026-10-30T15:01:30+00:00"
+    },
+    {
+      "h": "Why is Micron Technology stock sliding today?",
+      "es": "¿Por qué las acciones de Micron Technology están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-sliding-today-93CH-4988179",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Micron_800x533_L_1634733971.jpg",
+      "published": "2026-10-30T14:56:34+00:00"
+    },
+    {
+      "h": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+      "es": "Departamento del Tesoro anuncia nueva tasa de bonos Serie I de 5,51% para los próximos seis meses",
+      "d": "El Departamento del Tesoro de Estados Unidos ha anunciado nuevas tasas de los bonos Serie I hasta abril de 2027.",
+      "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T14:53:12+00:00"
+    },
+    {
+      "h": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "es": "Apuesta por la democracia: dentro de los contratos electorales sospechosos que se negocian en los mercados de predicción",
+      "d": "El hecho de que los mercados de predicción no hayan convocado correctamente una primaria en Los Ángeles planteó la posibilidad de que puedan ser manipulados para exagerar la cantidad de apoyo que tienen los candidatos.",
+      "u": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T14:46:54+00:00"
+    },
+    {
+      "h": "Reddit shares on track for biggest-ever one-day drop. It’s not the last of the bad news, analysts say.",
+      "es": "Las acciones de Reddit van camino de la mayor caída en un día de la historia. Esta no es la última de las malas noticias, dicen los analistas.",
+      "d": "Las acciones de la plataforma de discusión en línea cayeron un 25% el viernes por la mañana después de que la compañía publicara unas perspectivas de ingresos inferiores a las esperadas.",
+      "u": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-46677894",
+      "published": "2026-10-30T14:43:00+00:00"
+    },
+    {
+      "h": "This strategist correctly recommended shorting Big Tech debt last year. Now he says the yields make it attractive.",
+      "es": "Este estratega recomendó correctamente acortar la deuda de las Big Tech el año pasado. Ahora dice que los rendimientos lo hacen atractivo.",
+      "d": "Los rendimientos que oscilan entre el 6% y el 8% de los bonos tecnológicos ofrecen más competencia que antes contra las acciones.",
+      "u": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-16611925",
+      "published": "2026-10-30T14:30:00+00:00"
+    },
     {
       "h": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
       "es": "Es el mercado laboral más extraño que Estados Unidos haya visto jamás. La economía de baja contratación y baja contratación cumple 3 años.",
@@ -9,6 +171,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-56427244",
       "published": "2026-10-30T14:22:00+00:00"
+    },
+    {
+      "h": "This one chart tells you everything you need to know about Exxon, Chevron and BP’s forecast-beating earnings",
+      "es": "Este gráfico le dice todo lo que necesita saber sobre las ganancias que superan las previsiones de Exxon, Chevron y BP.",
+      "d": "Una diapositiva en la presentación para inversionistas de ExxonMobil después de sus ganancias del tercer trimestre explica muy claramente la situación financiera de los gigantes petroleros integrados.",
+      "u": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-48786756",
+      "published": "2026-10-30T14:17:00+00:00"
     },
     {
       "h": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
@@ -99,177 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
       "published": "2026-10-30T13:56:26+00:00"
-    },
-    {
-      "h": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
-      "es": "Las bolsas europeas caen mientras Amazon e Intel avivan los temores de quema de efectivo por parte de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-dip-as-amazon-intel-stoke-ai-cashburn-fears-4985916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "published": "2026-10-30T13:52:45+00:00"
-    },
-    {
-      "h": "Nasdaq tumbles at open as Amazon, Intel add to AI spending woes",
-      "es": "Nasdaq se desploma en apertura mientras Amazon e Intel se suman a los problemas de gasto en IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-tumbles-at-open-as-amazon-intel-add-to-ai-spending-woes-4988016",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1CW_L.jpg",
-      "published": "2026-10-30T13:48:22+00:00"
-    },
-    {
-      "h": "Intel plummets over 28% as weak forecast overshadows earnings beat",
-      "es": "Intel se desploma más del 28% mientras las débiles previsiones eclipsan las ganancias",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7A0R8_1200_L.jpg",
-      "published": "2026-10-30T13:44:28+00:00"
-    },
-    {
-      "h": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "es": "El costo del dinero en sí está en las boletas mientras los votantes luchan con costosos préstamos para automóviles, hipotecas y deudas de tarjetas de crédito.",
-      "d": "Casi nueve de cada 10 votantes (88%) dicen que les preocupa que la deuda nacional esté aumentando sus propios costos de endeudamiento.",
-      "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-47992570",
-      "published": "2026-10-30T13:42:00+00:00"
-    },
-    {
-      "h": "General Dynamics tops quarterly estimates on robust Gulfstream, marine bookings",
-      "es": "General Dynamics supera las estimaciones trimestrales sobre las sólidas reservas marítimas y de Gulfstream",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/general-dynamics-tops-quarterly-estimates-on-robust-gulfstream-marine-bookings-4987898",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T11F_L.jpg",
-      "published": "2026-10-30T13:36:34+00:00"
-    },
-    {
-      "h": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "es": "Las ventas de Starbucks no cumplen con las expectativas, pero su recuperación en Estados Unidos está ganando fuerza",
-      "d": "Las tiendas de Starbucks en Estados Unidos superaron las expectativas de ventas comparables de Wall Street, pero su negocio internacional no cumplió con las estimaciones.",
-      "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-30T13:29:50+00:00"
-    },
-    {
-      "h": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "es": "'Mal momento para trollear': el cofundador de Binance, Changpeng Zhao, le pide 'respeto' a Elon Musk después de una publicación sobre el hack de bitcoin",
-      "d": "El cofundador de Binance, Changpeng Zhao, pidió a Elon Musk que dejara de “trollear” después de un hackeo de 6.300 millones de dólares, señalando la participación de Binance en SpaceX, de más de 1.000 millones de dólares.",
-      "u": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T13:29:34+00:00"
-    },
-    {
-      "h": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
-      "es": "Los votantes de la Generación Z nos dijeron que las elecciones intermedias se reducen a permitirse la vida, mientras las causas sociales pasan a un segundo plano",
-      "d": "MarketWatch habló con votantes más jóvenes que dijeron que muchos objetivos de vida parecen inalcanzables para su generación.",
-      "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40274543",
-      "published": "2026-10-30T13:26:00+00:00"
-    },
-    {
-      "h": "AMD’s stock slides after Intel earnings reveal two big issues",
-      "es": "Las acciones de AMD caen después de que las ganancias de Intel revelan dos grandes problemas",
-      "d": "Intel está luchando por fabricar suficientes chips para servidores de inteligencia artificial y lidiando con un mercado de PC débil. Los inversores pronto descubrirán hasta qué punto AMD sufre los mismos problemas.",
-      "u": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-06307348",
-      "published": "2026-10-30T13:17:00+00:00"
-    },
-    {
-      "h": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-      "es": "Esta tarjeta de crédito es la “mejor arma” para luchar contra la deuda mientras los tipos de interés siguen subiendo",
-      "d": "Después del aumento de tasas de septiembre y otro aumento proyectado en diciembre, se espera que los costos de endeudamiento sigan aumentando para los estadounidenses que tienen un saldo de tarjeta de crédito.",
-      "u": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-84410704",
-      "published": "2026-10-30T13:16:00+00:00"
-    },
-    {
-      "h": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-      "es": "Mi padre tiene Alzheimer temprano y su cuidador está usando su tarjeta de débito para DoorDash. ¿Qué puedo hacer?",
-      "d": "\"Sospecho que el cuidador interno se está beneficiando de la generosidad de mis padres\".",
-      "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-55748968",
-      "published": "2026-10-30T13:15:00+00:00"
-    },
-    {
-      "h": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
-      "es": "Bitcoin cae tras el escenario de pesadilla de las criptomonedas: un atraco histórico de 6.300 millones de dólares",
-      "d": "Binance ha prometido recuperar el intercambio en un par de días después de un robo récord de 6.300 millones de dólares, que ha sacudido a la industria y a los inversores.",
-      "u": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-53476673",
-      "published": "2026-10-30T13:13:00+00:00"
-    },
-    {
-      "h": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
-      "es": "Los piratas informáticos roban 6.300 millones de dólares de Binance en el mayor robo de criptomonedas de la historia",
-      "d": "Más tarde, la compañía agregó que comenzó a recuperar los activos afectados por la violación después de comprometerse a cubrir las pérdidas utilizando su Fondo de Activos Seguros para Usuarios.",
-      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T13:11:14+00:00"
-    },
-    {
-      "h": "Amadeus It Group shares may move 2.5% on earnings release",
-      "es": "Las acciones de Amadeus It Group podrían subir un 2,5% tras la publicación de resultados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amadeus-it-group-shares-may-move-25-on-earnings-release-93CH-4987772",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-30T13:09:25+00:00"
-    },
-    {
-      "h": "Aperam stock may move 5.4% on Nov. 6 earnings release",
-      "es": "Las acciones de Aperam pueden moverse un 5,4% en la publicación de resultados del 6 de noviembre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aperam-stock-may-move-54-on-nov-6-earnings-release-93CH-4987752",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-10-30T13:08:20+00:00"
-    },
-    {
-      "h": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
-      "es": "Bayer gana el juicio contra el cáncer por el herbicida Roundup mientras espera el fallo del acuerdo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T02L_L.jpg",
-      "published": "2026-10-30T13:06:38+00:00"
-    },
-    {
-      "h": "TSX futures point lower as U.S. tech earnings spur AI jitters",
-      "es": "Los futuros del TSX apuntan a la baja a medida que las ganancias tecnológicas de EE. UU. estimulan el nerviosismo de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-point-lower-as-us-tech-earnings-spur-ai-jitters-4987700",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "published": "2026-10-30T13:02:10+00:00"
-    },
-    {
-      "h": "Top insider buys and sells disclosed on Thursday",
-      "es": "Principales compras y ventas de información privilegiada reveladas el jueves",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-on-thursday-93CH-4987692",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-10-30T13:00:54+00:00"
-    },
-    {
-      "h": "Yorkshire Water boss resigns after firm downgraded",
-      "es": "El jefe de Yorkshire Water dimite tras la rebaja de calificación de la empresa",
-      "d": "Se anuncia que Nicola Shaw, que dirige la empresa desde 2022, dejará su cargo en enero.",
-      "u": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-30T12:57:13+00:00"
     }
   ],
   "sources": [
