@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-30T18:23:58.744372+00:00",
+  "updated": "2026-10-30T19:17:02.812309+00:00",
   "news": [
+    {
+      "h": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
+      "es": "Meta llega a un acuerdo con un adolescente durante las pruebas de prueba que afirman que las redes sociales causaron depresión y trastornos alimentarios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-settles-with-teen-during-trial-testing-claims-social-media-caused-depression-eating-disorders-4988301",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1LD_L.jpg",
+      "published": "2026-10-30T19:07:14+00:00"
+    },
+    {
+      "h": "Vail Resorts’ biggest investor backs company in fight with activist Oasis",
+      "es": "El mayor inversor de Vail Resorts respalda a la empresa en su lucha con el activista Oasis",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/vail-resorts-biggest-investor-backs-company-in-fight-with-activist-oasis-4988370",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1OO_L.jpg",
+      "published": "2026-10-30T19:06:59+00:00"
+    },
+    {
+      "h": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+      "es": "La tecnología es aplastada, las acciones defensivas brillan. Cómo le estamos dando sentido a todo",
+      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:55:44+00:00"
+    },
+    {
+      "h": "Is your crypto safe? What Binance’s $6.3 billion hack means for bitcoin investors.",
+      "es": "¿Tu criptografía es segura? Lo que significa el hackeo de 6.300 millones de dólares de Binance para los inversores en bitcoins.",
+      "d": "Una mirada a qué tan seguro está realmente su dinero cuando incluso el intercambio de criptomonedas más grande del mundo puede verse afectado",
+      "u": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-53476673",
+      "published": "2026-10-30T18:50:00+00:00"
+    },
+    {
+      "h": "Nasdaq slides nearly 4%, set for worst month since March 2025 as AI trade suffers",
+      "es": "Nasdaq cae casi un 4% y se encamina al peor mes desde marzo de 2025 a medida que el comercio de IA se ve afectado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
+      "published": "2026-10-30T18:49:15+00:00"
+    },
+    {
+      "h": "Cheaper cars are selling considerably faster than at the beginning of the year",
+      "es": "Los coches más baratos se venden mucho más rápido que a principios de año",
+      "d": "Los datos indican que los autos baratos se están vendiendo rápidamente, pero algunos segmentos de precios más bajos aún vieron caer las ventas en el tercer trimestre. Esto es lo que podría estar pasando.",
+      "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:45:35+00:00"
+    },
+    {
+      "h": "Bank of America sued over mandatory arbitration for employee disputes",
+      "es": "Bank of America demandado por arbitraje obligatorio para disputas laborales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bank-of-america-sued-over-mandatory-arbitration-for-employee-disputes-4988505",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1VH_L.jpg",
+      "published": "2026-10-30T18:36:27+00:00"
+    },
+    {
+      "h": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+      "es": "Reid Hoffman da millones a los demócratas en una ola de gastos tardía mientras la pelea con Epstein llega a las elecciones",
+      "d": "Reid Hoffman ha donado 8 millones de dólares a los demócratas de Wisconsin que respaldan a David Crowley mientras Tom Tiffany ataca los vínculos pasados ​​de Hoffman con Jeffrey Epstein.",
+      "u": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:32:17+00:00"
+    },
+    {
+      "h": "CD&R explores deal to take payments processor Global Payments private, source says",
+      "es": "CD&R explora un acuerdo para privatizar el procesador de pagos Global Payments, dice una fuente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1PH_L.jpg",
+      "published": "2026-10-30T18:30:34+00:00"
+    },
+    {
+      "h": "Wall Street slides as AI cash burn worries spark tech selloff",
+      "es": "Wall Street cae mientras las preocupaciones sobre la quema de efectivo de la IA provocan una liquidación tecnológica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0NT_L.jpg",
+      "published": "2026-10-30T18:30:19+00:00"
+    },
+    {
+      "h": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "es": "Mi padre tiene Alzheimer y su cuidador está usando su tarjeta de débito para DoorDash. ¿Intervengo?",
+      "d": "\"Sospecho que el cuidador interno se está beneficiando de la generosidad de mis padres\".",
+      "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-12441339",
+      "published": "2026-10-30T18:30:00+00:00"
+    },
+    {
+      "h": "Top oil & gas exploration stocks, according to Mizuho",
+      "es": "Principales acciones de exploración de petróleo y gas, según Mizuho",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/top-oil--gas-exploration-stocks-according-to-mizuho-4988492",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18J_1200_L.jpg",
+      "published": "2026-10-30T18:20:56+00:00"
+    },
+    {
+      "h": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+      "es": "Senado de Alaska: Juez acelera nuevas ofertas para desestimar la demanda del Departamento de Justicia sobre la segunda candidatura de Sullivan",
+      "d": "El ganador de las elecciones de Alaska podría determinar si los republicanos conservan su mayoría en el Senado de Estados Unidos o si los demócratas toman el control de la cámara.",
+      "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:20:03+00:00"
+    },
     {
       "h": "Wall Street braces for Democratic gains as 2026 midterm election nears",
       "es": "Wall Street se prepara para avances demócratas a medida que se acercan las elecciones de mitad de período de 2026",
@@ -36,6 +153,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-30T18:07:00+00:00"
+    },
+    {
+      "h": "Intel, Reddit among market cap stock movers on Friday",
+      "es": "Intel y Reddit entre los impulsores de la capitalización de mercado el viernes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-reddit-among-market-cap-stock-movers-on-friday-93CH-4988482",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5F1RM_L.jpg",
+      "published": "2026-10-30T18:06:47+00:00"
+    },
+    {
+      "h": "Manufacturing PMI and ISM Manufacturing PMI due Monday",
+      "es": "El PMI manufacturero y el PMI manufacturero ISM se publicarán el lunes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/manufacturing-pmi-and-ism-manufacturing-pmi-due-monday-93CH-4988481",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-10-30T18:00:32+00:00"
     },
     {
       "h": "City of London chief tops UK Black Powerlist",
@@ -110,6 +245,15 @@
       "published": "2026-10-30T17:40:00+00:00"
     },
     {
+      "h": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "es": "El gigante criptográfico Binance intenta recuperar 6.300 millones de dólares robados en un hack vinculado a Corea del Norte",
+      "d": "Se cree que el ciberataque, que la empresa describe como complejo, es el mayor jamás realizado en su tipo.",
+      "u": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-30T17:39:43+00:00"
+    },
+    {
       "h": "Ford targets 20% sales jump by 2032 to 5 million cars annually - report",
       "es": "Ford apunta a un aumento del 20% en las ventas para 2032, hasta 5 millones de automóviles al año: informe",
       "d": "",
@@ -126,150 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-19597462",
       "published": "2026-10-30T17:32:00+00:00"
-    },
-    {
-      "h": "European shares stumble at end of best month since June on AI worries",
-      "es": "European shares stumble at end of best month since June on AI worries",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0MT_L.jpg",
-      "published": "2026-10-30T17:30:22+00:00"
-    },
-    {
-      "h": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
-      "es": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0Y9_L.jpg",
-      "published": "2026-10-30T17:24:37+00:00"
-    },
-    {
-      "h": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-      "es": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-      "d": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
-      "u": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T17:21:47+00:00"
-    },
-    {
-      "h": "ARM vs Qualcomm: growth premium against valuation cushion",
-      "es": "ARM vs Qualcomm: growth premium against valuation cushion",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arm-vs-qualcomm-growth-premium-against-valuation-cushion-93CH-4988447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
-      "published": "2026-10-30T17:21:27+00:00"
-    },
-    {
-      "h": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "es": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "d": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13598905",
-      "published": "2026-10-30T17:21:00+00:00"
-    },
-    {
-      "h": "Why is Arm stock tumbling today?",
-      "es": "Why is Arm stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-tumbling-today-93CH-4988444",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-10-30T17:19:39+00:00"
-    },
-    {
-      "h": "Why is Qualcomm stock tumbling today?",
-      "es": "Why is Qualcomm stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-tumbling-today-93CH-4988443",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAB0OY_M.jpg",
-      "published": "2026-10-30T17:16:50+00:00"
-    },
-    {
-      "h": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-      "es": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-      "d": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-      "u": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T17:15:53+00:00"
-    },
-    {
-      "h": "The big winners of the tech wreck are biopharma stocks",
-      "es": "The big winners of the tech wreck are biopharma stocks",
-      "d": "The shares of large drugmakers like Lilly, Gilead and J&J keep hitting record highs.",
-      "u": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-34282823",
-      "published": "2026-10-30T17:13:00+00:00"
-    },
-    {
-      "h": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "es": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "d": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
-      "u": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T17:12:59+00:00"
-    },
-    {
-      "h": "Intel on course for worst day ever, triggers global chip rout",
-      "es": "Intel on course for worst day ever, triggers global chip rout",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T13K_L.jpg",
-      "published": "2026-10-30T17:12:55+00:00"
-    },
-    {
-      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.02%",
-      "es": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.02%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-002-4988432",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBB70GR_M.jpg",
-      "published": "2026-10-30T17:09:09+00:00"
-    },
-    {
-      "h": "Spain stocks lower at close of trade; IBEX 35 down 1.09%",
-      "es": "Spain stocks lower at close of trade; IBEX 35 down 1.09%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-109-4988430",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA610DB_M.jpg",
-      "published": "2026-10-30T17:08:43+00:00"
-    },
-    {
-      "h": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-      "es": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-      "d": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-      "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T16:55:41+00:00"
-    },
-    {
-      "h": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat",
-      "es": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-revises-china-jewelry-stocks-amid-gold-price-retreat-4988393",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL2D0XH_L.jpg",
-      "published": "2026-10-30T16:55:12+00:00"
-    },
-    {
-      "h": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
-      "es": "Musalem de la Fed de St. Louis: Se necesita otra subida de tipos \"pronto\"",
-      "d": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady.",
-      "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T16:54:37+00:00"
     }
   ],
   "sources": [
