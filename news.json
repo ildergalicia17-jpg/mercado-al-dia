@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-30T20:40:45.131354+00:00",
+  "updated": "2026-10-30T21:18:44.938838+00:00",
   "news": [
+    {
+      "h": "Intel on course for worst day ever, triggers global chip rout",
+      "es": "Intel on course for worst day ever, triggers global chip rout",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T13K_L.jpg",
+      "published": "2026-10-30T20:55:02+00:00"
+    },
+    {
+      "h": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "es": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "d": "Many Big Tech stocks were hit hard but the S&P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "u": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-70367621",
+      "published": "2026-10-30T20:52:00+00:00"
+    },
+    {
+      "h": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "es": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "d": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+      "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37901280",
+      "published": "2026-10-30T20:48:00+00:00"
+    },
+    {
+      "h": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "es": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes-4986163",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0NT_L.jpg",
+      "published": "2026-10-30T20:43:08+00:00"
+    },
+    {
+      "h": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+      "es": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen-4988211",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1J0_L.jpg",
+      "published": "2026-10-30T20:42:30+00:00"
+    },
+    {
+      "h": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "es": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "d": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "u": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-46677894",
+      "published": "2026-10-30T20:42:00+00:00"
+    },
     {
       "h": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
       "es": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
@@ -9,6 +63,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-30T20:38:12+00:00"
+    },
+    {
+      "h": "October ends with a thud for Intel, Reddit, AI stalwarts",
+      "es": "October ends with a thud for Intel, Reddit, AI stalwarts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts-4988666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T20X_L.jpg",
+      "published": "2026-10-30T20:37:01+00:00"
     },
     {
       "h": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -20,6 +83,15 @@
       "published": "2026-10-30T20:34:46+00:00"
     },
     {
+      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.09%",
+      "es": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.09%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-109-4988649",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
+      "published": "2026-10-30T20:31:09+00:00"
+    },
+    {
       "h": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
       "es": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
       "d": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
@@ -27,6 +99,33 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-30T20:30:57+00:00"
+    },
+    {
+      "h": "McDonald’s must face lawsuit over McRib, US judge rules",
+      "es": "McDonald’s must face lawsuit over McRib, US judge rules",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mcdonalds-must-face-lawsuit-overmcrib-us-judge-rules-4988646",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T20E_L.jpg",
+      "published": "2026-10-30T20:30:46+00:00"
+    },
+    {
+      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.74%",
+      "es": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.74%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-174-4988645",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
+      "published": "2026-10-30T20:30:36+00:00"
+    },
+    {
+      "h": "Brazil stocks lower at close of trade; Bovespa down 0.75%",
+      "es": "Brazil stocks lower at close of trade; Bovespa down 0.75%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-075-4988639",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/BrazilStockMarketBovespa_800x533_L_1464528351.jpg",
+      "published": "2026-10-30T20:30:04+00:00"
     },
     {
       "h": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
@@ -110,6 +209,15 @@
       "published": "2026-10-30T20:10:56+00:00"
     },
     {
+      "h": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+      "es": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+      "d": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
+      "u": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T20:02:45+00:00"
+    },
+    {
       "h": "S&P 500 November seasonality: historical trends and this year’s context",
       "es": "S&P 500 November seasonality: historical trends and this year’s context",
       "d": "",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1WS_L.jpg",
       "published": "2026-10-30T19:42:27+00:00"
-    },
-    {
-      "h": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-      "es": "Binance pierde $6.3 mil millones en robo de criptomonedas: ¿qué sucede con su dinero cuando un intercambio es pirateado?",
-      "d": "Los intercambios de cifrado facilitan la compra, venta y almacenamiento de activos digitales, pero también conllevan riesgos.",
-      "u": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T19:39:46+00:00"
-    },
-    {
-      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
-      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
-      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24279758",
-      "published": "2026-10-30T19:39:00+00:00"
-    },
-    {
-      "h": "Wage growth hits 5-year low as American workers find their take-home pay is ‘stretched thinner and thinner’",
-      "es": "Wage growth hits 5-year low as American workers find their take-home pay is ‘stretched thinner and thinner’",
-      "d": "Worker compensation grows slower than inflation for second straight quarter",
-      "u": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-96229103",
-      "published": "2026-10-30T19:39:00+00:00"
-    },
-    {
-      "h": "This is where most people go wrong in their 30s and 40s",
-      "es": "Aquí es donde la mayoría de las personas se equivocan entre los 30 y los 40 años.",
-      "d": "Estas grandes decisiones de vida determinarán qué tan bien se jubilará.",
-      "u": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-15921386",
-      "published": "2026-10-30T19:37:00+00:00"
-    },
-    {
-      "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "es": "Los cuidadores ahora gastan más de $11,000 al año de su bolsillo, un 60 % más en cinco años.",
-      "d": "Un estudio de AARP muestra los sacrificios financieros que hacen las familias y sus impactos a largo plazo.",
-      "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86491605",
-      "published": "2026-10-30T19:37:00+00:00"
-    },
-    {
-      "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-      "es": "¿Qué le dio a esta ciudad su corona de “mejor lugar para jubilarse”? De hecho, puedes permitirte el lujo de vivir allí.",
-      "d": "Bajo costo de vida, alta calidad de vida e impuestos favorables para los jubilados, para ganar.",
-      "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-51699751",
-      "published": "2026-10-30T19:33:00+00:00"
-    },
-    {
-      "h": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-      "es": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-      "d": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
-      "u": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T19:27:03+00:00"
-    },
-    {
-      "h": "US approves $2.1 billion Patriot missile sale to Ukraine",
-      "es": "Estados Unidos aprueba la venta de misiles Patriot a Ucrania por valor de 2.100 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-93CH-4988537",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-10-30T19:23:03+00:00"
-    },
-    {
-      "h": "Nasdaq 100 in freefall below all MAs after Bear Flag: Live levels",
-      "es": "Nasdaq 100 en caída libre por debajo de todas las MA después de Bear Flag: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-10-30T19:19:03+00:00"
-    },
-    {
-      "h": "Alphabet C in freefall after gap-down: Live bear levels",
-      "es": "Alfabeto C en caída libre después de la caída: niveles bajistas vivos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-10-30T19:19:02+00:00"
-    },
-    {
-      "h": "Tesla cools from $410 highs with momentum fading: Hourly",
-      "es": "Tesla se enfría desde máximos de $ 410 y el impulso se desvanece: cada hora",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEE310Y8_M.jpg",
-      "published": "2026-10-30T19:18:59+00:00"
-    },
-    {
-      "h": "Dow Jones breaks below key MAs: Live levels",
-      "es": "Dow Jones cae por debajo de las MA clave: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-10-30T19:18:55+00:00"
     }
   ],
   "sources": [
