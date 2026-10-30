@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-30T03:21:51.696078+00:00",
+  "updated": "2026-10-30T04:13:49.951993+00:00",
   "news": [
+    {
+      "h": "Gift Nifty 50 tests 200 SMA resistance with overbought MFI: Live",
+      "es": "Gift Nifty 50 tests 200 SMA resistance with overbought MFI: Live",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-breaks-618-fib-targets-22205-live-levels-93CH-4971374",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-10-30T04:02:32+00:00"
+    },
+    {
+      "h": "US plans to ban Chinese telecom firms from direct access to US phone numbers",
+      "es": "US plans to ban Chinese telecom firms from direct access to US phone numbers",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-plans-to-ban-chinese-telecom-firms-from-direct-access-to-us-phone-numbers-4985764",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2N1_L.jpg",
+      "published": "2026-10-30T03:48:46+00:00"
+    },
+    {
+      "h": "Coinbase returns to profit as crypto investment gains offset trading weakness",
+      "es": "Coinbase returns to profit as crypto investment gains offset trading weakness",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
+      "published": "2026-10-30T03:42:43+00:00"
+    },
+    {
+      "h": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "es": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "d": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
+      "u": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T03:38:24+00:00"
+    },
+    {
+      "h": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+      "es": "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-spending-concerns-deepen-boj-holds-rates-4985759",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R07D_M.jpg",
+      "published": "2026-10-30T03:36:15+00:00"
+    },
+    {
+      "h": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+      "es": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+      "d": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
+      "u": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T03:28:10+00:00"
+    },
     {
       "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
       "es": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
@@ -9,6 +63,33 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-51699751",
       "published": "2026-10-30T03:16:00+00:00"
+    },
+    {
+      "h": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "es": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road-4985581",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PQ_L.jpg",
+      "published": "2026-10-30T03:12:24+00:00"
+    },
+    {
+      "h": "Our AI knew it: +72%, +60%, +59% - these picks are still climbing into Q3 results",
+      "es": "Our AI knew it: +72%, +60%, +59% - these picks are still climbing into Q3 results",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-72-60-59--these-picks-are-still-climbing-into-q3-results-4985747",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
+      "published": "2026-10-30T03:10:14+00:00"
+    },
+    {
+      "h": "AI-picked IT services name up 15%+ this month - November’s list drops soon",
+      "es": "AI-picked IT services name up 15%+ this month - November’s list drops soon",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/aipicked-it-services-name-up-15-this-month--novembers-list-drops-soon-4985746",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721MT_L.jpg",
+      "published": "2026-10-30T03:06:25+00:00"
     },
     {
       "h": "Aspen Neuroscience prices IPO at $15 per share on Nasdaq",
@@ -189,87 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-01171452",
       "published": "2026-10-30T00:14:00+00:00"
-    },
-    {
-      "h": "How elections worldwide are testing Trump’s influence abroad",
-      "es": "Cómo las elecciones en todo el mundo están poniendo a prueba la influencia de Trump en el exterior",
-      "d": "Las recientes derrotas electorales de líderes vinculados a Trump han generado dudas sobre si su influencia sobre la derecha global se está debilitando.",
-      "u": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T00:13:22+00:00"
-    },
-    {
-      "h": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "es": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "d": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&P 500.",
-      "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04029946",
-      "published": "2026-10-30T00:06:00+00:00"
-    },
-    {
-      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05792524",
-      "published": "2026-10-30T00:05:00+00:00"
-    },
-    {
-      "h": "Microsoft expects to raise $25 billion in US bond sale, source says",
-      "es": "Microsoft expects to raise $25 billion in US bond sale, source says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1HI_L.jpg",
-      "published": "2026-10-30T00:00:54+00:00"
-    },
-    {
-      "h": "From workshops to the catwalk - why mended clothes are going mainstream",
-      "es": "From workshops to the catwalk - why mended clothes are going mainstream",
-      "d": "A new generation is embracing eye-catching patching and visible mends.",
-      "u": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-10-30T00:00:35+00:00"
-    },
-    {
-      "h": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-      "es": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-      "d": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
-      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T23:56:02+00:00"
-    },
-    {
-      "h": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
-      "es": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
-      "d": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
-      "u": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49250014",
-      "published": "2026-10-29T23:55:00+00:00"
-    },
-    {
-      "h": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy",
-      "es": "Japan’s beleaguered shoppers are a worry for convenience stores and the economy",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japans-beleaguered-shoppers-are-a-worry-for-convenience-stores-and-the-economy-4985612",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2S7_L.jpg",
-      "published": "2026-10-29T23:54:21+00:00"
-    },
-    {
-      "h": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
-      "es": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
-      "d": "The coffee chain is showing improved profitability, chipping away at part of the bear case.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/starbucks-serves-up-a-solid-quarter-and-full-year-outlook-why-were-staying-invested.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T23:44:27+00:00"
     }
   ],
   "sources": [
