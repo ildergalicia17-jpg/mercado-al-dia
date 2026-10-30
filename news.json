@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-29T23:23:08.122605+00:00",
+  "updated": "2026-10-30T00:00:02.513627+00:00",
   "news": [
+    {
+      "h": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
+      "es": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
+      "d": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+      "u": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-49250014",
+      "published": "2026-10-29T23:55:00+00:00"
+    },
+    {
+      "h": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
+      "es": "Starbucks serves up a solid quarter and full-year outlook. Why we're staying invested",
+      "d": "The coffee chain is showing improved profitability, chipping away at part of the bear case.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/starbucks-serves-up-a-solid-quarter-and-full-year-outlook-why-were-staying-invested.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-29T23:44:27+00:00"
+    },
+    {
+      "h": "Reddit puts logged in experience first as Google AI hits traffic",
+      "es": "Reddit puts logged in experience first as Google AI hits traffic",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2I4_L.jpg",
+      "published": "2026-10-29T23:42:22+00:00"
+    },
+    {
+      "h": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "es": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road-4985581",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PQ_L.jpg",
+      "published": "2026-10-29T23:30:29+00:00"
+    },
     {
       "h": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
       "es": "Algunos fondos de usuarios de Polymarket robados por piratas informáticos; intercambio remitiendo el asunto a las autoridades del Reino Unido",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
       "published": "2026-10-29T21:38:21+00:00"
-    },
-    {
-      "h": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-      "es": "Los ingresos netos de Coinbase aumentan un 66% en el tercer trimestre, beneficiándose de las ganancias de la inversión en bitcoins",
-      "d": "Coinbase registró ganancias mejores de lo esperado en el tercer trimestre, en gran parte debido a una recuperación en el mercado de las criptomonedas.",
-      "u": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T21:38:16+00:00"
-    },
-    {
-      "h": "Why is Strategy stock sliding today?",
-      "es": "¿Por qué las acciones de Strategy están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4985380",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
-      "published": "2026-10-29T21:36:39+00:00"
-    },
-    {
-      "h": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
-      "es": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
-      "published": "2026-10-29T21:36:38+00:00"
-    },
-    {
-      "h": "Why is Roblox stock plunging today?",
-      "es": "¿Por qué se están desplomando las acciones de Roblox hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-plunging-today-93CH-4985377",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Roblox_800x533_L_1644999130.jpg",
-      "published": "2026-10-29T21:35:48+00:00"
     }
   ],
   "sources": [
