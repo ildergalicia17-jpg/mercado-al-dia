@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-30T04:13:49.951993+00:00",
+  "updated": "2026-10-30T05:02:55.044651+00:00",
   "news": [
+    {
+      "h": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "es": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "d": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T04:40:17+00:00"
+    },
+    {
+      "h": "Foxconn unveils three new EV models as it expands contract manufacturing push",
+      "es": "Foxconn unveils three new EV models as it expands contract manufacturing push",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/foxconn-unveils-three-new-ev-models-as-it-expands-contract-manufacturing-push-4985791",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL2Q10W_L.jpg",
+      "published": "2026-10-30T04:40:10+00:00"
+    },
+    {
+      "h": "Walmart investigates Flipkart over employee kickback claims: Moneycontrol",
+      "es": "Walmart investigates Flipkart over employee kickback claims: Moneycontrol",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/walmart-investigates-flipkart-over-employee-kickback-claims-moneycontrol-93CH-4985790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7805K_M.jpg",
+      "published": "2026-10-30T04:35:59+00:00"
+    },
+    {
+      "h": "Why is Konami stock surging today?",
+      "es": "Why is Konami stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-konami-stock-surging-today-93CH-4985789",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-10-30T04:35:57+00:00"
+    },
+    {
+      "h": "Why is Fujitsu stock crashing today?",
+      "es": "Why is Fujitsu stock crashing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-fujitsu-stock-crashing-today-93CH-4985788",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-10-30T04:35:53+00:00"
+    },
+    {
+      "h": "Why is Oriental Land stock surging today?",
+      "es": "Why is Oriental Land stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-oriental-land-stock-surging-today-93CH-4985787",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-10-30T04:35:50+00:00"
+    },
+    {
+      "h": "Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
+      "es": "Factbox-Where Binance’s $6.3 billion breach ranks in crypto’s biggest hacks and heists",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxwhere-binances-63-billion-breach-ranks-in-cryptos-biggest-hacks-and-heists-4985786",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T09X_L.jpg",
+      "published": "2026-10-30T04:30:20+00:00"
+    },
+    {
+      "h": "Fujitsu shares slump 16% on weak first-half earnings",
+      "es": "Fujitsu shares slump 16% on weak first-half earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fujitsu-shares-slump-16-on-weak-firsthalf-earnings-4985780",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED160AR_M.jpg",
+      "published": "2026-10-30T04:29:28+00:00"
+    },
+    {
+      "h": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+      "es": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-slump-as-ai-rout-deepens-on-disappointing-us-earnings-4985778",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Bearish_2_M_1440047892.jpg",
+      "published": "2026-10-30T04:18:24+00:00"
+    },
     {
       "h": "Gift Nifty 50 tests 200 SMA resistance with overbought MFI: Live",
       "es": "Gift Nifty 50 tests 200 SMA resistance with overbought MFI: Live",
@@ -189,87 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T00Q_L.jpg",
       "published": "2026-10-30T00:48:38+00:00"
-    },
-    {
-      "h": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-      "es": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-      "d": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
-      "u": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
-      "published": "2026-10-30T00:46:41+00:00"
-    },
-    {
-      "h": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-      "es": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-      "d": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-      "u": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-30T00:39:52+00:00"
-    },
-    {
-      "h": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-      "es": "Microsoft planea recaudar 25 mil millones de dólares en deuda mientras busca desarrollar la IA",
-      "d": "Microsoft cuenta con una sólida calificación crediticia y ha logrado mantener un flujo de caja libre positivo, a diferencia de Meta, Alphabet y Amazon.",
-      "u": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T00:38:13+00:00"
-    },
-    {
-      "h": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
-      "es": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
-      "d": "Shares have struggled since their June debut. But this is a nice step forward.",
-      "u": "https://www.cnbc.com/investingclub/2026/10/29/fedex-freight-delivers-a-much-needed-quarterly-beat-where-we-stand-on-shares-now.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-30T00:29:50+00:00"
-    },
-    {
-      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "es": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "d": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
-      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-30T00:28:45+00:00"
-    },
-    {
-      "h": "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
-      "es": "Bambusa Therapeutics prices IPO at $16 per share on Nasdaq",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bambusa-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4985632",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-10-30T00:27:02+00:00"
-    },
-    {
-      "h": "Why is Bitcoin dropping today?",
-      "es": "Why is Bitcoin dropping today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bitcoin-dropping-today-93CH-4985643",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
-      "published": "2026-10-30T00:26:04+00:00"
-    },
-    {
-      "h": "Why is Binance’s BNB crashing today?",
-      "es": "Why is Binance’s BNB crashing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-binances-bnb-crashing-today-93CH-4985642",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
-      "published": "2026-10-30T00:26:01+00:00"
-    },
-    {
-      "h": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-      "es": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-      "d": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-      "u": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-01171452",
-      "published": "2026-10-30T00:14:00+00:00"
     }
   ],
   "sources": [
