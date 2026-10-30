@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T02:32:21.491649+00:00",
+  "updated": "2026-10-30T03:21:51.696078+00:00",
   "news": [
+    {
+      "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "es": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "d": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+      "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-51699751",
+      "published": "2026-10-30T03:16:00+00:00"
+    },
     {
       "h": "Aspen Neuroscience prices IPO at $15 per share on Nasdaq",
       "es": "Aspen Neuroscience prices IPO at $15 per share on Nasdaq",
@@ -9,6 +18,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
       "published": "2026-10-30T02:24:02+00:00"
+    },
+    {
+      "h": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "es": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "d": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+      "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T01:46:36+00:00"
     },
     {
       "h": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
@@ -252,24 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-29T23:44:27+00:00"
-    },
-    {
-      "h": "Reddit puts logged in experience first as Google AI hits traffic",
-      "es": "Reddit puts logged in experience first as Google AI hits traffic",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-4985602",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2I4_L.jpg",
-      "published": "2026-10-29T23:42:22+00:00"
-    },
-    {
-      "h": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
-      "es": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road-4985581",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2PQ_L.jpg",
-      "published": "2026-10-29T23:30:29+00:00"
     }
   ],
   "sources": [
