@@ -1,6 +1,78 @@
 {
-  "updated": "2026-10-30T21:56:14.483262+00:00",
+  "updated": "2026-10-30T22:34:30.086721+00:00",
   "news": [
+    {
+      "h": "Meta outlook revised to negative by S&P on cash flow and capex concerns",
+      "es": "Meta perspectiva revisada a negativa por S&P por preocupaciones sobre flujo de caja y gasto de capital",
+      "d": "S&P Global Ratings le ha dado a Meta una perspectiva negativa debido a los fuertes gastos de capital de la compañía y las preocupaciones sobre el flujo de caja libre.",
+      "u": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T22:27:51+00:00"
+    },
+    {
+      "h": "Fitch revises France’s outlook to ’negative’ on worsening debt dynamics",
+      "es": "Fitch revisa la perspectiva de Francia a \"negativa\" por el empeoramiento de la dinámica de la deuda",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fitch-revises-frances-outlook-to-negative-on-worsening-debt-dynamics-4988846",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T22V_L.jpg",
+      "published": "2026-10-30T22:24:18+00:00"
+    },
+    {
+      "h": "This cybersecurity stock will be the next to join the S&P 500",
+      "es": "Esta acción de ciberseguridad será la próxima en incorporarse al S&P 500",
+      "d": "Está previsto que Okta se una al índice el miércoles, reemplazando a Kenvue.",
+      "u": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-37151738",
+      "published": "2026-10-30T22:20:00+00:00"
+    },
+    {
+      "h": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+      "es": "La próxima semana de Cramer: se espera más volatilidad a medida que se avecinan las ganancias tecnológicas y las elecciones intermedias",
+      "d": "Los inversores esperan los resultados de Apple, AMD y otras empresas importantes, así como las elecciones de mitad de período y el informe mensual de empleo.",
+      "u": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T22:17:13+00:00"
+    },
+    {
+      "h": "Raizen shareholders approve out-of-court restructuring plan",
+      "es": "Los accionistas de Raizen aprueban un plan de reestructuración extrajudicial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/raizen-shareholders-approve-outofcourt-restructuring-plan-93CH-4988828",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-10-30T22:08:32+00:00"
+    },
+    {
+      "h": "Inovio Pharmaceuticals gets FDA approval for first product",
+      "es": "Inovio Pharmaceuticals obtiene la aprobación de la FDA para su primer producto",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-gets-fda-approval-for-first-product-93CH-4988824",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-10-30T22:01:26+00:00"
+    },
+    {
+      "h": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "es": "Apuesta por la democracia: dentro de los contratos electorales sospechosos que se negocian en los mercados de predicción",
+      "d": "CNBC examina los picos de precios inusuales en los mercados de predicción electoral y cómo los contratos de bajo volumen pueden moverse mediante operaciones relativamente pequeñas.",
+      "u": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T22:00:53+00:00"
+    },
+    {
+      "h": "Why is Inovio Pharmaceuticals stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Inovio Pharmaceuticals hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-10-30T21:58:57+00:00"
+    },
     {
       "h": "Fed officials are already saying they’ll need to get back to hiking rates",
       "es": "Los funcionarios de la Fed ya están diciendo que tendrán que volver a subir las tasas",
@@ -9,6 +81,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-30T21:53:10+00:00"
+    },
+    {
+      "h": "Why is Georgia Banking stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Georgia Banking hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-georgia-banking-stock-climbing-today-93CH-4988812",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-30T21:52:40+00:00"
+    },
+    {
+      "h": "Google weighs cybersecurity role in Pentagon’s Golden Dome project - Bloomberg",
+      "es": "Google sopesa el papel de la ciberseguridad en el proyecto Golden Dome del Pentágono - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/google-weighs-cybersecurity-role-in-pentagons-golden-dome-project--bloomberg-4988811",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M1EC_1200_L.jpg",
+      "published": "2026-10-30T21:50:59+00:00"
     },
     {
       "h": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
@@ -74,6 +164,15 @@
       "published": "2026-10-30T21:25:04+00:00"
     },
     {
+      "h": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "es": "Warsh quiere que la Reserva Federal diga menos. Dos funcionarios están presionando por una mayor transparencia.",
+      "d": "Se necesitan más aumentos de las tasas de interés para combatir la inflación, dicen los funcionarios de la Reserva Federal.",
+      "u": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-812380",
+      "published": "2026-10-30T21:23:00+00:00"
+    },
+    {
       "h": "$6.3 billion Binance hack is largest crypto theft on record",
       "es": "El hackeo de Binance por valor de 6.300 millones de dólares es el mayor robo de criptomonedas jamás registrado",
       "d": "Binance dice que una violación de seguridad afectó a unos 6.300 millones de dólares en activos. La bolsa dice que se han congelado aproximadamente 3.000 millones de dólares y que se cubrirán las pérdidas.",
@@ -108,6 +207,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D146_L.jpg",
       "published": "2026-10-30T21:17:53+00:00"
+    },
+    {
+      "h": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "es": "El gigante criptográfico Binance intenta recuperar 6.300 millones de dólares robados en un hack vinculado a Corea del Norte",
+      "d": "Se cree que el ciberataque, que la empresa describe como complejo, es el mayor jamás realizado en su tipo.",
+      "u": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-10-30T21:13:14+00:00"
     },
     {
       "h": "S&P cuts Meta outlook to negative amid capex concerns",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1J0_L.jpg",
       "published": "2026-10-30T20:42:30+00:00"
-    },
-    {
-      "h": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-      "es": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-      "d": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
-      "u": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-46677894",
-      "published": "2026-10-30T20:42:00+00:00"
-    },
-    {
-      "h": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
-      "es": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
-      "d": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
-      "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T20:38:12+00:00"
-    },
-    {
-      "h": "October ends with a thud for Intel, Reddit, AI stalwarts",
-      "es": "October ends with a thud for Intel, Reddit, AI stalwarts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts-4988666",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T20X_L.jpg",
-      "published": "2026-10-30T20:37:01+00:00"
-    },
-    {
-      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "es": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "d": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "published": "2026-10-30T20:34:46+00:00"
-    },
-    {
-      "h": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.09%",
-      "es": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.09%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-109-4988649",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
-      "published": "2026-10-30T20:31:09+00:00"
-    },
-    {
-      "h": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-      "es": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-      "d": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-      "u": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T20:30:57+00:00"
-    },
-    {
-      "h": "McDonald’s must face lawsuit over McRib, US judge rules",
-      "es": "McDonald’s must face lawsuit over McRib, US judge rules",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mcdonalds-must-face-lawsuit-overmcrib-us-judge-rules-4988646",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T20E_L.jpg",
-      "published": "2026-10-30T20:30:46+00:00"
-    },
-    {
-      "h": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.74%",
-      "es": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.74%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-174-4988645",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
-      "published": "2026-10-30T20:30:36+00:00"
-    },
-    {
-      "h": "Brazil stocks lower at close of trade; Bovespa down 0.75%",
-      "es": "Brazil stocks lower at close of trade; Bovespa down 0.75%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-075-4988639",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/BrazilStockMarketBovespa_800x533_L_1464528351.jpg",
-      "published": "2026-10-30T20:30:04+00:00"
-    },
-    {
-      "h": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-      "es": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-      "d": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
-      "u": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-60634029",
-      "published": "2026-10-30T20:29:00+00:00"
-    },
-    {
-      "h": "AMD’s stock slides after Intel earnings reveal two big issues",
-      "es": "AMD’s stock slides after Intel earnings reveal two big issues",
-      "d": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
-      "u": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-06307348",
-      "published": "2026-10-30T20:28:00+00:00"
-    },
-    {
-      "h": "The selloff in tech stocks is shifting into overdrive",
-      "es": "The selloff in tech stocks is shifting into overdrive",
-      "d": "Technology stocks had been priced for perfection. They are now getting hammered.",
-      "u": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-56527182",
-      "published": "2026-10-30T20:26:00+00:00"
     }
   ],
   "sources": [
