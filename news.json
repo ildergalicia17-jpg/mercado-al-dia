@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-30T17:46:32.866493+00:00",
+  "updated": "2026-10-30T18:23:58.744372+00:00",
   "news": [
+    {
+      "h": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+      "es": "Wall Street se prepara para avances demócratas a medida que se acercan las elecciones de mitad de período de 2026",
+      "d": "Los inversores se están preparando para una ola azul en las elecciones de mitad de mandato del martes que determinarán quién controlará el Congreso durante el resto del mandato del presidente Trump.",
+      "u": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:13:52+00:00"
+    },
+    {
+      "h": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "es": "Microsoft está ganando la guerra de la nube y convirtiéndose en el nuevo hijo de oro de Wall Street",
+      "d": "Según los analistas, varios factores indican que Microsoft se encuentra en una mejor posición financiera que sus rivales en la nube.",
+      "u": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-60634029",
+      "published": "2026-10-30T18:09:00+00:00"
+    },
+    {
+      "h": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "es": "Hack de Binance: investigadores en un 'juego del gato y el ratón' para recuperar 6.300 millones de dólares en fondos robados",
+      "d": "Se robaron más de 6 mil millones de dólares en criptomonedas de Binance, lo que desató una carrera para recuperar los fondos antes de que los piratas informáticos vinculados a Corea del Norte puedan lavarlos y convertirlos en efectivo.",
+      "u": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:08:07+00:00"
+    },
+    {
+      "h": "Why bitcoin held up better after the record Binance hack",
+      "es": "Por qué bitcoin se mantuvo mejor después del hack récord de Binance",
+      "d": "Bitcoin cotizaba a la baja alrededor de un 4% el viernes por la tarde, menos de un día después del mayor hackeo de criptomonedas de la historia.",
+      "u": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T18:07:00+00:00"
+    },
+    {
+      "h": "City of London chief tops UK Black Powerlist",
+      "es": "El jefe de la ciudad de Londres encabeza la lista del poder negro del Reino Unido",
+      "d": "Ian Thomas, que dirige la Corporación de la Ciudad de Londres, encabeza la Black Powerlist en su vigésimo primer año.",
+      "u": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
+      "published": "2026-10-30T18:00:24+00:00"
+    },
+    {
+      "h": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "es": "“Tenía el corazón roto”: los hijos de mi marido lo abandonaron cuando agonizaba. ¿Hizo bien en dejarme todo a mí?",
+      "d": "“Al final les dejó algunos recuerdos sentimentales, algunos objetos de colección y fotografías antiguas”.",
+      "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-56448073",
+      "published": "2026-10-30T18:00:00+00:00"
+    },
+    {
+      "h": "Investing.com’s stocks of the week",
+      "es": "Acciones de la semana de Investing.com",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4988477",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM230X4_1200_L.jpg",
+      "published": "2026-10-30T17:58:21+00:00"
+    },
+    {
+      "h": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
+      "es": "OpenAI limitará la información sobre armas para adolescentes en ChatGPT en un esfuerzo por prevenir la violencia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-to-limit-weapons-information-for-teens-on-chatgpt-in-violenceprevention-push-4988471",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1S7_L.jpg",
+      "published": "2026-10-30T17:48:59+00:00"
+    },
+    {
+      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "es": "Las acciones tecnológicas de EE.UU. experimentan fuertes caídas a medida que el gasto en IA se acerca al billón de dólares",
+      "d": "Las acciones de Intel siguen cayendo mientras el Nasdaq, de gran tecnología, abre en su nivel más bajo en más de dos meses.",
+      "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "published": "2026-10-30T17:47:01+00:00"
+    },
+    {
+      "h": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+      "es": "Los trabajadores estadounidenses están descubriendo que su salario neto no está a la altura de la inflación, y sus billeteras están \"cada vez más delgadas\".",
+      "d": "La compensación laboral crece más lentamente que la inflación por segundo trimestre consecutivo",
+      "u": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96229103",
+      "published": "2026-10-30T17:44:00+00:00"
+    },
     {
       "h": "Binance's $6.3bn crypto hack biggest in history",
       "es": "Binance's $6.3bn crypto hack biggest in history",
@@ -9,6 +99,24 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fa/live/c7f7b2b0-d474-11f1-93e1-3b657b665bcf.jpg",
       "published": "2026-10-30T17:41:10+00:00"
+    },
+    {
+      "h": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+      "es": "Una demanda colectiva culpa a los funcionarios de Trump por los retrasos en la condonación de préstamos estudiantiles",
+      "d": "La Federación Estadounidense de Maestros demandó a la administración Trump, alegando que bloqueó ilegalmente la condonación de préstamos estudiantiles a decenas de miles de prestatarios.",
+      "u": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T17:40:00+00:00"
+    },
+    {
+      "h": "Ford targets 20% sales jump by 2032 to 5 million cars annually - report",
+      "es": "Ford apunta a un aumento del 20% en las ventas para 2032, hasta 5 millones de automóviles al año: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ford-targets-20-sales-jump-by-2032-to-5-million-cars-annually--report-4988459",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5O0NH_M.jpg",
+      "published": "2026-10-30T17:35:45+00:00"
     },
     {
       "h": "You can expect the stock market to rally no matter who wins on Election Day",
@@ -162,114 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-30T16:54:37+00:00"
-    },
-    {
-      "h": "Amazon sets up $80 billion supplier financing for AI hardware",
-      "es": "Amazon sets up $80 billion supplier financing for AI hardware",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amazon-sets-up-80-billion-supplier-financing-for-ai-hardware-4988386",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEL380TN_L.jpg",
-      "published": "2026-10-30T16:53:00+00:00"
-    },
-    {
-      "h": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-      "es": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-      "d": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber.",
-      "u": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T16:52:30+00:00"
-    },
-    {
-      "h": "US court reinstates ’Sunday Ticket’ class action verdict against NFL",
-      "es": "US court reinstates ’Sunday Ticket’ class action verdict against NFL",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-court-reinstates-sunday-ticket-class-action-verdict-against-nfl-4988381",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1OT_L.jpg",
-      "published": "2026-10-30T16:50:07+00:00"
-    },
-    {
-      "h": "Chinese wireless firm Quectel accuses Telit of smear campaign in US lawsuit",
-      "es": "Chinese wireless firm Quectel accuses Telit of smear campaign in US lawsuit",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinese-wireless-firm-quectel-accuses-telit-of-smear-campaign-in-us-lawsuit-4988382",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-10-30T16:50:07+00:00"
-    },
-    {
-      "h": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-      "es": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1PH_L.jpg",
-      "published": "2026-10-30T16:49:13+00:00"
-    },
-    {
-      "h": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "es": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "d": "“A cheaper stock does not necessarily offer better value,” one expert says.",
-      "u": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04329812",
-      "published": "2026-10-30T16:45:00+00:00"
-    },
-    {
-      "h": "Global Payments jumps 12% on report of potential $40 billion buyout",
-      "es": "Global Payments jumps 12% on report of potential $40 billion buyout",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/global-payments-jumps-12-on-report-of-potential-40-billion-buyout-4988369",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N0VQ_L.jpg",
-      "published": "2026-10-30T16:43:18+00:00"
-    },
-    {
-      "h": "Vail Resorts’ biggest investor backs company in fight with activist Oasis",
-      "es": "Vail Resorts’ biggest investor backs company in fight with activist Oasis",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vail-resorts-biggest-investor-backs-company-in-fight-with-activist-oasis-4988370",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1OO_L.jpg",
-      "published": "2026-10-30T16:42:38+00:00"
-    },
-    {
-      "h": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
-      "es": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
-      "d": "Google lost nearly half a trillion this week. But the week's tech sell off might provide an opportunity, says Mike Khouw.",
-      "u": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T16:41:34+00:00"
-    },
-    {
-      "h": "Poland stocks lower at close of trade; WIG30 down 2.46%",
-      "es": "Poland stocks lower at close of trade; WIG30 down 2.46%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-246-4988363",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEE5O0DA_L.jpg",
-      "published": "2026-10-30T16:35:36+00:00"
-    },
-    {
-      "h": "Binance's $6.3 billion hack: What we know and what comes next",
-      "es": "Binance's $6.3 billion hack: What we know and what comes next",
-      "d": "Billions in crypto assets have been frozen following a potential Binance security breach, raising questions about whether the funds can be recovered.",
-      "u": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T16:31:36+00:00"
-    },
-    {
-      "h": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "es": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "d": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
-      "u": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-83105072",
-      "published": "2026-10-30T16:20:00+00:00"
     }
   ],
   "sources": [
