@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-30T00:53:31.620839+00:00",
+  "updated": "2026-10-30T01:48:32.441427+00:00",
   "news": [
+    {
+      "h": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "es": "El Departamento de Justicia intensifica la demanda del Senado de Alaska por el duelo de candidaturas de Sullivan",
+      "d": "La elección de Alaska podría determinar qué partido tiene mayoría en el Senado. El senador republicano Dan Sullivan enfrenta un fuerte desafío de la demócrata Mary Peltola.",
+      "u": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T01:34:32+00:00"
+    },
+    {
+      "h": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+      "es": "Bayer gana el juicio contra el cáncer por el herbicida Roundup mientras espera el fallo del acuerdo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T02L_L.jpg",
+      "published": "2026-10-30T01:30:36+00:00"
+    },
+    {
+      "h": "Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets",
+      "es": "Amazon quema dinero, Intel señala la débil demanda de PC a medida que los costos del auge de la IA se extienden por los mercados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2L0_L.jpg",
+      "published": "2026-10-30T01:30:23+00:00"
+    },
+    {
+      "h": "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
+      "es": "Anthropic representa más de un tercio de los ingresos de SpaceX en el tercer trimestre, informa Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6T206_L.jpg",
+      "published": "2026-10-30T01:14:51+00:00"
+    },
+    {
+      "h": "Why is SpaceX stock falling after-hours today?",
+      "es": "¿Por qué las acciones de SpaceX están cayendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-spacex-stock-falling-afterhours-today-93CH-4985677",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-10-30T01:12:03+00:00"
+    },
+    {
+      "h": "SK Hynix rejected at SMA(50): Live levels",
+      "es": "SK Hynix rechazado en SMA(50): niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-neutral-in-notrade-zone-awaiting-breakout-live-93CH-4971337",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-10-30T01:07:02+00:00"
+    },
+    {
+      "h": "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
+      "es": "Los futuros de acciones estadounidenses se hunden, el Nasdaq cae un 2% mientras las ganancias de Amazon e Intel son decepcionantes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
+      "published": "2026-10-30T01:06:10+00:00"
+    },
+    {
+      "h": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
+      "es": "Intel se hunde en un importante error de orientación. Qué salió mal y cómo proceder",
+      "d": "Ciertamente es posible que haya más caídas, pero vender ahora no borrará las pérdidas que hemos sufrido.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-30T01:06:07+00:00"
+    },
+    {
+      "h": "Bayer wins US trial in which it was alleged that Roundup caused cancer in three women",
+      "es": "Bayer gana el juicio en EE.UU. en el que se alegaba que Roundup provocó cáncer en tres mujeres",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T00Q_L.jpg",
+      "published": "2026-10-30T00:48:38+00:00"
+    },
     {
       "h": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
       "es": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
@@ -9,6 +90,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
       "published": "2026-10-30T00:46:41+00:00"
+    },
+    {
+      "h": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "es": "Microsoft planea recaudar 25 mil millones de dólares en deuda mientras busca desarrollar la IA",
+      "d": "Microsoft cuenta con una sólida calificación crediticia y ha logrado mantener un flujo de caja libre positivo, a diferencia de Meta, Alphabet y Amazon.",
+      "u": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T00:38:13+00:00"
     },
     {
       "h": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
@@ -54,6 +144,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-01171452",
       "published": "2026-10-30T00:14:00+00:00"
+    },
+    {
+      "h": "How elections worldwide are testing Trump’s influence abroad",
+      "es": "Cómo las elecciones en todo el mundo están poniendo a prueba la influencia de Trump en el exterior",
+      "d": "Las recientes derrotas electorales de líderes vinculados a Trump han generado dudas sobre si su influencia sobre la derecha global se está debilitando.",
+      "u": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T00:13:22+00:00"
     },
     {
       "h": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
@@ -171,105 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-10-29T23:00:01+00:00"
-    },
-    {
-      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "es": "Mi abusivo exmarido prometió 20.000 dólares para la educación de nuestros hijos. Ahora se niega a pagar. ¿Está legalmente obligado?",
-      "d": "“Antes de nuestro divorcio, mi ex suegra le confió 20.000 dólares para que cada una de nuestras hijas invirtiera en su nombre”.",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-10-29T22:45:00+00:00"
-    },
-    {
-      "h": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-      "es": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-      "d": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
-      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-29T22:42:41+00:00"
-    },
-    {
-      "h": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
-      "es": "Tether y Circle congelan 2.380 millones de dólares después de que Binance informara un incidente de seguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tether-circle-freeze-238-billion-after-binance-reports-security-incident-4985511",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2O7_L.jpg",
-      "published": "2026-10-29T22:30:47+00:00"
-    },
-    {
-      "h": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-      "es": "Amazon registra un flujo de caja libre negativo de 42.400 millones de dólares y mantiene el gasto de capital para 2026 sin cambios",
-      "d": "El flujo de caja libre negativo de Amazon se disparó durante el tercer trimestre, mientras que sus ganancias e ingresos no cumplieron con las expectativas de Wall Street.",
-      "u": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T22:24:49+00:00"
-    },
-    {
-      "h": "Intel shares drop 21% on Israel factory blast, PC weakness",
-      "es": "Las acciones de Intel caen un 21% por la explosión de una fábrica en Israel y la debilidad de las PC",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HF_L.jpg",
-      "published": "2026-10-29T22:24:26+00:00"
-    },
-    {
-      "h": "Meta loses appeals against interim measures imposed by French regulators",
-      "es": "Meta loses appeals against interim measures imposed by French regulators",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-4984447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9S10A_L.jpg",
-      "published": "2026-10-29T22:18:39+00:00"
-    },
-    {
-      "h": "The midterms are crucial to the future of Social Security — no matter how old you are",
-      "es": "The midterms are crucial to the future of Social Security — no matter how old you are",
-      "d": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13598905",
-      "published": "2026-10-29T22:01:00+00:00"
-    },
-    {
-      "h": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "es": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-      "d": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
-      "u": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T22:00:20+00:00"
-    },
-    {
-      "h": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "es": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "d": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05792524",
-      "published": "2026-10-29T22:00:00+00:00"
-    },
-    {
-      "h": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
-      "es": "Amazon AWS registra un crecimiento de ingresos del 39% a medida que los rivales de la nube también se aceleran",
-      "d": "La nube de Amazon firmó acuerdos con Meta y OpenAI durante el trimestre, lo que ayudó a que los ingresos superaran el consenso.",
-      "u": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T21:59:31+00:00"
-    },
-    {
-      "h": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-      "es": "Las acciones de Intel se desploman un 16% mientras el fabricante de chips culpa a la desaceleración de las PC por una guía débil",
-      "d": "Intel ha sido una de las favoritas de Wall Street este año debido a su surgimiento como actor en IA, pero la compañía está siendo afectada por un mercado de PC en dificultades.",
-      "u": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-29T21:55:44+00:00"
     }
   ],
   "sources": [
