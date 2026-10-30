@@ -1,6 +1,123 @@
 {
-  "updated": "2026-10-30T21:18:44.938838+00:00",
+  "updated": "2026-10-30T21:56:14.483262+00:00",
   "news": [
+    {
+      "h": "Fed officials are already saying they’ll need to get back to hiking rates",
+      "es": "Los funcionarios de la Fed ya están diciendo que tendrán que volver a subir las tasas",
+      "d": "Los comentarios de los presidentes de la Reserva Federal, Alberto Musalem y Lorie Logan, ofrecen los primeros indicios de lo que los líderes de la Reserva Federal ven que sucederá a continuación.",
+      "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T21:53:10+00:00"
+    },
+    {
+      "h": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+      "es": "Binance pierde $6.3 mil millones en robo de criptomonedas: ¿qué sucede con su dinero cuando un intercambio es pirateado?",
+      "d": "Los intercambios de cifrado facilitan la compra, venta y almacenamiento de activos digitales, pero también conllevan riesgos.",
+      "u": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T21:45:52+00:00"
+    },
+    {
+      "h": "SpaceX’s Shotwell says 2 million shares to be gifted to children’s Trump Accounts",
+      "es": "Shotwell de SpaceX dice que se regalarán 2 millones de acciones a las cuentas Trump de los niños",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacexs-shotwell-says-2-million-shares-to-be-gifted-to-childrens-trump-accounts-4988802",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T23A_L.jpg",
+      "published": "2026-10-30T21:42:23+00:00"
+    },
+    {
+      "h": "Soaring cost of Halloween treats spooks shoppers",
+      "es": "El aumento del coste de las golosinas de Halloween asusta a los compradores",
+      "d": "El precio de los dulces, especialmente el chocolate, se ha disparado y los cazadores de gangas de Halloween buscan ofertas y formas de reducir costos.",
+      "u": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c99c/live/3a5ebbf0-d4a7-11f1-9604-3bd90d268f1f.jpg",
+      "published": "2026-10-30T21:34:32+00:00"
+    },
+    {
+      "h": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.01%",
+      "es": "Las bolsas de México cierran a la baja; S&P/BMV IPC cae 0,01%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-001-4988776",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
+      "published": "2026-10-30T21:30:03+00:00"
+    },
+    {
+      "h": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "es": "Por qué el oro cayó a su precio más bajo en un año a pesar del renovado nerviosismo en Irán",
+      "d": "El oro, considerado refugio seguro, cayó a su precio más bajo en un año, a pesar del nerviosismo en torno a la posibilidad de nuevos ataques en Oriente Medio tras las elecciones de mitad de período en Estados Unidos el martes.",
+      "u": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86036110",
+      "published": "2026-10-30T21:30:00+00:00"
+    },
+    {
+      "h": "Okta jumps after-hours following tapped inclusion in the S&P 500",
+      "es": "Okta salta fuera de horario tras su inclusión en el S&P 500",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/okta-jumps-afterhours-following-tapped-inclusion-in-the-sp-500-4988775",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEI2L0TH_L.jpg",
+      "published": "2026-10-30T21:29:08+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 0.04%",
+      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 0,04%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-004-4988773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
+      "published": "2026-10-30T21:25:04+00:00"
+    },
+    {
+      "h": "$6.3 billion Binance hack is largest crypto theft on record",
+      "es": "El hackeo de Binance por valor de 6.300 millones de dólares es el mayor robo de criptomonedas jamás registrado",
+      "d": "Binance dice que una violación de seguridad afectó a unos 6.300 millones de dólares en activos. La bolsa dice que se han congelado aproximadamente 3.000 millones de dólares y que se cubrirán las pérdidas.",
+      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-30T21:21:17+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.90%",
+      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,90%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-090-4988758",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1523197901.jpg",
+      "published": "2026-10-30T21:20:03+00:00"
+    },
+    {
+      "h": "S&P Global revises outlook on Meta to negative on cashflow concerns",
+      "es": "S&P Global revisa la perspectiva de Meta a negativa por preocupaciones sobre el flujo de caja",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T22N_L.jpg",
+      "published": "2026-10-30T21:19:11+00:00"
+    },
+    {
+      "h": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+      "es": "Apple supera a Nvidia y se convierte en la empresa más valiosa del mundo en medio de la liquidación tecnológica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-overtakes-nvidia-to-become-worlds-most-valuable-company-amid-tech-selloff-4988752",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D146_L.jpg",
+      "published": "2026-10-30T21:17:53+00:00"
+    },
+    {
+      "h": "S&P cuts Meta outlook to negative amid capex concerns",
+      "es": "S&P reduce la perspectiva de Meta a negativa en medio de preocupaciones sobre el gasto de capital",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-global-cuts-meta-outlook-to-negative-amid-capex-concerns-4988733",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8F117_1200_L.jpg",
+      "published": "2026-10-30T21:09:40+00:00"
+    },
     {
       "h": "Intel on course for worst day ever, triggers global chip rout",
       "es": "Intel on course for worst day ever, triggers global chip rout",
@@ -153,123 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-56527182",
       "published": "2026-10-30T20:26:00+00:00"
-    },
-    {
-      "h": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
-      "es": "TSX outpaces S&P 500 as Nasdaq rout puts tech stocks on the back foot",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-outpaces-sp-500-as-nasdaq-rout-puts-tech-stocks-on-the-back-foot-93CH-4988613",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-10-30T20:25:54+00:00"
-    },
-    {
-      "h": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
-      "es": "Evercose ISI downgrades Reddit, says monetization may not offset traffic weakness",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/evercose-isi-downgrades-reddit-says-monetization-may-not-offset-traffic-weakness-4988622",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9S0WS_L.jpg",
-      "published": "2026-10-30T20:23:39+00:00"
-    },
-    {
-      "h": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "es": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-      "d": "“A cheaper stock does not necessarily offer better value,” one expert says.",
-      "u": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04329812",
-      "published": "2026-10-30T20:23:00+00:00"
-    },
-    {
-      "h": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "es": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "d": "Teachers, nurses and other borrowers have waited years for approval to complete their payment obligation and access debt relief, the suit claims.",
-      "u": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-83105072",
-      "published": "2026-10-30T20:23:00+00:00"
-    },
-    {
-      "h": "Baron Capital backs Vail Resorts board in proxy showdown with Oasis",
-      "es": "Baron Capital backs Vail Resorts board in proxy showdown with Oasis",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/baron-capital-backs-vail-resorts-board-in-proxy-showdown-with-oasis-4988619",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
-      "published": "2026-10-30T20:20:31+00:00"
-    },
-    {
-      "h": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "es": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "d": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "u": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-10-30T20:10:56+00:00"
-    },
-    {
-      "h": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "es": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "d": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
-      "u": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T20:02:45+00:00"
-    },
-    {
-      "h": "S&P 500 November seasonality: historical trends and this year’s context",
-      "es": "S&P 500 November seasonality: historical trends and this year’s context",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-november-seasonality-historical-trends-and-this-years-context-93CH-4988560",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBG0LD_L.jpg",
-      "published": "2026-10-30T19:59:16+00:00"
-    },
-    {
-      "h": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "es": "“Las joyas vistosas y los autos lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastarlo todo?",
-      "d": "\"Yo tengo 68 años, ella 74 y ambos gozamos de buena salud. Nos casamos más tarde y no tenemos hijos\".",
-      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21005604",
-      "published": "2026-10-30T19:45:00+00:00"
-    },
-    {
-      "h": "The Fed held interest rates steady, but these officials see more hikes coming soon",
-      "es": "La Reserva Federal mantuvo estables las tasas de interés, pero estos funcionarios prevén más aumentos próximamente",
-      "d": "Lorie Logan, de la Reserva Federal de Dallas, prevé “al menos” 50 puntos básicos en aumentos adicionales.",
-      "u": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-812380",
-      "published": "2026-10-30T19:44:00+00:00"
-    },
-    {
-      "h": "Reddit stock plunges 30% after weak outlook, heads for worst day ever",
-      "es": "Las acciones de Reddit se desploman un 30% después de unas perspectivas débiles y se dirigen al peor día de su historia",
-      "d": "Las acciones de Reddit se hundieron el viernes después de que la compañía emitiera una débil guía de ventas para el cuarto trimestre y anunciara que probará exigir a los usuarios que inicien sesión para ver el contenido.",
-      "u": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-30T19:43:42+00:00"
-    },
-    {
-      "h": "Kioxia’s NAND price slowdown and what it means for memory stocks",
-      "es": "La desaceleración del precio NAND de Kioxia y lo que significa para las existencias de memoria",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kioxias-nand-price-slowdown-and-what-it-means-for-memory-stocks-93CH-4988549",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-10-30T19:43:13+00:00"
-    },
-    {
-      "h": "US approves $2.1 billion Patriot missile sale to Ukraine",
-      "es": "Estados Unidos aprueba la venta de misiles Patriot a Ucrania por valor de 2.100 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1WS_L.jpg",
-      "published": "2026-10-30T19:42:27+00:00"
     }
   ],
   "sources": [
