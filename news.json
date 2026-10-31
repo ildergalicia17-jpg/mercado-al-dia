@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:31:39.048672+00:00",
+  "updated": "2026-10-31T02:22:51.146497+00:00",
   "news": [
     {
       "h": "US approves $2.1 billion Patriot missile sale to Ukraine",
@@ -45,6 +45,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T25O_L.jpg",
       "published": "2026-10-30T23:54:23+00:00"
+    },
+    {
+      "h": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+      "es": "S&P Global revisa la perspectiva de Meta a \"negativa\" por el gasto en IA y las preocupaciones sobre el flujo de caja",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T22N_L.jpg",
+      "published": "2026-10-30T23:30:24+00:00"
     },
     {
       "h": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-812380",
       "published": "2026-10-30T21:23:00+00:00"
-    },
-    {
-      "h": "$6.3 billion Binance hack is largest crypto theft on record",
-      "es": "El hackeo de Binance por valor de 6.300 millones de dólares es el mayor robo de criptomonedas jamás registrado",
-      "d": "Binance dice que una violación de seguridad afectó a unos 6.300 millones de dólares en activos. La bolsa dice que se han congelado aproximadamente 3.000 millones de dólares y que se cubrirán las pérdidas.",
-      "u": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T21:21:17+00:00"
     }
   ],
   "sources": [
