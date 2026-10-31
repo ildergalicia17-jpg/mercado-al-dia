@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-31T11:51:13.267935+00:00",
+  "updated": "2026-10-31T12:25:54.393532+00:00",
   "news": [
+    {
+      "h": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+      "es": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+      "d": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
+      "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T12:11:12+00:00"
+    },
+    {
+      "h": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+      "es": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+      "d": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
+      "u": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T12:00:01+00:00"
+    },
+    {
+      "h": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+      "es": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+      "d": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+      "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T12:00:01+00:00"
+    },
+    {
+      "h": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+      "es": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+      "d": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
+      "u": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27816959",
+      "published": "2026-10-31T12:00:00+00:00"
+    },
     {
       "h": "Tech risk-reward turns favorable after rout, Deutsche Bank says",
       "es": "Tech risk-reward turns favorable after rout, Deutsche Bank says",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
       "published": "2026-10-30T22:01:26+00:00"
-    },
-    {
-      "h": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-      "es": "Apuesta por la democracia: dentro de los contratos electorales sospechosos que se negocian en los mercados de predicción",
-      "d": "CNBC examina los picos de precios inusuales en los mercados de predicción electoral y cómo los contratos de bajo volumen pueden moverse mediante operaciones relativamente pequeñas.",
-      "u": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T22:00:53+00:00"
-    },
-    {
-      "h": "Why is Inovio Pharmaceuticals stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Inovio Pharmaceuticals hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-10-30T21:58:57+00:00"
-    },
-    {
-      "h": "Fed officials are already saying they’ll need to get back to hiking rates",
-      "es": "Los funcionarios de la Fed ya están diciendo que tendrán que volver a subir las tasas",
-      "d": "Los comentarios de los presidentes de la Reserva Federal, Alberto Musalem y Lorie Logan, ofrecen los primeros indicios de lo que los líderes de la Reserva Federal ven que sucederá a continuación.",
-      "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T21:53:10+00:00"
-    },
-    {
-      "h": "Why is Georgia Banking stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Georgia Banking hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-georgia-banking-stock-climbing-today-93CH-4988812",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-10-30T21:52:40+00:00"
     }
   ],
   "sources": [
