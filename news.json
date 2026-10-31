@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T18:15:15.755247+00:00",
+  "updated": "2026-10-31T19:04:16.435015+00:00",
   "news": [
+    {
+      "h": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "es": "SpaceX pierde la oferta para desestimar la demanda de la NAACP por la contaminación del aire del centro de datos de Memphis",
+      "d": "Los centros de datos Colossus y una planta de energía que SpaceXAI también está construyendo en Southaven, Mississippi, han enfrentado reacciones negativas de la comunidad durante años.",
+      "u": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T18:56:37+00:00"
+    },
+    {
+      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
+      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
+      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24279758",
+      "published": "2026-10-31T18:33:00+00:00"
+    },
     {
       "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
       "es": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-09412605",
       "published": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "h": "How to start an art collection on any budget",
-      "es": "Cómo iniciar una colección de arte con cualquier presupuesto",
-      "d": "Una guía para comenzar una colección de arte, que incluye cómo buscar artistas, qué comprar y dónde conectarse, desde galerías hasta ferias y casas de subastas.",
-      "u": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:58:43+00:00"
-    },
-    {
-      "h": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
-      "es": "Trump prometió reducir los costos de la energía, pero en cambio la gasolina, el diésel y el combustible para aviones se dispararon",
-      "d": "El presidente Donald Trump prometió a los votantes enojados por la inflación que reduciría los precios de la gasolina por debajo de 2 dólares el galón en su primer año en el cargo.",
-      "u": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:49:58+00:00"
     }
   ],
   "sources": [
