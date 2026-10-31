@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T10:34:38.273408+00:00",
+  "updated": "2026-10-31T11:12:32.774534+00:00",
   "news": [
+    {
+      "h": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "es": "El camino de Anthropic hacia el Nasdaq se ha vuelto mucho más accidentado",
+      "d": "Las proyecciones preocupantes de los hiperescaladores de esta semana castigaron a las acciones tecnológicas y llevaron al Nasdaq a su primera racha de pérdidas de tres semanas desde marzo.",
+      "u": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-31T11:00:01+00:00"
+    },
+    {
+      "h": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+      "es": "El surgimiento del esqueleto de 15 pies: cómo una novedad viral se convirtió en un elemento básico de Halloween",
+      "d": "En sólo seis años, los esqueletos gigantes han pasado de ser una absurda novedad viral a ser la pieza central de una carrera armamentista minorista en expansión por el jardín delantero.",
+      "u": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T10:27:19+00:00"
+    },
     {
       "h": "Power bills and data centers cast rare spotlight on utilities in US midterms",
       "es": "Las facturas de energía y los centros de datos arrojan especial atención sobre las empresas de servicios públicos en las elecciones intermedias de EE. UU.",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M1EC_1200_L.jpg",
       "published": "2026-10-30T21:50:59+00:00"
-    },
-    {
-      "h": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-      "es": "Binance pierde $6.3 mil millones en robo de criptomonedas: ¿qué sucede con su dinero cuando un intercambio es pirateado?",
-      "d": "Los intercambios de cifrado facilitan la compra, venta y almacenamiento de activos digitales, pero también conllevan riesgos.",
-      "u": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-30T21:45:52+00:00"
-    },
-    {
-      "h": "SpaceX’s Shotwell says 2 million shares to be gifted to children’s Trump Accounts",
-      "es": "Shotwell de SpaceX dice que se regalarán 2 millones de acciones a las cuentas Trump de los niños",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/spacexs-shotwell-says-2-million-shares-to-be-gifted-to-childrens-trump-accounts-4988802",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T23A_L.jpg",
-      "published": "2026-10-30T21:42:23+00:00"
     }
   ],
   "sources": [
