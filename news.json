@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T05:24:25.578841+00:00",
+  "updated": "2026-10-31T06:55:27.152757+00:00",
   "news": [
+    {
+      "h": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "es": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "d": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+      "u": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T06:00:02+00:00"
+    },
+    {
+      "h": "AI is coming to construction sites. But does it make workers safer?",
+      "es": "AI is coming to construction sites. But does it make workers safer?",
+      "d": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
+      "u": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T06:00:02+00:00"
+    },
     {
       "h": "Agentic AI excitement runs ahead of results",
       "es": "Agentic AI excitement runs ahead of results",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg",
       "published": "2026-10-30T21:30:03+00:00"
-    },
-    {
-      "h": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-      "es": "Por qué el oro cayó a su precio más bajo en un año a pesar del renovado nerviosismo en Irán",
-      "d": "El oro, considerado refugio seguro, cayó a su precio más bajo en un año, a pesar del nerviosismo en torno a la posibilidad de nuevos ataques en Oriente Medio tras las elecciones de mitad de período en Estados Unidos el martes.",
-      "u": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86036110",
-      "published": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "h": "Okta jumps after-hours following tapped inclusion in the S&P 500",
-      "es": "Okta salta fuera de horario tras su inclusión en el S&P 500",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/okta-jumps-afterhours-following-tapped-inclusion-in-the-sp-500-4988775",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEI2L0TH_L.jpg",
-      "published": "2026-10-30T21:29:08+00:00"
     }
   ],
   "sources": [
