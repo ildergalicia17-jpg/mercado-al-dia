@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T17:07:13.841442+00:00",
+  "updated": "2026-10-31T17:40:17.308606+00:00",
   "news": [
+    {
+      "h": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+      "es": "Meta construye un robot humanoide con Fourier de China a medida que se expande el impulso de los robots domésticos: informe",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3M0V8_L.jpg",
+      "published": "2026-10-31T17:29:26+00:00"
+    },
+    {
+      "h": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "es": "Medicare utilizó IA para preaprobar la atención al paciente e inmediatamente provocó una gran caída en los servicios médicos.",
+      "d": "Medicare está probando el uso de IA para realizar autorizaciones previas para abordar el gasto médico despilfarrador",
+      "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-74822336",
+      "published": "2026-10-31T17:26:00+00:00"
+    },
     {
       "h": "80% of workers make this 401(k)  mistake when they retire",
       "es": "El 80% de los trabajadores comete este error del plan 401(k) cuando se jubilan",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-10399343",
       "published": "2026-10-31T12:37:00+00:00"
-    },
-    {
-      "h": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
-      "es": "Los vínculos con Megaspeed de Nvidia muestran posibles puntos ciegos en el esfuerzo de Estados Unidos por impedir que China acceda a chips avanzados.",
-      "d": "Las reuniones de negocios del director ejecutivo de Nvidia, Jensen Huang, son una práctica rutinaria y los controles de exportación existentes en Estados Unidos en gran medida no llegan a la nube, dicen los expertos.",
-      "u": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-18756096",
-      "published": "2026-10-31T12:30:00+00:00"
-    },
-    {
-      "h": "GS flags interest rates and AI disruption as risks to long-term equity demand",
-      "es": "GS señala que las tasas de interés y la interrupción de la IA son riesgos para la demanda de acciones a largo plazo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gs-flags-interest-rates-and-ai-disruption-as-risks-to-longterm-equity-demand-4989261",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
-      "published": "2026-10-31T12:27:33+00:00"
     }
   ],
   "sources": [
