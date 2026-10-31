@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-31T15:16:13.643121+00:00",
+  "updated": "2026-10-31T15:53:17.168772+00:00",
   "news": [
+    {
+      "h": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+      "es": "Las acciones comenzaron la semana con promesas pero terminaron con desesperación. Nuestra opinión sobre el gran cambio",
+      "d": "Las ganancias de las grandes empresas tecnológicas reavivaron los temores sobre el gasto en IA, lo que llevó a los inversores a optar por acciones defensivas.",
+      "u": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-10-31T15:37:11+00:00"
+    },
+    {
+      "h": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+      "es": "Nuestra iglesia tiene un legado de $1.5 millones ganando 3.75% en una cuenta de ahorros. ¿Estamos tirando el dinero?",
+      "d": "\"Dado el tamaño y la naturaleza a largo plazo de esta donación, queremos asegurarnos de que los fondos se administren con prudencia\".",
+      "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05792524",
+      "published": "2026-10-31T15:30:00+00:00"
+    },
+    {
+      "h": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+      "es": "¿Qué le dio a esta ciudad su corona de “mejor lugar para jubilarse”? De hecho, puedes permitirte el lujo de vivir allí.",
+      "d": "Bajo costo de vida, alta calidad de vida e impuestos favorables para los jubilados, para ganar.",
+      "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-51699751",
+      "published": "2026-10-31T15:25:00+00:00"
+    },
     {
       "h": "Binance says 90% of stolen assets replenished",
       "es": "Binance says 90% of stolen assets replenished",
@@ -218,15 +245,6 @@
       "published": "2026-10-31T12:11:12+00:00"
     },
     {
-      "h": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-      "es": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-      "d": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
-      "u": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:00:01+00:00"
-    },
-    {
       "h": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
       "es": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
       "d": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
@@ -236,40 +254,22 @@
       "published": "2026-10-31T12:00:01+00:00"
     },
     {
-      "h": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-      "es": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-      "d": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
-      "u": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-27816959",
-      "published": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "h": "Tech risk-reward turns favorable after rout, Deutsche Bank says",
-      "es": "Tech risk-reward turns favorable after rout, Deutsche Bank says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tech-riskreward-turns-favorable-after-rout-deutsche-bank-says-4989239",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
-      "published": "2026-10-31T11:02:38+00:00"
-    },
-    {
-      "h": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "es": "El camino de Anthropic hacia el Nasdaq se ha vuelto mucho más accidentado",
-      "d": "Las proyecciones preocupantes de los hiperescaladores de esta semana castigaron a las acciones tecnológicas y llevaron al Nasdaq a su primera racha de pérdidas de tres semanas desde marzo.",
-      "u": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-10-31T11:00:01+00:00"
-    },
-    {
-      "h": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
-      "es": "El surgimiento del esqueleto de 15 pies: cómo una novedad viral se convirtió en un elemento básico de Halloween",
-      "d": "En sólo seis años, los esqueletos gigantes han pasado de ser una absurda novedad viral a ser la pieza central de una carrera armamentista minorista en expansión por el jardín delantero.",
-      "u": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+      "h": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+      "es": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+      "d": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
+      "u": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-10-31T10:27:19+00:00"
+      "published": "2026-10-31T12:00:01+00:00"
+    },
+    {
+      "h": "Humans are still doing the work behind some AI agents",
+      "es": "Los humanos todavía están haciendo el trabajo detrás de algunos agentes de IA",
+      "d": "Los agentes de inteligencia artificial de nuevas empresas como Dazzle, Duckbill y Wajo todavía dependen de trabajadores humanos para llamadas y otras tareas del mundo real cuando el software no es suficiente.",
+      "u": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T12:00:01+00:00"
     }
   ],
   "sources": [
