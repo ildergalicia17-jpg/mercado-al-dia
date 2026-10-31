@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31T17:40:17.308606+00:00",
+  "updated": "2026-10-31T18:15:15.755247+00:00",
   "news": [
+    {
+      "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "es": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "d": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+      "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86491605",
+      "published": "2026-10-31T18:10:00+00:00"
+    },
     {
       "h": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
       "es": "Meta construye un robot humanoide con Fourier de China a medida que se expande el impulso de los robots domésticos: informe",
@@ -164,6 +173,15 @@
       "published": "2026-10-31T14:03:00+00:00"
     },
     {
+      "h": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+      "es": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+      "d": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
+      "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T13:47:03+00:00"
+    },
+    {
       "h": "Russia extends diesel export ban through January, allows limited shipments",
       "es": "Rusia extiende la prohibición de exportación de diésel hasta enero y permite envíos limitados",
       "d": "",
@@ -252,24 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-31T12:49:58+00:00"
-    },
-    {
-      "h": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-      "es": "El hackeo de Binance por valor de 6.300 millones de dólares plantea dudas sobre la seguridad de las billeteras criptográficas",
-      "d": "Dos incidentes de seguridad de alto perfil esta semana, incluido el mayor robo de criptomonedas de la historia, han planteado preocupaciones sobre la custodia y la seguridad.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:47:08+00:00"
-    },
-    {
-      "h": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
-      "es": "Este Halloween, ¿son las barras de chocolate de tamaño completo una mejor oferta que las de tamaño divertido?",
-      "d": "Varios influencers de TikTokers afirman que puedes ahorrar dinero y ser la casa más genial de la cuadra con dulces más grandes este año. Veamos cómo se suma eso.",
-      "u": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-10399343",
-      "published": "2026-10-31T12:37:00+00:00"
     }
   ],
   "sources": [
