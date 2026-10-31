@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31T20:14:45.516396+00:00",
+  "updated": "2026-10-31T20:54:26.984075+00:00",
   "news": [
+    {
+      "h": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "es": "Mi exmarido abusivo prometió 20.000 dólares para la educación de nuestros hijos. Ahora se niega a pagar. ¿Está legalmente obligado?",
+      "d": "“Antes de nuestro divorcio, mi ex suegra le confió 20.000 dólares para que cada una de nuestras hijas invirtiera en su nombre”.",
+      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-95596293",
+      "published": "2026-10-31T20:15:00+00:00"
+    },
     {
       "h": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
       "es": "La demanda de Trump por difamación contra Murdoch y el WSJ por la carta de Epstein se desestima con prejuicios",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEAAD0E3_M.jpg",
       "published": "2026-10-31T13:43:46+00:00"
-    },
-    {
-      "h": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
-      "es": "Las reinversiones automáticas del plan 401(k) reducen los retiros de efectivo, según una investigación, pero pocas cuentas alcanzan los planes de nuevos empleadores",
-      "d": "Los trabajadores con pequeños saldos 401(k) retiran dinero con menos frecuencia bajo un programa de portabilidad automática, pero la mayoría de las cuentas permanecen en IRA temporales.",
-      "u": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T13:30:01+00:00"
     }
   ],
   "sources": [
