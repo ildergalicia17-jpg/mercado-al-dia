@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-31T19:43:11.889987+00:00",
+  "updated": "2026-10-31T20:14:45.516396+00:00",
   "news": [
+    {
+      "h": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "es": "La demanda de Trump por difamación contra Murdoch y el WSJ por la carta de Epstein se desestima con prejuicios",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T20:10:39+00:00"
+    },
+    {
+      "h": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "es": "OpenAI reduce su objetivo de recaudación de fondos y ahora busca hasta 20 mil millones de dólares en su última ronda",
+      "d": "La ronda de financiación aún está en curso y no se ha cerrado, por lo que las cifras están sujetas a cambios, dijo a CNBC una persona directamente familiarizada con el acuerdo.",
+      "u": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T19:56:23+00:00"
+    },
+    {
+      "h": "US judge dismisses Trump’s lawsuit against Wall Street Journal with prejudice",
+      "es": "Juez estadounidense desestima con prejuicio la demanda de Trump contra el Wall Street Journal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9U0KH_L.jpg",
+      "published": "2026-10-31T19:36:21+00:00"
+    },
     {
       "h": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
       "es": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-31T13:30:01+00:00"
-    },
-    {
-      "h": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
-      "es": "Google enseñó al mundo cómo buscar. Ahora enfrenta una revolución que no puede darse el lujo de perder.",
-      "d": "Wall Street está lidiando con una pregunta fundamental: ¿Las descripciones generales de inteligencia artificial de Google están destinadas a salvar las búsquedas o arruinar todo el negocio?",
-      "u": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-08301839",
-      "published": "2026-10-31T13:15:00+00:00"
-    },
-    {
-      "h": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
-      "es": "Tras Weil, el consejo de un reclutador jurídico para sobrevivir a la quiebra de una empresa",
-      "d": "La reclutadora legal Danielle Thompson comparte sus mejores consejos para los empleados de Weil, Gotshal & Manges y otros que enfrentan el cierre o la disolución de una empresa.",
-      "u": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T13:07:01+00:00"
-    },
-    {
-      "h": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
-      "es": "Una mujer de 35 años contrajo una deuda de 20.000 dólares para iniciar un negocio desde su comedor; ahora genera 8 cifras al año",
-      "d": "La fundadora de Set Active, Lindsey Carter, comparte cómo aprendió a separar su estrés profesional de su vida personal mientras hacía crecer su empresa de athleisure.",
-      "u": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T13:05:01+00:00"
     }
   ],
   "sources": [
