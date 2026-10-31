@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-31T15:53:17.168772+00:00",
+  "updated": "2026-10-31T16:26:48.466805+00:00",
   "news": [
+    {
+      "h": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "es": "Binance dice que el 90% de las pérdidas por piratería de 6.300 millones de dólares ya están cubiertas y planea reanudar los retiros el domingo",
+      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y planea reanudar los retiros, sujetos a controles de seguridad.",
+      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T16:06:44+00:00"
+    },
+    {
+      "h": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+      "es": "¿Quiere ingresos garantizados durante la jubilación sin anualidad? Intente escalar los bonos I.",
+      "d": "La nueva tasa de interés del bono I podría ser del 5,5% o del 5,4%, pero eso no debería cambiar su estrategia.",
+      "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39326019",
+      "published": "2026-10-31T16:02:00+00:00"
+    },
+    {
+      "h": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+      "es": "Estamos en los 70. ¿Deberíamos liquidar nuestra hipoteca del 2,5% o poner el dinero en una cuenta de ahorros de alto rendimiento?",
+      "d": "\"Digamos que dentro de 10 años, cuando tenga 84 años, necesitaremos una cantidad sustancial de efectivo\".",
+      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-65126339",
+      "published": "2026-10-31T16:00:00+00:00"
+    },
     {
       "h": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
       "es": "Las acciones comenzaron la semana con promesas pero terminaron con desesperación. Nuestra opinión sobre el gran cambio",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-31T12:11:12+00:00"
-    },
-    {
-      "h": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-      "es": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-      "d": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
-      "u": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:00:01+00:00"
-    },
-    {
-      "h": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-      "es": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-      "d": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
-      "u": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:00:01+00:00"
-    },
-    {
-      "h": "Humans are still doing the work behind some AI agents",
-      "es": "Los humanos todavía están haciendo el trabajo detrás de algunos agentes de IA",
-      "d": "Los agentes de inteligencia artificial de nuevas empresas como Dazzle, Duckbill y Wajo todavía dependen de trabajadores humanos para llamadas y otras tareas del mundo real cuando el software no es suficiente.",
-      "u": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T12:00:01+00:00"
     }
   ],
   "sources": [
