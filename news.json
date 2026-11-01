@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-01T11:55:22.222782+00:00",
+  "updated": "2026-11-01T12:37:35.459353+00:00",
   "news": [
+    {
+      "h": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+      "es": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+      "d": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+      "u": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T12:30:48+00:00"
+    },
+    {
+      "h": "Why AI is boosting Meta's ad business while hurting Google search",
+      "es": "Why AI is boosting Meta's ad business while hurting Google search",
+      "d": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+      "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T12:00:01+00:00"
+    },
+    {
+      "h": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
+      "es": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/after-a-193-return-a-new-list-of-aipicks-for-november-is-now-live-4986615",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM280Z9_L.jpg",
+      "published": "2026-11-01T11:58:08+00:00"
+    },
     {
       "h": "China’s BYD extends sales growth streak on strong exports",
       "es": "China’s BYD extends sales growth streak on strong exports",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-56448073",
       "published": "2026-10-31T18:50:00+00:00"
-    },
-    {
-      "h": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "es": "¿Son cortinas para COLA? Salvar la Seguridad Social podría significar cambiar el ajuste por costo de vida.",
-      "d": "Varias propuestas consideran cambiar la forma en que los jubilados reciben protección contra la inflación. Esto es lo que podría costarle.",
-      "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24279758",
-      "published": "2026-10-31T18:33:00+00:00"
-    },
-    {
-      "h": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "es": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "d": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-      "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86491605",
-      "published": "2026-10-31T18:10:00+00:00"
-    },
-    {
-      "h": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
-      "es": "Meta construye un robot humanoide con Fourier de China a medida que se expande el impulso de los robots domésticos: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3M0V8_L.jpg",
-      "published": "2026-10-31T17:29:26+00:00"
     }
   ],
   "sources": [
