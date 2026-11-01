@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T10:04:52.268635+00:00",
+  "updated": "2026-11-01T10:44:54.196833+00:00",
   "news": [
+    {
+      "h": "Street Calls of the Week",
+      "es": "Street Calls of the Week",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4989309",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
+      "published": "2026-11-01T10:00:02+00:00"
+    },
     {
       "h": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
       "es": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-31T16:13:06+00:00"
-    },
-    {
-      "h": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "es": "Binance dice que el 90% de las pérdidas por piratería de 6.300 millones de dólares ya están cubiertas y planea reanudar los retiros el domingo",
-      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y planea reanudar los retiros, sujetos a controles de seguridad.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T16:06:44+00:00"
     }
   ],
   "sources": [
