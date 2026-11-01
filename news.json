@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:31:07.051945+00:00",
+  "updated": "2026-11-01T09:19:09.180738+00:00",
   "news": [
     {
       "h": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
@@ -81,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
       "published": "2026-11-01T01:48:05+00:00"
+    },
+    {
+      "h": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "es": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "d": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+      "u": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
+      "published": "2026-11-01T00:17:05+00:00"
     },
     {
       "h": "Top takeaways from Bernstein’s annual Global Sportswear survey",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-39326019",
       "published": "2026-10-31T16:02:00+00:00"
-    },
-    {
-      "h": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "es": "Estamos en los 70. ¿Deberíamos liquidar nuestra hipoteca del 2,5% o poner el dinero en una cuenta de ahorros de alto rendimiento?",
-      "d": "\"Digamos que dentro de 10 años, cuando tenga 84 años, necesitaremos una cantidad sustancial de efectivo\".",
-      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65126339",
-      "published": "2026-10-31T16:00:00+00:00"
     }
   ],
   "sources": [
