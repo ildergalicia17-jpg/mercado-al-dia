@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-01T11:17:51.518269+00:00",
+  "updated": "2026-11-01T11:55:22.222782+00:00",
   "news": [
+    {
+      "h": "China’s BYD extends sales growth streak on strong exports",
+      "es": "China’s BYD extends sales growth streak on strong exports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinas-byd-extends-sales-growth-streak-on-strong-exports-4989716",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00ZC_L.jpg",
+      "published": "2026-11-01T11:42:23+00:00"
+    },
+    {
+      "h": "Explainer-How US news organizations will make midterm race calls",
+      "es": "Explainer-How US news organizations will make midterm race calls",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00YU_L.jpg",
+      "published": "2026-11-01T11:12:24+00:00"
+    },
     {
       "h": "Street Calls of the Week",
       "es": "Street Calls of the Week",
@@ -252,24 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEL3M0V8_L.jpg",
       "published": "2026-10-31T17:29:26+00:00"
-    },
-    {
-      "h": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "es": "Medicare utilizó IA para preaprobar la atención al paciente e inmediatamente provocó una gran caída en los servicios médicos.",
-      "d": "Medicare está probando el uso de IA para realizar autorizaciones previas para abordar el gasto médico despilfarrador",
-      "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-74822336",
-      "published": "2026-10-31T17:26:00+00:00"
-    },
-    {
-      "h": "80% of workers make this 401(k)  mistake when they retire",
-      "es": "El 80% de los trabajadores comete este error del plan 401(k) cuando se jubilan",
-      "d": "Otras repercusiones fiscales surgen en el futuro porque los saldos se acumulan y los RMD se complican.",
-      "u": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-26475652",
-      "published": "2026-10-31T16:46:00+00:00"
     }
   ],
   "sources": [
