@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-01T17:53:07.230363+00:00",
+  "updated": "2026-11-01T18:28:50.851013+00:00",
   "news": [
+    {
+      "h": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
+      "es": "El representante demócrata Stevens respalda a Rogers sobre El-Sayed en las elecciones al Senado de Michigan",
+      "d": "Haley Stevens había perdido la nominación demócrata al Senado en Michigan ante Abdul El-Sayed a principios de este año.",
+      "u": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T18:16:05+00:00"
+    },
+    {
+      "h": "Here are 3 big things we're watching in the stock market in the week ahead",
+      "es": "Aquí hay 3 cosas importantes que veremos en el mercado de valores durante la próxima semana",
+      "d": "Al mercado le vendrían bien algunas victorias en los próximos días, que estarán llenos de más datos sobre ganancias, elecciones y empleo.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/01/3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T18:12:05+00:00"
+    },
+    {
+      "h": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+      "es": "El senador de Connecticut Chris Murphy sufre un derrame cerebral y está en el hospital, dice la oficina",
+      "d": "La oficina del senador Chris Murphy anunció el domingo que sufrió un derrame cerebral y fue hospitalizado el día anterior, aunque dicen que está \"despierto y alerta\".",
+      "u": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T18:08:33+00:00"
+    },
     {
       "h": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
       "es": "Mi padre tiene Alzheimer y su cuidador está usando su tarjeta de débito para DoorDash. ¿Intervengo?",
@@ -54,6 +81,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-01T15:58:24+00:00"
+    },
+    {
+      "h": "Binance sees spike in customers pulling funds out after covering bulk of stolen $6.3 billion",
+      "es": "Binance ve un aumento en el número de clientes que retiran fondos después de cubrir la mayor parte de $6.3 mil millones robados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00U4_L.jpg",
+      "published": "2026-11-01T15:54:19+00:00"
     },
     {
       "h": "Apple’s new earnings era begins at a critical time for Big Tech",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00W7_L.jpg",
       "published": "2026-11-01T07:42:22+00:00"
-    },
-    {
-      "h": "Energy bills help 'doesn't go far enough'",
-      "es": "Energy bills help 'doesn't go far enough'",
-      "d": "Families in the West Midlands say they are worried about paying winter energy bills.",
-      "u": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26db/live/70c13820-d471-11f1-9dda-1ba6fcc7d159.jpg",
-      "published": "2026-11-01T07:15:06+00:00"
-    },
-    {
-      "h": "Diwali hampers to bring hope to families in need",
-      "es": "Diwali hampers to bring hope to families in need",
-      "d": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
-      "u": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29ff/live/5be19580-d570-11f1-858c-9b90cf3a2059.jpg",
-      "published": "2026-11-01T07:11:33+00:00"
-    },
-    {
-      "h": "Who are the spillover winners from the AI export boom in Asia?",
-      "es": "Who are the spillover winners from the AI export boom in Asia?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/who-are-the-spillover-winners-from-the-ai-export-boom-in-asia-4989410",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/TaiwanStockExchange_800x533_L_1659429835.jpg",
-      "published": "2026-11-01T06:50:07+00:00"
-    },
-    {
-      "h": "Companies promised AI gains— here's how the payoff showed up in earnings",
-      "es": "Companies promised AI gains— here's how the payoff showed up in earnings",
-      "d": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
-      "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T06:00:01+00:00"
     }
   ],
   "sources": [
