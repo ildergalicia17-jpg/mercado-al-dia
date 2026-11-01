@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:22:59.211385+00:00",
+  "updated": "2026-11-01T04:19:35.321663+00:00",
   "news": [
     {
       "h": "AI investors rush to hedge against potential tech market downturn - WSJ",
@@ -182,6 +182,15 @@
       "published": "2026-10-31T16:18:20+00:00"
     },
     {
+      "h": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+      "es": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+      "d": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
+      "u": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-10-31T16:13:06+00:00"
+    },
+    {
       "h": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
       "es": "Binance dice que el 90% de las pérdidas por piratería de 6.300 millones de dólares ya están cubiertas y planea reanudar los retiros el domingo",
       "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y planea reanudar los retiros, sujetos a controles de seguridad.",
@@ -261,15 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-08594984",
       "published": "2026-10-31T14:54:00+00:00"
-    },
-    {
-      "h": "Citi explains what ’hawk’ and ’dove’ really mean as ECB faces leadership change",
-      "es": "Citi explains what ’hawk’ and ’dove’ really mean as ECB faces leadership change",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-explains-what-hawk-and-dove-really-mean-as-ecb-faces-leadership-change-4989285",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
-      "published": "2026-10-31T14:53:31+00:00"
     }
   ],
   "sources": [
