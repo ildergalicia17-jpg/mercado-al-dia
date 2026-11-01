@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:44:23.073890+00:00",
+  "updated": "2026-11-01T22:19:24.822516+00:00",
   "news": [
     {
       "h": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -182,6 +182,15 @@
       "published": "2026-11-01T14:36:01+00:00"
     },
     {
+      "h": "Why AI is boosting Meta's ad business while hurting Google search",
+      "es": "Why AI is boosting Meta's ad business while hurting Google search",
+      "d": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+      "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T14:31:29+00:00"
+    },
+    {
       "h": "These Senate races may help determine the fate of Social Security",
       "es": "Estas elecciones al Senado pueden ayudar a determinar el destino de la Seguridad Social",
       "d": "El fondo fiduciario de jubilación del Seguro Social puede agotarse en 2032. Los senadores elegidos en noviembre estarán en funciones cuando llegue esa fecha límite.",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-01T12:34:06+00:00"
-    },
-    {
-      "h": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-      "es": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-      "d": "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
-      "u": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T12:33:53+00:00"
     }
   ],
   "sources": [
