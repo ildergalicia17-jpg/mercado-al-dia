@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T22:19:24.822516+00:00",
+  "updated": "2026-11-01T22:56:50.535357+00:00",
   "news": [
+    {
+      "h": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "es": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "d": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "u": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaa/live/a5c67c70-d637-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-01T22:25:51+00:00"
+    },
     {
       "h": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "es": "Las bolsas de Rusia cierran a la baja; Índice MOEX Rusia sin cambios",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB7T0F9_M.jpg",
       "published": "2026-11-01T12:45:04+00:00"
-    },
-    {
-      "h": "Companies promised AI gains — here's how the payoff showed up in earnings",
-      "es": "Companies promised AI gains — here's how the payoff showed up in earnings",
-      "d": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
-      "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T12:34:06+00:00"
     }
   ],
   "sources": [
