@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T19:18:26.455844+00:00",
+  "updated": "2026-11-01T19:55:14.105206+00:00",
   "news": [
+    {
+      "h": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "es": "“Las joyas vistosas y los autos lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastarlo todo?",
+      "d": "\"Yo tengo 68 años, ella 74 y ambos gozamos de buena salud. Nos casamos más tarde y no tenemos hijos\".",
+      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21005604",
+      "published": "2026-11-01T19:20:00+00:00"
+    },
     {
       "h": "Judge dismisses DOJ lawsuit over Alaska Senate election",
       "es": "Judge dismisses DOJ lawsuit over Alaska Senate election",
@@ -164,6 +173,15 @@
       "published": "2026-11-01T14:00:00+00:00"
     },
     {
+      "h": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "es": "La criptoempresa Binance cubre el 90% de las pérdidas tras un hackeo de 6.300 millones de dólares",
+      "d": "La Oficina Federal de Investigaciones (FBI) dice que Corea del Norte fue responsable del ataque.",
+      "u": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+      "published": "2026-11-01T13:11:37+00:00"
+    },
+    {
       "h": "America is doing better than you think. Your algorithm is just hiding it.",
       "es": "America is doing better than you think. Your algorithm is just hiding it.",
       "d": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
@@ -218,6 +236,15 @@
       "published": "2026-11-01T12:30:48+00:00"
     },
     {
+      "h": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "es": "Binance reanuda los retiros tras un hackeo de 6.300 millones de dólares y dice que el 90% de los activos de los usuarios robados están cubiertos",
+      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y ha reanudado los retiros graduales.",
+      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T12:19:33+00:00"
+    },
+    {
       "h": "Why AI is boosting Meta's ad business while hurting Google search",
       "es": "Why AI is boosting Meta's ad business while hurting Google search",
       "d": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
@@ -243,33 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
       "published": "2026-11-01T11:57:48+00:00"
-    },
-    {
-      "h": "China’s BYD extends sales growth streak on strong exports",
-      "es": "China’s BYD extends sales growth streak on strong exports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinas-byd-extends-sales-growth-streak-on-strong-exports-4989716",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00ZC_L.jpg",
-      "published": "2026-11-01T11:42:23+00:00"
-    },
-    {
-      "h": "Explainer-How US news organizations will make midterm race calls",
-      "es": "Explainer-How US news organizations will make midterm race calls",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00YU_L.jpg",
-      "published": "2026-11-01T11:12:24+00:00"
-    },
-    {
-      "h": "Street Calls of the Week",
-      "es": "Street Calls of the Week",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4989309",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
-      "published": "2026-11-01T10:00:02+00:00"
     }
   ],
   "sources": [
