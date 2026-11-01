@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T10:44:54.196833+00:00",
+  "updated": "2026-11-01T11:17:51.518269+00:00",
   "news": [
     {
       "h": "Street Calls of the Week",
@@ -9,6 +9,24 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
       "published": "2026-11-01T10:00:02+00:00"
+    },
+    {
+      "h": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "es": "La criptoempresa Binance cubre el 90% de las pérdidas tras un hack de 6.300 millones de dólares",
+      "d": "La Oficina Federal de Investigaciones (FBI) dice que Corea del Norte fue responsable del ataque.",
+      "u": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+      "published": "2026-11-01T09:28:06+00:00"
+    },
+    {
+      "h": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "es": "Binance reanuda los retiros tras un hackeo de 6.300 millones de dólares y dice que el 90% de los activos de los usuarios robados están cubiertos",
+      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y ha reanudado los retiros graduales.",
+      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T09:03:47+00:00"
     },
     {
       "h": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-26475652",
       "published": "2026-10-31T16:46:00+00:00"
-    },
-    {
-      "h": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
-      "es": "Meta construye un robot humanoide con la startup china Fourier, dice The Information",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinese-startup-fourier-the-information-says-4989297",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9U0EE_L.jpg",
-      "published": "2026-10-31T16:18:20+00:00"
-    },
-    {
-      "h": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
-      "es": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
-      "d": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-10-31T16:13:06+00:00"
     }
   ],
   "sources": [
