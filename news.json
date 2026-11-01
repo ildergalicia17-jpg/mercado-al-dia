@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T18:28:50.851013+00:00",
+  "updated": "2026-11-01T19:18:26.455844+00:00",
   "news": [
+    {
+      "h": "Judge dismisses DOJ lawsuit over Alaska Senate election",
+      "es": "Judge dismisses DOJ lawsuit over Alaska Senate election",
+      "d": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+      "u": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T19:06:40+00:00"
+    },
     {
       "h": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
       "es": "El representante demócrata Stevens respalda a Rogers sobre El-Sayed en las elecciones al Senado de Michigan",
@@ -72,6 +81,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-40951496",
       "published": "2026-11-01T16:35:00+00:00"
+    },
+    {
+      "h": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "es": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "d": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
+      "u": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T16:34:43+00:00"
     },
     {
       "h": "Everything changed for the oil, AI and bond trades over the past month",
@@ -173,6 +191,15 @@
       "published": "2026-11-01T12:45:04+00:00"
     },
     {
+      "h": "Companies promised AI gains — here's how the payoff showed up in earnings",
+      "es": "Companies promised AI gains — here's how the payoff showed up in earnings",
+      "d": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+      "u": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T12:34:06+00:00"
+    },
+    {
       "h": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
       "es": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
       "d": "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
       "published": "2026-11-01T10:00:02+00:00"
-    },
-    {
-      "h": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "es": "La criptoempresa Binance cubre el 90% de las pérdidas tras un hack de 6.300 millones de dólares",
-      "d": "La Oficina Federal de Investigaciones (FBI) dice que Corea del Norte fue responsable del ataque.",
-      "u": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "published": "2026-11-01T09:28:06+00:00"
-    },
-    {
-      "h": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-      "es": "Binance reanuda los retiros tras un hackeo de 6.300 millones de dólares y dice que el 90% de los activos de los usuarios robados están cubiertos",
-      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y ha reanudado los retiros graduales.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T09:03:47+00:00"
-    },
-    {
-      "h": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
-      "es": "Xiaomi’s October EV deliveries top 50,000, hit 2026 monthly high",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high-4989416",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00W7_L.jpg",
-      "published": "2026-11-01T07:42:22+00:00"
     }
   ],
   "sources": [
