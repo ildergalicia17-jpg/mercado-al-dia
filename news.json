@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T15:29:03.846611+00:00",
+  "updated": "2026-11-01T16:07:40.504348+00:00",
   "news": [
+    {
+      "h": "Everything changed for the oil, AI and bond trades over the past month",
+      "es": "Todo cambió para el comercio de petróleo, inteligencia artificial y bonos durante el último mes.",
+      "d": "El mercado espera que el petróleo siga subiendo, pero los rendimientos de los bonos del Tesoro han disminuido, una advertencia que los operadores e inversores pueden estar más preocupados por una caída de la IA que por la inflación.",
+      "u": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-01T15:58:24+00:00"
+    },
     {
       "h": "Apple’s new earnings era begins at a critical time for Big Tech",
       "es": "La nueva era de ganancias de Apple comienza en un momento crítico para las grandes tecnológicas",
@@ -261,15 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-10-31T23:56:40+00:00"
-    },
-    {
-      "h": "Top takeaways from Bernstein’s annual Global Sportswear survey",
-      "es": "Principales conclusiones de la encuesta anual Global Sportswear de Bernstein",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3M13K_L.jpg",
-      "published": "2026-10-31T22:57:05+00:00"
     }
   ],
   "sources": [
