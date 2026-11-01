@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-01T20:29:53.099304+00:00",
+  "updated": "2026-11-01T21:44:23.073890+00:00",
   "news": [
+    {
+      "h": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "es": "Las bolsas de Rusia cierran a la baja; Índice MOEX Rusia sin cambios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989779",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
+      "published": "2026-11-01T21:20:03+00:00"
+    },
+    {
+      "h": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+      "es": "El centro de datos exclusivo del interior de Australia retira el cronograma después de que el regulador se estanca",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA01AK_L.jpg",
+      "published": "2026-11-01T21:06:43+00:00"
+    },
+    {
+      "h": "Explainer-How US news organizations will make midterm race calls",
+      "es": "Explicador: cómo las organizaciones de noticias estadounidenses harán convocatorias electorales de mitad de período",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00YU_L.jpg",
+      "published": "2026-11-01T21:06:23+00:00"
+    },
+    {
+      "h": "Australian lender Westpac’s full-year profit ticks higher",
+      "es": "El beneficio anual del prestamista australiano Westpac aumenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA01A8_L.jpg",
+      "published": "2026-11-01T21:00:26+00:00"
+    },
     {
       "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
       "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-01T12:33:53+00:00"
-    },
-    {
-      "h": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-      "es": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-      "d": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
-      "u": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T12:30:48+00:00"
-    },
-    {
-      "h": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-      "es": "Binance reanuda los retiros tras un hackeo de 6.300 millones de dólares y dice que el 90% de los activos de los usuarios robados están cubiertos",
-      "d": "Binance dice que ha restablecido el respaldo para el 90% de los activos afectados por su hack de 6.300 millones de dólares y ha reanudado los retiros graduales.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T12:19:33+00:00"
-    },
-    {
-      "h": "Why AI is boosting Meta's ad business while hurting Google search",
-      "es": "Why AI is boosting Meta's ad business while hurting Google search",
-      "d": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
-      "u": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T12:00:01+00:00"
-    },
-    {
-      "h": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
-      "es": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/after-a-193-return-a-new-list-of-aipicks-for-november-is-now-live-4986615",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM280Z9_L.jpg",
-      "published": "2026-11-01T11:58:08+00:00"
     }
   ],
   "sources": [
