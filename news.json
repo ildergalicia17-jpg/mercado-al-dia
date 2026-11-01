@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-01T17:18:38.510568+00:00",
+  "updated": "2026-11-01T17:53:07.230363+00:00",
   "news": [
+    {
+      "h": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "es": "Mi padre tiene Alzheimer y su cuidador está usando su tarjeta de débito para DoorDash. ¿Intervengo?",
+      "d": "\"Sospecho que el cuidador interno se está beneficiando de la generosidad de mis padres\".",
+      "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-12441339",
+      "published": "2026-11-01T17:30:00+00:00"
+    },
     {
       "h": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
       "es": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
@@ -164,6 +173,15 @@
       "published": "2026-11-01T11:58:08+00:00"
     },
     {
+      "h": "Shops looted as German cost-of-living protests turn violent",
+      "es": "Tiendas saqueadas mientras las protestas por el costo de la vida en Alemania se vuelven violentas",
+      "d": "Las protestas en ciudades de toda Alemania -incluidas Berlín, Hamburgo y Frankfurt- se produjeron el mismo día en que cientos de miles de personas protestaron también en Francia.",
+      "u": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+      "published": "2026-11-01T11:57:48+00:00"
+    },
+    {
       "h": "China’s BYD extends sales growth streak on strong exports",
       "es": "China’s BYD extends sales growth streak on strong exports",
       "d": "",
@@ -252,24 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-01T06:00:01+00:00"
-    },
-    {
-      "h": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
-      "es": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00U4_L.jpg",
-      "published": "2026-11-01T05:00:28+00:00"
-    },
-    {
-      "h": "AI investors rush to hedge against potential tech market downturn - WSJ",
-      "es": "AI investors rush to hedge against potential tech market downturn - WSJ",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
-      "published": "2026-11-01T02:32:11+00:00"
     }
   ],
   "sources": [
