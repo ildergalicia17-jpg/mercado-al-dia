@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-02T02:59:22.097625+00:00",
+  "updated": "2026-11-02T03:54:27.091524+00:00",
   "news": [
+    {
+      "h": "HSBC to open Hong Kong AI Institute following Singapore launch",
+      "es": "HSBC abrirá el Instituto de IA de Hong Kong tras su lanzamiento en Singapur",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch-4989828",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA106N_L.jpg",
+      "published": "2026-11-02T03:42:22+00:00"
+    },
+    {
+      "h": "China big bank shares jump after robust third-quarter earnings",
+      "es": "Las acciones de los grandes bancos chinos suben tras sus sólidas ganancias del tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-big-bank-shares-jumpafter-robust-thirdquarter-earnings-4989827",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEA9F07Z_M.jpg",
+      "published": "2026-11-02T03:40:12+00:00"
+    },
+    {
+      "h": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "es": "¿Quiere ayudar a sus hijos y nietos adultos? Dales dinero mientras aún estés vivo.",
+      "d": "Cómo gestionar “dar mientras se vive” sin poner en peligro su propia jubilación.",
+      "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09412605",
+      "published": "2026-11-02T03:23:00+00:00"
+    },
+    {
+      "h": "Why is China Construction Bank stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones del China Construction Bank hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-china-construction-bank-stock-climbing-today-93CH-4989820",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-02T03:21:52+00:00"
+    },
+    {
+      "h": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "es": "Sam Altman realiza una visita sorpresa a Corea del Sur mientras OpenAI se basa en asociaciones de chips",
+      "d": "El director ejecutivo de OpenAI, Sam Altman, realizó una visita no anunciada a Corea del Sur durante el fin de semana y se reunió con ejecutivos de Samsung y, supuestamente, ejecutivos del Grupo SK.",
+      "u": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T02:58:53+00:00"
+    },
     {
       "h": "+66% since picked: Which pharma stock did our AI pick before a 30% earnings beat?",
       "es": "+66% desde su elección: ¿Qué acción farmacéutica eligió nuestra IA antes de superar el 30% de ganancias?",
@@ -18,6 +63,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-02T02:39:35+00:00"
+    },
+    {
+      "h": "Australian stocks that benefit from RBA rate hikes — and those most at risk",
+      "es": "Acciones australianas que se benefician de las subidas de tipos del RBA y las que corren mayor riesgo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australian-stocks-that-benefit-from-rba-rate-hikes--and-those-most-at-risk-93CH-4989812",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-02T02:35:09+00:00"
     },
     {
       "h": "Why is Agricultural Bank of China stock climbing today?",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA01AK_L.jpg",
       "published": "2026-11-01T21:06:43+00:00"
-    },
-    {
-      "h": "Explainer-How US news organizations will make midterm race calls",
-      "es": "Explicador: cómo las organizaciones de noticias estadounidenses harán convocatorias electorales de mitad de período",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00YU_L.jpg",
-      "published": "2026-11-01T21:06:23+00:00"
-    },
-    {
-      "h": "Australian lender Westpac’s full-year profit ticks higher",
-      "es": "El beneficio anual del prestamista australiano Westpac aumenta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA01A8_L.jpg",
-      "published": "2026-11-01T21:00:26+00:00"
-    },
-    {
-      "h": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "es": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "d": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19916000",
-      "published": "2026-11-01T20:00:00+00:00"
-    },
-    {
-      "h": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "es": "“Las joyas vistosas y los autos lujosos no tienen ningún atractivo”: tenemos un 99% de posibilidades de sobrevivir a los ahorros de toda nuestra vida. ¿Por qué no gastarlo todo?",
-      "d": "\"Yo tengo 68 años, ella 74 y ambos gozamos de buena salud. Nos casamos más tarde y no tenemos hijos\".",
-      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21005604",
-      "published": "2026-11-01T19:20:00+00:00"
-    },
-    {
-      "h": "Judge dismisses DOJ lawsuit over Alaska Senate election",
-      "es": "Judge dismisses DOJ lawsuit over Alaska Senate election",
-      "d": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-      "u": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T19:06:40+00:00"
-    },
-    {
-      "h": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
-      "es": "El representante demócrata Stevens respalda a Rogers sobre El-Sayed en las elecciones al Senado de Michigan",
-      "d": "Haley Stevens había perdido la nominación demócrata al Senado en Michigan ante Abdul El-Sayed a principios de este año.",
-      "u": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T18:16:05+00:00"
     }
   ],
   "sources": [
