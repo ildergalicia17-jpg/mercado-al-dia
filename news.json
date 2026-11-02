@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-01T23:29:38.101774+00:00",
+  "updated": "2026-11-02T00:04:45.495964+00:00",
   "news": [
+    {
+      "h": "Don't get caught out by new Buy Now Pay Later rules",
+      "es": "No se deje atrapar por las nuevas reglas Compre ahora y pague después",
+      "d": "Las nuevas comprobaciones de asequibilidad significan que se le podría bloquear el uso de Compre ahora y pague después, pero aquí le presentamos formas de evitarlo.",
+      "u": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+      "published": "2026-11-01T23:34:49+00:00"
+    },
+    {
+      "h": "China’s big banks post fastest quarterly profit growth in years as margins stabilise",
+      "es": "Los grandes bancos de China registran el crecimiento trimestral de beneficios más rápido en años a medida que se estabilizan los márgenes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise-4989783",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0OB_L.jpg",
+      "published": "2026-11-01T23:18:23+00:00"
+    },
     {
       "h": "China’s robot makers have mastered the moves. Now comes the race for brains",
       "es": "Los fabricantes de robots de China han dominado estos movimientos. Ahora viene la carrera por el cerebro",
@@ -252,24 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
       "published": "2026-11-01T13:11:37+00:00"
-    },
-    {
-      "h": "America is doing better than you think. Your algorithm is just hiding it.",
-      "es": "America is doing better than you think. Your algorithm is just hiding it.",
-      "d": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
-      "u": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-77447870",
-      "published": "2026-11-01T13:00:00+00:00"
-    },
-    {
-      "h": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
-      "es": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
-      "d": "In other words, not the people Republicans likely intended.",
-      "u": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-99774246",
-      "published": "2026-11-01T13:00:00+00:00"
     }
   ],
   "sources": [
