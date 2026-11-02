@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-02T23:12:40.502252+00:00",
+  "updated": "2026-11-02T23:51:12.378179+00:00",
   "news": [
+    {
+      "h": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+      "es": "Los accionistas de Marvell y Lumentum se unen en un acuerdo de fusión: \"Es una oferta basura\"",
+      "d": "Las acciones de ambas compañías cayeron el lunes después de que Marvell dijera que había llegado a un acuerdo de acciones para comprar Lumentum.",
+      "u": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-759206",
+      "published": "2026-11-02T23:39:00+00:00"
+    },
+    {
+      "h": "Grab Holdings boosts 2026 forecasts on strong delivery, ride-hailing demand",
+      "es": "Grab Holdings mejora las previsiones para 2026 gracias a la fuerte entrega y la demanda de viajes compartidos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/grab-holdings-boosts-2026-forecasts-on-strong-delivery-ridehailing-demand-4993190",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA122P_L.jpg",
+      "published": "2026-11-02T23:25:07+00:00"
+    },
+    {
+      "h": "Investigators say Learjet may have broken up before crashing in Florida",
+      "es": "Los investigadores dicen que Learjet pudo haberse desintegrado antes de estrellarse en Florida",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/investigators-say-learjet-may-have-broken-up-before-crashing-in-florida-4993197",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA122R_L.jpg",
+      "published": "2026-11-02T23:24:54+00:00"
+    },
+    {
+      "h": "Factbox-Six things to watch as US voters decide control of Congress",
+      "es": "Cuadro informativo: Seis cosas a tener en cuenta mientras los votantes estadounidenses deciden el control del Congreso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxsix-things-to-watch-as-us-voters-decide-control-of-congress-4990810",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10ZD_L.jpg",
+      "published": "2026-11-02T23:18:57+00:00"
+    },
+    {
+      "h": "Automakers back US rollback of fuel economy rules",
+      "es": "Los fabricantes de automóviles apoyan la revocación de las normas de economía de combustible en EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/automakers-back-us-rollback-of-fuel-economy-rules-4993191",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA122L_L.jpg",
+      "published": "2026-11-02T23:18:40+00:00"
+    },
+    {
+      "h": "New York reports first measles-linked child death in over 30 years amid outbreak",
+      "es": "Nueva York informa la primera muerte infantil relacionada con el sarampión en más de 30 años en medio de un brote",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/new-york-reports-first-measleslinked-child-death-in-over-30-years-amid-outbreak-4993189",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-11-02T23:18:09+00:00"
+    },
+    {
+      "h": "Stock market after midterm elections: What S&P 500 history shows",
+      "es": "Mercado de valores después de las elecciones de mitad de período: lo que muestra la historia del S&P 500",
+      "d": "Históricamente, las elecciones intermedias preceden a un año fuerte para el S&P 500. Qué saber si los demócratas recuperan el Congreso",
+      "u": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T23:13:34+00:00"
+    },
+    {
+      "h": "OpenAI hires former U.S. Army secretary Dan Driscoll- FT",
+      "es": "OpenAI contrata al exsecretario del ejército estadounidense Dan Driscoll- FT",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-hires-former-us-army-secretary-dan-driscoll-ft-93CH-4993166",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-02T23:07:51+00:00"
+    },
     {
       "h": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
       "es": "La Corte Suprema rechaza el intento del Departamento de Justicia de impedir que California cuente los votos en disputa",
@@ -9,6 +81,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-02T23:04:09+00:00"
+    },
+    {
+      "h": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
+      "es": "Boletín The China Connection de CNBC: El impulso humanoide de Nvidia se basa en manos robóticas fabricadas en China",
+      "d": "Los sistemas de robots humanoides del fabricante de chips estadounidense cuentan con manos mecánicas de nuevas empresas vinculadas a China.",
+      "u": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T23:00:01+00:00"
     },
     {
       "h": "US senator wants ’full accounting’ of Air Force One White House flyover",
@@ -189,87 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-76244420",
       "published": "2026-11-02T21:29:00+00:00"
-    },
-    {
-      "h": "Exclusive-Veteran US proxy solicitors launch new firm Senpoint Partners",
-      "es": "Abogados de proxy exclusivos y veteranos de EE. UU. lanzan la nueva firma Senpoint Partners",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveveteran-us-proxy-solicitors-launch-new-firm-senpoint-partners-4991280",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA1156_L.jpg",
-      "published": "2026-11-02T21:24:51+00:00"
-    },
-    {
-      "h": "German metal workers step up strikes in pay dispute",
-      "es": "Los trabajadores metalúrgicos alemanes intensifican las huelgas en medio de un conflicto salarial",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/german-metal-workers-step-up-strikes-in-pay-dispute-4991798",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11B4_L.jpg",
-      "published": "2026-11-02T21:24:27+00:00"
-    },
-    {
-      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 2.20%",
-      "es": "Las bolsas de Rusia cierran a la baja; El índice MOEX Rusia cae un 2,20%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-220-4992791",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
-      "published": "2026-11-02T21:20:04+00:00"
-    },
-    {
-      "h": "Tinder’s US daily active users return to growth in October as Match ramps up AI efforts",
-      "es": "Los usuarios activos diarios de Tinder en EE. UU. vuelven a crecer en octubre a medida que Match intensifica sus esfuerzos en inteligencia artificial",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tinders-us-daily-active-users-return-to-growth-in-october-as-match-ramps-up-ai-efforts-4992782",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11YS_L.jpg",
-      "published": "2026-11-02T21:18:26+00:00"
-    },
-    {
-      "h": "Trump focuses on Reflecting Pool in final public speech before midterms",
-      "es": "Trump se centra en Reflecting Pool en su discurso público final antes de las elecciones intermedias",
-      "d": "Trump pareció reconocer que los demócratas tenían una ventaja de cara al día de las elecciones. \"Pero le dimos una oportunidad muy fuerte a esto\", dijo.",
-      "u": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T21:15:13+00:00"
-    },
-    {
-      "h": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "es": "La carrera por gobernador de Texas se estrecha en los mercados de predicción, pero Abbott sigue siendo el favorito",
-      "d": "Los mercados de predicciones todavía muestran que el actual republicano es el favorito para ganar un cuarto mandato, pero las probabilidades se han reducido en las últimas semanas.",
-      "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T21:13:43+00:00"
-    },
-    {
-      "h": "Nasdaq ends lower as tech slumps again, offsetting rotation trade and slide in oil",
-      "es": "Nasdaq cierra a la baja mientras el sector tecnológico vuelve a desplomarse, compensando la rotación del comercio y la caída del petróleo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
-      "published": "2026-11-02T21:13:11+00:00"
-    },
-    {
-      "h": "Palantir tops third-quarter revenue estimates on strong AI software demand",
-      "es": "Palantir encabeza las estimaciones de ingresos del tercer trimestre gracias a la fuerte demanda de software de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/palantir-tops-thirdquarter-revenue-estimates-on-strong-ai-software-demand-4992744",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11Y9_L.jpg",
-      "published": "2026-11-02T21:12:21+00:00"
-    },
-    {
-      "h": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-      "es": "Oracle solicita vender 20.000 millones de dólares en nuevas acciones y bonos para financiar el desarrollo de la IA",
-      "d": "Oracle presentó el lunes planes para emitir nuevas acciones y más deuda para financiar su desarrollo de inteligencia artificial.",
-      "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T21:10:34+00:00"
     }
   ],
   "sources": [
