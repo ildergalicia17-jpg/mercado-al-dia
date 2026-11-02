@@ -1,6 +1,141 @@
 {
-  "updated": "2026-11-02T06:53:24.420030+00:00",
+  "updated": "2026-11-02T08:20:51.651282+00:00",
   "news": [
+    {
+      "h": "Ryanair may freeze workers' pay as fuel prices spike",
+      "es": "Ryanair may freeze workers' pay as fuel prices spike",
+      "d": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "u": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+      "published": "2026-11-02T08:06:10+00:00"
+    },
+    {
+      "h": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+      "es": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+      "d": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise.",
+      "u": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-02T08:02:34+00:00"
+    },
+    {
+      "h": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
+      "es": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/citi-initiates-vusion-at-buy-sees-84-upside-on-electronic-shelf-label-growth-4990084",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
+      "published": "2026-11-02T07:52:55+00:00"
+    },
+    {
+      "h": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "es": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "d": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "u": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-02T07:42:33+00:00"
+    },
+    {
+      "h": "China’s top three airlines head for full-year losses as fuel costs weigh",
+      "es": "China’s top three airlines head for full-year losses as fuel costs weigh",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinas-top-three-airlines-head-for-fullyear-losses-as-fuel-costs-weigh-4989803",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA104P_L.jpg",
+      "published": "2026-11-02T07:42:23+00:00"
+    },
+    {
+      "h": "Barclays downgrades Dr. Martens to underweight, cuts price target",
+      "es": "Barclays downgrades Dr. Martens to underweight, cuts price target",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-downgrades-dr-martens-to-underweight-cuts-price-target-4990050",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/DrMartens_800x533_L_1610389843.jpg",
+      "published": "2026-11-02T07:27:31+00:00"
+    },
+    {
+      "h": "Adnoc signs AI deal with OpenAI as Sam Altman visits Abu Dhabi",
+      "es": "Adnoc signs AI deal with OpenAI as Sam Altman visits Abu Dhabi",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/adnoc-signs-ai-deal-with-openai-as-sam-altman-visits-abu-dhabi-93CH-4990048",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-02T07:26:41+00:00"
+    },
+    {
+      "h": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
+      "es": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
+      "d": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back painfully for investors who aren’t prepared.",
+      "u": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-32151508",
+      "published": "2026-11-02T07:25:00+00:00"
+    },
+    {
+      "h": "BP completes $6 billion Castrol sale to Stonepeak Partners",
+      "es": "BP completes $6 billion Castrol sale to Stonepeak Partners",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bp-completes-6-billion-castrol-sale-to-stonepeak-partners-93CH-4990043",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-11-02T07:22:33+00:00"
+    },
+    {
+      "h": "Hang Seng tests SMA(50) resistance in bear flag: Live levels",
+      "es": "Hang Seng tests SMA(50) resistance in bear flag: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-ichimoku-cloud-at-supertrend-live-93CH-4989804",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-11-02T07:12:35+00:00"
+    },
+    {
+      "h": "Japan stocks lower at close of trade; Nikkei 225 down 0.29%",
+      "es": "Japan stocks lower at close of trade; Nikkei 225 down 0.29%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-029-4990000",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE2T0DT_M.jpg",
+      "published": "2026-11-02T07:00:04+00:00"
+    },
+    {
+      "h": "Bavarian Nordic wins UK contract for mpox and smallpox vaccine",
+      "es": "Bavarian Nordic wins UK contract for mpox and smallpox vaccine",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bavarian-nordic-wins-uk-contract-for-mpox-and-smallpox-vaccine-93CH-4989995",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-02T06:58:18+00:00"
+    },
+    {
+      "h": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
+      "es": "After a +193% return: A new list of AI-picks for November is NOW LIVE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/after-a-193-return-a-new-list-of-aipicks-for-november-is-now-live-4986615",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM280Z9_L.jpg",
+      "published": "2026-11-02T06:56:11+00:00"
+    },
+    {
+      "h": "AI is coming to construction sites. But does it make workers safer?",
+      "es": "AI is coming to construction sites. But does it make workers safer?",
+      "d": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited.",
+      "u": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T06:55:19+00:00"
+    },
+    {
+      "h": "Why is POSCO stock rallying today?",
+      "es": "Why is POSCO stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-posco-stock-rallying-today-93CH-4989982",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-02T06:49:33+00:00"
+    },
     {
       "h": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
       "es": "Anthropic planea vender 3.500 millones de dólares en acciones a inversores japoneses en una OPI, según muestra una presentación",
@@ -135,141 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM1A0VS_1200_L.jpg",
       "published": "2026-11-02T05:39:18+00:00"
-    },
-    {
-      "h": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.58%",
-      "es": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.58%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-058-4989884",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB4C1BD_M.jpg",
-      "published": "2026-11-02T05:30:04+00:00"
-    },
-    {
-      "h": "Xiaomi shares climb as October EV deliveries top 50,000",
-      "es": "Xiaomi shares climb as October EV deliveries top 50,000",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-as-october-ev-deliveries-top-50000-4989880",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0ZT_1200_L.jpg",
-      "published": "2026-11-02T05:20:38+00:00"
-    },
-    {
-      "h": "Glencore proposes CEO pay changes to speed takeover payouts- FT",
-      "es": "Glencore proposes CEO pay changes to speed takeover payouts- FT",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/glencore-proposes-ceo-pay-changes-to-speed-takeover-payouts-ft-93CH-4989879",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-11-02T05:20:20+00:00"
-    },
-    {
-      "h": "Why is Sungrow Power Supply stock surging today?",
-      "es": "Why is Sungrow Power Supply stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sungrow-power-supply-stock-surging-today-93CH-4989878",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEA990FF_M.jpg",
-      "published": "2026-11-02T05:20:12+00:00"
-    },
-    {
-      "h": "Why is Xiaomi stock surging today?",
-      "es": "Why is Xiaomi stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4989876",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDA60T9_M.jpg",
-      "published": "2026-11-02T05:16:27+00:00"
-    },
-    {
-      "h": "Australian lithium stocks slide as Citi cuts forecasts on weaker battery demand",
-      "es": "Australian lithium stocks slide as Citi cuts forecasts on weaker battery demand",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australian-lithium-stocks-slide-as-citi-cuts-forecasts-on-weaker-battery-demand-4989875",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED760SV_M.jpg",
-      "published": "2026-11-02T05:15:34+00:00"
-    },
-    {
-      "h": "Why is BYD stock rising today?",
-      "es": "Why is BYD stock rising today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-byd-stock-rising-today-93CH-4989867",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE5R0P9_M.jpg",
-      "published": "2026-11-02T05:14:16+00:00"
-    },
-    {
-      "h": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "es": "Binance ve $3,64 mil millones en salidas netas a medida que se reanudan los retiros después de un hackeo masivo",
-      "d": "Binance registró 3.640 millones de dólares en salidas netas después de reanudar los retiros tras un hackeo de 6.300 millones de dólares, lo que representa el 2,1% de sus activos totales.",
-      "u": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T05:09:45+00:00"
-    },
-    {
-      "h": "Why is Reliance Industries stock surging today?",
-      "es": "Why is Reliance Industries stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-reliance-industries-stock-surging-today-93CH-4989840",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEE1H0GK_M.jpg",
-      "published": "2026-11-02T04:33:25+00:00"
-    },
-    {
-      "h": "Japan chip earnings roundup: AI a double-edged sword",
-      "es": "Japan chip earnings roundup: AI a double-edged sword",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-chip-earnings-roundup-ai-a-doubleedged-sword-93CH-4989839",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-11-02T04:33:12+00:00"
-    },
-    {
-      "h": "Why is Tokyo Electron stock surging today?",
-      "es": "Why is Tokyo Electron stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-tokyo-electron-stock-surging-today-93CH-4989837",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-02T04:31:29+00:00"
-    },
-    {
-      "h": "Why is Screen Holdings stock plunging today?",
-      "es": "Why is Screen Holdings stock plunging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-screen-holdings-stock-plunging-today-93CH-4989836",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-11-02T04:31:24+00:00"
-    },
-    {
-      "h": "Asia stocks rise as tech gains ahead of Apple results",
-      "es": "Asia stocks rise as tech gains ahead of Apple results",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-tech-gains-ahead-of-apple-results-4989830",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-      "published": "2026-11-02T04:21:47+00:00"
-    },
-    {
-      "h": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-      "es": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-      "d": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
-      "u": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T04:09:34+00:00"
-    },
-    {
-      "h": "HSBC to open Hong Kong AI Institute following Singapore launch",
-      "es": "HSBC abrirá el Instituto de IA de Hong Kong tras su lanzamiento en Singapur",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-to-open-hong-kong-ai-institute-following-singapore-launch-4989828",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA106N_L.jpg",
-      "published": "2026-11-02T03:42:22+00:00"
     }
   ],
   "sources": [
