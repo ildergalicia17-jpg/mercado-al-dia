@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-02T00:04:45.495964+00:00",
+  "updated": "2026-11-02T01:07:22.011212+00:00",
   "news": [
+    {
+      "h": "Binance users withdraw $3.6bn after record crypto hack",
+      "es": "Binance users withdraw $3.6bn after record crypto hack",
+      "d": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "u": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-02T00:43:35+00:00"
+    },
+    {
+      "h": "Asia shares bend under AI stress; Apple earnings loom",
+      "es": "Asia shares bend under AI stress; Apple earnings loom",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA101F_L.jpg",
+      "published": "2026-11-02T00:42:25+00:00"
+    },
+    {
+      "h": "U.S. stock futures edge high after bruising Oct; earnings, elections in focus",
+      "es": "U.S. stock futures edge high after bruising Oct; earnings, elections in focus",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
+      "published": "2026-11-02T00:31:38+00:00"
+    },
+    {
+      "h": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "es": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "d": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
+      "u": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T00:11:37+00:00"
+    },
     {
       "h": "Don't get caught out by new Buy Now Pay Later rules",
       "es": "No se deje atrapar por las nuevas reglas Compre ahora y pague después",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-01T14:30:01+00:00"
-    },
-    {
-      "h": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-      "es": "Es posible que la Seguridad Social tenga que recortar los beneficios de jubilación en seis años. Esto es cuánto dinero está en juego para los beneficiarios",
-      "d": "Las últimas proyecciones muestran que la Seguridad Social podría tener que recortar los beneficios de jubilación en seis años. Esto es lo que puede suceder si el Congreso no lo impide.",
-      "u": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T14:30:01+00:00"
-    },
-    {
-      "h": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
-      "es": "Binance, criptomonedas y hacks: lo que hay que saber sobre cómo mantener seguras las monedas a medida que avanzan los ciberdelincuentes",
-      "d": "El hackeo de Binance por valor de 6.300 millones de dólares, el mayor robo de criptomonedas de la historia, es una llamada de atención para que los inversores comprendan cómo se protegen las monedas y el riesgo de perderlas.",
-      "u": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-01T14:29:06+00:00"
-    },
-    {
-      "h": "This is the biggest threat to the AI-powered bull market",
-      "es": "This is the biggest threat to the AI-powered bull market",
-      "d": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-      "u": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-72130104",
-      "published": "2026-11-01T14:00:00+00:00"
-    },
-    {
-      "h": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "es": "La criptoempresa Binance cubre el 90% de las pérdidas tras un hackeo de 6.300 millones de dólares",
-      "d": "La Oficina Federal de Investigaciones (FBI) dice que Corea del Norte fue responsable del ataque.",
-      "u": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-      "published": "2026-11-01T13:11:37+00:00"
     }
   ],
   "sources": [
