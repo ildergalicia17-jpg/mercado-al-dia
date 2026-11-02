@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-02T19:32:59.798658+00:00",
+  "updated": "2026-11-02T20:22:22.657968+00:00",
   "news": [
+    {
+      "h": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "es": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "d": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+      "u": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T20:19:25+00:00"
+    },
+    {
+      "h": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "es": "Intel foundry push faces critical test after stock's 45% plunge in October",
+      "d": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
+      "u": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T20:07:56+00:00"
+    },
+    {
+      "h": "US senator wants ’full accounting’ of Air Force One White House flyover",
+      "es": "US senator wants ’full accounting’ of Air Force One White House flyover",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-senator-wants-full-accounting-of-air-force-one-white-house-flyover-4992574",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11RK_L.jpg",
+      "published": "2026-11-02T19:54:21+00:00"
+    },
+    {
+      "h": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "es": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "d": "The Department of Justice's request to the Supreme Court in the California case comes as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+      "u": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T19:38:58+00:00"
+    },
+    {
+      "h": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "es": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "d": "The AI infrastructure deal is expected to close during the first half of 2028.",
+      "u": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T19:32:15+00:00"
+    },
     {
       "h": "How soon gas prices could go down now that oil is tumbling",
       "es": "¿Qué tan pronto podrían bajar los precios del gas ahora que el petróleo está cayendo?",
@@ -27,6 +72,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-02T19:21:15+00:00"
+    },
+    {
+      "h": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+      "es": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+      "d": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election.",
+      "u": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T19:19:17+00:00"
     },
     {
       "h": "S&P 500 rises; Apple and Palantir set to report results",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/new_york_street_scene_M_1440050609.jpg",
       "published": "2026-11-02T18:11:22+00:00"
-    },
-    {
-      "h": "Tesla’s monthly registrations rise across Europe as Chinese rivals gain ground",
-      "es": "Tesla’s monthly registrations rise across Europe as Chinese rivals gain ground",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/teslas-monthly-registrations-surge-in-northern-europe-even-as-chinese-competition-rises-4990675",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10O0_L.jpg",
-      "published": "2026-11-02T18:07:00+00:00"
-    },
-    {
-      "h": "Why is Intel stock sliding today?",
-      "es": "Why is Intel stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-sliding-today-93CH-4992550",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3D0J5_L.jpg",
-      "published": "2026-11-02T18:06:50+00:00"
-    },
-    {
-      "h": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
-      "es": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/major-automakers-urge-us-congress-to-pass-permanent-ban-on-chinese-vehicles-4992433",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11ML_L.jpg",
-      "published": "2026-11-02T18:06:28+00:00"
-    },
-    {
-      "h": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
-      "es": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports-4992542",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11PW_L.jpg",
-      "published": "2026-11-02T18:00:48+00:00"
-    },
-    {
-      "h": "Explainer-How US news organizations will make midterm race calls",
-      "es": "Explainer-How US news organizations will make midterm race calls",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainerhow-us-news-organizations-will-make-midterm-race-calls-4989664",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA00YU_L.jpg",
-      "published": "2026-11-02T18:00:29+00:00"
-    },
-    {
-      "h": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "es": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "d": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-      "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80511883",
-      "published": "2026-11-02T18:00:00+00:00"
     }
   ],
   "sources": [
