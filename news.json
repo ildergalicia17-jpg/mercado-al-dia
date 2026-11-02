@@ -1,6 +1,141 @@
 {
-  "updated": "2026-11-02T21:05:59.096568+00:00",
+  "updated": "2026-11-02T21:45:18.696426+00:00",
   "news": [
+    {
+      "h": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
+      "es": "Kimberly-Clark cierra la adquisición del fabricante de Tylenol, Kenvue. Qué esperar a continuación",
+      "d": "Kimberly-Clark tiene un plan para mejorar el crecimiento y las ganancias tras la adquisición de Kenvue",
+      "u": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T21:35:06+00:00"
+    },
+    {
+      "h": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "es": "¿Quiere ayudar a sus hijos y nietos adultos? Dales dinero mientras aún estés vivo.",
+      "d": "Cómo gestionar “dar mientras se vive” sin poner en peligro su propia jubilación.",
+      "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09412605",
+      "published": "2026-11-02T21:35:00+00:00"
+    },
+    {
+      "h": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "es": "Palantir informa un crecimiento en auge de los ingresos comerciales en EE. UU., superando al gobierno por primera vez",
+      "d": "Los ingresos comerciales de Palantir aumentaron un 148% a 984 millones de dólares, superando los ingresos del gobierno de 953 millones de dólares.",
+      "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-02T21:30:36+00:00"
+    },
+    {
+      "h": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "es": "“Ella tiene una personalidad tipo A”: Mi madrastra quiere que le devuelva el regalo de bodas de 40.000 dólares de mi difunto padre. ¿Debería obligarme?",
+      "d": "“Aproximadamente dos meses después de su funeral, mi madrastra llamó y dijo que quería que le devolvieran el dinero”.",
+      "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-80511883",
+      "published": "2026-11-02T21:30:00+00:00"
+    },
+    {
+      "h": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+      "es": "El mercado de valores no ha avanzado en los últimos cinco meses. Ahora parece una ganga.",
+      "d": "La relación precio-beneficio a plazo del S&P 500 está por debajo de sus promedios de cinco y diez años.",
+      "u": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-76244420",
+      "published": "2026-11-02T21:29:00+00:00"
+    },
+    {
+      "h": "Exclusive-Veteran US proxy solicitors launch new firm Senpoint Partners",
+      "es": "Abogados de proxy exclusivos y veteranos de EE. UU. lanzan la nueva firma Senpoint Partners",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveveteran-us-proxy-solicitors-launch-new-firm-senpoint-partners-4991280",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA1156_L.jpg",
+      "published": "2026-11-02T21:24:51+00:00"
+    },
+    {
+      "h": "German metal workers step up strikes in pay dispute",
+      "es": "Los trabajadores metalúrgicos alemanes intensifican las huelgas en medio de un conflicto salarial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/german-metal-workers-step-up-strikes-in-pay-dispute-4991798",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11B4_L.jpg",
+      "published": "2026-11-02T21:24:27+00:00"
+    },
+    {
+      "h": "Russia stocks lower at close of trade; MOEX Russia Index down 2.20%",
+      "es": "Las bolsas de Rusia cierran a la baja; El índice MOEX Rusia cae un 2,20%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-220-4992791",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
+      "published": "2026-11-02T21:20:04+00:00"
+    },
+    {
+      "h": "Tinder’s US daily active users return to growth in October as Match ramps up AI efforts",
+      "es": "Los usuarios activos diarios de Tinder en EE. UU. vuelven a crecer en octubre a medida que Match intensifica sus esfuerzos en inteligencia artificial",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tinders-us-daily-active-users-return-to-growth-in-october-as-match-ramps-up-ai-efforts-4992782",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11YS_L.jpg",
+      "published": "2026-11-02T21:18:26+00:00"
+    },
+    {
+      "h": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "es": "La carrera por gobernador de Texas se estrecha en los mercados de predicción, pero Abbott sigue siendo el favorito",
+      "d": "Los mercados de predicciones todavía muestran que el actual republicano es el favorito para ganar un cuarto mandato, pero las probabilidades se han reducido en las últimas semanas.",
+      "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T21:13:43+00:00"
+    },
+    {
+      "h": "Nasdaq ends lower as tech slumps again, offsetting rotation trade and slide in oil",
+      "es": "Nasdaq cierra a la baja mientras el sector tecnológico vuelve a desplomarse, compensando la rotación del comercio y la caída del petróleo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
+      "published": "2026-11-02T21:13:11+00:00"
+    },
+    {
+      "h": "Palantir tops third-quarter revenue estimates on strong AI software demand",
+      "es": "Palantir encabeza las estimaciones de ingresos del tercer trimestre gracias a la fuerte demanda de software de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/palantir-tops-thirdquarter-revenue-estimates-on-strong-ai-software-demand-4992744",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11Y9_L.jpg",
+      "published": "2026-11-02T21:12:21+00:00"
+    },
+    {
+      "h": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "es": "Oracle solicita vender 20.000 millones de dólares en nuevas acciones y bonos para financiar el desarrollo de la IA",
+      "d": "Oracle presentó el lunes planes para emitir nuevas acciones y más deuda para financiar su desarrollo de inteligencia artificial.",
+      "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T21:10:34+00:00"
+    },
+    {
+      "h": "Palantir earnings reveal a major AI turning point",
+      "es": "Las ganancias de Palantir revelan un importante punto de inflexión en la IA",
+      "d": "El negocio comercial estadounidense generó en el tercer trimestre más dinero que el segmento gubernamental.",
+      "u": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-831524",
+      "published": "2026-11-02T21:09:00+00:00"
+    },
+    {
+      "h": "Delta CEO says Heathrow plan to relocate airline’s operations is ’deeply disappointing’",
+      "es": "El director ejecutivo de Delta dice que el plan de Heathrow para reubicar las operaciones de la aerolínea es \"profundamente decepcionante\"",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/delta-ceo-says-heathrow-plan-to-relocate-airlines-operations-is-deeply-disappointing-4992711",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11Y1_L.jpg",
+      "published": "2026-11-02T21:06:43+00:00"
+    },
     {
       "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
       "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
@@ -27,6 +162,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
       "published": "2026-11-02T20:54:10+00:00"
+    },
+    {
+      "h": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+      "es": "Los operadores del mercado de predicciones ahora ven casi un 75% de posibilidades de que los demócratas ganen el Senado.",
+      "d": "Apenas un día antes de las elecciones intermedias, los comerciantes de Kalshi dan a los demócratas un 74% de posibilidades de controlar el Senado.",
+      "u": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T20:48:21+00:00"
     },
     {
       "h": "Children’s Place weighs bankruptcy sale or liquidation, Bloomberg reports",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
       "published": "2026-11-02T20:06:08+00:00"
-    },
-    {
-      "h": "US senator wants ’full accounting’ of Air Force One White House flyover",
-      "es": "US senator wants ’full accounting’ of Air Force One White House flyover",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-senator-wants-full-accounting-of-air-force-one-white-house-flyover-4992574",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11RK_L.jpg",
-      "published": "2026-11-02T19:54:21+00:00"
-    },
-    {
-      "h": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "es": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "d": "The Department of Justice's request to the Supreme Court in the California case comes as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-      "u": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T19:38:58+00:00"
-    },
-    {
-      "h": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-      "es": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-      "d": "The AI infrastructure deal is expected to close during the first half of 2028.",
-      "u": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T19:32:15+00:00"
-    },
-    {
-      "h": "How soon gas prices could go down now that oil is tumbling",
-      "es": "¿Qué tan pronto podrían bajar los precios del gas ahora que el petróleo está cayendo?",
-      "d": "Los precios minoristas de la gasolina cayeron a 4,12 dólares el galón el lunes, mientras los precios del petróleo estadounidense cayeron por debajo de los 100 dólares el barril.",
-      "u": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37958659",
-      "published": "2026-11-02T19:27:00+00:00"
-    },
-    {
-      "h": "Pennsylvania measles cases rise to 1,433, state health department says",
-      "es": "Los casos de sarampión en Pensilvania aumentan a 1.433, dice el departamento de salud estatal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/pennsylvania-measles-cases-rise-to-1433-state-health-department-says-4992614",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11TD_L.jpg",
-      "published": "2026-11-02T19:24:26+00:00"
-    },
-    {
-      "h": "Fed will vote on rates less often. What that could mean for borrowers",
-      "es": "La Fed votará sobre las tasas con menos frecuencia. Lo que eso podría significar para los prestatarios",
-      "d": "El presidente de la Reserva Federal, Kevin Warsh, dijo que planea reducir el número de votaciones para fijar las tasas, una medida que algunos economistas dicen podría retrasar el alivio para los prestatarios.",
-      "u": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T19:21:15+00:00"
-    },
-    {
-      "h": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-      "es": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-      "d": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election.",
-      "u": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T19:19:17+00:00"
-    },
-    {
-      "h": "S&P 500 rises; Apple and Palantir set to report results",
-      "es": "El S&P 500 sube; Apple y Palantir se preparan para informar resultados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wall-street-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus-4990733",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10YW_L.jpg",
-      "published": "2026-11-02T19:18:30+00:00"
-    },
-    {
-      "h": "Alphabet C gaps down to extreme oversold RSI: Live levels",
-      "es": "Las brechas de Alphabet C caen hasta el RSI de sobreventa extrema: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-gaps-down-to-extreme-oversold-rsi-live-levels-93CH-4992610",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-02T19:18:27+00:00"
-    },
-    {
-      "h": "Tesla shooting star at $414 signals pullback risk: Live levels",
-      "es": "La estrella fugaz de Tesla a 414 dólares indica riesgo de retroceso: niveles reales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-shooting-star-at-414-signals-pullback-risk-live-levels-93CH-4992609",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED920A7_M.jpg",
-      "published": "2026-11-02T19:18:22+00:00"
-    },
-    {
-      "h": "Nasdaq 100 breaks down in bear flag: Live levels",
-      "es": "Nasdaq 100 se desploma en bandera bajista: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-02T19:18:16+00:00"
-    },
-    {
-      "h": "S&P 500 breaks below 200 SMA with H&S active: Live levels",
-      "es": "S&P 500 cae por debajo de 200 SMA con H&S activo: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-breaks-down-below-all-mas-tests-7558-low-live-levels-93CH-4991913",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-11-02T19:18:11+00:00"
-    },
-    {
-      "h": "Dow Jones trapped in MA range after Double Top: Live levels",
-      "es": "Dow Jones atrapado en el rango MA después del doble techo: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-tests-200-sma-and-50-fib-support-live-levels-93CH-4991915",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-02T19:18:10+00:00"
-    },
-    {
-      "h": "Dollar Index consolidates near 101.58 with bearish bias: Live",
-      "es": "El índice del dólar se consolida cerca de 101,58 con sesgo bajista: en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dollar-index-breaks-below-key-mas-amid-bearish-momentum-live-93CH-4991912",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-02T19:17:57+00:00"
-    },
-    {
-      "h": "Micron tests $827 support as bearish trend dominates: Live levels",
-      "es": "Micron prueba el soporte de $ 827 mientras domina la tendencia bajista: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/micron-tests-827-support-as-bearish-trend-dominates-live-levels-93CH-4992608",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Micron_800x533_L_1634733965.jpg",
-      "published": "2026-11-02T19:17:46+00:00"
-    },
-    {
-      "h": "NVIDIA breaks support, oversold at $205: Live levels",
-      "es": "NVIDIA rompe el soporte, sobrevendido a $205: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-breaks-support-oversold-at-205-live-levels-93CH-4992607",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3D0K1_L.jpg",
-      "published": "2026-11-02T19:17:45+00:00"
     }
   ],
   "sources": [
