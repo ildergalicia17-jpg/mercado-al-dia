@@ -1,6 +1,150 @@
 {
-  "updated": "2026-11-02T10:31:56.921660+00:00",
+  "updated": "2026-11-02T11:26:52.127065+00:00",
   "news": [
+    {
+      "h": "BofA Securities Keeps Software Top Picks Despite AI Worries",
+      "es": "BofA Securities mantiene las mejores opciones de software a pesar de las preocupaciones sobre la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bofa-securities-keeps-software-top-picks-despite-ai-worries-4990826",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0N09T_M.jpg",
+      "published": "2026-11-02T11:19:02+00:00"
+    },
+    {
+      "h": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "es": "Falsas advertencias nucleares en Ucrania mientras Moscú y Kiev informan de ciberataques separados a aplicaciones de emergencia",
+      "d": "Tanto Rusia como Ucrania informan de ataques cibernéticos a sus sistemas de alerta, mientras los ataques continúan en todos los países.",
+      "u": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T11:18:37+00:00"
+    },
+    {
+      "h": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
+      "es": "Cómo los precios del petróleo podrían promediar los 130 dólares por barril el próximo año, según Goldman Sachs",
+      "d": "Los analistas del banco de inversión dijeron que el crudo Brent podría alcanzar los 140 dólares el barril el próximo año si las tensiones empeoran en Oriente Medio.",
+      "u": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-45566739",
+      "published": "2026-11-02T11:14:00+00:00"
+    },
+    {
+      "h": "Sectors bracing for a pivot as US midterm elections loom",
+      "es": "Los sectores se preparan para un giro a medida que se avecinan las elecciones de mitad de período en EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sectors-bracing-for-a-pivot-as-usmidterm-elections-loom-4990811",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA110C_L.jpg",
+      "published": "2026-11-02T11:13:47+00:00"
+    },
+    {
+      "h": "Factbox-Six things to watch as US voters decide control of Congress",
+      "es": "Cuadro informativo: Seis cosas a tener en cuenta mientras los votantes estadounidenses deciden el control del Congreso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxsix-things-to-watch-as-us-voters-decide-control-of-congress-4990810",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10ZD_L.jpg",
+      "published": "2026-11-02T11:13:32+00:00"
+    },
+    {
+      "h": "U.S. stock futures rebound as Apple earnings eyed; mid-terms in focus",
+      "es": "Los futuros de acciones estadounidenses se recuperan a medida que se observan las ganancias de Apple; términos intermedios en foco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
+      "published": "2026-11-02T11:13:09+00:00"
+    },
+    {
+      "h": "Estee Lauder raises annual forecasts on resilient demand ahead of holiday season",
+      "es": "Estee Lauder eleva sus previsiones anuales sobre la resiliencia de la demanda antes de la temporada navideña",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/estee-lauder-raises-annual-forecasts-on-resilient-demand-ahead-of-holiday-season-4990805",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA110L_L.jpg",
+      "published": "2026-11-02T11:12:39+00:00"
+    },
+    {
+      "h": "Citi throws in the towel on hyperscalers after a key market bet misfires",
+      "es": "Citi tira la toalla con los hiperescaladores después de que fracasa una apuesta clave del mercado",
+      "d": "Los hiperescaladores y los juegos de crecimiento han tenido un rendimiento inferior en medio de una fuerte rotación",
+      "u": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-80230210",
+      "published": "2026-11-02T11:08:00+00:00"
+    },
+    {
+      "h": "Apple’s new CEO Ternus to face first earnings test as memory costs surge",
+      "es": "El nuevo CEO de Apple, Ternus, enfrentará la primera prueba de ganancias a medida que aumentan los costos de la memoria",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apples-new-ceo-ternus-to-face-first-earnings-test-as-memory-costs-surge-4989863",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10D2_L.jpg",
+      "published": "2026-11-02T11:06:48+00:00"
+    },
+    {
+      "h": "Exclusive: Rare Earths Americas in U.S. supply talks as Brazil lab results improve",
+      "es": "Exclusiva: Rare Earths Americas en conversaciones sobre suministro en EE. UU. a medida que mejoran los resultados del laboratorio de Brasil",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusive-rare-earths-americas-in-us-supply-talks-as-brazil-lab-results-improve-4990768",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K09P_M.jpg",
+      "published": "2026-11-02T11:06:01+00:00"
+    },
+    {
+      "h": "EchoStar rises on report SpaceX in talks to buy Boost Mobile or tap its network",
+      "es": "EchoStar sube tras informe SpaceX en conversaciones para comprar Boost Mobile o aprovechar su red",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/echostar-rises-on-report-spacex-in-talks-to-buy-boost-mobile-or-tap-its-network-4990743",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M02C_L.jpg",
+      "published": "2026-11-02T11:03:37+00:00"
+    },
+    {
+      "h": "UBS sees Roche giredestrant potential priced in after 50% share rally",
+      "es": "La UBS ve descontado el potencial de Roche tras un repunte del 50% en sus acciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-sees-roche-giredestrant-potential-priced-in-after-50-share-rally-4990742",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-11-02T11:03:27+00:00"
+    },
+    {
+      "h": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+      "es": "OpenAI profundiza su presencia en Abu Dhabi mientras Sam Altman firma acuerdos que abarcan energía, gobierno e inversión",
+      "d": "OpenAI firmó cuatro acuerdos en Abu Dhabi que abarcan energía, gobierno e inversión cuando Sam Altman se reunió con el príncipe heredero del emirato.",
+      "u": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T11:02:08+00:00"
+    },
+    {
+      "h": "Wall Street futures rise as AI stocks catch their breath; midterms in focus",
+      "es": "Los futuros de Wall Street suben a medida que las acciones de IA recuperan el aliento; exámenes parciales en foco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wall-street-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus-4990733",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10YW_L.jpg",
+      "published": "2026-11-02T11:01:35+00:00"
+    },
+    {
+      "h": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+      "es": "El crudo estadounidense cae por debajo de los 100 dólares en medio de informes sobre los esfuerzos diplomáticos entre Estados Unidos e Irán",
+      "d": "El petróleo cayó el lunes, en medio de noticias de que tanto Estados Unidos como Irán están llevando a cabo actividades diplomáticas en medio de las tensiones en curso en Medio Oriente.",
+      "u": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T11:00:55+00:00"
+    },
+    {
+      "h": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "es": "Defensa, atención médica, criptomonedas e inteligencia artificial: cómo las elecciones de mitad de período podrían afectar las acciones",
+      "d": "Los avances demócratas en el Congreso podrían traer consigo una supervisión más estricta de las principales empresas y desplazar miles de millones de dólares en gasto federal y política regulatoria.",
+      "u": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T11:00:01+00:00"
+    },
     {
       "h": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
       "es": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM2M04W_L.jpg",
       "published": "2026-11-02T09:21:14+00:00"
-    },
-    {
-      "h": "Tesla registrations jump in Sweden, Norway and Denmark",
-      "es": "Tesla registrations jump in Sweden, Norway and Denmark",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-registrations-jump-in-sweden-norway-and-denmark-4990413",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEKB40RQ_L.jpg",
-      "published": "2026-11-02T09:20:29+00:00"
-    },
-    {
-      "h": "Why is Dr. Martens stock sliding today?",
-      "es": "Why is Dr. Martens stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dr-martens-stock-sliding-today-93CH-4990384",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-11-02T09:18:48+00:00"
-    },
-    {
-      "h": "Goldman Sachs updates AI adoption tracker through October 2026",
-      "es": "Goldman Sachs updates AI adoption tracker through October 2026",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-updates-ai-adoption-tracker-through-october-2026-93CH-4990382",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHB309H_L.jpg",
-      "published": "2026-11-02T09:18:38+00:00"
-    },
-    {
-      "h": "European stocks flat, oil drops as midterm caution prevails",
-      "es": "European stocks flat, oil drops as midterm caution prevails",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA101F_L.jpg",
-      "published": "2026-11-02T09:18:24+00:00"
-    },
-    {
-      "h": "Why is Rivian stock rallying today?",
-      "es": "Why is Rivian stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rivian-stock-rallying-today-93CH-4990381",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Rivian_800x533_L_1622639757.jpg",
-      "published": "2026-11-02T09:18:23+00:00"
-    },
-    {
-      "h": "Why is Okta stock climbing today?",
-      "es": "Why is Okta stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-okta-stock-climbing-today-93CH-4990379",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-11-02T09:17:30+00:00"
-    },
-    {
-      "h": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-      "es": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-      "d": "Morgan Stanley’s chief stock-market strategist, Mike Wilson, said the midterm elections are a classic “clearing event” whose outcome at this point doesn’t really matter.",
-      "u": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-54026251",
-      "published": "2026-11-02T09:15:00+00:00"
-    },
-    {
-      "h": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-      "es": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-      "d": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors.",
-      "u": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T09:11:02+00:00"
-    },
-    {
-      "h": "Gift Nifty 50 V-Bottom rally hits overbought zone: Live levels",
-      "es": "Gift Nifty 50 V-Bottom rally hits overbought zone: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-vbottom-rally-hits-overbought-zone-live-levels-93CH-4990309",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-11-02T09:03:15+00:00"
-    },
-    {
-      "h": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "es": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "d": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-      "u": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67183862",
-      "published": "2026-11-02T08:56:00+00:00"
-    },
-    {
-      "h": "Metlen and Shell sign five-year LNG supply deal",
-      "es": "Metlen and Shell sign five-year LNG supply deal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/metlen-and-shell-sign-fiveyear-lng-supply-deal-93CH-4990255",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB1I05I_M.jpg",
-      "published": "2026-11-02T08:50:04+00:00"
-    },
-    {
-      "h": "Ryanair may freeze workers' pay as fuel prices spike",
-      "es": "Ryanair may freeze workers' pay as fuel prices spike",
-      "d": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "u": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
-      "published": "2026-11-02T08:06:10+00:00"
-    },
-    {
-      "h": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-      "es": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-      "d": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise.",
-      "u": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-02T08:02:34+00:00"
-    },
-    {
-      "h": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
-      "es": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-initiates-vusion-at-buy-sees-84-upside-on-electronic-shelf-label-growth-4990084",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-      "published": "2026-11-02T07:52:55+00:00"
-    },
-    {
-      "h": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "es": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "d": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "u": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-11-02T07:42:33+00:00"
-    },
-    {
-      "h": "China’s top three airlines head for full-year losses as fuel costs weigh",
-      "es": "China’s top three airlines head for full-year losses as fuel costs weigh",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chinas-top-three-airlines-head-for-fullyear-losses-as-fuel-costs-weigh-4989803",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA104P_L.jpg",
-      "published": "2026-11-02T07:42:23+00:00"
     }
   ],
   "sources": [
