@@ -1,6 +1,213 @@
 {
-  "updated": "2026-11-02T16:43:00.301244+00:00",
+  "updated": "2026-11-02T17:39:47.127671+00:00",
   "news": [
+    {
+      "h": "Shop freezers in seven European countries hit by cyber-attack",
+      "es": "Los congeladores de tiendas en siete países europeos afectados por un ciberataque",
+      "d": "Según los informes, la temperatura de los congeladores de varias tiendas de toda Europa alcanzó los 50 °C.",
+      "u": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-02T17:38:11+00:00"
+    },
+    {
+      "h": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "es": "Los precios del petróleo crudo se venden más del 7% por las esperanzas de conversaciones de paz con Irán antes de las elecciones intermedias de EE.UU.",
+      "d": "El petróleo cayó el lunes, en medio de noticias de que tanto Estados Unidos como Irán están llevando a cabo actividades diplomáticas en medio de las tensiones en curso en Medio Oriente.",
+      "u": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:37:46+00:00"
+    },
+    {
+      "h": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+      "es": "Juez desestima caso del Departamento de Justicia contra exfuncionarios del FBI acusados ​​de mentir sobre la investigación de Hunter Biden",
+      "d": "El juez Zia Faruqui sugirió que el procesamiento de los ex funcionarios Nikki Floris y Bradley Benavides se apresuró a salir a la luz antes de las elecciones de mitad de período.",
+      "u": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:35:57+00:00"
+    },
+    {
+      "h": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "es": "Oracle solicita vender 20.000 millones de dólares en nuevas acciones y bonos para financiar el desarrollo de la IA",
+      "d": "Oracle presentó planes el lunes para emitir nuevas acciones y más deuda para financiar su desarrollo de inteligencia artificial.",
+      "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:35:06+00:00"
+    },
+    {
+      "h": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "es": "\"Toda esta comida ahora es inútil\": montones de basura después de que los congeladores de las tiendas sufrieran un ciberataque",
+      "d": "Docenas de supermercados en siete países europeos arrojaron enormes cantidades de alimentos después de que refrigeradores y congeladores fueran atacados en un ciberataque.",
+      "u": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce17/live/7f263780-d6e2-11f1-a741-236ee91c2e25.jpg",
+      "published": "2026-11-02T17:34:58+00:00"
+    },
+    {
+      "h": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "es": "El CEO de Lumentum promociona una \"enorme\" oportunidad en un acuerdo masivo de conectividad de IA con Marvell",
+      "d": "Se espera que el acuerdo de infraestructura de IA se cierre durante la primera mitad de 2028.",
+      "u": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:33:26+00:00"
+    },
+    {
+      "h": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+      "es": "El acuerdo de Marvell por Lumentum está dando recuerdos de la burbuja de las puntocom",
+      "d": "El recién anunciado acuerdo por 115.000 millones de dólares para Lumentum se financiará íntegramente mediante acciones: “Aquí hay un eco real del año 2000”.",
+      "u": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-08108156",
+      "published": "2026-11-02T17:32:00+00:00"
+    },
+    {
+      "h": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+      "es": "Oracle quiere 20 mil millones de dólares para financiar su futuro de IA, y sus acciones están pagando el precio",
+      "d": "La deuda de Oracle se ha estado negociando como un “bono basura” a medida que la empresa pide dinero prestado y emite acciones para ayudar a financiar el crecimiento de su nube de IA.",
+      "u": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-22358225",
+      "published": "2026-11-02T17:31:00+00:00"
+    },
+    {
+      "h": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "es": "El Departamento de Justicia pide a la Corte Suprema que bloquee el recuento de votos por correo en disputa en California",
+      "d": "La solicitud del Departamento de Justicia a la Corte Suprema en el caso de California se produce mientras apela la desestimación de una demanda sobre las elecciones al Senado de Alaska.",
+      "u": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:26:55+00:00"
+    },
+    {
+      "h": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+      "es": "Anthropic planea vender 3.500 millones de dólares en acciones a inversores japoneses en una OPI, según muestra una presentación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-sell-35-billion-of-shares-to-japan-investors-in-ipo-filing-shows-4989963",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10FV_L.jpg",
+      "published": "2026-11-02T17:19:24+00:00"
+    },
+    {
+      "h": "Binance clients pull $4.7 billion after hack as crypto world studies fallout",
+      "es": "Los clientes de Binance obtienen $ 4.7 mil millones después del pirateo mientras las consecuencias de los estudios del mundo criptográfico",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA104B_L.jpg",
+      "published": "2026-11-02T17:18:49+00:00"
+    },
+    {
+      "h": "Sectors bracing for a pivot as US midterm elections loom",
+      "es": "Los sectores se preparan para un giro a medida que se avecinan las elecciones de mitad de período en EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sectors-bracing-for-a-pivot-as-usmidterm-elections-loom-4990811",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA110C_L.jpg",
+      "published": "2026-11-02T17:18:30+00:00"
+    },
+    {
+      "h": "Weekly economic outlook: payrolls and Fed speakers in focus",
+      "es": "Perspectivas económicas semanales: las nóminas y los oradores de la Fed en el foco de atención",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weekly-economic-outlook-payrolls-and-fed-speakers-in-focus-93CH-4992504",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-02T17:17:35+00:00"
+    },
+    {
+      "h": "Weekly earnings outlook: mega-cap tech, AI hardware and healthcare in focus",
+      "es": "Perspectivas de ganancias semanales: tecnología de megacapitalización, hardware de inteligencia artificial y atención médica en el centro de atención",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/weekly-earnings-outlook-megacap-tech-ai-hardware-and-healthcare-in-focus-93CH-4992502",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-11-02T17:17:10+00:00"
+    },
+    {
+      "h": "Apple earnings outlook: guidance, not the beat, is the key variable",
+      "es": "Perspectivas de ganancias de Apple: la orientación, no el ritmo, es la variable clave",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apple-earnings-outlook-guidance-not-the-beat-is-the-key-variable-93CH-4992500",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA8E0J9_M.jpg",
+      "published": "2026-11-02T17:16:34+00:00"
+    },
+    {
+      "h": "European shares rise as markets weigh France’s outlook cut; earnings in focus",
+      "es": "Las bolsas europeas suben mientras los mercados sopesan el recorte de las perspectivas de Francia; ganancias en foco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-inch-lower-as-fitch-cuts-frances-outlook-4989985",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-11-02T17:14:54+00:00"
+    },
+    {
+      "h": "Lumentum-Marvell deal: motives, dilution risks, and what it means for the optical trade",
+      "es": "Acuerdo Lumentum-Marvell: motivos, riesgos de dilución y lo que significa para el comercio óptico",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lumentummarvell-deal-motives-dilution-risks-and-what-it-means-for-the-optical-trade-93CH-4992493",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-11-02T17:14:45+00:00"
+    },
+    {
+      "h": "New cyberattack on supermarket fridges sweeps across Europe",
+      "es": "Un nuevo ciberataque a los frigoríficos de los supermercados arrasa en Europa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cyberattack-on-fridges-hits-supermarkets-across-europe-4991995",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA118U_L.jpg",
+      "published": "2026-11-02T17:14:05+00:00"
+    },
+    {
+      "h": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+      "es": "CrowdStrike consigue una actualización y el consejo de Jim Cramer sobre Apple antes de las ganancias",
+      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:04:34+00:00"
+    },
+    {
+      "h": "Fed will vote on rates less often. What that could mean for borrowers",
+      "es": "La Fed votará sobre las tasas con menos frecuencia. Lo que eso podría significar para los prestatarios",
+      "d": "El presidente de la Reserva Federal, Kevin Warsh, dijo que planea reducir el número de votaciones para fijar las tasas, una medida que algunos economistas dicen podría retrasar el alivio para los prestatarios.",
+      "u": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T17:03:07+00:00"
+    },
+    {
+      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor nos presiona a realizar conversiones Roth?",
+      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
+      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26708039",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "h": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+      "es": "6 acciones de dividendos para inversores que quieran reducir su exposición al S&P 500",
+      "d": "Novartis, Mitsubishi y Canadian Natural son ejemplos de empresas de mercados desarrollados fuera de Estados Unidos que pasan controles de altos rendimientos de dividendos y baja volatilidad de precios y ganancias.",
+      "u": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-24095494",
+      "published": "2026-11-02T16:56:00+00:00"
+    },
+    {
+      "h": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+      "es": "Estas acciones tecnológicas fueron arrastradas injustamente por la liquidación de la semana pasada, dicen los analistas",
+      "d": "Un analista observa “una brecha significativa entre el precio y los fundamentos” en algunos rincones del sector de los chips.",
+      "u": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-35478718",
+      "published": "2026-11-02T16:50:00+00:00"
+    },
     {
       "h": "Oil’s pullback, solid data fuel bounce in global stocks",
       "es": "Oil’s pullback, solid data fuel bounce in global stocks",
@@ -63,213 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
       "published": "2026-11-02T16:18:15+00:00"
-    },
-    {
-      "h": "Canadian energy stocks fall as oil prices retreat on easing Middle East tensions",
-      "es": "Canadian energy stocks fall as oil prices retreat on easing Middle East tensions",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canadian-energy-stocks-fall-as-oil-prices-retreat-on-easing-middle-east-tensions-4992384",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg",
-      "published": "2026-11-02T16:18:13+00:00"
-    },
-    {
-      "h": "TSX rebounds as oil tumbles on hopes of US-Iran peace talks, materials stocks gain",
-      "es": "TSX rebounds as oil tumbles on hopes of US-Iran peace talks, materials stocks gain",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-as-trump-teases-concept-of-canada-trade-deal-4990493",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-11-02T16:18:12+00:00"
-    },
-    {
-      "h": "Anthropic posts $17B third-quarter revenue as landmark AI debut nears",
-      "es": "Anthropic posts $17B third-quarter revenue as landmark AI debut nears",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-posts-17b-thirdquarter-revenue-as-landmark-ai-debut-nears-4992371",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-11-02T16:12:52+00:00"
-    },
-    {
-      "h": "Top Machinery & Electricals Stocks Amid Data Center Political Risks",
-      "es": "Top Machinery & Electricals Stocks Amid Data Center Political Risks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/top-machinery--electricals-stocks-amid-data-center-political-risks-4992370",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_small-LYNXMPEM741UY_L.jpg",
-      "published": "2026-11-02T16:12:46+00:00"
-    },
-    {
-      "h": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-      "es": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-      "d": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
-      "u": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-40951496",
-      "published": "2026-11-02T16:11:00+00:00"
-    },
-    {
-      "h": "When you turn this age, it’s your best chance to get crucial tax and healthcare plans in place for retirement",
-      "es": "When you turn this age, it’s your best chance to get crucial tax and healthcare plans in place for retirement",
-      "d": "Ages 60 through 63 involve key healthcare, financial and tax decisions.",
-      "u": "https://www.marketwatch.com/story/when-you-turn-this-age-its-your-best-chance-to-get-crucial-tax-and-healthcare-plans-in-place-for-retirement-e9400392?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-47819892",
-      "published": "2026-11-02T16:09:00+00:00"
-    },
-    {
-      "h": "Marvell and Lumentum deal synergies: vertical integration, cost savings, and supply control",
-      "es": "Marvell and Lumentum deal synergies: vertical integration, cost savings, and supply control",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/marvell-and-lumentum-deal-synergies-vertical-integration-cost-savings-and-supply-control-93CH-4992359",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Marvellchip_800x533_L_1778702247.jpg",
-      "published": "2026-11-02T16:06:08+00:00"
-    },
-    {
-      "h": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
-      "es": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
-      "d": "U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.",
-      "u": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-22007094",
-      "published": "2026-11-02T15:59:00+00:00"
-    },
-    {
-      "h": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-      "es": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-      "d": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
-      "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-65126339",
-      "published": "2026-11-02T15:45:00+00:00"
-    },
-    {
-      "h": "Stock market after midterm elections: What S&P 500 history shows",
-      "es": "Stock market after midterm elections: What S&P 500 history shows",
-      "d": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-      "u": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T15:41:12+00:00"
-    },
-    {
-      "h": "SpaceX has big wireless dreams — and Boost Mobile may be its shortcut",
-      "es": "SpaceX has big wireless dreams — and Boost Mobile may be its shortcut",
-      "d": "In recent weeks there has been intense speculation surrounding SpaceX’s ambitions in the cellular market with multiple acquisition targets suggested. Boost Mobile is the latest.",
-      "u": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-64486734",
-      "published": "2026-11-02T15:40:00+00:00"
-    },
-    {
-      "h": "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
-      "es": "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
-      "d": "The new 5.51% rate might entice you to use I-bonds to create inflation-proof income in retirement.",
-      "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-39326019",
-      "published": "2026-11-02T15:32:00+00:00"
-    },
-    {
-      "h": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "es": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "d": "VIX deemed \"unreactive\" by options traders",
-      "u": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T15:30:41+00:00"
-    },
-    {
-      "h": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "es": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "d": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.",
-      "u": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T15:28:46+00:00"
-    },
-    {
-      "h": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-      "es": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-      "d": "Fanatics and the NHL debuted Hometown Remix, a special-edition uniform and apparel program covering all 32 teams.",
-      "u": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T15:27:46+00:00"
-    },
-    {
-      "h": "Why is Seagate Technology stock sliding today?",
-      "es": "Why is Seagate Technology stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-sliding-today-93CH-4992246",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Seagate_800x533_L_1674719149.jpg",
-      "published": "2026-11-02T15:24:34+00:00"
-    },
-    {
-      "h": "Why is Cavvy Energy stock sliding today?",
-      "es": "Why is Cavvy Energy stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cavvy-energy-stock-sliding-today-93CH-4992245",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8015H_M.jpg",
-      "published": "2026-11-02T15:24:31+00:00"
-    },
-    {
-      "h": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "es": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "d": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
-      "u": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-02T15:23:34+00:00"
-    },
-    {
-      "h": "Why is Nebius stock sliding today?",
-      "es": "Why is Nebius stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4992232",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-02T15:20:33+00:00"
-    },
-    {
-      "h": "Anthropic’s quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-      "es": "Anthropic’s quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-of-blockbuster-ipo-4992139",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA11FV_L.jpg",
-      "published": "2026-11-02T15:18:19+00:00"
-    },
-    {
-      "h": "Why is Cerebras Systems stock sliding today?",
-      "es": "Why is Cerebras Systems stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-sliding-today-93CH-4992224",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-11-02T15:16:54+00:00"
-    },
-    {
-      "h": "My ex-husband sent me a text, promising $20,000 for our children’s education. Now he refuses to pay. What can I do?",
-      "es": "My ex-husband sent me a text, promising $20,000 for our children’s education. Now he refuses to pay. What can I do?",
-      "d": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95596293",
-      "published": "2026-11-02T15:15:00+00:00"
-    },
-    {
-      "h": "Analyst models potential market reaction to a SpaceX-Tesla all-stock merger",
-      "es": "Analyst models potential market reaction to a SpaceX-Tesla all-stock merger",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analyst-models-potential-market-reaction-to-a-spacextesla-allstock-merger-4992217",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L0RX_L.jpg",
-      "published": "2026-11-02T15:14:43+00:00"
     }
   ],
   "sources": [
