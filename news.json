@@ -1,6 +1,114 @@
 {
-  "updated": "2026-11-02T11:26:52.127065+00:00",
+  "updated": "2026-11-02T12:24:19.575909+00:00",
   "news": [
+    {
+      "h": "Ryanair says it may freeze workers' pay and raise airfares",
+      "es": "Ryanair dice que podría congelar los salarios de los trabajadores y aumentar las tarifas aéreas",
+      "d": "La aerolínea dice que los precios del combustible pueden aumentar 2 mil millones de euros en 2028 a menos que se ponga fin a la guerra entre Estados Unidos e Israel con Irán.",
+      "u": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+      "published": "2026-11-02T12:22:10+00:00"
+    },
+    {
+      "h": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+      "es": "En la búsqueda de 1 billón de dólares en ingresos, SpaceX apunta a un acuerdo con Boost Mobile",
+      "d": "En las últimas semanas ha habido una intensa especulación en torno a las ambiciones de SpaceX en el mercado celular y se han sugerido múltiples objetivos de adquisición; Boost Mobile es lo último",
+      "u": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-64486734",
+      "published": "2026-11-02T12:20:00+00:00"
+    },
+    {
+      "h": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "es": "“Tenía el corazón roto”: los hijos de mi marido lo abandonaron cuando agonizaba. ¿Hizo bien en dejarme todo a mí?",
+      "d": "“Al final les dejó algunos recuerdos sentimentales, algunos objetos de colección y fotografías antiguas”.",
+      "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-56448073",
+      "published": "2026-11-02T12:15:00+00:00"
+    },
+    {
+      "h": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+      "es": "Las acciones tecnológicas inician noviembre después de un octubre brutal: ¿es hora de comprar en la caída?",
+      "d": "Tanto el mercado de acciones como el de bonos están planteando dudas sobre la sostenibilidad del comercio de IA.",
+      "u": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-60318670",
+      "published": "2026-11-02T12:10:00+00:00"
+    },
+    {
+      "h": "Why is Kosmos Energy stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Kosmos Energy hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kosmos-energy-stock-sliding-today-93CH-4991013",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9K07K_M.jpg",
+      "published": "2026-11-02T11:48:01+00:00"
+    },
+    {
+      "h": "Goldman upgrades BAT on clearer path to sustained revenue growth",
+      "es": "Goldman actualiza BAT en un camino más claro hacia un crecimiento sostenido de los ingresos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-upgrades-bat-on-clearer-path-to-sustained-revenue-growth-4990995",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-11-02T11:45:45+00:00"
+    },
+    {
+      "h": "DraftKings stock falls as Susquehanna cites unfavorable October hold",
+      "es": "Las acciones de DraftKings caen mientras Susquehanna cita una retención desfavorable en octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/draftkings-stock-falls-as-susquehanna-cites-unfavorable-october-hold-93CH-4990932",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-11-02T11:34:21+00:00"
+    },
+    {
+      "h": "Jefferies sees Airbus stock October deliveries down 17% year-over-year",
+      "es": "Jefferies prevé que las entregas de acciones de Airbus en octubre caerán un 17% año tras año",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-sees-airbus-stock-october-deliveries-down-17-yearoveryear-93CH-4990909",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA6S0JI_M.jpg",
+      "published": "2026-11-02T11:32:12+00:00"
+    },
+    {
+      "h": "European shares flat as markets weigh France’s outlook cut; earnings in focus",
+      "es": "Las bolsas europeas se mantienen estables mientras los mercados sopesan el recorte de las perspectivas de Francia; ganancias en foco",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-inch-lower-as-fitch-cuts-frances-outlook-4989985",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-11-02T11:30:22+00:00"
+    },
+    {
+      "h": "UBS flags Chipotle stock among most crowded restaurant longs",
+      "es": "UBS señala las acciones de Chipotle entre las más concurridas en restaurantes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-flags-chipotle-stock-among-most-crowded-restaurant-longs-93CH-4990871",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-02T11:29:38+00:00"
+    },
+    {
+      "h": "Tesla’s monthly registrations surge in Northern Europe even as Chinese competition rises",
+      "es": "Las matriculaciones mensuales de Tesla aumentan en el norte de Europa incluso cuando aumenta la competencia china",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/teslas-monthly-registrations-surge-in-northern-europe-even-as-chinese-competition-rises-4990675",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10O0_L.jpg",
+      "published": "2026-11-02T11:25:50+00:00"
+    },
+    {
+      "h": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+      "es": "SpaceX en conversaciones para comprar Boost Mobile o utilizar su red, informa el Washington Post",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports-4990666",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10X2_L.jpg",
+      "published": "2026-11-02T11:25:16+00:00"
+    },
     {
       "h": "BofA Securities Keeps Software Top Picks Despite AI Worries",
       "es": "BofA Securities mantiene las mejores opciones de software a pesar de las preocupaciones sobre la IA",
@@ -162,114 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0A0MA_M.jpg",
       "published": "2026-11-02T10:15:28+00:00"
-    },
-    {
-      "h": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "es": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "d": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-      "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80511883",
-      "published": "2026-11-02T10:15:00+00:00"
-    },
-    {
-      "h": "Explainer-Could hackers get inside my fridge?",
-      "es": "Explainer-Could hackers get inside my fridge?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4990628",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0RB_L.jpg",
-      "published": "2026-11-02T10:12:36+00:00"
-    },
-    {
-      "h": "Analysis-October dive for AI-related shares tests broader US stock market’s resilience",
-      "es": "Analysis-October dive for AI-related shares tests broader US stock market’s resilience",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysisoctober-dive-for-airelated-shares-tests-broader-us-stock-markets-resilience-4990604",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA10UL_L.jpg",
-      "published": "2026-11-02T10:06:41+00:00"
-    },
-    {
-      "h": "Cembra shares slide 8% as UBS flags limited scope for further returns growth",
-      "es": "Cembra shares slide 8% as UBS flags limited scope for further returns growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cembra-shares-slide-8-as-ubs-flags-limited-scope-for-further-returns-growth-4990602",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-02T10:05:58+00:00"
-    },
-    {
-      "h": "5 celebrities who waited years to buy their dream homes",
-      "es": "5 celebrities who waited years to buy their dream homes",
-      "d": "What do Drake, Julianne Moore and Barbra Streisand have in common? These A-listers are not totally immune from having to play the waiting game for their perfect house.",
-      "u": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-67166381",
-      "published": "2026-11-02T10:03:00+00:00"
-    },
-    {
-      "h": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-      "es": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-      "d": "Retired Major League Baseball star Matt Holliday is ready to part ways with the newly built Paradise Valley, Ariz., estate he purchased earlier this year.",
-      "u": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-13032794",
-      "published": "2026-11-02T09:58:00+00:00"
-    },
-    {
-      "h": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-      "es": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-      "d": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it’s time to go overweight once again as the risk-reward profile favors a sector that is suddenly out of fashion.",
-      "u": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87153405",
-      "published": "2026-11-02T09:47:00+00:00"
-    },
-    {
-      "h": "Deutsche Bank turns bearish on Novartis as shares recover failed trial losses",
-      "es": "Deutsche Bank turns bearish on Novartis as shares recover failed trial losses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/deutsche-bank-turns-bearish-on-novartis-as-shares-recover-failed-trial-losses-4990479",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6K11G_1200_L.jpg",
-      "published": "2026-11-02T09:46:11+00:00"
-    },
-    {
-      "h": "Citi sees US equity gains if Republicans keep Senate control",
-      "es": "Citi sees US equity gains if Republicans keep Senate control",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citi-sees-us-equity-gains-if-republicans-keep-senate-control-93CH-4990463",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-11-02T09:42:37+00:00"
-    },
-    {
-      "h": "+115, +82%, 70% and counting: New AI-picked stocks for November are NOW LIVE",
-      "es": "+115, +82%, 70% and counting: New AI-picked stocks for November are NOW LIVE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/115-82-70-and-counting-new-aipicked-stocks-for-november-are-now-live-4990458",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
-      "published": "2026-11-02T09:41:13+00:00"
-    },
-    {
-      "h": "Why is Inovio Pharmaceuticals stock skyrocketing 225% today?",
-      "es": "Why is Inovio Pharmaceuticals stock skyrocketing 225% today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-skyrocketing-225-today-93CH-4990437",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-02T09:28:52+00:00"
-    },
-    {
-      "h": "Goldman Sachs has revised rate forecasts on 13 economies in the last month",
-      "es": "Goldman Sachs has revised rate forecasts on 13 economies in the last month",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-has-revised-rate-forecasts-on-13-economies-in-the-last-month-93CH-4990414",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM2M04W_L.jpg",
-      "published": "2026-11-02T09:21:14+00:00"
     }
   ],
   "sources": [
