@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-02T23:51:12.378179+00:00",
+  "updated": "2026-11-03T00:30:39.867277+00:00",
   "news": [
+    {
+      "h": "OpenAI taps former US army secretary Dan Driscoll for national security role",
+      "es": "OpenAI contrata al exsecretario del ejército de EE. UU., Dan Driscoll, para desempeñar un papel en la seguridad nacional",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-taps-former-us-army-secretary-dan-driscoll-for-national-security-role-4993247",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA2005_L.jpg",
+      "published": "2026-11-03T00:06:22+00:00"
+    },
+    {
+      "h": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+      "es": "Nasdaq-100 cae en su tercera corrección este año a medida que aumentan las preocupaciones sobre la IA",
+      "d": "El “desastre tecnológico” de octubre continúa. ¿Es el próximo mercado bajista?",
+      "u": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-42856244",
+      "published": "2026-11-03T00:03:00+00:00"
+    },
+    {
+      "h": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+      "es": "Jim Cramer dice que estas seis acciones de moda son compras más allá del comercio de IA",
+      "d": "Si bien las acciones de tecnología han estado bajo presión en las últimas semanas, las acciones de consumo han mostrado resistencia.",
+      "u": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-02T23:54:27+00:00"
+    },
     {
       "h": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
       "es": "Los accionistas de Marvell y Lumentum se unen en un acuerdo de fusión: \"Es una oferta basura\"",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-09412605",
       "published": "2026-11-02T21:35:00+00:00"
-    },
-    {
-      "h": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "es": "Palantir informa un crecimiento en auge de los ingresos comerciales en EE. UU., superando al gobierno por primera vez",
-      "d": "Los ingresos comerciales de Palantir aumentaron un 148% a 984 millones de dólares, superando los ingresos del gobierno de 953 millones de dólares.",
-      "u": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-02T21:30:36+00:00"
-    },
-    {
-      "h": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-      "es": "“Ella tiene una personalidad tipo A”: Mi madrastra quiere que le devuelva el regalo de bodas de 40.000 dólares de mi difunto padre. ¿Debería obligarme?",
-      "d": "“Aproximadamente dos meses después de su funeral, mi madrastra llamó y dijo que quería que le devolvieran el dinero”.",
-      "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80511883",
-      "published": "2026-11-02T21:30:00+00:00"
-    },
-    {
-      "h": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-      "es": "El mercado de valores no ha avanzado en los últimos cinco meses. Ahora parece una ganga.",
-      "d": "La relación precio-beneficio a plazo del S&P 500 está por debajo de sus promedios de cinco y diez años.",
-      "u": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76244420",
-      "published": "2026-11-02T21:29:00+00:00"
     }
   ],
   "sources": [
