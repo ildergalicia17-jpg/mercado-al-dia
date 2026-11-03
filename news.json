@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-03T08:40:48.455795+00:00",
+  "updated": "2026-11-03T09:35:11.871888+00:00",
   "news": [
+    {
+      "h": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+      "es": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+      "d": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+      "u": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T09:21:40+00:00"
+    },
+    {
+      "h": "Why is Palantir Technologies stock sliding today?",
+      "es": "Why is Palantir Technologies stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-sliding-today-93CH-4994003",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/PalantirTechnologies_800x533_L_1599055554.jpg",
+      "published": "2026-11-03T09:14:37+00:00"
+    },
+    {
+      "h": "Why is Alstom stock sliding today?",
+      "es": "Why is Alstom stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-alstom-stock-sliding-today-93CH-4993986",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-03T09:08:16+00:00"
+    },
+    {
+      "h": "Why is Apple stock sliding today?",
+      "es": "Why is Apple stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-sliding-today-93CH-4993985",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK9R099_L.jpg",
+      "published": "2026-11-03T09:07:40+00:00"
+    },
+    {
+      "h": "Why is Drax stock surging today?",
+      "es": "Why is Drax stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-drax-stock-surging-today-93CH-4993979",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-03T09:04:48+00:00"
+    },
+    {
+      "h": "Gift Nifty 50 surges into overbought RSI 77: Live levels",
+      "es": "Gift Nifty 50 surges into overbought RSI 77: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-vbottom-rally-hits-overbought-zone-live-levels-93CH-4990309",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-03T09:02:19+00:00"
+    },
+    {
+      "h": "Hong Kong economy grows 5.2% in third quarter, beats forecasts",
+      "es": "Hong Kong economy grows 5.2% in third quarter, beats forecasts",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hong-kong-economy-grows-52-in-third-quarter-beats-forecasts-93CH-4993921",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-03T08:57:48+00:00"
+    },
+    {
+      "h": "Why is Coloplast stock declining today?",
+      "es": "Why is Coloplast stock declining today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-coloplast-stock-declining-today-93CH-4993906",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-03T08:52:36+00:00"
+    },
+    {
+      "h": "Why is Zalando stock sliding today?",
+      "es": "Why is Zalando stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-zalando-stock-sliding-today-93CH-4993897",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-11-03T08:51:33+00:00"
+    },
+    {
+      "h": "+113%, +43%, see which stocks are in and out of our AI-picks for November",
+      "es": "+113%, +43%, see which stocks are in and out of our AI-picks for November",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/113-43-see-which-stocks-are-in-and-out-of-our-aipicks-for-november-4993896",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
+      "published": "2026-11-03T08:51:27+00:00"
+    },
     {
       "h": "Why is SalMar stock rallying today?",
       "es": "Why is SalMar stock rallying today?",
@@ -180,96 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM3C1A3_1200_L.jpg",
       "published": "2026-11-03T07:14:57+00:00"
-    },
-    {
-      "h": "Why is PetroChina stock sliding today?",
-      "es": "Why is PetroChina stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-petrochina-stock-sliding-today-93CH-4993641",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
-      "published": "2026-11-03T07:08:46+00:00"
-    },
-    {
-      "h": "Why is Virgin Australia stock surging today?",
-      "es": "Why is Virgin Australia stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-virgin-australia-stock-surging-today-93CH-4993637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629277166.jpg",
-      "published": "2026-11-03T07:03:30+00:00"
-    },
-    {
-      "h": "Lonza to buy five U.S. manufacturing sites from Merck KGaA",
-      "es": "Lonza to buy five U.S. manufacturing sites from Merck KGaA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lonza-to-buy-five-us-manufacturing-sites-from-merck-kgaa-4993636",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBB01J_M.jpg",
-      "published": "2026-11-03T07:03:29+00:00"
-    },
-    {
-      "h": "Apple unsure when more foldable iPhones will be available after selling out",
-      "es": "Apple unsure when more foldable iPhones will be available after selling out",
-      "d": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
-      "u": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
-      "published": "2026-11-03T07:03:03+00:00"
-    },
-    {
-      "h": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "es": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "d": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
-      "u": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T06:32:10+00:00"
-    },
-    {
-      "h": "North Korea denies being behind record $6.3bn Binance hack",
-      "es": "North Korea denies being behind record $6.3bn Binance hack",
-      "d": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "u": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-      "published": "2026-11-03T06:22:29+00:00"
-    },
-    {
-      "h": "Lufthansa Q3 results meet expectations, bogged down by high jet fuel costs",
-      "es": "Lufthansa Q3 results meet expectations, bogged down by high jet fuel costs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lufthansa-q3-results-meet-expectations-bogged-down-by-high-jet-fuel-costs-4993562",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA20BH_L.jpg",
-      "published": "2026-11-03T06:12:22+00:00"
-    },
-    {
-      "h": "Bernstein names top EU capital goods stocks for data center growth",
-      "es": "Bernstein names top EU capital goods stocks for data center growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bernstein-names-top-eu-capital-goods-stocks-for-data-center-growth-4993561",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI7704J_L.jpg",
-      "published": "2026-11-03T06:11:08+00:00"
-    },
-    {
-      "h": "Public venues offer tea and warm welcome in winter",
-      "es": "Public venues offer tea and warm welcome in winter",
-      "d": "The annual scheme sees community venues and libraries offer hot drinks and the chance to socialise.",
-      "u": "https://www.bbc.co.uk/news/articles/cq23d505m555o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d508/live/c14e42b0-d6f1-11f1-8f53-6322e2737253.jpg",
-      "published": "2026-11-03T06:10:07+00:00"
-    },
-    {
-      "h": "Taiwan stocks lower at close of trade; Taiwan Weighted down 3.83%",
-      "es": "Taiwan stocks lower at close of trade; Taiwan Weighted down 3.83%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-383-4993540",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3K0AH_M.jpg",
-      "published": "2026-11-03T06:00:04+00:00"
     }
   ],
   "sources": [
