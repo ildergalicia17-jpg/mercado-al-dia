@@ -1,6 +1,168 @@
 {
-  "updated": "2026-11-03T18:59:13.450497+00:00",
+  "updated": "2026-11-03T19:52:29.005260+00:00",
   "news": [
+    {
+      "h": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+      "es": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+      "d": "Sen. Chris Murphy, a Connecticut Democrat, was still in the hospital as of Tuesday, his office confirmed.",
+      "u": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:36:16+00:00"
+    },
+    {
+      "h": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "es": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "d": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
+      "u": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:35:24+00:00"
+    },
+    {
+      "h": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
+      "es": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveambanis-jio-explores-techforequity-talks-with-comcast-and-charter-sources-say-4996271",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QZ_L.jpg",
+      "published": "2026-11-03T19:30:31+00:00"
+    },
+    {
+      "h": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+      "es": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:29:41+00:00"
+    },
+    {
+      "h": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
+      "es": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
+      "d": "The stock could beat its February record high close.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/03/were-keeping-a-hold-rating-on-dupont-despite-its-beat-and-raise-quarter.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T19:26:02+00:00"
+    },
+    {
+      "h": "Jefferies names top lifestyle & growth platform stocks ahead of earnings",
+      "es": "Jefferies names top lifestyle & growth platform stocks ahead of earnings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-names-top-lifestyle--growth-platform-stocks-ahead-of-earnings-4996265",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
+      "published": "2026-11-03T19:24:16+00:00"
+    },
+    {
+      "h": "TSX movers: gainers lead 3-to-1 as gold miners slide",
+      "es": "TSX movers: gainers lead 3-to-1 as gold miners slide",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-movers-gainers-lead-3to1-as-gold-miners-slide-93CH-4996264",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
+      "published": "2026-11-03T19:23:36+00:00"
+    },
+    {
+      "h": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "es": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "d": "Don’t sit on the sidelines during open enrollment.",
+      "u": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-57230636",
+      "published": "2026-11-03T19:23:00+00:00"
+    },
+    {
+      "h": "Options traders are betting heavily on these stocks ahead of election results",
+      "es": "Options traders are betting heavily on these stocks ahead of election results",
+      "d": "Solar stocks see heavy call activity as voting gets underway",
+      "u": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:22:30+00:00"
+    },
+    {
+      "h": "Alphabet C in bear flag near lows after gap down: Live levels",
+      "es": "Alphabet C in bear flag near lows after gap down: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-gaps-down-to-extreme-oversold-rsi-live-levels-93CH-4992610",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-11-03T19:18:40+00:00"
+    },
+    {
+      "h": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
+      "es": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-lawmakers-in-letter-question-mcdonalds-ceo-about-algorithmic-pricing-practices-4996256",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QR_L.jpg",
+      "published": "2026-11-03T19:18:39+00:00"
+    },
+    {
+      "h": "Nasdaq 100 in bearish impulse, tests key support: Live levels",
+      "es": "Nasdaq 100 in bearish impulse, tests key support: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-03T19:18:35+00:00"
+    },
+    {
+      "h": "Dow Jones breaks below 200 SMA with H&S top: Live levels",
+      "es": "Dow Jones breaks below 200 SMA with H&S top: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dow-jones-tests-200-sma-and-50-fib-support-live-levels-93CH-4991915",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-11-03T19:18:32+00:00"
+    },
+    {
+      "h": "Tesla bearish RSI divergence flags pullback to $382: Live levels",
+      "es": "Tesla bearish RSI divergence flags pullback to $382: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-shooting-star-at-414-signals-pullback-risk-live-levels-93CH-4992609",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPED920A7_M.jpg",
+      "published": "2026-11-03T19:18:31+00:00"
+    },
+    {
+      "h": "S&P 500 bear flag active near 7680 resistance: Live levels",
+      "es": "S&P 500 bear flag active near 7680 resistance: Live levels",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-breaks-down-below-all-mas-tests-7558-low-live-levels-93CH-4991913",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-11-03T19:18:27+00:00"
+    },
+    {
+      "h": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "es": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "d": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+      "u": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:15:21+00:00"
+    },
+    {
+      "h": "Sullivan: What the 2026 midterms could mean for energy investors",
+      "es": "Sullivan: What the 2026 midterms could mean for energy investors",
+      "d": "A Democratic Congress could be good for offshore wind and solar energy.",
+      "u": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T19:03:06+00:00"
+    },
+    {
+      "h": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
+      "es": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
+      "d": "“I’m 68, she’s 74, and we’re both in good health.”",
+      "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-21005604",
+      "published": "2026-11-03T19:00:00+00:00"
+    },
     {
       "h": "Ferrari raises 2026 guidance after Q3 earnings beat",
       "es": "Ferrari eleva sus previsiones para 2026 tras superar las ganancias del tercer trimestre",
@@ -27,6 +189,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC6028I_M.jpg",
       "published": "2026-11-03T18:43:42+00:00"
+    },
+    {
+      "h": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "es": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "d": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "u": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T18:40:37+00:00"
     },
     {
       "h": "BMW cuts 2026 profit margin outlook amid portfolio changes",
@@ -99,177 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-09164604",
       "published": "2026-11-03T18:27:00+00:00"
-    },
-    {
-      "h": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "es": "Rusia confirma nuevas conversaciones de paz en Ucrania mientras Melania Trump se prepara para organizar una reunión de alto el fuego",
-      "d": "Rusia confirmó las conversaciones de paz con Ucrania en Abu Dhabi la próxima semana y señaló una posible cumbre Trump-Putin-Xi, lo que plantea dudas sobre el papel de Kiev en las negociaciones.",
-      "u": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T18:25:57+00:00"
-    },
-    {
-      "h": "The 'poison pill' ballot measure that could kill the California billionaire tax",
-      "es": "La medida electoral de la 'píldora venenosa' que podría acabar con el impuesto a los multimillonarios de California",
-      "d": "El desafío más fuerte al impuesto a los multimillonarios de California podría ser una medida electoral competitiva que prohíba los impuestos estatales sobre las cuentas de jubilación, dicen los expertos en impuestos.",
-      "u": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T18:23:31+00:00"
-    },
-    {
-      "h": "Why is International Paper stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de International Paper hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-international-paper-stock-sliding-today-93CH-4996192",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-03T18:17:54+00:00"
-    },
-    {
-      "h": "Why is Ball stock sliding today?",
-      "es": "¿Por qué las acciones de Ball están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ball-stock-sliding-today-93CH-4996190",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-11-03T18:16:52+00:00"
-    },
-    {
-      "h": "Why is Weyerhaeuser stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Weyerhaeuser hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-weyerhaeuser-stock-sliding-today-93CH-4996188",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-11-03T18:16:41+00:00"
-    },
-    {
-      "h": "Why is FactSet Research stock sliding today?",
-      "es": "¿Por qué las acciones de FactSet Research están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-factset-research-stock-sliding-today-93CH-4996180",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-03T18:14:56+00:00"
-    },
-    {
-      "h": "Why is A O Smith stock sliding today?",
-      "es": "¿Por qué las acciones de A O Smith están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-a-o-smith-stock-sliding-today-93CH-4996179",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-03T18:14:53+00:00"
-    },
-    {
-      "h": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
-      "es": "¿Fantasma después de una entrevista de trabajo? Hay un sitio web para eso, y miles de solicitantes de empleo frustrados han opinado",
-      "d": "Ser engañado durante el proceso de contratación puede resultar frustrante y desmoralizador para los candidatos. Gary Meyer creó un espacio para que se desahogaran.",
-      "u": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T18:00:01+00:00"
-    },
-    {
-      "h": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "es": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "d": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
-      "u": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T17:37:31+00:00"
-    },
-    {
-      "h": "Polymarket unit gets US industry organization’s approval to be futures broker",
-      "es": "Polymarket unit gets US industry organization’s approval to be futures broker",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker-4996123",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21M0_L.jpg",
-      "published": "2026-11-03T17:32:16+00:00"
-    },
-    {
-      "h": "Setback for Google as EU court adviser sides with publishers against AI chatbot",
-      "es": "Setback for Google as EU court adviser sides with publishers against AI chatbot",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/googles-use-of-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-says-4994030",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA20PK_L.jpg",
-      "published": "2026-11-03T17:31:47+00:00"
-    },
-    {
-      "h": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength",
-      "es": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/yorkville-ives-names-top-software-pick-for-2027-microsoft-leads-on-ai-strength-4996121",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4D0X5_L.jpg",
-      "published": "2026-11-03T17:31:18+00:00"
-    },
-    {
-      "h": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-      "es": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-      "d": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12441339",
-      "published": "2026-11-03T17:30:00+00:00"
-    },
-    {
-      "h": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-      "es": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-      "d": "The software giant's stock fell after earnings failed to impress investors.",
-      "u": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T17:24:34+00:00"
-    },
-    {
-      "h": "S&P lifts Ford outlook to stable on cost cuts and cash flow recovery",
-      "es": "S&P lifts Ford outlook to stable on cost cuts and cash flow recovery",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-lifts-ford-outlook-to-stable-on-cost-cuts-and-cash-flow-recovery-4996100",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED350DU_M.jpg",
-      "published": "2026-11-03T17:16:09+00:00"
-    },
-    {
-      "h": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "es": "Las elecciones intermedias podrían sacudir las acciones si los demócratas arrasan en el Congreso",
-      "d": "Wall Street sopesa cómo las elecciones intermedias de 2026 podrían afectar a las acciones, los rendimientos de los bonos del Tesoro, la inteligencia artificial, los precios de la energía, los bancos, la defensa y la atención sanitaria.",
-      "u": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T17:15:20+00:00"
-    },
-    {
-      "h": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-      "es": "¿Quiere ayudar a sus hijos y nietos adultos? Dales dinero mientras aún estés vivo.",
-      "d": "Cómo gestionar “dar mientras se vive” sin poner en peligro su propia jubilación.",
-      "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-09412605",
-      "published": "2026-11-03T17:15:00+00:00"
-    },
-    {
-      "h": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
-      "es": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/marathon-beats-quarterly-estimates-to-sell-two-refineries-to-cvr-energy-4995111",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA216C_L.jpg",
-      "published": "2026-11-03T17:13:16+00:00"
-    },
-    {
-      "h": "Thomson Reuters revenue rises, shares drop on investment costs",
-      "es": "Thomson Reuters revenue rises, shares drop on investment costs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/thomson-reuters-reports-higher-thirdquarter-revenue-4994698",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA210M_L.jpg",
-      "published": "2026-11-03T17:12:43+00:00"
     }
   ],
   "sources": [
