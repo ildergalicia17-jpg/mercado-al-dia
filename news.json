@@ -1,6 +1,195 @@
 {
-  "updated": "2026-11-03T16:17:53.755503+00:00",
+  "updated": "2026-11-03T17:19:25.080082+00:00",
   "news": [
+    {
+      "h": "Midterm elections could jolt stocks if Democrats sweep Congress",
+      "es": "Las elecciones intermedias podrían sacudir las acciones si los demócratas arrasan en el Congreso",
+      "d": "Wall Street sopesa cómo las elecciones intermedias de 2026 podrían afectar a las acciones, los rendimientos de los bonos del Tesoro, la inteligencia artificial, los precios de la energía, los bancos, la defensa y la atención sanitaria.",
+      "u": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T17:15:20+00:00"
+    },
+    {
+      "h": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "es": "¿Quiere ayudar a sus hijos y nietos adultos? Dales dinero mientras aún estés vivo.",
+      "d": "Cómo gestionar “dar mientras se vive” sin poner en peligro su propia jubilación.",
+      "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09412605",
+      "published": "2026-11-03T17:15:00+00:00"
+    },
+    {
+      "h": "European shares falls as Apple margin warning triggers global tech rout",
+      "es": "Las bolsas europeas caen mientras la advertencia de margen de Apple desencadena la caída tecnológica global",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-slide-as-apple-margin-warning-trigger-global-tech-rout-4993704",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "published": "2026-11-03T17:10:22+00:00"
+    },
+    {
+      "h": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+      "es": "Trump va a ser 'derrotado' en las elecciones intermedias, y lo sabe, le dice Anthony Scaramucci a CNBC",
+      "d": "El ex director de comunicaciones de la Casa Blanca también dijo que el Partido Republicano se enfrentaba a una \"guerra civil\" tras el resultado.",
+      "u": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T17:09:51+00:00"
+    },
+    {
+      "h": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 1.22%",
+      "es": "Las bolsas del Reino Unido cierran a la baja; El Investing.com Reino Unido 100 cae un 1,22%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-122-4996092",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
+      "published": "2026-11-03T17:08:46+00:00"
+    },
+    {
+      "h": "Spain stocks lower at close of trade; IBEX 35 down 0.79%",
+      "es": "Las bolsas de España cierran a la baja; El IBEX 35 baja un 0,79%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-079-4996091",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC550XV_M.jpg",
+      "published": "2026-11-03T17:08:22+00:00"
+    },
+    {
+      "h": "Portugal stocks lower at close of trade; PSI down 0.31%",
+      "es": "Las bolsas de Portugal cierran a la baja; El PSI bajó un 0,31%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-031-4996087",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Portugal_800x533_L_1630015722.jpg",
+      "published": "2026-11-03T17:07:56+00:00"
+    },
+    {
+      "h": "Netherlands stocks lower at close of trade; AEX down 0.95%",
+      "es": "Las Bolsas de Países Bajos cierran a la baja; AEX cae un 0,95%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-095-4996086",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB970WT_M.jpg",
+      "published": "2026-11-03T17:07:29+00:00"
+    },
+    {
+      "h": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.08%",
+      "es": "Las bolsas de valores de Italia cierran a la baja; Investing.com Italia 40 cae un 0,08%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-008-4996081",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/50c040c772c7ca956f91f5b2507f779f_M.jpg",
+      "published": "2026-11-03T17:07:04+00:00"
+    },
+    {
+      "h": "Germany stocks lower at close of trade; DAX down 0.31%",
+      "es": "Las bolsas de valores de Alemania cierran a la baja; El DAX cae un 0,31%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-031-4996079",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q10J_M.jpg",
+      "published": "2026-11-03T17:06:14+00:00"
+    },
+    {
+      "h": "France stocks lower at close of trade; CAC 40 down 0.34%",
+      "es": "Las bolsas de Francia cierran a la baja; CAC 40 baja un 0,34%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-034-4996078",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED6I0O7_M.jpg",
+      "published": "2026-11-03T17:05:31+00:00"
+    },
+    {
+      "h": "Belgium stocks lower at close of trade; BEL 20 down 0.67%",
+      "es": "Las bolsas de Bélgica cierran a la baja; BEL 20 baja un 0,67%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-067-4996076",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
+      "published": "2026-11-03T17:05:04+00:00"
+    },
+    {
+      "h": "CFTC approves trading of single-stock perpetual futures under joint SEC oversight",
+      "es": "La CFTC aprueba la negociación de futuros perpetuos sobre acciones individuales bajo la supervisión conjunta de la SEC",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cftc-approves-trading-of-singlestock-perpetual-futures-under-joint-sec-oversight-4996073",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S10Z_1200_L.jpg",
+      "published": "2026-11-03T17:03:37+00:00"
+    },
+    {
+      "h": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "es": "“Ella tiene una personalidad tipo A”: Mi madrastra quiere que le devuelva el regalo de bodas de 40.000 dólares de mi difunto padre. ¿Debería obligarme?",
+      "d": "“Aproximadamente dos meses después de su funeral, mi madrastra llamó y dijo que quería que le devolvieran el dinero”.",
+      "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-80511883",
+      "published": "2026-11-03T17:01:00+00:00"
+    },
+    {
+      "h": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+      "es": "El mercado laboral estadounidense se anima, pero todavía no es un buen momento para ser contratado",
+      "d": "Las ofertas de empleo en Estados Unidos aumentaron en septiembre a un máximo de cuatro meses y la contratación también aumentó, lo que indica una mejora leve pero quizás no sostenible en un mercado laboral estadounidense lento.",
+      "u": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-30134543",
+      "published": "2026-11-03T16:56:00+00:00"
+    },
+    {
+      "h": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "es": "El codirector ejecutivo de Binance, Richard Teng, dice que los piratas informáticos utilizaron entrevistas de trabajo falsas y una herramienta de inteligencia artificial para robar $ 6.3 mil millones en criptomonedas",
+      "d": "Binance ha reabastecido el 98% de los 6,34 mil millones de dólares en activos afectados, según un informe de seguridad que el intercambio de cifrado emitió el martes.",
+      "u": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T16:52:17+00:00"
+    },
+    {
+      "h": "U.S. clears path for first regulated equity perpetual futures",
+      "es": "EE.UU. despeja el camino para los primeros futuros perpetuos de acciones reguladas",
+      "d": "Un moderno producto comercial cripto-nativo que ha ganado popularidad en lugares extraterritoriales está expandiendo su presencia en los EE. UU.",
+      "u": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-33701237",
+      "published": "2026-11-03T16:46:00+00:00"
+    },
+    {
+      "h": "Keeping mortgage interest relief approved",
+      "es": "Mantener aprobada la desgravación de intereses hipotecarios",
+      "d": "Los propietarios de viviendas pueden obtener una desgravación fiscal de £3.500 sobre el dinero gastado en la interestatal de una hipoteca.",
+      "u": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0cd/live/864900b0-d79b-11f1-84dd-e55f4bec0ecd.jpg",
+      "published": "2026-11-03T16:44:20+00:00"
+    },
+    {
+      "h": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+      "es": "Las acciones de Shopify caen después de las ganancias. Esto es lo que preocupa a Wall Street.",
+      "d": "La compañía no cumplió con las expectativas de ingresos, un resultado difícil en el mercado tecnológico menos indulgente de hoy.",
+      "u": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-538558",
+      "published": "2026-11-03T16:31:00+00:00"
+    },
+    {
+      "h": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+      "es": "“Es bueno ser viejo”: me han invitado a una docena de comidas gratuitas que se convierten en argumentos de venta de anualidades. ¿Debería dejar de ir?",
+      "d": "\"Los vendedores suelen promocionar anualidades, planes de Medicare y servicios de planificación patrimonial\".",
+      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54591206",
+      "published": "2026-11-03T16:30:00+00:00"
+    },
+    {
+      "h": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+      "es": "He aquí por qué las acciones de Palantir han bajado a pesar de un trimestre \"grandioso\"",
+      "d": "Una desaceleración en el crecimiento de los contratos comerciales en Estados Unidos hizo que algunos analistas de Wall Street hicieran una pausa a pesar de las mejores ganancias de Palantir.",
+      "u": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-80329667",
+      "published": "2026-11-03T16:21:00+00:00"
+    },
     {
       "h": "European supermarkets rush to patch vulnerabilities after region-wide fridge hack",
       "es": "European supermarkets rush to patch vulnerabilities after region-wide fridge hack",
@@ -56,6 +245,15 @@
       "published": "2026-11-03T16:09:44+00:00"
     },
     {
+      "h": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+      "es": "Los precios del petróleo crudo caen por segundo día mientras el mercado espera una resolución diplomática a la guerra de Irán",
+      "d": "El repunte de los precios del petróleo se produce un día después de que los presidentes de Estados Unidos e Irán señalaran que están abiertos a una solución diplomática a la guerra de Irán.",
+      "u": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T16:01:39+00:00"
+    },
+    {
       "h": "Sea shares may move 12% on Nov. 10 earnings report",
       "es": "Sea shares may move 12% on Nov. 10 earnings report",
       "d": "",
@@ -72,204 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXNPEL4S0EP_L.jpg",
       "published": "2026-11-03T15:55:29+00:00"
-    },
-    {
-      "h": "Rigetti Computing options signal 9.2% move on earnings day",
-      "es": "Rigetti Computing options signal 9.2% move on earnings day",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rigetti-computing-options-signal-92-move-on-earnings-day-93CH-4995868",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-03T15:55:20+00:00"
-    },
-    {
-      "h": "Israel stocks higher at close of trade; TA 35 up 0.29%",
-      "es": "Israel stocks higher at close of trade; TA 35 up 0.29%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-029-4995866",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Bank-of-Israel_M_1440048413.jpg",
-      "published": "2026-11-03T15:55:04+00:00"
-    },
-    {
-      "h": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
-      "es": "ADM beats quarterly estimates, lifts annual profit forecast on stronger processing margins",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/adm-beats-quarterly-estimates-lifts-annual-profit-forecast-on-stronger-processing-margins-4994514",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA20Z6_L.jpg",
-      "published": "2026-11-03T15:54:40+00:00"
-    },
-    {
-      "h": "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
-      "es": "D-Wave Quantum shares may move 11% on Nov. 10 earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dwave-quantum-shares-may-move-11-on-nov-10-earnings-93CH-4995861",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-11-03T15:54:19+00:00"
-    },
-    {
-      "h": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "es": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "d": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
-      "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:51:30+00:00"
-    },
-    {
-      "h": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "es": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "d": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-      "u": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe8/live/54e10600-3e38-11f1-929e-dd2b5d4dae7a.jpg",
-      "published": "2026-11-03T15:51:23+00:00"
-    },
-    {
-      "h": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-      "es": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-      "d": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
-      "u": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-21085930",
-      "published": "2026-11-03T15:44:00+00:00"
-    },
-    {
-      "h": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "es": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "d": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
-      "u": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-03T15:19:14+00:00"
-    },
-    {
-      "h": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-      "es": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-      "d": "\"'We're back to the casino type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
-      "u": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:16:08+00:00"
-    },
-    {
-      "h": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
-      "es": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
-      "d": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
-      "u": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:15:13+00:00"
-    },
-    {
-      "h": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "es": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "d": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
-      "u": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bba/live/70863010-d794-11f1-801d-cf196dc7232c.jpg",
-      "published": "2026-11-03T15:12:35+00:00"
-    },
-    {
-      "h": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
-      "es": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
-      "d": "Like we said Monday, we're still unsure what the next catalyst is.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/03/were-trimming-some-more-off-a-stock-thats-enjoying-nice-post-earnings-gains.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:09:51+00:00"
-    },
-    {
-      "h": "Mining giant joins fight to stop killer toad march across Australia",
-      "es": "Mining giant joins fight to stop killer toad march across Australia",
-      "d": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
-      "u": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/c655d960-d770-11f1-a956-ff083523ef77.jpg",
-      "published": "2026-11-03T15:05:01+00:00"
-    },
-    {
-      "h": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-      "es": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-      "d": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
-      "u": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-66701481",
-      "published": "2026-11-03T15:04:00+00:00"
-    },
-    {
-      "h": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
-      "es": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
-      "d": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup quarterback Fernando Mendoza onto the field.",
-      "u": "https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:02:30+00:00"
-    },
-    {
-      "h": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
-      "es": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/apples-unprecedented-memory-warning-adds-fuel-to-wobbly-micron-sk-hynix-trade-4995638",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
-      "published": "2026-11-03T15:01:46+00:00"
-    },
-    {
-      "h": "Why is Dell Technologies stock rallying today?",
-      "es": "Why is Dell Technologies stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-rallying-today-93CH-4995632",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK740X7_L.jpg",
-      "published": "2026-11-03T15:00:53+00:00"
-    },
-    {
-      "h": "What the 2026 midterm elections could mean for Trump’s final two years",
-      "es": "What the 2026 midterm elections could mean for Trump’s final two years",
-      "d": "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
-      "u": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T15:00:01+00:00"
-    },
-    {
-      "h": "Exclusive: OwlTing CEO on scaling Harbor, growth and path to profitability",
-      "es": "Exclusive: OwlTing CEO on scaling Harbor, growth and path to profitability",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusive-owlting-ceo-on-scaling-harbor-growth-and-path-to-profitability-4995616",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/OwlTing_800x533_L_1793717569.jpg",
-      "published": "2026-11-03T14:58:13+00:00"
-    },
-    {
-      "h": "Why is Western Digital stock rallying today?",
-      "es": "Why is Western Digital stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4995611",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB0R00Z_M.jpg",
-      "published": "2026-11-03T14:57:25+00:00"
-    },
-    {
-      "h": "Rockwell Medical stock surges on $125M Vantive acquisition deal",
-      "es": "Rockwell Medical stock surges on $125M Vantive acquisition deal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rockwell-medical-stock-surges-on-125m-vantive-acquisition-deal-4995606",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg",
-      "published": "2026-11-03T14:56:10+00:00"
-    },
-    {
-      "h": "Why is Advanced Micro Devices stock rallying today?",
-      "es": "Why is Advanced Micro Devices stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4995601",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/AdvancedMicroDevicesAMD_800x533_L_1649478414jpg_800x533_L_1649675366.jpg",
-      "published": "2026-11-03T14:54:25+00:00"
     }
   ],
   "sources": [
