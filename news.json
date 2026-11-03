@@ -1,6 +1,213 @@
 {
-  "updated": "2026-11-03T14:33:04.994202+00:00",
+  "updated": "2026-11-03T15:20:33.760970+00:00",
   "news": [
+    {
+      "h": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+      "es": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+      "d": "\"'We're back to the casino type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
+      "u": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T15:16:08+00:00"
+    },
+    {
+      "h": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
+      "es": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
+      "d": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
+      "u": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T15:15:13+00:00"
+    },
+    {
+      "h": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
+      "es": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
+      "d": "Like we said Monday, we're still unsure what the next catalyst is.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/03/were-trimming-some-more-off-a-stock-thats-enjoying-nice-post-earnings-gains.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T15:09:51+00:00"
+    },
+    {
+      "h": "Mining giant joins fight to stop killer toad march across Australia",
+      "es": "Mining giant joins fight to stop killer toad march across Australia",
+      "d": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "u": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/c655d960-d770-11f1-a956-ff083523ef77.jpg",
+      "published": "2026-11-03T15:05:01+00:00"
+    },
+    {
+      "h": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
+      "es": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
+      "d": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
+      "u": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-66701481",
+      "published": "2026-11-03T15:04:00+00:00"
+    },
+    {
+      "h": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
+      "es": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
+      "d": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup quarterback Fernando Mendoza onto the field.",
+      "u": "https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T15:02:30+00:00"
+    },
+    {
+      "h": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
+      "es": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/apples-unprecedented-memory-warning-adds-fuel-to-wobbly-micron-sk-hynix-trade-4995638",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L1C0_1200_L.jpg",
+      "published": "2026-11-03T15:01:46+00:00"
+    },
+    {
+      "h": "Why is Dell Technologies stock rallying today?",
+      "es": "Why is Dell Technologies stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-rallying-today-93CH-4995632",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK740X7_L.jpg",
+      "published": "2026-11-03T15:00:53+00:00"
+    },
+    {
+      "h": "What the 2026 midterm elections could mean for Trump’s final two years",
+      "es": "What the 2026 midterm elections could mean for Trump’s final two years",
+      "d": "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
+      "u": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T15:00:01+00:00"
+    },
+    {
+      "h": "Exclusive: OwlTing CEO on scaling Harbor, growth and path to profitability",
+      "es": "Exclusive: OwlTing CEO on scaling Harbor, growth and path to profitability",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusive-owlting-ceo-on-scaling-harbor-growth-and-path-to-profitability-4995616",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/OwlTing_800x533_L_1793717569.jpg",
+      "published": "2026-11-03T14:58:13+00:00"
+    },
+    {
+      "h": "Why is Western Digital stock rallying today?",
+      "es": "Why is Western Digital stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4995611",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0R00Z_M.jpg",
+      "published": "2026-11-03T14:57:25+00:00"
+    },
+    {
+      "h": "Rockwell Medical stock surges on $125M Vantive acquisition deal",
+      "es": "Rockwell Medical stock surges on $125M Vantive acquisition deal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rockwell-medical-stock-surges-on-125m-vantive-acquisition-deal-4995606",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg",
+      "published": "2026-11-03T14:56:10+00:00"
+    },
+    {
+      "h": "Why is Advanced Micro Devices stock rallying today?",
+      "es": "Why is Advanced Micro Devices stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4995601",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/AdvancedMicroDevicesAMD_800x533_L_1649478414jpg_800x533_L_1649675366.jpg",
+      "published": "2026-11-03T14:54:25+00:00"
+    },
+    {
+      "h": "Why is SanDisk stock rallying today?",
+      "es": "Why is SanDisk stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4995591",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-03T14:51:21+00:00"
+    },
+    {
+      "h": "Shopify stock outlook after Q3 earnings selloff: What our AI model says",
+      "es": "Shopify stock outlook after Q3 earnings selloff: What our AI model says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/shopify-stock-outlook-after-q3-earnings-selloff-what-our-ai-model-says-93CH-4995582",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL4K0QN_L.jpg",
+      "published": "2026-11-03T14:49:46+00:00"
+    },
+    {
+      "h": "S&P 500, Nasdaq open higher as oil prices extend declines, midterms on tap",
+      "es": "S&P 500, Nasdaq open higher as oil prices extend declines, midterms on tap",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap-4995579",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21C9_L.jpg",
+      "published": "2026-11-03T14:48:48+00:00"
+    },
+    {
+      "h": "Why is GE Vernova stock rallying today?",
+      "es": "Why is GE Vernova stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-rallying-today-93CH-4995574",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-11-03T14:48:12+00:00"
+    },
+    {
+      "h": "The 'poison pill' ballot measure that could kill the California billionaire tax",
+      "es": "The 'poison pill' ballot measure that could kill the California billionaire tax",
+      "d": "The strongest challenge to California's billionaire tax could be a competing ballot measure that bans state taxes on retirement accounts, say tax experts.",
+      "u": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T14:46:43+00:00"
+    },
+    {
+      "h": "Learning from ‘Love Is Blind’ money drama",
+      "es": "Learning from ‘Love Is Blind’ money drama",
+      "d": "Hear me out: These reality-TV couples are having really important conversations about love and money heading into Wednesday’s finale.",
+      "u": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-01381640",
+      "published": "2026-11-03T14:46:00+00:00"
+    },
+    {
+      "h": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "es": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "d": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+      "u": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T14:43:43+00:00"
+    },
+    {
+      "h": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+      "es": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+      "d": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
+      "u": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T14:38:03+00:00"
+    },
+    {
+      "h": "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value",
+      "es": "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value",
+      "d": "The software giant's stock fell after earnings failed to impress investors.",
+      "u": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T14:31:39+00:00"
+    },
+    {
+      "h": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+      "es": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+      "d": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food.",
+      "u": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T14:31:25+00:00"
+    },
     {
       "h": "What in the World",
       "es": "What in the World",
@@ -47,6 +254,15 @@
       "published": "2026-11-03T14:20:09+00:00"
     },
     {
+      "h": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+      "es": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+      "d": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
+      "u": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T14:18:27+00:00"
+    },
+    {
       "h": "Versant earnings beat expectations as digital platforms drive growth",
       "es": "Versant earnings beat expectations as digital platforms drive growth",
       "d": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
@@ -54,222 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-11-03T14:17:42+00:00"
-    },
-    {
-      "h": "European shares edge lower as Apple margin warning trigger global tech rout",
-      "es": "European shares edge lower as Apple margin warning trigger global tech rout",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-slide-as-apple-margin-warning-trigger-global-tech-rout-4993704",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "published": "2026-11-03T14:15:28+00:00"
-    },
-    {
-      "h": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "es": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "d": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
-      "u": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-03T14:14:06+00:00"
-    },
-    {
-      "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "es": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "d": "It's Election Day.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T14:11:53+00:00"
-    },
-    {
-      "h": "Wedbush starts nuclear coverage, backs Oklo and X-Energy",
-      "es": "Wedbush starts nuclear coverage, backs Oklo and X-Energy",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wedbush-starts-nuclear-coverage-backs-oklo-and-xenergy-4995373",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL680F7_L.jpg",
-      "published": "2026-11-03T14:10:15+00:00"
-    },
-    {
-      "h": "Nasdaq 100 in strong downtrend, oversold near $28K: Live levels",
-      "es": "Nasdaq 100 in strong downtrend, oversold near $28K: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-03T14:08:32+00:00"
-    },
-    {
-      "h": "Dow Jones tests 50% Fib support below 200-day MA: Live",
-      "es": "Dow Jones tests 50% Fib support below 200-day MA: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-tests-200-sma-and-50-fib-support-live-levels-93CH-4991915",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-03T14:08:31+00:00"
-    },
-    {
-      "h": "S&P 500 in bearish impulse, tests oversold bounce: Live levels",
-      "es": "S&P 500 in bearish impulse, tests oversold bounce: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-breaks-down-below-all-mas-tests-7558-low-live-levels-93CH-4991913",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-11-03T14:08:21+00:00"
-    },
-    {
-      "h": "Dollar Index consolidates in tight range: Live levels",
-      "es": "Dollar Index consolidates in tight range: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dollar-index-breaks-below-key-mas-amid-bearish-momentum-live-93CH-4991912",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-03T14:08:14+00:00"
-    },
-    {
-      "h": "DAX holds above cloud support, eyes 26246 resistance: Live levels",
-      "es": "DAX holds above cloud support, eyes 26246 resistance: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dax-trapped-between-sma20-and-supertrend-support-live-levels-93CH-4990105",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-11-03T14:07:59+00:00"
-    },
-    {
-      "h": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
-      "es": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
-      "d": "Compared with previous market drawdowns, the current market setup is vulnerable because rising inflation limits the ability of central banks to ease rates and reflate asset prices. Reduce stocks and add bonds and cash, this macro research house advises",
-      "u": "https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-10504439",
-      "published": "2026-11-03T14:06:00+00:00"
-    },
-    {
-      "h": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "es": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "d": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-54591206",
-      "published": "2026-11-03T13:31:00+00:00"
-    },
-    {
-      "h": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "es": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "d": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-      "u": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T13:28:36+00:00"
-    },
-    {
-      "h": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’",
-      "es": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’",
-      "d": "Prediction markets may be running the risk of “suggesting too much confidence in a good night for Democrats,” one analyst says.",
-      "u": "https://www.marketwatch.com/story/its-finally-election-day-and-prediction-markets-may-show-too-much-confidence-in-a-good-night-for-democrats-3c6742df?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87086549",
-      "published": "2026-11-03T13:26:00+00:00"
-    },
-    {
-      "h": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-      "es": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-      "d": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
-      "u": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-538558",
-      "published": "2026-11-03T13:26:00+00:00"
-    },
-    {
-      "h": "Trump DOJ election lawsuits and monitors loom over 2026 midterms",
-      "es": "Trump DOJ election lawsuits and monitors loom over 2026 midterms",
-      "d": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
-      "u": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T13:24:27+00:00"
-    },
-    {
-      "h": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "es": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "d": "Russia confirmed Ukraine peace talks in Abu Dhabi next week and signaled a possible Trump-Putin-Xi summit, raising questions over Kyiv's role in negotiations.",
-      "u": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T13:22:25+00:00"
-    },
-    {
-      "h": "AMD gets bullish pre-earnings call from Lynx as server CPU demand accelerates",
-      "es": "AMD gets bullish pre-earnings call from Lynx as server CPU demand accelerates",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amd-gets-bullish-preearnings-call-from-lynx-as-server-cpu-demand-accelerates-4995105",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6M0V8_L.jpg",
-      "published": "2026-11-03T13:18:58+00:00"
-    },
-    {
-      "h": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
-      "es": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/marathon-beats-quarterly-estimates-to-sell-two-refineries-to-cvr-energy-4995111",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA216C_L.jpg",
-      "published": "2026-11-03T13:18:35+00:00"
-    },
-    {
-      "h": "Schwarz Digits and Bull partner up to build European AI computing services",
-      "es": "Schwarz Digits and Bull partner up to build European AI computing services",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/schwarz-digits-and-bull-partner-up-to-build-european-ai-computing-services-4995100",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA215I_L.jpg",
-      "published": "2026-11-03T13:13:18+00:00"
-    },
-    {
-      "h": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
-      "es": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/taco-bell-sales-fall-more-than-expected-on-cyclosporiasis-outbreak-hit-4994695",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA2110_L.jpg",
-      "published": "2026-11-03T13:13:03+00:00"
-    },
-    {
-      "h": "Vestel and Anadolu sell TOGG stakes for $412 million",
-      "es": "Vestel and Anadolu sell TOGG stakes for $412 million",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vestel-and-anadolu-sell-togg-stakes-for-412-million-93CH-4995074",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-11-03T13:12:50+00:00"
-    },
-    {
-      "h": "Analysts downgrade Marvell and slash price targets over Lumentum deal",
-      "es": "Analysts downgrade Marvell and slash price targets over Lumentum deal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysts-downgrade-marvell-and-slash-price-targets-over-lumentum-deal-4995050",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Marvellchip_800x533_L_1778702247.jpg",
-      "published": "2026-11-03T13:07:15+00:00"
-    },
-    {
-      "h": "Why is Ethos Technologies stock surging today?",
-      "es": "Why is Ethos Technologies stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ethos-technologies-stock-surging-today-93CH-4995044",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-03T13:06:02+00:00"
-    },
-    {
-      "h": "Anthropic targets doubling computing capacity to 7 gigawatts next year, NYT report",
-      "es": "Anthropic targets doubling computing capacity to 7 gigawatts next year, NYT report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-targets-doubling-computing-capacity-to-7-gigawatts-next-year-nyt-report-4994999",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-11-03T13:02:20+00:00"
     }
   ],
   "sources": [
