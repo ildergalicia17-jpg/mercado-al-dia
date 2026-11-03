@@ -1,6 +1,195 @@
 {
-  "updated": "2026-11-03T20:34:31.824944+00:00",
+  "updated": "2026-11-03T21:23:09.428298+00:00",
   "news": [
+    {
+      "h": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "es": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "d": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "u": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T21:20:14+00:00"
+    },
+    {
+      "h": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+      "es": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+      "d": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+      "u": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26661679",
+      "published": "2026-11-03T21:13:00+00:00"
+    },
+    {
+      "h": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "es": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "d": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+      "u": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T21:11:34+00:00"
+    },
+    {
+      "h": "Fal raises $1.3 billion at $16 billion valuation on demand - Bloomberg",
+      "es": "Fal raises $1.3 billion at $16 billion valuation on demand - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fal-raises-13-billion-at-16-billion-valuation-on-demand--bloomberg-93CH-4996358",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-11-03T21:04:05+00:00"
+    },
+    {
+      "h": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+      "es": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+      "d": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
+      "u": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-62078069",
+      "published": "2026-11-03T21:04:00+00:00"
+    },
+    {
+      "h": "Lufthansa CEO says too early to discuss antitrust remedies for TAP deal",
+      "es": "Lufthansa CEO says too early to discuss antitrust remedies for TAP deal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/lufthansa-ceo-says-too-early-to-discuss-antitrust-remedies-for-tap-deal-93CH-4996347",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-11-03T20:57:22+00:00"
+    },
+    {
+      "h": "BMW cuts automotive outlook for second time as restructuring deepens",
+      "es": "BMW cuts automotive outlook for second time as restructuring deepens",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bmw-cuts-automotive-outlook-for-second-time-as-restructuring-deepens-4996343",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QG_L.jpg",
+      "published": "2026-11-03T20:54:27+00:00"
+    },
+    {
+      "h": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "es": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "d": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "u": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-03T20:53:03+00:00"
+    },
+    {
+      "h": "SMCI earnings preview: margins and guidance in focus as pre-announced revenue tops old targets",
+      "es": "SMCI earnings preview: margins and guidance in focus as pre-announced revenue tops old targets",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/smci-earnings-preview-margins-and-guidance-in-focus-as-preannounced-revenue-tops-old-targets-93CH-4996340",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-11-03T20:52:13+00:00"
+    },
+    {
+      "h": "Roku’s strong Q3 bolsters Fox’s $22B acquisition case",
+      "es": "Roku’s strong Q3 bolsters Fox’s $22B acquisition case",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rokus-strong-q3-bolsters-foxs-22b-acquisition-case-93CH-4996339",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEE49166_L.jpg",
+      "published": "2026-11-03T20:50:28+00:00"
+    },
+    {
+      "h": "Why is Aptiv stock sliding today?",
+      "es": "Why is Aptiv stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-aptiv-stock-sliding-today-93CH-4996336",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-03T20:47:41+00:00"
+    },
+    {
+      "h": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+      "es": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+      "d": "The stock has struggled in recent months.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-03T20:46:59+00:00"
+    },
+    {
+      "h": "Why is Sotera Health stock sliding today?",
+      "es": "Why is Sotera Health stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sotera-health-stock-sliding-today-93CH-4996335",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-11-03T20:46:48+00:00"
+    },
+    {
+      "h": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+      "es": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+      "d": "“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.",
+      "u": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83678457",
+      "published": "2026-11-03T20:46:00+00:00"
+    },
+    {
+      "h": "Why is PTC Therapeutics stock surging today?",
+      "es": "Why is PTC Therapeutics stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ptc-therapeutics-stock-surging-today-93CH-4996332",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-03T20:44:57+00:00"
+    },
+    {
+      "h": "Why is MSA Safety stock sliding today?",
+      "es": "Why is MSA Safety stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-msa-safety-stock-sliding-today-93CH-4996331",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-11-03T20:44:04+00:00"
+    },
+    {
+      "h": "Why is Regal Rexnord stock surging today?",
+      "es": "Why is Regal Rexnord stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-regal-rexnord-stock-surging-today-93CH-4996329",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-03T20:41:55+00:00"
+    },
+    {
+      "h": "The next wave of luxury real estate: marina developments with yacht parking",
+      "es": "The next wave of luxury real estate: marina developments with yacht parking",
+      "d": "Marinas are becoming the next big draw for luxury real estate, as the global wealthy search for homes to park their ever-larger yachts.",
+      "u": "https://www.cnbc.com/2026/11/03/the-next-wave-of-luxury-real-estate-marinas-with-yacht-parking.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T20:41:27+00:00"
+    },
+    {
+      "h": "AMD has been crushed into earnings. Here’s one way to trade it",
+      "es": "AMD has been crushed into earnings. Here’s one way to trade it",
+      "d": "AMD has been crushed into earnings. Here’s one way to trade it",
+      "u": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T20:40:51+00:00"
+    },
+    {
+      "h": "Sullivan: What the 2026 midterms could mean for energy investors",
+      "es": "Sullivan: What the 2026 midterms could mean for energy investors",
+      "d": "A Democratic Congress could be good for offshore wind and solar energy.",
+      "u": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T20:36:08+00:00"
+    },
+    {
+      "h": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "es": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "d": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+      "u": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-03T20:33:28+00:00"
+    },
     {
       "h": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
       "es": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
@@ -81,195 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-03T20:07:50+00:00"
-    },
-    {
-      "h": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "es": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "d": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
-      "u": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T20:02:10+00:00"
-    },
-    {
-      "h": "S&P 500 Santa Claus rally: what history says and where the index stands",
-      "es": "S&P 500 Santa Claus rally: what history says and where the index stands",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-santa-claus-rally-what-history-says-and-where-the-index-stands-93CH-4996292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEFAL1M9_L.jpg",
-      "published": "2026-11-03T20:01:54+00:00"
-    },
-    {
-      "h": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "es": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "d": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-54591206",
-      "published": "2026-11-03T20:00:00+00:00"
-    },
-    {
-      "h": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
-      "es": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
-      "d": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
-      "u": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73841934",
-      "published": "2026-11-03T19:57:00+00:00"
-    },
-    {
-      "h": "Exclusive-Skydance shuffles distribution ranks as eight executives depart",
-      "es": "Exclusive-Skydance shuffles distribution ranks as eight executives depart",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveskydance-shuffles-distributionranks-as-eight-executives-depart-4996277",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21RT_L.jpg",
-      "published": "2026-11-03T19:48:27+00:00"
-    },
-    {
-      "h": "Why is Hut 8 stock surging today?",
-      "es": "Why is Hut 8 stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hut-8-stock-surging-today-93CH-4996275",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-03T19:45:51+00:00"
-    },
-    {
-      "h": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
-      "es": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
-      "d": "Sen. Chris Murphy, a Connecticut Democrat, was still in the hospital as of Tuesday, his office confirmed.",
-      "u": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T19:36:16+00:00"
-    },
-    {
-      "h": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "es": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "d": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
-      "u": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T19:35:24+00:00"
-    },
-    {
-      "h": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
-      "es": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveambanis-jio-explores-techforequity-talks-with-comcast-and-charter-sources-say-4996271",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QZ_L.jpg",
-      "published": "2026-11-03T19:30:31+00:00"
-    },
-    {
-      "h": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
-      "es": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
-      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T19:29:41+00:00"
-    },
-    {
-      "h": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
-      "es": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
-      "d": "The stock could beat its February record high close.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/03/were-keeping-a-hold-rating-on-dupont-despite-its-beat-and-raise-quarter.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-03T19:26:02+00:00"
-    },
-    {
-      "h": "Jefferies names top lifestyle & growth platform stocks ahead of earnings",
-      "es": "Jefferies names top lifestyle & growth platform stocks ahead of earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-names-top-lifestyle--growth-platform-stocks-ahead-of-earnings-4996265",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
-      "published": "2026-11-03T19:24:16+00:00"
-    },
-    {
-      "h": "TSX movers: gainers lead 3-to-1 as gold miners slide",
-      "es": "TSX movers: gainers lead 3-to-1 as gold miners slide",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tsx-movers-gainers-lead-3to1-as-gold-miners-slide-93CH-4996264",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
-      "published": "2026-11-03T19:23:36+00:00"
-    },
-    {
-      "h": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-      "es": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-      "d": "Don’t sit on the sidelines during open enrollment.",
-      "u": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-57230636",
-      "published": "2026-11-03T19:23:00+00:00"
-    },
-    {
-      "h": "Options traders are betting heavily on these stocks ahead of election results",
-      "es": "Options traders are betting heavily on these stocks ahead of election results",
-      "d": "Solar stocks see heavy call activity as voting gets underway",
-      "u": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T19:22:30+00:00"
-    },
-    {
-      "h": "Alphabet C in bear flag near lows after gap down: Live levels",
-      "es": "Alphabet C in bear flag near lows after gap down: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alphabet-c-gaps-down-to-extreme-oversold-rsi-live-levels-93CH-4992610",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-03T19:18:40+00:00"
-    },
-    {
-      "h": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
-      "es": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-lawmakers-in-letter-question-mcdonalds-ceo-about-algorithmic-pricing-practices-4996256",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QR_L.jpg",
-      "published": "2026-11-03T19:18:39+00:00"
-    },
-    {
-      "h": "Nasdaq 100 in bearish impulse, tests key support: Live levels",
-      "es": "Nasdaq 100 in bearish impulse, tests key support: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-03T19:18:35+00:00"
-    },
-    {
-      "h": "Dow Jones breaks below 200 SMA with H&S top: Live levels",
-      "es": "Dow Jones breaks below 200 SMA with H&S top: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/dow-jones-tests-200-sma-and-50-fib-support-live-levels-93CH-4991915",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-03T19:18:32+00:00"
-    },
-    {
-      "h": "Tesla bearish RSI divergence flags pullback to $382: Live levels",
-      "es": "Tesla bearish RSI divergence flags pullback to $382: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-shooting-star-at-414-signals-pullback-risk-live-levels-93CH-4992609",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED920A7_M.jpg",
-      "published": "2026-11-03T19:18:31+00:00"
-    },
-    {
-      "h": "S&P 500 bear flag active near 7680 resistance: Live levels",
-      "es": "S&P 500 bear flag active near 7680 resistance: Live levels",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-breaks-down-below-all-mas-tests-7558-low-live-levels-93CH-4991913",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published": "2026-11-03T19:18:27+00:00"
     }
   ],
   "sources": [
