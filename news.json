@@ -1,6 +1,141 @@
 {
-  "updated": "2026-11-04T13:49:36.875120+00:00",
+  "updated": "2026-11-04T14:44:52.818113+00:00",
   "news": [
+    {
+      "h": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+      "es": "Las acciones de los centros de datos de IA y SpaceX de Musk caen a medida que el resultado del gobernador de Texas aumenta los riesgos de una desaceleración",
+      "d": "La suerte de la IA fue mixta cuando se abrieron las operaciones previas a la comercialización el miércoles.",
+      "u": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T14:43:57+00:00"
+    },
+    {
+      "h": "CVS falls 14% on plans to split off drugstore business in major breakup of healthcare giant",
+      "es": "CVS cae un 14% por planes de escindir el negocio de farmacias en una importante desintegración del gigante de la salud",
+      "d": "La medida revertiría la adquisición de Aetna por 78 mil millones de dólares por parte de la compañía y desmantelaría el conglomerado de atención médica verticalmente integrado que creó en 2018.",
+      "u": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T14:41:55+00:00"
+    },
+    {
+      "h": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+      "es": "La ola de gastos de 500 mil millones de dólares de las Big Tech deja mucho menos para los accionistas",
+      "d": "La IA está cambiando el trato entre las grandes empresas tecnológicas y sus accionistas.",
+      "u": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-785589",
+      "published": "2026-11-04T14:39:00+00:00"
+    },
+    {
+      "h": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "es": "Kellogg's admite que el chasquido, el crujido y el pop son más silenciosos después del revuelo por el cambio de receta de Rice Krispies",
+      "d": "El gigante de los cereales cambió las recetas de Rice Krispies y Coco Pops, lo que provocó una reacción violenta en línea.",
+      "u": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+      "published": "2026-11-04T14:25:39+00:00"
+    },
+    {
+      "h": "Sequoia Capital closes London office citing lack of need for local presence",
+      "es": "Sequoia Capital cierra oficina en Londres alegando falta de necesidad de presencia local",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sequoia-capital-closes-london-office-citing-lack-of-need-for-local-presence-93CH-4999856",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-11-04T14:23:08+00:00"
+    },
+    {
+      "h": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+      "es": "Los ingresos del centro de datos de AMD casi se duplican en el tercer trimestre y el CEO Su espera que el crecimiento se acelere",
+      "d": "AMD informó resultados del tercer trimestre mejores de lo esperado, impulsados ​​por el auge de las ventas de chips de IA",
+      "u": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T14:23:01+00:00"
+    },
+    {
+      "h": "European shares jump to 2-month highs  following U.S. midterms; Novo surges",
+      "es": "Las bolsas europeas alcanzan máximos de dos meses tras las elecciones intermedias de EE.UU.; Novo surge",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEEAD0HK_M.jpg",
+      "published": "2026-11-04T14:17:29+00:00"
+    },
+    {
+      "h": "Qualcomm to supply equipment for SpaceX’s nationwide 5G mobile network",
+      "es": "Qualcomm suministrará equipos para la red móvil nacional 5G de SpaceX",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/qualcomm-to-supply-equipment-for-spacexs-nationwide-5g-mobile-network-4999793",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
+      "published": "2026-11-04T14:16:26+00:00"
+    },
+    {
+      "h": "Freedom Broker cuts PayPal to Hold as branded checkout stalls",
+      "es": "Freedom Broker reduce PayPal a Hold como puestos de pago de marca",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/freedom-broker-cuts-paypal-to-hold-as-branded-checkout-stalls-4999784",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEH9J12U_L.jpg",
+      "published": "2026-11-04T14:15:07+00:00"
+    },
+    {
+      "h": "Dollar Index tests 200 SMA as Double Top breakdown deepens: Live",
+      "es": "El índice del dólar prueba la media móvil simple de 200 a medida que se profundiza el desglose del doble techo: en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dollar-index-breaks-below-key-mas-amid-bearish-momentum-live-93CH-4991912",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-04T14:06:41+00:00"
+    },
+    {
+      "h": "S&P 500 V-bottom bounce tests SMA(50) resistance: Live levels",
+      "es": "El rebote del fondo en V del S&P 500 prueba la resistencia de la SMA (50): niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-breaks-down-below-all-mas-tests-7558-low-live-levels-93CH-4991913",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-11-04T14:06:40+00:00"
+    },
+    {
+      "h": "Nasdaq 100 tests key resistance in active Bear Flag: Live levels",
+      "es": "Nasdaq 100 prueba resistencia clave en Bear Flag activo: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-04T14:06:19+00:00"
+    },
+    {
+      "h": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+      "es": "Internet está “muriendo”: la IA se lo está comiendo y destruyendo estos modelos de negocio",
+      "d": "“Internet tal como lo conocemos desde hace más de 20 años está desapareciendo y va a cambiar por completo”, afirma un director ejecutivo.",
+      "u": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83678457",
+      "published": "2026-11-04T14:05:00+00:00"
+    },
+    {
+      "h": "Learning from ‘Love Is Blind’ money drama",
+      "es": "Aprendiendo del drama sobre dinero 'Love Is Blind'",
+      "d": "Escúchame: estas parejas de reality shows están teniendo conversaciones realmente importantes sobre el amor y el dinero de cara al final de esta noche.",
+      "u": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-01381640",
+      "published": "2026-11-04T13:58:00+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "es": "Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el miércoles",
+      "d": "¿Fueron las elecciones intermedias un evento de compensación en Wall Street?",
+      "u": "https://www.cnbc.com/investingclub/2026/11/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:57:58+00:00"
+    },
     {
       "h": "Uber beats on revenue even as mobility and delivery units miss estimates",
       "es": "Uber supera en ingresos incluso cuando las unidades de movilidad y entrega no cumplen con las estimaciones",
@@ -18,6 +153,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-04T13:43:31+00:00"
+    },
+    {
+      "h": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "es": "Los millones de Elon Musk no logran entregar Texas a los republicanos en feroces elecciones intermedias",
+      "d": "El comité de acción política del multimillonario (Pac) contribuyó con 47 millones de dólares (35 millones de libras esterlinas) a la campaña de Ken Paxton.",
+      "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+      "published": "2026-11-04T13:43:16+00:00"
     },
     {
       "h": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
@@ -126,150 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31GD_L.jpg",
       "published": "2026-11-04T13:06:29+00:00"
-    },
-    {
-      "h": "Datadog’s stock extends steep declines in the wake of earnings",
-      "es": "Las acciones de Datadog extienden fuertes caídas tras las ganancias",
-      "d": "Datadog no superó las expectativas con su previsión de ingresos.",
-      "u": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-738814",
-      "published": "2026-11-04T13:03:00+00:00"
-    },
-    {
-      "h": "ProPicks AI November Investor Letter: Are AI valuations attractive again?",
-      "es": "Carta a los inversores de noviembre de ProPicks AI: ¿Las valoraciones de la IA vuelven a ser atractivas?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/propicks-ai-november-investor-letter-are-ai-valuations-attractive-again-4999216",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S10Z_1200_L.jpg",
-      "published": "2026-11-04T13:02:39+00:00"
-    },
-    {
-      "h": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-      "es": "Las elecciones intermedias de Estados Unidos en imágenes: las amplias victorias de los demócratas reprimen a Trump",
-      "d": "Los demócratas obtuvieron amplias victorias en las elecciones de mitad de mandato de Estados Unidos el miércoles, desplazando escaños clave en el Congreso que estaban en manos de los republicanos.",
-      "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T13:02:32+00:00"
-    },
-    {
-      "h": "Soitec wins UBS upgrade as AI transceiver demand lifts growth prospects",
-      "es": "Soitec gana la actualización de UBS mientras la demanda de transceptores de IA aumenta las perspectivas de crecimiento",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/soitec-wins-ubs-upgrade-as-ai-transceiver-demand-lifts-growth-prospects-4999172",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-04T13:00:38+00:00"
-    },
-    {
-      "h": "US Democratic win unlikely to ease firms’ cost, tariff woes in near term, executives say",
-      "es": "Es poco probable que la victoria demócrata en EE.UU. alivie los costos y los problemas arancelarios de las empresas en el corto plazo, dicen los ejecutivos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-democratic-win-unlikely-to-ease-firms-cost-tariff-woes-in-near-term-executives-say-4999169",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31FQ_L.jpg",
-      "published": "2026-11-04T13:00:30+00:00"
-    },
-    {
-      "h": "China expands overseas mining stakes, tightening grip on critical minerals",
-      "es": "China amplía sus participaciones mineras en el extranjero y refuerza su control sobre minerales críticos",
-      "d": "Beijing está construyendo un sistema de agencias y vehículos respaldados por el Estado para poseer más metales de los que depende, manteniendo al mismo tiempo su ventaja en habilidades de procesamiento.",
-      "u": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T13:00:01+00:00"
-    },
-    {
-      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
-      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
-      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-26708039",
-      "published": "2026-11-04T13:00:00+00:00"
-    },
-    {
-      "h": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
-      "es": "¿Cree que la Reserva Federal terminará después de dos subidas de tipos más? Cómo el informe de empleo del viernes puede desencadenar una importante revisión de los precios del mercado.",
-      "d": "Los datos de empleo inesperadamente positivos podrían afectar el número y el momento de futuras subidas de tipos",
-      "u": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-89534248",
-      "published": "2026-11-04T13:00:00+00:00"
-    },
-    {
-      "h": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-      "es": "Cinco conclusiones de las elecciones de mitad de período: los multimillonarios tecnológicos sufren mientras los demócratas derrotan a los republicanos",
-      "d": "El gasto de Elon Musk puede haberse convertido en un lastre, ya que los votantes en las encuestas a pie de urna expresaron su preocupación por la corrupción gubernamental y la creciente influencia de los multimillonarios.",
-      "u": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T12:51:00+00:00"
-    },
-    {
-      "h": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
-      "es": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
-      "d": "Wall Street finds reasons to cheer the Democrats’ sweep. Plus: Microsoft’s AI-era buyouts and a retiree’s appetite for a “free lunch.”",
-      "u": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12549287",
-      "published": "2026-11-04T12:27:00+00:00"
-    },
-    {
-      "h": "Kraft Heinz to divest North America coffee unit amid Cahillane’s turnaround effort",
-      "es": "Kraft Heinz to divest North America coffee unit amid Cahillane’s turnaround effort",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/kraft-heinz-to-divest-north-america-coffee-unit-amid-cahillanes-turnaround-effort-4998915",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31CV_L.jpg",
-      "published": "2026-11-04T12:25:28+00:00"
-    },
-    {
-      "h": "Treasury yields fall after Democrats win House and Senate majorities",
-      "es": "Los rendimientos de los bonos del Tesoro caen después de que los demócratas obtengan mayorías en la Cámara y el Senado",
-      "d": "Los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores sopesaban las grandes victorias de los demócratas en las elecciones de mitad de período de Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T12:25:25+00:00"
-    },
-    {
-      "h": "Flutter pauses share buybacks to focus on deleveraging, cost savings",
-      "es": "Flutter pauses share buybacks to focus on deleveraging, cost savings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/flutter-pauses-share-buybacks-to-focus-on-deleveraging-cost-saving-4998870",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-04T12:24:31+00:00"
-    },
-    {
-      "h": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-      "es": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-      "d": "The healthcare giant surprised analysts with the decision to separate its business.",
-      "u": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24813713",
-      "published": "2026-11-04T12:21:00+00:00"
-    },
-    {
-      "h": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
-      "es": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
-      "d": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "u": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg",
-      "published": "2026-11-04T12:20:42+00:00"
-    },
-    {
-      "h": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue",
-      "es": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue-4998814",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31CF_L.jpg",
-      "published": "2026-11-04T12:19:33+00:00"
     }
   ],
   "sources": [
