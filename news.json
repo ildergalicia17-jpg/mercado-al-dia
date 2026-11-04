@@ -1,6 +1,258 @@
 {
-  "updated": "2026-11-04T04:20:07.665548+00:00",
+  "updated": "2026-11-04T11:44:33.977642+00:00",
   "news": [
+    {
+      "h": "CVS to split off drugstore business in major breakup of healthcare giant",
+      "es": "CVS to split off drugstore business in major breakup of healthcare giant",
+      "d": "The move would reverse the company's $78 billion acquisition of Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+      "u": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T11:35:53+00:00"
+    },
+    {
+      "h": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+      "es": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+      "d": "AI fortunes were mixed as premarket trading opened on Wednesday.",
+      "u": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T11:35:52+00:00"
+    },
+    {
+      "h": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+      "es": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+      "d": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+      "u": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T11:20:46+00:00"
+    },
+    {
+      "h": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
+      "es": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
+      "d": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
+      "u": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-17807267",
+      "published": "2026-11-04T11:10:00+00:00"
+    },
+    {
+      "h": "European shares jump to 2-month highs  following U.S. midterms; Novo surges",
+      "es": "European shares jump to 2-month highs  following U.S. midterms; Novo surges",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEEAD0HK_M.jpg",
+      "published": "2026-11-04T11:09:31+00:00"
+    },
+    {
+      "h": "Hemnet CEO Jonas Gustafsson to step down effective Thursday",
+      "es": "Hemnet CEO Jonas Gustafsson to step down effective Thursday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hemnet-ceo-jonas-gustafsson-to-step-down-effective-thursday-93CH-4998347",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-04T11:09:31+00:00"
+    },
+    {
+      "h": "UBS starts bullish coverage on Ferrari Group on luxury logistics growth",
+      "es": "UBS starts bullish coverage on Ferrari Group on luxury logistics growth",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ubs-starts-bullish-coverage-on-ferrari-group-on-luxury-logistics-growth-4998345",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9B0RD_M.jpg",
+      "published": "2026-11-04T11:08:55+00:00"
+    },
+    {
+      "h": "Why is Vestas Wind stock surging today?",
+      "es": "Why is Vestas Wind stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-surging-today-93CH-4998335",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-11-04T11:07:29+00:00"
+    },
+    {
+      "h": "Why is Ørsted stock surging today?",
+      "es": "Why is Ørsted stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-surging-today-93CH-4998330",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-11-04T11:06:33+00:00"
+    },
+    {
+      "h": "Why is Nordex stock surging today?",
+      "es": "Why is Nordex stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nordex-stock-surging-today-93CH-4998328",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-11-04T11:06:20+00:00"
+    },
+    {
+      "h": "Exclusive-Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+      "es": "Exclusive-Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivechinese-chipmaker-ymtc-puts-ipo-on-hold-as-weaker-markets-weigh-sources-say-4998287",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA3167_L.jpg",
+      "published": "2026-11-04T11:00:43+00:00"
+    },
+    {
+      "h": "AI sector outlook darkens as Democrat wins threaten $900B capex cycle",
+      "es": "AI sector outlook darkens as Democrat wins threaten $900B capex cycle",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ai-sector-outlook-darkens-as-democrat-wins-threaten-900b-capex-cycle-93CH-4998267",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg",
+      "published": "2026-11-04T10:57:16+00:00"
+    },
+    {
+      "h": "Why is Geo Group stock sliding 6% today?",
+      "es": "Why is Geo Group stock sliding 6% today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-geo-group-stock-sliding-6-today-93CH-4998262",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-11-04T10:54:27+00:00"
+    },
+    {
+      "h": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "es": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "d": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "u": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe8/live/54e10600-3e38-11f1-929e-dd2b5d4dae7a.jpg",
+      "published": "2026-11-04T10:47:31+00:00"
+    },
+    {
+      "h": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "es": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "d": "It was driven by energy inflation, which surged above 20% in October.",
+      "u": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T10:47:30+00:00"
+    },
+    {
+      "h": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+      "es": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+      "d": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
+      "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T10:47:19+00:00"
+    },
+    {
+      "h": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+      "es": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+      "d": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates",
+      "u": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T10:40:51+00:00"
+    },
+    {
+      "h": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+      "es": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+      "d": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+      "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-49119290",
+      "published": "2026-11-04T10:15:00+00:00"
+    },
+    {
+      "h": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
+      "es": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
+      "d": "Actress Robin Givens’ former Hollywood Hills, Calif., home is ready for a new buyer, having just hit the market for $3.5 million.",
+      "u": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-05416715",
+      "published": "2026-11-04T10:03:00+00:00"
+    },
+    {
+      "h": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+      "es": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+      "d": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+      "u": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T10:02:00+00:00"
+    },
+    {
+      "h": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+      "es": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+      "d": "Precious metals saw strong gains on Tuesday morning, as investors digested a Democratic sweep in the U.S. midterm elections.",
+      "u": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T09:59:56+00:00"
+    },
+    {
+      "h": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
+      "es": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
+      "d": "TV personality Jordyn Woods hopes children are in her future with husband Karl-Anthony Towns, but the newlywed is taking her time before starting that chapter.",
+      "u": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-92947732",
+      "published": "2026-11-04T09:58:00+00:00"
+    },
+    {
+      "h": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
+      "es": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
+      "d": "Novo Nordisk stock jumped higher on Wednesday as the Danish drugmaker lifted its guidance on strong uptake of its weight-loss drug pill that has been launched this year.",
+      "u": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-76640488",
+      "published": "2026-11-04T09:41:00+00:00"
+    },
+    {
+      "h": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+      "es": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+      "d": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
+      "u": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T08:56:45+00:00"
+    },
+    {
+      "h": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+      "es": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+      "d": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
+      "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T06:45:36+00:00"
+    },
+    {
+      "h": "Democrats win the House and Senate. Here’s what it means for your finances.",
+      "es": "Democrats win the House and Senate. Here’s what it means for your finances.",
+      "d": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
+      "u": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-45863123",
+      "published": "2026-11-04T06:27:00+00:00"
+    },
+    {
+      "h": "Leisure centre price hikes on the way",
+      "es": "Leisure centre price hikes on the way",
+      "d": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+      "u": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961c/live/00356720-d827-11f1-be97-417dbcdedd32.jpg",
+      "published": "2026-11-04T06:13:19+00:00"
+    },
+    {
+      "h": "McDonald's is about to report earnings. Here's what to expect",
+      "es": "McDonald's is about to report earnings. Here's what to expect",
+      "d": "McDonald's stock has fallen about 11% over the last year.",
+      "u": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T05:01:01+00:00"
+    },
     {
       "h": "Gift Nifty 50 surges overbought near Upper BB: Live levels",
       "es": "Gift Nifty 50 surges overbought near Upper BB: Live levels",
@@ -18,258 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
       "published": "2026-11-04T03:41:54+00:00"
-    },
-    {
-      "h": "Why is United Overseas Bank stock sliding today?",
-      "es": "Why is United Overseas Bank stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-united-overseas-bank-stock-sliding-today-93CH-4997220",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-11-04T03:41:51+00:00"
-    },
-    {
-      "h": "+72%, +40%: How two AI-picked drugmakers beat and raised in one week",
-      "es": "+72%, +40%: How two AI-picked drugmakers beat and raised in one week",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/72-40-how-two-aipicked-drugmakers-beat-and-raised-in-one-week-4997205",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "published": "2026-11-04T03:27:24+00:00"
-    },
-    {
-      "h": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
-      "es": "Exclusive-Ambani’s Jio explores tech-for-equity talks with Comcast and Charter, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveambanis-jio-explores-techforequity-talks-with-comcast-and-charter-sources-say-4996271",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21QZ_L.jpg",
-      "published": "2026-11-04T02:49:21+00:00"
-    },
-    {
-      "h": "AMD’s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-      "es": "AMD’s OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-4997141",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA305Q_L.jpg",
-      "published": "2026-11-04T02:48:41+00:00"
-    },
-    {
-      "h": "Goodman eyes 9% annual earnings growth as data center demand strengthens",
-      "es": "Goodman eyes 9% annual earnings growth as data center demand strengthens",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/goodman-eyes-9-annual-earnings-growth-as-data-center-demand-strengthens-4997143",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEC7M06Q_L.jpg",
-      "published": "2026-11-04T02:27:29+00:00"
-    },
-    {
-      "h": "+49.6% since March: our AI-picked chipmaker keeps climbing after last week’s rout",
-      "es": "+49.6% since March: our AI-picked chipmaker keeps climbing after last week’s rout",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/496-since-march-our-aipicked-chipmaker-keeps-climbing-after-last-weeks-rout-4997130",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "published": "2026-11-04T02:13:25+00:00"
-    },
-    {
-      "h": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "es": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "d": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-      "u": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T01:49:58+00:00"
-    },
-    {
-      "h": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "es": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "d": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-      "u": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
-      "published": "2026-11-04T01:36:06+00:00"
-    },
-    {
-      "h": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-      "es": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-      "d": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
-      "u": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-73944145",
-      "published": "2026-11-04T01:16:00+00:00"
-    },
-    {
-      "h": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-      "es": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-      "d": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-      "u": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-26661679",
-      "published": "2026-11-04T01:12:00+00:00"
-    },
-    {
-      "h": "Google responds to political backlash over removing search from schools that ban AI",
-      "es": "Google responds to political backlash over removing search from schools that ban AI",
-      "d": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
-      "u": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T01:07:01+00:00"
-    },
-    {
-      "h": "SK Hynix trapped in bear flag below Cloud resistance: Live",
-      "es": "SK Hynix trapped in bear flag below Cloud resistance: Live",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-11-04T01:05:15+00:00"
-    },
-    {
-      "h": "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
-      "es": "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-state-fund-to-sell-jsr-to-mitsui-chemicals-for-82-bln-reuters-93CH-4997047",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-04T00:58:10+00:00"
-    },
-    {
-      "h": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-      "es": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivejapan-fund-jic-plans-to-sell-jsr-to-mitsui-chemicals-sources-say-4997042",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA3022_L.jpg",
-      "published": "2026-11-04T00:55:19+00:00"
-    },
-    {
-      "h": "CVS tests breakup of retail, insurance businesses, source says",
-      "es": "CVS tests breakup of retail, insurance businesses, source says",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cvs-health-explores-splitting-retail-pharmacy-insurance-businesses-ft-reports-4996836",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21YQ_L.jpg",
-      "published": "2026-11-04T00:55:04+00:00"
-    },
-    {
-      "h": "CVS Health to split into two publicly traded companies by 2028, FT reports",
-      "es": "CVS Health to split into two publicly traded companies by 2028, FT reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-into-two-publicly-traded-companies-by-2028-ft-reports-4997046",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAT1N2_M.jpg",
-      "published": "2026-11-04T00:54:07+00:00"
-    },
-    {
-      "h": "U.S. stock futures steady with midterms in focus; AMD rallies on strong earnings",
-      "es": "U.S. stock futures steady with midterms in focus; AMD rallies on strong earnings",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-midterms-in-focus-amd-rallies-on-strong-earnings-4997029",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-      "published": "2026-11-04T00:36:43+00:00"
-    },
-    {
-      "h": "LATAM Airlines trims earnings outlook as fuel costs bite",
-      "es": "LATAM Airlines trims earnings outlook as fuel costs bite",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/latam-airlines-trims-earnings-outlook-as-fuel-costs-bite-4996504",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21V6_L.jpg",
-      "published": "2026-11-04T00:24:33+00:00"
-    },
-    {
-      "h": "3M to take $5.8 billion hit under PFAS personal injury settlement",
-      "es": "3M recibirá un golpe de 5.800 millones de dólares en virtud del acuerdo por lesiones personales de PFAS",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/3m-to-take-58-billion-hit-under-pfas-personal-injury-settlement-4996985",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA300E_L.jpg",
-      "published": "2026-11-04T00:13:18+00:00"
-    },
-    {
-      "h": "AbbVie expands Oxford R&D facility as part of £120 million-plus investment",
-      "es": "AbbVie amplía sus instalaciones de investigación y desarrollo en Oxford como parte de una inversión de más de £120 millones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/abbvie-expands-oxford-rd-facility-as-part-of-120-millionplus-investment-4996984",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA3007_L.jpg",
-      "published": "2026-11-04T00:12:44+00:00"
-    },
-    {
-      "h": "Canva announces major job cuts after 'our hardest year yet'",
-      "es": "Canva anuncia importantes recortes de empleo después de \"nuestro año más difícil hasta ahora\"",
-      "d": "La directora ejecutiva, Melanie Perkins, dice que más de 1.000 empleados perderán sus empleos o se les pedirá que cambien de roles.",
-      "u": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d51/live/dae95de0-d7dc-11f1-ac18-75727aac8238.jpg",
-      "published": "2026-11-04T00:09:35+00:00"
-    },
-    {
-      "h": "3M commits $7.35 bln over 9 years to settle PFAS foam injury claims",
-      "es": "3M compromete 7.350 millones de dólares durante 9 años para resolver reclamaciones por lesiones por espuma PFAS",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/3m-commits-735-bln-over-9-years-to-settle-pfas-foam-injury-claims-4996978",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEI0O0JP-ORUBS_L.jpg",
-      "published": "2026-11-04T00:08:05+00:00"
-    },
-    {
-      "h": "Exclusive-Tesla misled South Korean customers about automated-driving tech, consumer group alleges",
-      "es": "Exclusivo: Tesla engañó a los clientes surcoreanos sobre la tecnología de conducción automatizada, alega un grupo de consumidores",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivetesla-misled-south-korean-customers-about-automateddriving-tech-consumer-group-alleges-4996976",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA300B_L.jpg",
-      "published": "2026-11-04T00:06:44+00:00"
-    },
-    {
-      "h": "Graduates are managing AI - but are they learning much else?",
-      "es": "Los graduados manejan la IA, pero ¿están aprendiendo mucho más?",
-      "d": "Los graduados dedican más tiempo a gestionar la IA, pero ¿se están perdiendo otras experiencias laborales?",
-      "u": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
-      "published": "2026-11-04T00:04:35+00:00"
-    },
-    {
-      "h": "Poundland supplier 'will lose millions' if retailer collapses",
-      "es": "Proveedor de Poundland \"perderá millones\" si el minorista colapsa",
-      "d": "Uno de los proveedores de Poundland perderá millones si colapsa, mientras que otros proveedores han dicho que se hundirían.",
-      "u": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222a/live/3804e900-d7be-11f1-8a3d-5320e3fab176.jpg",
-      "published": "2026-11-04T00:03:17+00:00"
-    },
-    {
-      "h": "Berkshire-owned utility urges Oregon top court against ’mammoth’ wildfire class action",
-      "es": "La empresa de servicios públicos propiedad de Berkshire insta al tribunal superior de Oregón contra una demanda colectiva por incendios forestales \"enormes\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/berkshireowned-utilitys-wildfire-lawsuits-head-to-oregon-supreme-court-4994396",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA20WT_L.jpg",
-      "published": "2026-11-04T00:00:43+00:00"
-    },
-    {
-      "h": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-      "es": "Jim Cramer ve señales de vida en las acciones tecnológicas, pero no de los ganadores habituales",
-      "d": "Cramer dijo que un nuevo grupo de acciones tecnológicas podría estar emergiendo como líderes del mercado.",
-      "u": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-03T23:58:09+00:00"
-    },
-    {
-      "h": "Suncor Energy tops profit estimates on higher oil prices, margins",
-      "es": "Suncor Energy supera las estimaciones de beneficios gracias a los mayores precios y márgenes del petróleo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/suncor-energy-tops-profit-estimates-on-higher-oil-prices-margins-4996955",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA21YN_L.jpg",
-      "published": "2026-11-03T23:48:52+00:00"
     }
   ],
   "sources": [
