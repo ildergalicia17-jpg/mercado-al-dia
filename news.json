@@ -1,6 +1,213 @@
 {
-  "updated": "2026-11-04T12:36:26.197496+00:00",
+  "updated": "2026-11-04T13:49:36.875120+00:00",
   "news": [
+    {
+      "h": "Uber beats on revenue even as mobility and delivery units miss estimates",
+      "es": "Uber supera en ingresos incluso cuando las unidades de movilidad y entrega no cumplen con las estimaciones",
+      "d": "Uber reportó ingresos mejores de lo esperado, pero su unidad de movilidad enfrentó mayores costos de combustible en el extranjero y una menor oferta de conductores.",
+      "u": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T13:46:24+00:00"
+    },
+    {
+      "h": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+      "es": "Los estadounidenses han dicho 'NO A LA GUERRA', dice el presidente de Irán mientras los demócratas toman el Congreso",
+      "d": "Ghalibaf dijo que \"la conciencia o el costo de la vida, los estadounidenses dijeron NO A LA GUERRA, y respaldamos este mensaje\".",
+      "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:43:31+00:00"
+    },
+    {
+      "h": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
+      "es": "Las acciones de Tesla y SpaceX caen mientras el impulso político de Musk fracasa",
+      "d": "El multimillonario gastó cientos de millones de dólares en las elecciones estadounidenses. Ahora, los inversores están preocupados por las políticas menos favorables de los nuevos funcionarios demócratas.",
+      "u": "https://www.marketwatch.com/story/tesla-and-spacex-shares-slide-as-musks-political-push-falls-flat-c15d29a3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19999929",
+      "published": "2026-11-04T13:41:00+00:00"
+    },
+    {
+      "h": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+      "es": "Las empresas privadas agregaron 86.000 puestos de trabajo en octubre, ligeramente más de lo esperado, dice ADP",
+      "d": "El crecimiento del empleo en el sector privado se mantuvo estable en octubre, con ganancias repartidas entre todos los sectores",
+      "u": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:40:48+00:00"
+    },
+    {
+      "h": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.",
+      "es": "El Tesoro abre la puerta a cambios en la forma de financiar la creciente deuda estadounidense. Esto es lo que necesita saber.",
+      "d": "Algunos cambios potenciales que pueden tener lugar después de los próximos trimestres.",
+      "u": "https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-34892376",
+      "published": "2026-11-04T13:32:00+00:00"
+    },
+    {
+      "h": "ARRAY to buy Shoals in $1.32 billion all-stock deal",
+      "es": "ARRAY comprará Shoals en un acuerdo de acciones por valor de 1.320 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/array-to-buy-shoals-in-132-billion-allstock-deal-4999420",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31I0_L.jpg",
+      "published": "2026-11-04T13:31:02+00:00"
+    },
+    {
+      "h": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+      "es": "SpaceX firma un acuerdo con Qualcomm para proporcionar tecnología de red para el servicio móvil de EE. UU.",
+      "d": "SpaceX llegó a un acuerdo de varios años con Qualcomm para construir estaciones base para su red celular Starlink Mobile.",
+      "u": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:30:02+00:00"
+    },
+    {
+      "h": "ADP says businesses add 86,000 jobs in October. Labor market shows small signs of improvement.",
+      "es": "ADP dice que las empresas crearon 86.000 puestos de trabajo en octubre. El mercado laboral muestra pequeños signos de mejora.",
+      "d": "Más industrias están contratando, pero siguen siendo cautelosas",
+      "u": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-07221749",
+      "published": "2026-11-04T13:29:00+00:00"
+    },
+    {
+      "h": "Why is SolarEdge Technologies stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de SolarEdge Technologies hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-solaredge-technologies-stock-sliding-today-93CH-4999357",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SolarEdgeTechnologies_800x533_L_1651583730.jpg",
+      "published": "2026-11-04T13:25:26+00:00"
+    },
+    {
+      "h": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+      "es": "Las ganancias de McDonald's superan, pero el tráfico a sus restaurantes de EE.UU. cae",
+      "d": "McDonald's se ha inclinado por los descuentos para atraer a comensales preocupados por su presupuesto durante los últimos dos años.",
+      "u": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T13:24:47+00:00"
+    },
+    {
+      "h": "Cipher Mining sinks 17% as Texas election puts AI data-center expansion at risk",
+      "es": "Cipher Mining se hunde un 17% mientras las elecciones de Texas ponen en riesgo la expansión del centro de datos de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cipher-mining-sinks-17-as-texas-election-puts-ai-datacenter-expansion-at-risk-4999248",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL5P0XH_L.jpg",
+      "published": "2026-11-04T13:11:34+00:00"
+    },
+    {
+      "h": "Blackbaud’s AI fundraising agent sees gifts jump 70% as adoption grows",
+      "es": "El agente de recaudación de fondos de IA de Blackbaud ve que los obsequios aumentan un 70% a medida que crece la adopción",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/blackbauds-ai-fundraising-agent-sees-gifts-jump-70-as-adoption-grows-4999281",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM5L0PE_L.jpg",
+      "published": "2026-11-04T13:08:55+00:00"
+    },
+    {
+      "h": "CVS Health to split in two, separating pharmacy business from insurance",
+      "es": "CVS Health se dividirá en dos, separando el negocio farmacéutico del seguro",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA319T_L.jpg",
+      "published": "2026-11-04T13:07:05+00:00"
+    },
+    {
+      "h": "Analysis-AI shopping agents could threaten Amazon and Walmart’s ad business",
+      "es": "Análisis: los agentes de compras con IA podrían amenazar el negocio publicitario de Amazon y Walmart",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysisai-shopping-agents-could-threaten-amazon-and-walmarts-ad-business-4999246",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31GD_L.jpg",
+      "published": "2026-11-04T13:06:29+00:00"
+    },
+    {
+      "h": "Datadog’s stock extends steep declines in the wake of earnings",
+      "es": "Las acciones de Datadog extienden fuertes caídas tras las ganancias",
+      "d": "Datadog no superó las expectativas con su previsión de ingresos.",
+      "u": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-738814",
+      "published": "2026-11-04T13:03:00+00:00"
+    },
+    {
+      "h": "ProPicks AI November Investor Letter: Are AI valuations attractive again?",
+      "es": "Carta a los inversores de noviembre de ProPicks AI: ¿Las valoraciones de la IA vuelven a ser atractivas?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/propicks-ai-november-investor-letter-are-ai-valuations-attractive-again-4999216",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3S10Z_1200_L.jpg",
+      "published": "2026-11-04T13:02:39+00:00"
+    },
+    {
+      "h": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+      "es": "Las elecciones intermedias de Estados Unidos en imágenes: las amplias victorias de los demócratas reprimen a Trump",
+      "d": "Los demócratas obtuvieron amplias victorias en las elecciones de mitad de mandato de Estados Unidos el miércoles, desplazando escaños clave en el Congreso que estaban en manos de los republicanos.",
+      "u": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:02:32+00:00"
+    },
+    {
+      "h": "Soitec wins UBS upgrade as AI transceiver demand lifts growth prospects",
+      "es": "Soitec gana la actualización de UBS mientras la demanda de transceptores de IA aumenta las perspectivas de crecimiento",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/soitec-wins-ubs-upgrade-as-ai-transceiver-demand-lifts-growth-prospects-4999172",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-04T13:00:38+00:00"
+    },
+    {
+      "h": "US Democratic win unlikely to ease firms’ cost, tariff woes in near term, executives say",
+      "es": "Es poco probable que la victoria demócrata en EE.UU. alivie los costos y los problemas arancelarios de las empresas en el corto plazo, dicen los ejecutivos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-democratic-win-unlikely-to-ease-firms-cost-tariff-woes-in-near-term-executives-say-4999169",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31FQ_L.jpg",
+      "published": "2026-11-04T13:00:30+00:00"
+    },
+    {
+      "h": "China expands overseas mining stakes, tightening grip on critical minerals",
+      "es": "China amplía sus participaciones mineras en el extranjero y refuerza su control sobre minerales críticos",
+      "d": "Beijing está construyendo un sistema de agencias y vehículos respaldados por el Estado para poseer más metales de los que depende, manteniendo al mismo tiempo su ventaja en habilidades de procesamiento.",
+      "u": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T13:00:01+00:00"
+    },
+    {
+      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
+      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
+      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26708039",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "h": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
+      "es": "¿Cree que la Reserva Federal terminará después de dos subidas de tipos más? Cómo el informe de empleo del viernes puede desencadenar una importante revisión de los precios del mercado.",
+      "d": "Los datos de empleo inesperadamente positivos podrían afectar el número y el momento de futuras subidas de tipos",
+      "u": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-89534248",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "h": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+      "es": "Cinco conclusiones de las elecciones de mitad de período: los multimillonarios tecnológicos sufren mientras los demócratas derrotan a los republicanos",
+      "d": "El gasto de Elon Musk puede haberse convertido en un lastre, ya que los votantes en las encuestas a pie de urna expresaron su preocupación por la corrupción gubernamental y la creciente influencia de los multimillonarios.",
+      "u": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T12:51:00+00:00"
+    },
     {
       "h": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
       "es": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
@@ -18,6 +225,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31CV_L.jpg",
       "published": "2026-11-04T12:25:28+00:00"
+    },
+    {
+      "h": "Treasury yields fall after Democrats win House and Senate majorities",
+      "es": "Los rendimientos de los bonos del Tesoro caen después de que los demócratas obtengan mayorías en la Cámara y el Senado",
+      "d": "Los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores sopesaban las grandes victorias de los demócratas en las elecciones de mitad de período de Estados Unidos.",
+      "u": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T12:25:25+00:00"
     },
     {
       "h": "Flutter pauses share buybacks to focus on deleveraging, cost savings",
@@ -54,222 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31CF_L.jpg",
       "published": "2026-11-04T12:19:33+00:00"
-    },
-    {
-      "h": "BofA Names Top Picks in European IT Services as Most Raise Q3 Guidance",
-      "es": "BofA Names Top Picks in European IT Services as Most Raise Q3 Guidance",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bofa-names-top-picks-in-european-it-services-as-most-raise-q3-guidance-4998834",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK6P04S_L.jpg",
-      "published": "2026-11-04T12:16:27+00:00"
-    },
-    {
-      "h": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "es": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "d": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-54591206",
-      "published": "2026-11-04T12:16:00+00:00"
-    },
-    {
-      "h": "HP names Emma Walmsley as CEO",
-      "es": "HP names Emma Walmsley as CEO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hp-names-emma-walmsley-as-ceo-4998813",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31C0_L.jpg",
-      "published": "2026-11-04T12:12:24+00:00"
-    },
-    {
-      "h": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-      "es": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-      "d": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
-      "u": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T12:08:15+00:00"
-    },
-    {
-      "h": "McDonald’s US sales decline for first time in six quarters despite value push",
-      "es": "McDonald’s US sales decline for first time in six quarters despite value push",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mcdonalds-us-sales-decline-for-first-time-in-six-quarters-despite-value-push-4998780",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31BW_L.jpg",
-      "published": "2026-11-04T12:06:57+00:00"
-    },
-    {
-      "h": "Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps",
-      "es": "Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/premarket-movers-trump-media-ai-infrastructure-stocks-fall-amd-jumps-4998777",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published": "2026-11-04T12:05:43+00:00"
-    },
-    {
-      "h": "Why is LG Energy Solution stock rallying today?",
-      "es": "Why is LG Energy Solution stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-lg-energy-solution-stock-rallying-today-93CH-4998776",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0R0QY_M.jpg",
-      "published": "2026-11-04T12:05:09+00:00"
-    },
-    {
-      "h": "Uber’s profit forecast disappoints as driver shortages, Middle East conflict hurt",
-      "es": "Uber’s profit forecast disappoints as driver shortages, Middle East conflict hurt",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubers-profit-forecast-disappoints-as-driver-shortages-middle-east-conflict-hurt-4998735",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31BN_L.jpg",
-      "published": "2026-11-04T12:00:58+00:00"
-    },
-    {
-      "h": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
-      "es": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
-      "d": "Mortgage rates came down again last week, but mortgage demand from homebuyers continued to decline, as high home prices and inflation stretch affordability.",
-      "u": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T12:00:01+00:00"
-    },
-    {
-      "h": "Why is Plug Power stock surging today?",
-      "es": "Why is Plug Power stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-plug-power-stock-surging-today-93CH-4998700",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE0G0RZ_M.jpg",
-      "published": "2026-11-04T11:56:42+00:00"
-    },
-    {
-      "h": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
-      "es": "Uproar over missing 'pop' as Rice Krispies changes its recipe",
-      "d": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-      "u": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
-      "published": "2026-11-04T11:36:44+00:00"
-    },
-    {
-      "h": "CVS to split off drugstore business in major breakup of healthcare giant",
-      "es": "CVS to split off drugstore business in major breakup of healthcare giant",
-      "d": "The move would reverse the company's $78 billion acquisition of Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-      "u": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T11:35:53+00:00"
-    },
-    {
-      "h": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
-      "es": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
-      "d": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-      "u": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T11:35:52+00:00"
-    },
-    {
-      "h": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "es": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "d": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
-      "u": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T11:20:46+00:00"
-    },
-    {
-      "h": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-      "es": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-      "d": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
-      "u": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-17807267",
-      "published": "2026-11-04T11:10:00+00:00"
-    },
-    {
-      "h": "European shares jump to 2-month highs  following U.S. midterms; Novo surges",
-      "es": "European shares jump to 2-month highs  following U.S. midterms; Novo surges",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEEAD0HK_M.jpg",
-      "published": "2026-11-04T11:09:31+00:00"
-    },
-    {
-      "h": "Hemnet CEO Jonas Gustafsson to step down effective Thursday",
-      "es": "Hemnet CEO Jonas Gustafsson to step down effective Thursday",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hemnet-ceo-jonas-gustafsson-to-step-down-effective-thursday-93CH-4998347",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-11-04T11:09:31+00:00"
-    },
-    {
-      "h": "UBS starts bullish coverage on Ferrari Group on luxury logistics growth",
-      "es": "UBS starts bullish coverage on Ferrari Group on luxury logistics growth",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ubs-starts-bullish-coverage-on-ferrari-group-on-luxury-logistics-growth-4998345",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9B0RD_M.jpg",
-      "published": "2026-11-04T11:08:55+00:00"
-    },
-    {
-      "h": "Why is Vestas Wind stock surging today?",
-      "es": "Why is Vestas Wind stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-surging-today-93CH-4998335",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-11-04T11:07:29+00:00"
-    },
-    {
-      "h": "Why is Ørsted stock surging today?",
-      "es": "Why is Ørsted stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-surging-today-93CH-4998330",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-11-04T11:06:33+00:00"
-    },
-    {
-      "h": "Why is Nordex stock surging today?",
-      "es": "Why is Nordex stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nordex-stock-surging-today-93CH-4998328",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-11-04T11:06:20+00:00"
-    },
-    {
-      "h": "Exclusive-Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
-      "es": "Exclusive-Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivechinese-chipmaker-ymtc-puts-ipo-on-hold-as-weaker-markets-weigh-sources-say-4998287",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA3167_L.jpg",
-      "published": "2026-11-04T11:00:43+00:00"
-    },
-    {
-      "h": "AI sector outlook darkens as Democrat wins threaten $900B capex cycle",
-      "es": "AI sector outlook darkens as Democrat wins threaten $900B capex cycle",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ai-sector-outlook-darkens-as-democrat-wins-threaten-900b-capex-cycle-93CH-4998267",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg",
-      "published": "2026-11-04T10:57:16+00:00"
-    },
-    {
-      "h": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-      "es": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
-      "d": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
-      "u": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T10:54:53+00:00"
     }
   ],
   "sources": [
