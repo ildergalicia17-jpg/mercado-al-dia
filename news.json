@@ -1,6 +1,249 @@
 {
-  "updated": "2026-11-04T21:17:13.304199+00:00",
+  "updated": "2026-11-04T22:54:04.419168+00:00",
   "news": [
+    {
+      "h": "Needham names Carvana top pick, flags bullish catalysts for EV stocks",
+      "es": "Needham nombra a Carvana como la mejor opción y señala catalizadores alcistas para las acciones de vehículos eléctricos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/needham-names-carvana-top-pick-flags-bullish-catalysts-for-ev-stocks-5001758",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Carvana_800x533_L_1601887774.jpg",
+      "published": "2026-11-04T22:51:58+00:00"
+    },
+    {
+      "h": "Snap shares fall over 10% on third-quarter revenue miss",
+      "es": "Las acciones de Snap caen más del 10% por la pérdida de ingresos del tercer trimestre",
+      "d": "Snap pierde ingresos y usuarios activos diarios en las ganancias del tercer trimestre reportadas el miércoles.",
+      "u": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T22:47:32+00:00"
+    },
+    {
+      "h": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "es": "Análisis: Los demócratas tienen una oportunidad de obtener concesiones de Trump. Los mercados lo odiarán",
+      "d": "La próxima confrontación sobre el techo de la deuda podría revertir los roles políticos tradicionales de Washington, aumentando la posibilidad de concesiones de gasto, volatilidad del mercado y una moratoria dañina.",
+      "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T22:46:43+00:00"
+    },
+    {
+      "h": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "es": "Las acciones del S&P 500 con peor desempeño de este año finalmente están experimentando un gran alivio",
+      "d": "Las acciones de AppLovin están subiendo tras unos resultados de ganancias \"claramente positivos\".",
+      "u": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-833362",
+      "published": "2026-11-04T22:46:00+00:00"
+    },
+    {
+      "h": "Chip startup Tenspresso eyes $500M valuation - Bloomberg",
+      "es": "La startup de chips Tenspresso prevé una valoración de 500 millones de dólares - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-04T22:41:32+00:00"
+    },
+    {
+      "h": "Analysis-Trump’s midterm drubbing demonstrates the power of data center opponents",
+      "es": "Análisis: la derrota de Trump a mitad de mandato demuestra el poder de los oponentes de los centros de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysistrumps-midterm-drubbing-demonstrates-the-power-of-datacentre-opponents-4998061",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA311C_L.jpg",
+      "published": "2026-11-04T22:36:23+00:00"
+    },
+    {
+      "h": "AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say",
+      "es": "AstraZeneca hizo una oferta de 10.000 millones de dólares por el fabricante de medicamentos contra la obesidad Rhythm, dicen las fuentes",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-made-10-billion-offer-for-obesity-drugmaker-rhythm-sources-say-5001694",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA329V_L.jpg",
+      "published": "2026-11-04T22:24:26+00:00"
+    },
+    {
+      "h": "A massive trade just happened in a leading mortgage lender",
+      "es": "Acaba de ocurrir una transacción masiva en un prestamista hipotecario líder",
+      "d": "Los operadores de opciones realizan una serie de operaciones después de las elecciones",
+      "u": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T22:24:21+00:00"
+    },
+    {
+      "h": "Rheinmetall cuts 2026 sales forecast again as Boxer order slips",
+      "es": "Rheinmetall vuelve a recortar sus previsiones de ventas para 2026 a medida que disminuyen los pedidos de Boxer",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rheinmetall-cuts-2026-sales-forecast-again-as-boxer-order-slips-5001668",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32CY_L.jpg",
+      "published": "2026-11-04T22:18:39+00:00"
+    },
+    {
+      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
+      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
+      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26708039",
+      "published": "2026-11-04T22:15:00+00:00"
+    },
+    {
+      "h": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
+      "es": "Cramer: ¿Qué debe suceder para que Home Depot mantenga su repunte mensual del 25%?",
+      "d": "La pregunta ahora para los inversores pacientes de Home Depot como nosotros es si este es el punto de inflexión que estábamos esperando o simplemente otra mentira.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T22:13:45+00:00"
+    },
+    {
+      "h": "Coty tops estimates on prestige brands boost amid turnaround",
+      "es": "Coty encabeza las estimaciones sobre el impulso de las marcas de prestigio en medio de la recuperación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/coty-forecasts-soft-secondquarter-profit-as-higher-costs-clouds-turnaround-efforts-5001441",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32BI_L.jpg",
+      "published": "2026-11-04T22:12:37+00:00"
+    },
+    {
+      "h": "How do Americans feel about the midterm results? It depends on how much money they make.",
+      "es": "¿Cómo se sienten los estadounidenses acerca de los resultados de mitad de período? Depende de cuánto dinero ganen.",
+      "d": "La mayoría de los estadounidenses están “emocionados” o “felices” con los resultados de las elecciones de este año. Algunos lo son especialmente.",
+      "u": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39213717",
+      "published": "2026-11-04T22:06:00+00:00"
+    },
+    {
+      "h": "Qualcomm’s stock falls as twin forces pressure sales",
+      "es": "Las acciones de Qualcomm caen mientras fuerzas gemelas presionan las ventas",
+      "d": "Qualcomm enfrenta la pérdida del negocio de Apple y el impacto negativo de los altos costos de la memoria en la demanda general de teléfonos inteligentes.",
+      "u": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-775631",
+      "published": "2026-11-04T22:03:00+00:00"
+    },
+    {
+      "h": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+      "es": "Los mercados de predicción consolidan su estatus después de pronosticar la victoria demócrata en el Congreso.",
+      "d": "Los mercados de predicción proyectaron los resultados electorales mucho antes que los medios de comunicación en un esfuerzo por posicionarse como fuentes de noticias rápidas y confiables.",
+      "u": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T21:57:39+00:00"
+    },
+    {
+      "h": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+      "es": "Micron y otras acciones de chips caen a medida que los resultados electorales golpean el núcleo del optimismo de los centros de datos",
+      "d": "Las victorias demócratas en Texas y otros estados plantean interrogantes a largo plazo sobre el desarrollo de la IA, aunque no \"deshacen proyectos ya financiados\".",
+      "u": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-18553565",
+      "published": "2026-11-04T21:55:00+00:00"
+    },
+    {
+      "h": "These stocks soared the most today after the Democrats trounced Trump",
+      "es": "Estas acciones fueron las que más se dispararon hoy después de que los demócratas derrotaran a Trump.",
+      "d": "Las acciones de la empresa química Mosaic tienen el mejor desempeño entre el S&P 500, mientras que varios actores tecnológicos y proveedores de energía asociados muestran fuertes caídas.",
+      "u": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-86586473",
+      "published": "2026-11-04T21:55:00+00:00"
+    },
+    {
+      "h": "What Republicans' huge loss means for Trump",
+      "es": "Lo que significa para Trump la enorme pérdida de los republicanos",
+      "d": "El manejo de los aranceles por parte de Trump, la guerra de Irán y una serie de proyectos de construcción en el área de Washington seguramente enfrentarán un repentino rechazo por parte de los demócratas recientemente empoderados.",
+      "u": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T21:50:05+00:00"
+    },
+    {
+      "h": "After-Hours Movers: QCOM, COHR, APP, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE",
+      "es": "Empresas de mudanzas fuera de horario: QCOM, COHR, APP, HUBS, SNAP, FSLY, FIG, ZG, BROS, CDE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-qcom-cohr-app-hubs-snap-fsly-fig-zg-bros-cde-432SI-5001535",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB27088_M.jpg",
+      "published": "2026-11-04T21:50:02+00:00"
+    },
+    {
+      "h": "Every stock that moved because of the election",
+      "es": "Cada acción que se movió debido a las elecciones",
+      "d": "Algunas empresas sufrieron el golpe después de las elecciones, mientras que otras se recuperaron. Aquí están los nombres más importantes que harán movimientos el miércoles.",
+      "u": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T21:48:51+00:00"
+    },
+    {
+      "h": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
+      "es": "Las acciones de Figma caen porque los inversores temen que el impulso de la IA tenga un precio elevado",
+      "d": "Las inversiones de Figma en modelos y agentes de IA están impulsando el uso, pero el costo de ofrecer estas funciones está resultando elevado.",
+      "u": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-97979674",
+      "published": "2026-11-04T21:48:00+00:00"
+    },
+    {
+      "h": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "es": "Los millones de Elon Musk no lograron victorias republicanas en feroces elecciones intermedias",
+      "d": "Musk gastó casi 500 millones de dólares en las elecciones intermedias de Estados Unidos de 2026, un récord de gasto electoral individual.",
+      "u": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+      "published": "2026-11-04T21:41:15+00:00"
+    },
+    {
+      "h": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+      "es": "Figma se hunde después de que las ganancias superaran mientras la empresa prioriza el crecimiento a largo plazo con cambios en la IA",
+      "d": "Figma permite a los clientes utilizar más funciones de inteligencia artificial por el mismo precio. A la empresa le gustaría que esta medida impulse los resultados a largo plazo.",
+      "u": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T21:38:33+00:00"
+    },
+    {
+      "h": "Pound rises to its highest level since the Brexit referendum",
+      "es": "La libra sube a su nivel más alto desde el referéndum sobre el Brexit",
+      "d": "La libra alcanza su nivel más alto frente a una cesta de monedas desde el referéndum sobre el Brexit hace una década",
+      "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
+      "published": "2026-11-04T21:35:50+00:00"
+    },
+    {
+      "h": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
+      "es": "Microsoft y Amazon se combinaron para ver un aumento de capitalización de mercado de 424 mil millones de dólares, y estos factores muestran por qué",
+      "d": "Las acciones de Microsoft y Amazon subieron bruscamente el miércoles, y un gestor de cartera señaló que una crisis en el suministro de la nube podría ayudar a las empresas a subir los precios.",
+      "u": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-67905060",
+      "published": "2026-11-04T21:33:00+00:00"
+    },
+    {
+      "h": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+      "es": "¿Qué hubo realmente detrás de la monstruosa manifestación del miércoles? Trump rápidamente hace las paces",
+      "d": "El mercado de valores se disparó tras una barrida decisiva de los demócratas en las elecciones intermedias de 2026, un movimiento al que se sumó la reacción de Trump.",
+      "u": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-04T21:32:01+00:00"
+    },
+    {
+      "h": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+      "es": "“Es bueno ser viejo”: me han invitado a una docena de comidas gratuitas que se convierten en argumentos de venta de anualidades. ¿Debería dejar de ir?",
+      "d": "\"Los vendedores suelen promocionar anualidades, planes de Medicare y servicios de planificación patrimonial\".",
+      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54591206",
+      "published": "2026-11-04T21:30:00+00:00"
+    },
     {
       "h": "Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on smartphone sales",
       "es": "Las acciones de Qualcomm caen un 5% debido a un débil pronóstico de ganancias mientras la escasez de memoria pesa sobre las ventas de teléfonos inteligentes",
@@ -27,249 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32A8_L.jpg",
       "published": "2026-11-04T21:13:48+00:00"
-    },
-    {
-      "h": "Chime raises annual revenue forecast on robust demand",
-      "es": "Chime eleva la previsión de ingresos anuales ante la sólida demanda",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chime-raises-annual-revenue-forecast-on-robust-demand-5001269",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32A7_L.jpg",
-      "published": "2026-11-04T21:13:16+00:00"
-    },
-    {
-      "h": "Online travel firm Expedia raises annual forecasts on resilient demand",
-      "es": "La empresa de viajes online Expedia eleva sus previsiones anuales sobre la resiliencia de la demanda",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/online-travel-firm-expedia-raises-annual-forecasts-on-resilient-demand-5001268",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32AB_L.jpg",
-      "published": "2026-11-04T21:13:02+00:00"
-    },
-    {
-      "h": "Qualcomm’s smartphone chip sales miss estimates, shares fall",
-      "es": "Las ventas de chips para teléfonos inteligentes de Qualcomm no cumplen con las estimaciones y las acciones caen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qualcomm-forecasts-upbeat-sales-on-strength-in-nonsmartphone-segments-5001228",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32A1_L.jpg",
-      "published": "2026-11-04T21:12:46+00:00"
-    },
-    {
-      "h": "Arm beats second-quarter revenue estimates on AI and data-center demand",
-      "es": "Arm supera las estimaciones de ingresos del segundo trimestre en IA y demanda de centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/arm-beats-secondquarter-revenue-estimates-on-ai-and-datacenter-demand-5001267",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32A5_L.jpg",
-      "published": "2026-11-04T21:12:29+00:00"
-    },
-    {
-      "h": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
-      "es": "Los multimillonarios no están libres de impuestos más altos, incluso si eludieron el impuesto a la riqueza de California",
-      "d": "Silicon Valley gastó mucho para eliminar el impuesto a la riqueza de California, pero los demócratas entrantes están considerando una lucha nacional.",
-      "u": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00585998",
-      "published": "2026-11-04T21:10:00+00:00"
-    },
-    {
-      "h": "Qualcomm falls 3% as handset revenue misses estimates, costs rise",
-      "es": "Qualcomm cae un 3% debido a que los ingresos de los teléfonos no cumplen con las estimaciones y los costos aumentan",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qualcomm-falls-3-as-handset-revenue-misses-estimates-costs-rise-5001230",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
-      "published": "2026-11-04T21:09:19+00:00"
-    },
-    {
-      "h": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-      "es": "Duende. Belleza registra un aumento de ventas del 51 % y eleva las previsiones para todo el año",
-      "d": "Duende. Beauty publicó el miércoles resultados trimestrales mejores de lo esperado, ya que la compañía continúa experimentando un crecimiento amplio en toda su cartera.",
-      "u": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T21:06:02+00:00"
-    },
-    {
-      "h": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-      "es": "CVS Health planea dividirse en dos. Esto es lo que está impulsando la ruptura masiva de la atención sanitaria.",
-      "d": "El gigante sanitario sorprendió a los analistas con la decisión de separar su negocio. Sus acciones cayeron.",
-      "u": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-24813713",
-      "published": "2026-11-04T21:06:00+00:00"
-    },
-    {
-      "h": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-      "es": "Las ventas de Wayfair aumentan un 10% a medida que el minorista de muebles dice que está ganando participación en un mercado lento",
-      "d": "Wayfair dijo que sus ventas aumentaron un 10% en el tercer trimestre, ya que el minorista registró su trimestre más sólido desde la pandemia.",
-      "u": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T21:04:47+00:00"
-    },
-    {
-      "h": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "es": "CVS dividirá el negocio de farmacias en una importante desintegración del gigante de la salud; las acciones caen un 10%",
-      "d": "La medida revertiría la adquisición de Aetna por 78 mil millones de dólares por parte de la compañía y desmantelaría el conglomerado de atención médica verticalmente integrado que creó en 2018.",
-      "u": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T21:04:13+00:00"
-    },
-    {
-      "h": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-      "es": "Las acciones de McDonald's suben a medida que las ganancias superan, los restaurantes de EE. UU. muestran una mejora",
-      "d": "McDonald's se ha inclinado por los descuentos para atraer a comensales preocupados por su presupuesto durante los últimos dos años.",
-      "u": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T21:02:53+00:00"
-    },
-    {
-      "h": "Two dead after incident at Citigroup’s complex in Florida",
-      "es": "Dos muertos tras incidente en el complejo de Citigroup en Florida",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/two-dead-after-incident-at-citigroups-complex-in-florida-5001201",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB2A045_M.jpg",
-      "published": "2026-11-04T21:00:10+00:00"
-    },
-    {
-      "h": "Why is Duolingo stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Duolingo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-duolingo-stock-surging-today-93CH-5001190",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-04T20:56:08+00:00"
-    },
-    {
-      "h": "Why is UroGen Pharma stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de UroGen Pharma hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-urogen-pharma-stock-sliding-today-93CH-5001189",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/UroGenPharma_800x533_L_1637103499.jpg",
-      "published": "2026-11-04T20:55:43+00:00"
-    },
-    {
-      "h": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
-      "es": "Los demócratas trazan una agenda para abordar la asequibilidad y la corrupción después de la barrida de mitad de período",
-      "d": "Los demócratas, que controlan el Congreso, se están preparando para impulsar una legislación que aborde la asequibilidad, al tiempo que intentan controlar al presidente Donald Trump.",
-      "u": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T20:53:19+00:00"
-    },
-    {
-      "h": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-      "es": "La gran victoria electoral de los demócratas revive una difícil cuestión de la Seguridad Social: ¿quién paga?",
-      "d": "Hay muchas ideas para salvar el Seguro Social. Todos ellos dolerán.",
-      "u": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-68489722",
-      "published": "2026-11-04T20:47:00+00:00"
-    },
-    {
-      "h": "McDonald’s tests new value menu as fast-food discount wars heat up",
-      "es": "McDonald's prueba un nuevo menú económico a medida que se intensifica la guerra de descuentos en comida rápida",
-      "d": "La cadena de hamburguesas está renovando su menú y buscando ofrecer una \"propuesta de valor clara y convincente\".",
-      "u": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-43181481",
-      "published": "2026-11-04T20:41:00+00:00"
-    },
-    {
-      "h": "Wall Street veteran says setup in these stock charts among the most unbelievable he’s seen, as Big Tech sways market",
-      "es": "El veterano de Wall Street dice que la configuración en estos gráficos de acciones es una de las más increíbles que ha visto, mientras las grandes tecnologías influyen en el mercado.",
-      "d": "Una divergencia histórica ha dividido al mercado de valores estadounidense: el índice de referencia S&P 500 ha caído en territorio de profundamente sobrevendido, aun cuando casi la mitad de las acciones que lo componen seguían decididamente sobrecompradas.",
-      "u": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-10354058",
-      "published": "2026-11-04T20:41:00+00:00"
-    },
-    {
-      "h": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
-      "es": "Los precios del petróleo están en caída libre ahora que la barrida demócrata está “reescribiendo el manual de Irán”",
-      "d": "El petróleo cayó el miércoles, lo que puso los precios en camino de su mayor caída en una semana desde 2020.",
-      "u": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-80410311",
-      "published": "2026-11-04T20:28:00+00:00"
-    },
-    {
-      "h": "The midterm election results are redrawing the map for AI data centers",
-      "es": "Los resultados de las elecciones intermedias están rediseñando el mapa de los centros de datos de IA",
-      "d": "El gasto en centros de datos de EE. UU. no disminuirá mucho, pero hay que estar atentos a retrasos, reubicaciones y mayores gastos para proyectos individuales.",
-      "u": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-05214932",
-      "published": "2026-11-04T20:21:00+00:00"
-    },
-    {
-      "h": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-      "es": "Mientras Vistra y otras acciones energéticas caen, algunos analistas advierten sobre una reacción “excesiva instintiva”",
-      "d": "Las acciones de energía ya han estado bajo presión, y los funcionarios recién elegidos tal vez no desaceleren el auge de los centros de datos tanto como se temía.",
-      "u": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25003167",
-      "published": "2026-11-04T20:17:00+00:00"
-    },
-    {
-      "h": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
-      "es": "Por qué estamos eliminando a CVS de nuestra lista de vigilancia de Bullpen. Además, el CEO de Intel toma postura",
-      "d": "Todos los días de la semana, el Investing Club publica el Homestretch; una actualización útil por la tarde justo a tiempo para la última hora de negociación.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T20:05:55+00:00"
-    },
-    {
-      "h": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
-      "es": "CVS Health planea dividirse. He aquí por qué una ruptura podría tener sentido ahora",
-      "d": "Los analistas dicen que después de un cambio de aproximadamente dos años, el negocio de farmacia minorista de la compañía y otras unidades pueden ser lo suficientemente fuertes como para valerse por sí solos.",
-      "u": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T19:58:41+00:00"
-    },
-    {
-      "h": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-      "es": "El nuevo CEO de Flutter apuesta por las promociones de FanDuel para ganar clientes a medida que las ganancias se ven afectadas",
-      "d": "El nuevo director ejecutivo de Flutter, Dan Taylor, emitió su primer informe de ganancias como director ejecutivo el miércoles.",
-      "u": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T19:53:32+00:00"
-    },
-    {
-      "h": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "es": "Los votantes rechazan los centros de datos en todas las medidas electorales excepto una durante las elecciones intermedias de 2026.",
-      "d": "Los votantes en los estados en el corazón del auge de los centros de datos de IA rechazaron la construcción la noche de las elecciones.",
-      "u": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T19:51:18+00:00"
-    },
-    {
-      "h": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "es": "Kellogg's admite que el chasquido, el crujido y el pop son más silenciosos después del revuelo por el cambio de receta de Rice Krispies",
-      "d": "El gigante de los cereales cambió las recetas de Rice Krispies y Coco Pops, lo que provocó una reacción violenta en línea.",
-      "u": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
-      "published": "2026-11-04T19:38:53+00:00"
-    },
-    {
-      "h": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-      "es": "Los hiperescaladores y Apple aumentan después de que los resultados electorales eliminan la incertidumbre de los inversores",
-      "d": "Las acciones de Apple, Amazon, Google, Meta y Microsoft subieron después de las elecciones intermedias, mientras que las acciones vinculadas al asesor de Trump, Elon Musk, y a los centros de datos cayeron el miércoles.",
-      "u": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T19:37:43+00:00"
     }
   ],
   "sources": [
