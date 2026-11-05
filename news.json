@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-05T03:29:09.290383+00:00",
+  "updated": "2026-11-05T04:31:46.473569+00:00",
   "news": [
+    {
+      "h": "Pound rises to its highest level since the Brexit referendum",
+      "es": "La libra sube a su nivel más alto desde el referéndum sobre el Brexit",
+      "d": "La libra alcanza su nivel más alto frente a una cesta de monedas desde el referéndum sobre el Brexit hace una década",
+      "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
+      "published": "2026-11-05T04:21:35+00:00"
+    },
+    {
+      "h": "Gift Nifty 50 parabolic surge hits RSI 80: Live levels",
+      "es": "El aumento parabólico de Gift Nifty 50 alcanza el RSI 80: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/gift-nifty-50-vbottom-rally-hits-overbought-zone-live-levels-93CH-4990309",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-05T04:02:14+00:00"
+    },
+    {
+      "h": "Japan’s large-cap exporters: Will the U.S. midterm sweep bring tariff relief?",
+      "es": "Exportadores de gran capitalización de Japón: ¿Traerá alivio arancelario la ofensiva de mediano plazo de Estados Unidos?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japans-largecap-exporters-will-the-us-midterm-sweep-bring-tariff-relief-93CH-5002135",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBR09M_M.jpg",
+      "published": "2026-11-05T03:59:06+00:00"
+    },
+    {
+      "h": "Asia stocks mixed as chip rout triggers KOSPI trading halt; China outperforms",
+      "es": "Las acciones de Asia se mezclaron porque la caída de los chips provocó la suspensión del comercio de KOSPI; China supera",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-chip-rout-triggers-kospi-trading-halt-china-outperforms-5002134",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA9Q076_M.jpg",
+      "published": "2026-11-05T03:54:42+00:00"
+    },
+    {
+      "h": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "es": "Dentro de la guerra de talentos por chips: secretos comerciales y rivales chinos en ascenso",
+      "d": "La creciente competencia por el talento en semiconductores está alimentando una batalla por los secretos comerciales a medida que los fabricantes de chips chinos ganan terreno.",
+      "u": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T03:53:18+00:00"
+    },
+    {
+      "h": "Why is SoftBank stock sliding today?",
+      "es": "¿Por qué las acciones de SoftBank están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-5002133",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-05T03:47:46+00:00"
+    },
+    {
+      "h": "Why is Sino Biopharmaceutical stock surging today?",
+      "es": "¿Por qué están aumentando las acciones de Sino Biopharmaceutical hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sino-biopharmaceutical-stock-surging-today-93CH-5002132",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-05T03:47:42+00:00"
+    },
+    {
+      "h": "Why is Tencent stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Tencent hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-tencent-stock-surging-today-93CH-5002131",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE0N05O_M.jpg",
+      "published": "2026-11-05T03:47:40+00:00"
+    },
+    {
+      "h": "What does the Democratic midterm sweep mean for Softbank’s U.S. data center plans?",
+      "es": "¿Qué significa la barrida demócrata de mitad de mandato para los planes de centros de datos de Softbank en Estados Unidos?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/what-does-the-democratic-midterm-sweep-mean-for-softbanks-us-data-center-plans-93CH-5002120",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7S0AB_M.jpg",
+      "published": "2026-11-05T03:38:43+00:00"
+    },
+    {
+      "h": "Why is SK Hynix stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de SK Hynix hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-5002108",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-05T03:22:20+00:00"
+    },
+    {
+      "h": "Softbank’s $5.4 bln takeover of ABB robotics unit blocked by China- FT",
+      "es": "China bloquea la adquisición de la unidad de robótica ABB por parte de Softbank por 5.400 millones de dólares: FT",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/softbanks-54-bln-takeover-of-abb-robotics-unit-blocked-by-china-ft-5002105",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBA30AJ_M.jpg",
+      "published": "2026-11-05T03:15:51+00:00"
+    },
     {
       "h": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
       "es": "LIV Golf se enfrenta a la liquidación después de que BC Partners desechara el plan de rescate",
@@ -171,105 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5e/live/f37ce860-d8ac-11f1-8b97-dd854ec90424.jpg",
       "published": "2026-11-05T00:59:22+00:00"
-    },
-    {
-      "h": "Why is Goodman stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Goodman hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-goodman-stock-surging-today-93CH-5001927",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-11-05T00:49:04+00:00"
-    },
-    {
-      "h": "Why is National Australia Bank stock tumbling today?",
-      "es": "¿Por qué están cayendo las acciones del National Australia Bank hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-national-australia-bank-stock-tumbling-today-93CH-5001926",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-05T00:49:01+00:00"
-    },
-    {
-      "h": "Why is NextDC stock surging today?",
-      "es": "¿Por qué las acciones de NextDC están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nextdc-stock-surging-today-93CH-5001925",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-05T00:48:58+00:00"
-    },
-    {
-      "h": "U.S. stock index futures steady after midterms rally",
-      "es": "Los futuros de los índices bursátiles estadounidenses se mantienen estables tras el repunte de mitad de período",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-steady-after-midterms-rally-5001919",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-      "published": "2026-11-05T00:41:39+00:00"
-    },
-    {
-      "h": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-      "es": "Mientras Vistra y otras acciones energéticas caen, algunos analistas advierten sobre una reacción “excesiva instintiva”",
-      "d": "Las acciones de energía ya han estado bajo presión, y los funcionarios recién elegidos tal vez no desaceleren el auge de los centros de datos tanto como se temía.",
-      "u": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-25003167",
-      "published": "2026-11-05T00:38:00+00:00"
-    },
-    {
-      "h": "Elon Musk’s business empire braces for Democratic wave as Texas flips blue",
-      "es": "El imperio empresarial de Elon Musk se prepara para la ola demócrata mientras Texas se vuelve azul",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue-4998814",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31CF_L.jpg",
-      "published": "2026-11-05T00:36:42+00:00"
-    },
-    {
-      "h": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
-      "es": "Las acciones de NextDC suben un 43% después de las compras de participaciones de Goodman y Digital Realty",
-      "d": "Las acciones de NextDC subieron más del 40% el jueves por la mañana después de que Goodman Group y Digital Realty intentaran adquirir hasta una participación del 9,9%.",
-      "u": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T00:24:57+00:00"
-    },
-    {
-      "h": "Australian retailer David Jones enters administration and faces sale, media reports",
-      "es": "El minorista australiano David Jones entra en administración y se enfrenta a la venta, informan los medios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA4012_L.jpg",
-      "published": "2026-11-05T00:24:25+00:00"
-    },
-    {
-      "h": "Snap shares fall over 10% on third-quarter revenue miss",
-      "es": "Las acciones de Snap caen más del 10% por la pérdida de ingresos del tercer trimestre",
-      "d": "Snap pierde ingresos y usuarios activos diarios en las ganancias del tercer trimestre reportadas el miércoles.",
-      "u": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T00:14:47+00:00"
-    },
-    {
-      "h": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
-      "es": "Boletín informativo Inside India: India evalúa un recorte de impuestos para ganarse a los inversores extranjeros. ¿Funcionará?",
-      "d": "Los inversores extranjeros están perdiendo el apetito por las acciones indias, y sus tenencias alcanzan un mínimo histórico del 14%.",
-      "u": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T00:04:36+00:00"
-    },
-    {
-      "h": "Interest rates expected to rise for first time in over three years",
-      "es": "Se espera que las tasas de interés suban por primera vez en más de tres años",
-      "d": "La mayoría de los analistas predicen un aumento del 3,75% al ​​4%, el primer aumento en más de tres años.",
-      "u": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-      "published": "2026-11-05T00:00:09+00:00"
     }
   ],
   "sources": [
