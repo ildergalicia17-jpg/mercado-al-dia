@@ -1,6 +1,114 @@
 {
-  "updated": "2026-11-05T07:55:55.876575+00:00",
+  "updated": "2026-11-05T08:52:55.191906+00:00",
   "news": [
+    {
+      "h": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.96%",
+      "es": "Las bolsas de Indonesia cierran al alza; El índice compuesto IDX sube un 1,96%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-196-5002587",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/IndonesiaStockExchange_800x533_L_1743078273.jpg",
+      "published": "2026-11-05T08:30:03+00:00"
+    },
+    {
+      "h": "FTSE 100 touches 3-month high as bank rally preceding BoE rate decision",
+      "es": "El FTSE 100 alcanza un máximo de tres meses mientras el repunte bancario precede a la decisión sobre los tipos del BoE",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-touches-3month-high-as-bank-rally-preceding-boe-rate-decision-5002567",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
+      "published": "2026-11-05T08:27:05+00:00"
+    },
+    {
+      "h": "Ambu shares jump 6% on strong Q4 growth, upbeat guidance",
+      "es": "Las acciones de Ambu suben un 6% gracias al fuerte crecimiento del cuarto trimestre y a las previsiones optimistas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ambu-shares-jump-6-on-strong-q4-growth-upbeat-guidance-93CH-5002566",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published": "2026-11-05T08:26:34+00:00"
+    },
+    {
+      "h": "Why is AP Moeller - Maersk stock tumbling today?",
+      "es": "¿Por qué están cayendo hoy las acciones de AP Moeller - Maersk?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ap-moeller--maersk-stock-tumbling-today-93CH-5002565",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-11-05T08:26:21+00:00"
+    },
+    {
+      "h": "Why is Harbour Energy stock sliding today?",
+      "es": "¿Por qué las acciones de Harbour Energy están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-harbour-energy-stock-sliding-today-93CH-5002564",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg",
+      "published": "2026-11-05T08:25:44+00:00"
+    },
+    {
+      "h": "Why is Ørsted stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Ørsted hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-climbing-today-93CH-5002563",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-11-05T08:25:22+00:00"
+    },
+    {
+      "h": "Rheinmetall shares slide as investors question growth outlook after second guidance cut",
+      "es": "Las acciones de Rheinmetall caen mientras los inversores cuestionan las perspectivas de crecimiento tras el segundo recorte de orientación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rheinmetall-cuts-2026-sales-forecast-again-as-boxer-order-slips-5001668",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32CY_L.jpg",
+      "published": "2026-11-05T08:24:24+00:00"
+    },
+    {
+      "h": "Why is ASOS stock rallying today?",
+      "es": "¿Por qué las acciones de ASOS están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-asos-stock-rallying-today-93CH-5002562",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-11-05T08:23:20+00:00"
+    },
+    {
+      "h": "Why is Helios Towers stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Helios Towers hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-helios-towers-stock-rallying-today-93CH-5002553",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-05T08:20:53+00:00"
+    },
+    {
+      "h": "Why is Diageo stock rallying today?",
+      "es": "¿Por qué están subiendo las acciones de Diageo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-diageo-stock-rallying-today-93CH-5002551",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-05T08:20:20+00:00"
+    },
+    {
+      "h": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+      "es": "Dow logra su mejor día en 18 meses en una amplia manifestación de alivio después de que los demócratas llegaron al poder en el Congreso",
+      "d": "Las acciones subieron, los precios del petróleo se desplomaron y los rendimientos de los bonos cayeron el miércoles debido al optimismo en torno a un final más rápido de la guerra con Irán ahora que los demócratas se han asegurado el control del Congreso.",
+      "u": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-77819724",
+      "published": "2026-11-05T08:13:00+00:00"
+    },
+    {
+      "h": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+      "es": "De tanques a drones: las empresas de defensa de Corea del Sur afrontan una nueva prueba en el campo de batalla",
+      "d": "Las acciones de defensa de Corea del Sur sufrieron una ola de rearme global durante los últimos dos años, pero se desplomaron en 2026.",
+      "u": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T08:07:43+00:00"
+    },
     {
       "h": "German defense giant Rheinmetall cuts outlook for second time in months as military contracts stall",
       "es": "German defense giant Rheinmetall cuts outlook for second time in months as military contracts stall",
@@ -162,114 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b15/live/e6b7f340-d6d1-11f1-b2be-0146bf989691.jpg",
       "published": "2026-11-05T05:56:46+00:00"
-    },
-    {
-      "h": "Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report",
-      "es": "Microsoft rechaza la expansión de Nscale Texas antes de su oferta pública inicial de 35 mil millones de dólares: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-declines-nscale-texas-expansion-ahead-of-35-bln-ipo--report-5002260",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6L0A8_M.jpg",
-      "published": "2026-11-05T05:55:24+00:00"
-    },
-    {
-      "h": "Why is CNOOC stock falling today?",
-      "es": "¿Por qué están cayendo las acciones de CNOOC hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-cnooc-stock-falling-today-93CH-5002236",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE3H0PA_M.jpg",
-      "published": "2026-11-05T05:40:50+00:00"
-    },
-    {
-      "h": "AutoStore raises 2026 revenue forecast after third-quarter sales jump",
-      "es": "AutoStore eleva la previsión de ingresos para 2026 tras el aumento de las ventas en el tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/autostore-raises-2026-revenue-forecast-after-thirdquarter-sales-jump-93CH-5002229",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-11-05T05:33:55+00:00"
-    },
-    {
-      "h": "Russia, China may be more aggressive if they feel Trump is on \"his way out\": Brookings",
-      "es": "Rusia y China pueden ser más agresivas si sienten que Trump está \"a punto de salir\": Brookings",
-      "d": "Rusia y China pueden ser más agresivos si sienten que el presidente estadounidense Donald Trump está \"a punto de salir\" después de que el Partido Demócrata cambiara las elecciones intermedias.",
-      "u": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T05:30:27+00:00"
-    },
-    {
-      "h": "Australia stocks higher at close of trade; S&P/ASX 200 up 2.61%",
-      "es": "Las bolsas de Australia cierran al alza; El S&P/ASX 200 sube un 2,61%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-261-5002222",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEG1N006-OCABS_L.jpg",
-      "published": "2026-11-05T05:30:03+00:00"
-    },
-    {
-      "h": "Toyota posts first profit rise in six quarters, lifts annual outlook",
-      "es": "Toyota registra primer aumento de ganancias en seis trimestres y mejora las perspectivas anuales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/toyota-profit-surges-34-first-rise-in-six-quarters-5002210",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA40B3_L.jpg",
-      "published": "2026-11-05T05:12:19+00:00"
-    },
-    {
-      "h": "SK Hynix bear flag breaks down below all MAs: Live levels",
-      "es": "La bandera bajista de SK Hynix se desmorona por debajo de todas las MA: niveles en vivo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-cloud-resistance-bear-flag-live-levels-93CH-4989796",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-11-05T05:05:36+00:00"
-    },
-    {
-      "h": "Why is REA stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de REA hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rea-stock-surging-today-93CH-5002184",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-11-05T04:40:05+00:00"
-    },
-    {
-      "h": "Why is PetroChina stock falling today?",
-      "es": "¿Por qué están cayendo las acciones de PetroChina hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-petrochina-stock-falling-today-93CH-5002183",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAI13Z_M.jpg",
-      "published": "2026-11-05T04:36:09+00:00"
-    },
-    {
-      "h": "REA Group shares rally on strong Q1 revenue",
-      "es": "Las acciones del Grupo REA suben gracias a los sólidos ingresos del primer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rea-group-shares-rally-on-strong-q1-revenue-5002175",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDA104M_M.jpg",
-      "published": "2026-11-05T04:22:37+00:00"
-    },
-    {
-      "h": "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
-      "es": "Las acciones asiáticas de chips caen mientras pesan las decepcionantes ganancias de Qualcomm y Arm",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-slide-as-disappointing-qualcomm-arm-earnings-weigh-5002173",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEMA21PI_L.jpg",
-      "published": "2026-11-05T04:21:37+00:00"
-    },
-    {
-      "h": "Pound rises to its highest level since the Brexit referendum",
-      "es": "La libra sube a su nivel más alto desde el referéndum sobre el Brexit",
-      "d": "La libra alcanza su nivel más alto frente a una cesta de monedas desde el referéndum sobre el Brexit hace una década",
-      "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
-      "published": "2026-11-05T04:21:35+00:00"
     }
   ],
   "sources": [
