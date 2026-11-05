@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-05T02:35:43.163877+00:00",
+  "updated": "2026-11-05T03:29:09.290383+00:00",
   "news": [
+    {
+      "h": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+      "es": "LIV Golf se enfrenta a la liquidación después de que BC Partners desechara el plan de rescate",
+      "d": "LIV Golf se enfrenta a la liquidación después de que BC Partners abandonara un plan de rescate propuesto de 300 millones de dólares en medio de compromisos insuficientes de los jugadores.",
+      "u": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T03:11:58+00:00"
+    },
+    {
+      "h": "Up 37% since March - this AI-picked IT services stock keeps climbing",
+      "es": "Hasta un 37% desde marzo: este stock de servicios de TI seleccionado por IA sigue subiendo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/up-37-since-march--this-aipicked-it-services-stock-keeps-climbing-5002093",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
+      "published": "2026-11-05T03:04:52+00:00"
+    },
+    {
+      "h": "Why is Samsung Electronics stock plunging today?",
+      "es": "¿Por qué se están desplomando las acciones de Samsung Electronics hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5002078",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-05T02:56:03+00:00"
+    },
+    {
+      "h": "Japan services PMI grows for fifth straight month in October",
+      "es": "El PMI de servicios de Japón crece por quinto mes consecutivo en octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-services-pmi-grows-for-fifth-straight-month-in-october-93CH-5002077",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-05T02:55:59+00:00"
+    },
+    {
+      "h": "Up to 170% returns, up to 55% off: Invest in your edge this Early Black Friday",
+      "es": "Hasta un 170 % de rentabilidad, hasta un 55 % de descuento: invierta con ventaja este Black Friday anticipado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/up-to-170-returns-up-to-55-off-invest-in-your-edge-this-early-black-friday-5002073",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
+      "published": "2026-11-05T02:53:22+00:00"
+    },
+    {
+      "h": "Why is DBS stock falling today?",
+      "es": "¿Por qué están cayendo las acciones de DBS hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-dbs-stock-falling-today-93CH-5002038",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-05T02:16:21+00:00"
+    },
     {
       "h": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
       "es": "OpenAI, lista para salir a bolsa en 2027, ahora representa la mayoría de las ventas de las empresas, dice Brockman",
@@ -81,6 +135,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
       "published": "2026-11-05T01:05:23+00:00"
+    },
+    {
+      "h": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "es": "Las acciones del S&P 500 con peor desempeño de este año finalmente están experimentando un gran alivio",
+      "d": "Las acciones de AppLovin están subiendo tras unos resultados de ganancias \"claramente positivos\".",
+      "u": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-833362",
+      "published": "2026-11-05T01:05:00+00:00"
     },
     {
       "h": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
@@ -182,6 +245,15 @@
       "published": "2026-11-05T00:24:25+00:00"
     },
     {
+      "h": "Snap shares fall over 10% on third-quarter revenue miss",
+      "es": "Las acciones de Snap caen más del 10% por la pérdida de ingresos del tercer trimestre",
+      "d": "Snap pierde ingresos y usuarios activos diarios en las ganancias del tercer trimestre reportadas el miércoles.",
+      "u": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T00:14:47+00:00"
+    },
+    {
       "h": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
       "es": "Boletín informativo Inside India: India evalúa un recorte de impuestos para ganarse a los inversores extranjeros. ¿Funcionará?",
       "d": "Los inversores extranjeros están perdiendo el apetito por las acciones indias, y sus tenencias alcanzan un mínimo histórico del 14%.",
@@ -198,78 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
       "published": "2026-11-05T00:00:09+00:00"
-    },
-    {
-      "h": "Jim Cramer says this fast food giant has more room to run",
-      "es": "Jim Cramer dice que este gigante de la comida rápida tiene más espacio para funcionar",
-      "d": "Jim Cramer, de CNBC, dijo que el cambio de McDonald's está ganando terreno.",
-      "u": "https://www.cnbc.com/2026/11/04/cramer-mcdonalds-q3-2026-turnaround.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T23:50:46+00:00"
-    },
-    {
-      "h": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "es": "“Mi vida podría verse truncada”: tengo 55 años, estoy casado, tengo 4,3 millones de dólares y tengo un tumor cerebral. ¿Debería comprar un Porsche personalizado de 210.000 dólares?",
-      "d": "\"También quiero preservar la oportunidad de dejar un legado significativo a mis dos hijos\".",
-      "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49119290",
-      "published": "2026-11-04T23:45:00+00:00"
-    },
-    {
-      "h": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-      "es": "Los demócratas cambian decenas de escaños del Partido Republicano. Los republicanos no han derrotado ni uno solo",
-      "d": "Los demócratas han ganado siete escaños en el Senado, casi 30 distritos de la Cámara, cinco gobernaciones y hasta 12 cámaras legislativas estatales en una derrota histórica a mitad de mandato en 2026.",
-      "u": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T23:44:18+00:00"
-    },
-    {
-      "h": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-      "es": "Las acciones de Qualcomm caen un 7% debido a un débil pronóstico de ganancias mientras la escasez de memoria pesa sobre las ventas de teléfonos inteligentes",
-      "d": "Qualcomm obtuvo resultados mejores de lo esperado, pero emitió una previsión de ganancias débil.",
-      "u": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-04T23:38:11+00:00"
-    },
-    {
-      "h": "Pound rises to its highest level since the Brexit referendum",
-      "es": "La libra sube a su nivel más alto desde el referéndum sobre el Brexit",
-      "d": "La libra alcanza su nivel más alto frente a una cesta de monedas desde el referéndum sobre el Brexit hace una década",
-      "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
-      "published": "2026-11-04T23:30:28+00:00"
-    },
-    {
-      "h": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
-      "es": "¿Se avecina una 'década de demanda' de energía? Los directores ejecutivos de BP y Baker Hughes evalúan las perspectivas de inversión",
-      "d": "La creciente demanda de energía ofrece oportunidades de inversión, pero los riesgos geopolíticos y la incertidumbre sobre los precios del petróleo nublan las perspectivas, dijeron ejecutivos y un analista.",
-      "u": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T23:23:03+00:00"
-    },
-    {
-      "h": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
-      "es": "Jim Cramer advierte que los inversores pueden estar dando demasiada importancia al repunte postelectoral de Wall Street",
-      "d": "Cramer advirtió que Wall Street podría estar adelantándose tras las elecciones de mitad de período.",
-      "u": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T23:18:56+00:00"
-    },
-    {
-      "h": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-      "es": "Lo que dicen los multimillonarios de Wall Street sobre la barrida de los demócratas a mitad de mandato",
-      "d": "El gasto político multimillonario recibió críticas de... multimillonarios a raíz de las elecciones de la ola azul del martes.",
-      "u": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T23:17:56+00:00"
     }
   ],
   "sources": [
