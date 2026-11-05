@@ -1,6 +1,204 @@
 {
-  "updated": "2026-11-05T11:42:43.880129+00:00",
+  "updated": "2026-11-05T12:41:51.348910+00:00",
   "news": [
+    {
+      "h": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "es": "El Banco de Inglaterra sube los tipos de interés por primera vez desde la guerra de Irán y advierte que la inflación se acercará al 5%",
+      "d": "Un formulador de políticas votó a favor de elevar la tasa de interés clave del banco al 4,25%.",
+      "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T12:37:57+00:00"
+    },
+    {
+      "h": "Wendy's rejects takeover proposal from Nelson Peltz’s Trian",
+      "es": "Wendy's rechaza la propuesta de adquisición de Trian de Nelson Peltz",
+      "d": "Wendy's dijo que la propuesta de adquisición de 1.400 millones de dólares no refleja ganancias potenciales de la estrategia de recuperación de la cadena de hamburguesas.",
+      "u": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T12:34:08+00:00"
+    },
+    {
+      "h": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
+      "es": "Las tasas de interés podrían subir “significativamente más” si los precios del petróleo siguen subiendo, incluso si la guerra con Irán termina pronto",
+      "d": "Los estrategas del Bank of America encontraron una correlación dramática entre las tasas de interés y los precios del petróleo en Estados Unidos, el Reino Unido y Alemania.",
+      "u": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54466110",
+      "published": "2026-11-05T12:33:00+00:00"
+    },
+    {
+      "h": "Why is Kontron stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Kontron hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-kontron-stock-sliding-today-93CH-5003639",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published": "2026-11-05T12:23:21+00:00"
+    },
+    {
+      "h": "The real test for the artificial intelligence build-out is what happens in 2028, analysts say",
+      "es": "La verdadera prueba para el desarrollo de la inteligencia artificial es lo que sucederá en 2028, dicen los analistas",
+      "d": "Michael Cembalest, de JPMorgan, está preocupado por la construcción de centros de datos después de las elecciones de mitad de período, y mira hacia el futuro.",
+      "u": "https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94190724",
+      "published": "2026-11-05T12:23:00+00:00"
+    },
+    {
+      "h": "Barclays turns bearish on Michelin as cost headwinds outweigh pricing benefits",
+      "es": "Barclays se vuelve bajista respecto a Michelin porque los costes en contra superan los beneficios en materia de precios",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/barclays-turns-bearish-on-michelin-as-cost-headwinds-outweigh-pricing-benefits-5003624",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEI2E0SR_L.jpg",
+      "published": "2026-11-05T12:21:14+00:00"
+    },
+    {
+      "h": "Rising vet bills drive more Americans to pet insurance",
+      "es": "El aumento de las facturas de los veterinarios lleva a más estadounidenses a contratar seguros para mascotas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rising-vet-bills-drive-more-americans-to-pet-insurance-5003595",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA417E_L.jpg",
+      "published": "2026-11-05T12:19:17+00:00"
+    },
+    {
+      "h": "FTSE 100 holds near records as banks’ rally weather first BoE rate hike in 3 years",
+      "es": "El FTSE 100 se acerca a récords mientras el repunte de los bancos resiste la primera subida de tipos del BoE en tres años",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-touches-3month-high-as-bank-rally-preceding-boe-rate-decision-5002567",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg",
+      "published": "2026-11-05T12:19:08+00:00"
+    },
+    {
+      "h": "Why is Unity Software stock surging today?",
+      "es": "¿Por qué están aumentando las acciones de Unity Software hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-today-93CH-5003593",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-05T12:19:05+00:00"
+    },
+    {
+      "h": "Tripadvisor CEO Matt Goldberg to step down",
+      "es": "Matt Goldberg, director ejecutivo de Tripadvisor, dimitirá",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tripadvisor-ceo-matt-goldberg-to-step-down-5003592",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA418L_L.jpg",
+      "published": "2026-11-05T12:18:29+00:00"
+    },
+    {
+      "h": "Interest rates hiked to 4% in first increase in over three years",
+      "es": "Las tasas de interés subieron al 4% en el primer aumento en más de tres años",
+      "d": "La mayoría de los analistas esperaban un aumento del 3,75% al ​​4%.",
+      "u": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+      "published": "2026-11-05T12:17:47+00:00"
+    },
+    {
+      "h": "Unity Software stock soars 22% on strong Q3 beat, robust guidance",
+      "es": "Las acciones de Unity Software se disparan un 22% gracias a un fuerte ritmo en el tercer trimestre y una orientación sólida",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/unity-software-stock-soars-22-on-strong-q3-beat-robust-guidance-5003558",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
+      "published": "2026-11-05T12:16:17+00:00"
+    },
+    {
+      "h": "An Anthropic IPO when the AI trade is this turbulent? Godspeed!",
+      "es": "¿Una IPO antrópica cuando el comercio de IA es tan turbulento? ¡Buena suerte!",
+      "d": "Wall Street analiza más de cerca los costos de la IA después de los históricos resultados de mitad de período. Además, la ventaja de la falta de gasto en inteligencia artificial de Apple.",
+      "u": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-23855360",
+      "published": "2026-11-05T12:16:00+00:00"
+    },
+    {
+      "h": "I’ve attended a dozen free meals this year by people selling annuities. Am I flirting with disaster?",
+      "es": "Este año asistí a una docena de comidas gratuitas ofrecidas por personas que venden anualidades. ¿Estoy coqueteando con el desastre?",
+      "d": "\"Los vendedores suelen promocionar anualidades, planes de Medicare y servicios de planificación patrimonial\".",
+      "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-54591206",
+      "published": "2026-11-05T12:15:00+00:00"
+    },
+    {
+      "h": "Expedia shares slide after below-par quarterly revenue forecast fuels concerns",
+      "es": "Las acciones de Expedia caen después de que el pronóstico de ingresos trimestrales por debajo del promedio alimenta las preocupaciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/expedia-shares-slide-after-belowpar-quarterly-revenue-forecast-fuels-concerns-5003539",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA417R_L.jpg",
+      "published": "2026-11-05T12:13:27+00:00"
+    },
+    {
+      "h": "Rheinmetall shares slide as investors question growth outlook after second guidance cut",
+      "es": "Las acciones de Rheinmetall caen mientras los inversores cuestionan las perspectivas de crecimiento tras el segundo recorte de orientación",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rheinmetall-cuts-2026-sales-forecast-again-as-boxer-order-slips-5001668",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA32CY_L.jpg",
+      "published": "2026-11-05T12:12:35+00:00"
+    },
+    {
+      "h": "Here's what the Democratic election rout could mean for the U.S. economy",
+      "es": "Esto es lo que la derrota electoral demócrata podría significar para la economía estadounidense",
+      "d": "Las fuerzas más importantes que dan forma a la economía no van a cambiar sólo porque lo hizo el partido en el poder.",
+      "u": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T12:11:05+00:00"
+    },
+    {
+      "h": "Three ways the interest rate rise could affect you",
+      "es": "Tres formas en que la subida de tipos de interés podría afectarle",
+      "d": "El empleo, los préstamos y los ahorros se ven afectados por la subida de los tipos de interés anunciada por el Banco de Inglaterra.",
+      "u": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6542/live/e7d0aa50-d902-11f1-9c68-d767468fa269.jpg",
+      "published": "2026-11-05T12:11:04+00:00"
+    },
+    {
+      "h": "Why do veterinary fees and sausage rolls vary in price across London?",
+      "es": "¿Por qué los honorarios veterinarios y los rollos de salchicha varían de precio en todo Londres?",
+      "d": "La ubicación no es sólo el único factor que determina por qué los precios difieren en Londres, como descubre Anna O'Neill.",
+      "u": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b15/live/e6b7f340-d6d1-11f1-b2be-0146bf989691.jpg",
+      "published": "2026-11-05T12:01:54+00:00"
+    },
+    {
+      "h": "TSX futures edge higher amid post-midterms stock rotation",
+      "es": "Los futuros del TSX suben en medio de la rotación de acciones posterior a las elecciones intermedias",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-postmidterms-stock-rotation-5003378",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEG130YM-OCABS_L.jpg",
+      "published": "2026-11-05T11:56:12+00:00"
+    },
+    {
+      "h": "A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’",
+      "es": "Un estratega traza un paralelo con la década de 1980 al argumentar que el bipartidismo podría impulsar una “estampida de toros”",
+      "d": "En la década de 1980, un presidente republicano, un presidente demócrata de la Cámara y un presidente de la Reserva Federal que luchaba contra la inflación impulsaron un repunte del mercado de valores.",
+      "u": "https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63646824",
+      "published": "2026-11-05T11:56:00+00:00"
+    },
+    {
+      "h": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "es": "“No tengo red de seguridad financiera”: tengo 66 años, dependo del Seguro Social y sólo tengo $500 en ahorros. ¿Qué esperanza tengo?",
+      "d": "“Después de las elecciones de mitad de mandato, ¿cuántos estadounidenses viven en la pobreza?”",
+      "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-91335118",
+      "published": "2026-11-05T11:45:00+00:00"
+    },
     {
       "h": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
       "es": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
@@ -72,204 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-05T10:45:58+00:00"
-    },
-    {
-      "h": "Bomb alerts force flights to land in France, Bulgaria, Belgium",
-      "es": "Las alertas de bomba obligan a los vuelos a aterrizar en Francia, Bulgaria y Bélgica",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bomb-alerts-force-flights-to-land-in-france-bulgaria-belgium-5002910",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA40X5_L.jpg",
-      "published": "2026-11-05T10:30:43+00:00"
-    },
-    {
-      "h": "India stocks higher at close of trade; Nifty 50 up 2.40%",
-      "es": "Las bolsas de India cierran al alza; Nifty 50 subió un 2,40%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-240-5002920",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/MumbaiStockExchange_800x533_L_1630394918.jpg",
-      "published": "2026-11-05T10:30:05+00:00"
-    },
-    {
-      "h": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
-      "es": "Una guerra prolongada en Irán es el verdadero “cisne negro” del mercado, dice este estratega",
-      "d": "Alicia Levine, del negocio de gestión patrimonial de BNY, dijo que los mercados no han valorado la posibilidad de que la guerra en Irán dure mucho tiempo.",
-      "u": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-77808724",
-      "published": "2026-11-05T10:20:00+00:00"
-    },
-    {
-      "h": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum",
-      "es": "Qualcomm se desploma mientras las débiles ventas de chips para teléfonos inteligentes eclipsan el impulso de los centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/qualcomm-slumps-as-weak-smartphone-chip-sales-overshadow-datacenter-momentum-5002833",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA40V4_L.jpg",
-      "published": "2026-11-05T10:19:13+00:00"
-    },
-    {
-      "h": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "es": "Mi padre, de 93 años, cambió su testamento en el último momento, dejando a mi hermano todo su patrimonio de 500.000 dólares. ¿Puedo desafiarlo?",
-      "d": "“Mi hermano no tenía trabajo y necesitaba un lugar donde vivir”.",
-      "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04902439",
-      "published": "2026-11-05T10:15:00+00:00"
-    },
-    {
-      "h": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
-      "es": "Las acciones de Toyota se recuperan después de que la empresa redujera sus previsiones de ventas. Así de raro es eso.",
-      "d": "Toyota Motor experimentó el jueves una extraña combinación de poderosas ganancias en el mercado de valores después de reducir su pronóstico de ventas anuales.",
-      "u": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-14362403",
-      "published": "2026-11-05T10:15:00+00:00"
-    },
-    {
-      "h": "Nippon Steel raises FY26 profit forecast by 52% on robust US Steel earnings",
-      "es": "Nippon Steel aumenta la previsión de beneficios para el año fiscal 26 en un 52% gracias a las sólidas ganancias de US Steel",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nippon-steel-raises-fy26-profit-forecast-by-52-on-robust-us-steel-earnings-5002868",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA40W0_L.jpg",
-      "published": "2026-11-05T10:12:58+00:00"
-    },
-    {
-      "h": "OpenAI kicks off charm offensive to change voters’ view of data centers",
-      "es": "OpenAI lanza una ofensiva de encanto para cambiar la visión de los votantes sobre los centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-kicks-off-charm-offensive-to-change-voters-view-of-data-centers-5002831",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA40VA_L.jpg",
-      "published": "2026-11-05T10:07:05+00:00"
-    },
-    {
-      "h": "Why is Arm stock sliding today?",
-      "es": "¿Por qué las acciones de Arm están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-sliding-today-93CH-5002828",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBJ0RF_L.jpg",
-      "published": "2026-11-05T10:05:08+00:00"
-    },
-    {
-      "h": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-      "es": "Los conductores de bicicletas eléctricas ebrios y peligrosos se enfrentan a multas in situ bajo medidas enérgicas",
-      "d": "Una consulta considerará multas y otras formas de tomar medidas drásticas contra los ciclistas peligrosos.",
-      "u": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg",
-      "published": "2026-11-05T10:04:51+00:00"
-    },
-    {
-      "h": "Why is Dutch Bros stock plunging today?",
-      "es": "¿Por qué se están desplomando las acciones de Dutch Bros hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-dutch-bros-stock-plunging-today-93CH-5002827",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "published": "2026-11-05T10:04:48+00:00"
-    },
-    {
-      "h": "Richard Simmons’ L.A. estate sells for $3.8 million",
-      "es": "La propiedad de Richard Simmons en Los Ángeles se vende por 3,8 millones de dólares",
-      "d": "Más de un año después de la muerte de Richard Simmons, la antigua casa del gurú del fitness se vendió a un comprador atraído por su rica historia.",
-      "u": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12640315",
-      "published": "2026-11-05T10:02:00+00:00"
-    },
-    {
-      "h": "OpenAI pledges to pay for data center power after election highlights AI concerns",
-      "es": "OpenAI se compromete a pagar por la energía del centro de datos después de que las elecciones destaquen las preocupaciones sobre la IA",
-      "d": "OpenAI se comprometió a solicitar la opinión de la comunidad sobre los centros de datos de IA, publicar planes de construcción y proteger a los contribuyentes.",
-      "u": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T10:00:01+00:00"
-    },
-    {
-      "h": "Why is Qualcomm stock sliding today?",
-      "es": "¿Por qué las acciones de Qualcomm están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-sliding-today-93CH-5002793",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEKBJ0RF_L.jpg",
-      "published": "2026-11-05T09:57:24+00:00"
-    },
-    {
-      "h": "Why is Coherent stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Coherent hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5002781",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-11-05T09:56:20+00:00"
-    },
-    {
-      "h": "BP shares fall after $1.06 bln Aker BP stake sale",
-      "es": "Las acciones de BP caen tras la venta de la participación de Aker BP por 1.060 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bp-sells-stake-in-aker-bp-for-106-bln-to-cut-debt-5002546",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC950UL_M.jpg",
-      "published": "2026-11-05T09:55:41+00:00"
-    },
-    {
-      "h": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-      "es": "El segundo comprador hace una oferta de rescate para Poundland mientras el minorista se enfrenta al colapso",
-      "d": "Un grupo inversor poco conocido ha hecho una oferta para comprar el negocio.",
-      "u": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7167/live/e990f5c0-d8f3-11f1-9c68-d767468fa269.jpg",
-      "published": "2026-11-05T09:46:32+00:00"
-    },
-    {
-      "h": "Tenaris posts Q3 revenue beat on North American demand growth; shares up 3%",
-      "es": "Tenaris registra ingresos superiores al crecimiento de la demanda en América del Norte en el tercer trimestre; las acciones suben un 3%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tenaris-posts-q3-revenue-beat-on-north-american-demand-growth-shares-up-3-93CH-5002756",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-11-05T09:30:25+00:00"
-    },
-    {
-      "h": "Why is Morgan Advanced Materials stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Morgan Advanced Materials hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-morgan-advanced-materials-stock-surging-today-93CH-5002741",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-11-05T09:27:39+00:00"
-    },
-    {
-      "h": "Why is Nemetschek stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Nemetschek hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nemetschek-stock-sliding-today-93CH-5002736",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-11-05T09:26:49+00:00"
-    },
-    {
-      "h": "Why is Bouygues stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Bouygues hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-bouygues-stock-rallying-today-93CH-5002735",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published": "2026-11-05T09:26:32+00:00"
-    },
-    {
-      "h": "Why is Lanxess stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Lanxess hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-lanxess-stock-surging-today-93CH-5002734",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "published": "2026-11-05T09:26:17+00:00"
     }
   ],
   "sources": [
