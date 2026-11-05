@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-05T01:37:48.879894+00:00",
+  "updated": "2026-11-05T02:35:43.163877+00:00",
   "news": [
+    {
+      "h": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
+      "es": "OpenAI, lista para salir a bolsa en 2027, ahora representa la mayoría de las ventas de las empresas, dice Brockman",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-brockman-says-5002023",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA404Q_L.jpg",
+      "published": "2026-11-05T02:13:49+00:00"
+    },
+    {
+      "h": "Goldman flags fresh state buying in China stocks, awaits volume recovery",
+      "es": "Goldman señala nuevas compras estatales en acciones chinas y espera recuperación del volumen",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-flags-fresh-state-buying-in-china-stocks-awaits-volume-recovery-5002027",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/ShanghaiStockExchange_800x533_L_1598260292.jpg",
+      "published": "2026-11-05T02:09:37+00:00"
+    },
+    {
+      "h": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+      "es": "Los mercados de predicción consolidan su estatus después de pronosticar la victoria demócrata en el Congreso.",
+      "d": "Los mercados de predicción proyectaron los resultados electorales mucho antes que los medios de comunicación en un esfuerzo por posicionarse como fuentes de noticias rápidas y confiables.",
+      "u": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T02:07:35+00:00"
+    },
+    {
+      "h": "Hang Seng overbought at RSI 79 after V-Bottom surge: Live levels",
+      "es": "Hang Seng sobrecomprado en RSI 79 después del aumento de V-Bottom: niveles en vivo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hang-seng-trapped-in-ichimoku-cloud-at-supertrend-live-93CH-4989804",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-11-05T02:02:11+00:00"
+    },
+    {
+      "h": "Defense firms fall as Democratic victory stokes fears of tighter Pentagon budget",
+      "es": "Las empresas de defensa caen mientras la victoria demócrata aviva los temores de un presupuesto más ajustado del Pentágono",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/defense-firms-fall-as-democratic-victory-stokes-fears-of-tighter-pentagon-budget-5000702",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA31X0_L.jpg",
+      "published": "2026-11-05T01:48:22+00:00"
+    },
     {
       "h": "Disney’s Pixar names Jonathan Garson president as Jim Morris steps back",
       "es": "Pixar de Disney nombra presidente a Jonathan Garson mientras Jim Morris da un paso atrás",
@@ -20,6 +65,15 @@
       "published": "2026-11-05T01:11:26+00:00"
     },
     {
+      "h": "Qualcomm’s stock falls as twin forces pressure sales",
+      "es": "Las acciones de Qualcomm caen mientras fuerzas gemelas presionan las ventas",
+      "d": "Qualcomm enfrenta la pérdida del negocio de Apple y el impacto negativo de los altos costos de la memoria en la demanda general de teléfonos inteligentes.",
+      "u": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-775631",
+      "published": "2026-11-05T01:06:00+00:00"
+    },
+    {
       "h": "SK Hynix breaks below support in bear flag: Live levels",
       "es": "SK Hynix cae por debajo del soporte en bandera bajista: niveles en vivo",
       "d": "",
@@ -27,6 +81,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
       "published": "2026-11-05T01:05:23+00:00"
+    },
+    {
+      "h": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "es": "Las acciones de Figma caen porque los inversores temen que el impulso de la IA tenga un precio elevado",
+      "d": "Las inversiones de Figma en modelos y agentes de IA están impulsando el uso, pero el costo de ofrecer estas funciones está resultando elevado.",
+      "u": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-97979674",
+      "published": "2026-11-05T01:03:00+00:00"
     },
     {
       "h": "McDonald’s tests new value menu as fast-food discount wars heat up",
@@ -101,6 +164,15 @@
       "published": "2026-11-05T00:36:42+00:00"
     },
     {
+      "h": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+      "es": "Las acciones de NextDC suben un 43% después de las compras de participaciones de Goodman y Digital Realty",
+      "d": "Las acciones de NextDC subieron más del 40% el jueves por la mañana después de que Goodman Group y Digital Realty intentaran adquirir hasta una participación del 9,9%.",
+      "u": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-05T00:24:57+00:00"
+    },
+    {
       "h": "Australian retailer David Jones enters administration and faces sale, media reports",
       "es": "El minorista australiano David Jones entra en administración y se enfrenta a la venta, informan los medios",
       "d": "",
@@ -155,6 +227,24 @@
       "published": "2026-11-04T23:44:18+00:00"
     },
     {
+      "h": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "es": "Las acciones de Qualcomm caen un 7% debido a un débil pronóstico de ganancias mientras la escasez de memoria pesa sobre las ventas de teléfonos inteligentes",
+      "d": "Qualcomm obtuvo resultados mejores de lo esperado, pero emitió una previsión de ganancias débil.",
+      "u": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-04T23:38:11+00:00"
+    },
+    {
+      "h": "Pound rises to its highest level since the Brexit referendum",
+      "es": "La libra sube a su nivel más alto desde el referéndum sobre el Brexit",
+      "d": "La libra alcanza su nivel más alto frente a una cesta de monedas desde el referéndum sobre el Brexit hace una década",
+      "u": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
+      "published": "2026-11-04T23:30:28+00:00"
+    },
+    {
       "h": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
       "es": "¿Se avecina una 'década de demanda' de energía? Los directores ejecutivos de BP y Baker Hughes evalúan las perspectivas de inversión",
       "d": "La creciente demanda de energía ofrece oportunidades de inversión, pero los riesgos geopolíticos y la incertidumbre sobre los precios del petróleo nublan las perspectivas, dijeron ejecutivos y un analista.",
@@ -180,96 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-04T23:17:56+00:00"
-    },
-    {
-      "h": "Democrats take Congress in a blue wave. Here's what it means for your money",
-      "es": "Los demócratas toman el Congreso en una ola azul. Esto es lo que significa para su dinero",
-      "d": "La ola azul da a los demócratas el control del Congreso. Así es como su agenda podría afectar su dinero, desde atención médica e impuestos hasta préstamos estudiantiles y Seguridad Social.",
-      "u": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T23:11:48+00:00"
-    },
-    {
-      "h": "Needham names Carvana top pick, flags bullish catalysts for EV stocks",
-      "es": "Needham nombra a Carvana como la mejor opción y señala catalizadores alcistas para las acciones de vehículos eléctricos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/needham-names-carvana-top-pick-flags-bullish-catalysts-for-ev-stocks-5001758",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Carvana_800x533_L_1601887774.jpg",
-      "published": "2026-11-04T22:51:58+00:00"
-    },
-    {
-      "h": "Snap shares fall over 10% on third-quarter revenue miss",
-      "es": "Las acciones de Snap caen más del 10% por la pérdida de ingresos del tercer trimestre",
-      "d": "Snap pierde ingresos y usuarios activos diarios en las ganancias del tercer trimestre reportadas el miércoles.",
-      "u": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T22:47:32+00:00"
-    },
-    {
-      "h": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "es": "Análisis: Los demócratas tienen una oportunidad de obtener concesiones de Trump. Los mercados lo odiarán",
-      "d": "La próxima confrontación sobre el techo de la deuda podría revertir los roles políticos tradicionales de Washington, aumentando la posibilidad de concesiones de gasto, volatilidad del mercado y una moratoria dañina.",
-      "u": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T22:46:43+00:00"
-    },
-    {
-      "h": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
-      "es": "Las acciones del S&P 500 con peor desempeño de este año finalmente están experimentando un gran alivio",
-      "d": "Las acciones de AppLovin están subiendo tras unos resultados de ganancias \"claramente positivos\".",
-      "u": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-833362",
-      "published": "2026-11-04T22:46:00+00:00"
-    },
-    {
-      "h": "Chip startup Tenspresso eyes $500M valuation - Bloomberg",
-      "es": "La startup de chips Tenspresso prevé una valoración de 500 millones de dólares - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/chip-startup-tenspresso-eyes-500m-valuation--bloomberg-93CH-5001738",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published": "2026-11-04T22:41:32+00:00"
-    },
-    {
-      "h": "Analysis-Trump’s midterm drubbing demonstrates the power of data center opponents",
-      "es": "Análisis: la derrota de Trump a mitad de mandato demuestra el poder de los oponentes de los centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysistrumps-midterm-drubbing-demonstrates-the-power-of-datacentre-opponents-4998061",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA311C_L.jpg",
-      "published": "2026-11-04T22:36:23+00:00"
-    },
-    {
-      "h": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "es": "Los votantes rechazan los centros de datos en todas las medidas electorales excepto una durante las elecciones intermedias de 2026.",
-      "d": "Los votantes de los estados en el corazón del auge de los centros de datos de inteligencia artificial rechazaron la construcción la noche de las elecciones.",
-      "u": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T22:29:51+00:00"
-    },
-    {
-      "h": "AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say",
-      "es": "AstraZeneca hizo una oferta de 10.000 millones de dólares por el fabricante de medicamentos contra la obesidad Rhythm, dicen las fuentes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/astrazeneca-made-10-billion-offer-for-obesity-drugmaker-rhythm-sources-say-5001694",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA329V_L.jpg",
-      "published": "2026-11-04T22:24:26+00:00"
-    },
-    {
-      "h": "A massive trade just happened in a leading mortgage lender",
-      "es": "Acaba de ocurrir una transacción masiva en un prestamista hipotecario líder",
-      "d": "Los operadores de opciones realizan una serie de operaciones después de las elecciones",
-      "u": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-04T22:24:21+00:00"
     }
   ],
   "sources": [
