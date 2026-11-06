@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-06T22:05:03.147056+00:00",
+  "updated": "2026-11-06T22:46:06.035694+00:00",
   "news": [
+    {
+      "h": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "es": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "d": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+      "u": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T22:25:58+00:00"
+    },
+    {
+      "h": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "es": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "d": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+      "u": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T22:22:53+00:00"
+    },
+    {
+      "h": "As tech swoon roils market, US inflation data on tap",
+      "es": "As tech swoon roils market, US inflation data on tap",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50W8_L.jpg",
+      "published": "2026-11-06T22:00:52+00:00"
+    },
+    {
+      "h": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+      "es": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-revises-boston-scientific-outlook-to-negative-on-franchise-pressures-5009270",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL6M0NX_L.jpg",
+      "published": "2026-11-06T21:58:19+00:00"
+    },
     {
       "h": "Elon Musk appears to signal the end of the road for Cybertruck",
       "es": "Elon Musk parece señalar el final del camino para Cybertruck",
@@ -27,6 +63,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-63491767",
       "published": "2026-11-06T21:45:00+00:00"
+    },
+    {
+      "h": "Nasdaq rebounds but posts fourth straight weekly decline",
+      "es": "Nasdaq rebounds but posts fourth straight weekly decline",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50ON_L.jpg",
+      "published": "2026-11-06T21:42:33+00:00"
     },
     {
       "h": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
@@ -92,6 +137,15 @@
       "published": "2026-11-06T21:24:38+00:00"
     },
     {
+      "h": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "es": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "d": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "u": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-78248485",
+      "published": "2026-11-06T21:24:00+00:00"
+    },
+    {
       "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.42%",
       "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,42%",
       "d": "",
@@ -108,6 +162,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51ZA_L.jpg",
       "published": "2026-11-06T21:18:51+00:00"
+    },
+    {
+      "h": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "es": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "d": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+      "u": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T21:15:47+00:00"
     },
     {
       "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -144,6 +207,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-06T21:07:07+00:00"
+    },
+    {
+      "h": "AI stocks climb after trillions wiped from market values",
+      "es": "AI stocks climb after trillions wiped from market values",
+      "d": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "u": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-06T21:06:25+00:00"
     },
     {
       "h": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
@@ -198,78 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-06T20:36:03+00:00"
-    },
-    {
-      "h": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.26%",
-      "es": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.26%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-026-5009110",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM571EW_1200_L.jpg",
-      "published": "2026-11-06T20:31:00+00:00"
-    },
-    {
-      "h": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
-      "es": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-buys-wyoming-data-center-site-as-hyperscalers-move-to-own-ai-capacity-93CH-5009109",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK3P0QR_L.jpg",
-      "published": "2026-11-06T20:30:33+00:00"
-    },
-    {
-      "h": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
-      "es": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-060-5009108",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
-      "published": "2026-11-06T20:30:30+00:00"
-    },
-    {
-      "h": "Brazil stocks higher at close of trade; Bovespa up 1.34%",
-      "es": "Brazil stocks higher at close of trade; Bovespa up 1.34%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-134-5009099",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEMA21MN_1200_L.jpg",
-      "published": "2026-11-06T20:30:04+00:00"
-    },
-    {
-      "h": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "es": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "d": "“My brother had no job and needed a place to live.”",
-      "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04902439",
-      "published": "2026-11-06T20:15:00+00:00"
-    },
-    {
-      "h": "Trump’s Iran dilemma: five options, no clear exit after the midterms",
-      "es": "Trump’s Iran dilemma: five options, no clear exit after the midterms",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trumps-iran-dilemma-five-options-no-clear-exit-after-the-midterms-93CH-5009086",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721BS_1200_L.jpg",
-      "published": "2026-11-06T20:09:12+00:00"
-    },
-    {
-      "h": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-      "es": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe-5009084",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51XH_L.jpg",
-      "published": "2026-11-06T20:06:39+00:00"
-    },
-    {
-      "h": "How AI spending limits could help hyperscaler bonds but hurt stocks",
-      "es": "How AI spending limits could help hyperscaler bonds but hurt stocks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/how-ai-spending-limits-could-help-hyperscaler-bonds-but-hurt-stocks-93CH-5009071",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Amazon_800x533_L_1630575692.jpg",
-      "published": "2026-11-06T19:54:48+00:00"
     }
   ],
   "sources": [
