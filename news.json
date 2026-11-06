@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-05T23:44:33.649874+00:00",
+  "updated": "2026-11-06T00:26:05.134973+00:00",
   "news": [
+    {
+      "h": "Exclusive-AI backlash could threaten Anthropic IPO timing, potential investors say",
+      "es": "La reacción exclusiva de la IA podría amenazar el momento de la salida a bolsa de Anthropic, dicen inversores potenciales",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-5006110",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA42GV_L.jpg",
+      "published": "2026-11-06T00:06:23+00:00"
+    },
+    {
+      "h": "The engine parts that 'fight the laws of the universe'",
+      "es": "Las piezas del motor que 'luchan contra las leyes del universo'",
+      "d": "Ha aumentado la inversión en la fabricación de palas de turbinas a reacción, un componente extremadamente difícil de fabricar.",
+      "u": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-06T00:06:06+00:00"
+    },
+    {
+      "h": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "es": "'Me preguntaron si era llorón': Reveladas tus peores entrevistas laborales",
+      "d": "Las malas entrevistas de trabajo pueden ser horribles en este momento, pero hay mucho que pueden enseñarnos sobre el mundo laboral.",
+      "u": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png",
+      "published": "2026-11-06T00:02:52+00:00"
+    },
+    {
+      "h": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "es": "Las acciones de Cloudflare se recuperan con fuerza después del aumento de ventas más rápido en casi 4 años",
+      "d": "La demanda de protección automatizada de IA está aumentando y se manifiesta en los resultados de ganancias de Cloudflare.",
+      "u": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-12310109",
+      "published": "2026-11-05T23:50:00+00:00"
+    },
+    {
+      "h": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
+      "es": "Nasdaq registra la mayor caída diaria en 19 meses por temor a las regulaciones de IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-on-chip-weakness-5003237",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA4107_L.jpg",
+      "published": "2026-11-05T23:48:30+00:00"
+    },
+    {
+      "h": "Here are the 2027 capital-gains tax rates for each income level",
+      "es": "Aquí están las tasas impositivas sobre las ganancias de capital de 2027 para cada nivel de ingresos",
+      "d": "¿Cuánto pagará en impuestos sobre las ganancias de capital el próximo año? El IRS acaba de publicar esta información crucial.",
+      "u": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26428515",
+      "published": "2026-11-05T23:48:00+00:00"
+    },
+    {
+      "h": "Why is Unity Software stock surging after-hours today?",
+      "es": "¿Por qué las acciones de Unity Software están subiendo hoy fuera de horario?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-afterhours-today-93CH-5006123",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-11-05T23:47:15+00:00"
+    },
+    {
+      "h": "Wisconsin reports infant death linked to measles outbreak",
+      "es": "Wisconsin informa muerte infantil relacionada con brote de sarampión",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wisconsin-reports-infant-death-linked-to-measles-outbreak-5006111",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA42GR_L.jpg",
+      "published": "2026-11-05T23:42:43+00:00"
+    },
     {
       "h": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
       "es": "Elecciones al Senado de Mississippi: el demócrata Scott Colom supera por poco a la republicana Cindy Hyde-Smith",
@@ -198,78 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXNPEH5K06R_L.jpg",
       "published": "2026-11-05T22:03:00+00:00"
-    },
-    {
-      "h": "Australian carrier Qantas sees higher first-half fuel costs for fiscal 2027",
-      "es": "Australian carrier Qantas sees higher first-half fuel costs for fiscal 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australian-carrier-qantas-sees-higher-firsthalf-fuel-costs-for-fiscal-2027-5005871",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-05T22:00:28+00:00"
-    },
-    {
-      "h": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-      "es": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-      "d": "The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
-      "u": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-71200494",
-      "published": "2026-11-05T22:00:00+00:00"
-    },
-    {
-      "h": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "es": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "d": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-      "u": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T21:57:33+00:00"
-    },
-    {
-      "h": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "es": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "d": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "u": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "published": "2026-11-05T21:56:00+00:00"
-    },
-    {
-      "h": "Democratic senator demands tech firms, FCC chair turn over documents",
-      "es": "Democratic senator demands tech firms, FCC chair turn over documents",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/democratic-senator-demands-tech-firms-fcc-chair-turn-over-documents-5005779",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA42A3_L.jpg",
-      "published": "2026-11-05T21:48:17+00:00"
-    },
-    {
-      "h": "After-Hours Movers: NET, TEAM, FIVN, ABNB, DKNG, AFRM, LRCX, MCHP, AAOI, IREN, AXON",
-      "es": "After-Hours Movers: NET, TEAM, FIVN, ABNB, DKNG, AFRM, LRCX, MCHP, AAOI, IREN, AXON",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-net-team-fivn-abnb-dkng-afrm-lrcx-mchp-aaoi-iren-axon-432SI-5005795",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-11-05T21:47:01+00:00"
-    },
-    {
-      "h": "IRS unveils higher capital gains tax brackets for 2027",
-      "es": "IRS unveils higher capital gains tax brackets for 2027",
-      "d": "The IRS has announced higher long-term capital gains brackets for 2027. Here's what investors need to know.",
-      "u": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-05T21:46:23+00:00"
-    },
-    {
-      "h": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-      "es": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-      "d": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
-      "u": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-93431038",
-      "published": "2026-11-05T21:44:00+00:00"
     }
   ],
   "sources": [
