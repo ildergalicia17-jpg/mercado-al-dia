@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-06T19:01:32.984329+00:00",
+  "updated": "2026-11-06T19:53:45.612450+00:00",
   "news": [
+    {
+      "h": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "es": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "d": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+      "u": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:51:29+00:00"
+    },
+    {
+      "h": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "es": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "d": "Saudi national Abdulrahman Alfozan is charged in an indictment with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+      "u": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:51:07+00:00"
+    },
+    {
+      "h": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "es": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "d": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+      "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:49:09+00:00"
+    },
+    {
+      "h": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
+      "es": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
+      "d": "With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.",
+      "u": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:42:36+00:00"
+    },
+    {
+      "h": "AI stocks climb after trillions wiped from market values",
+      "es": "AI stocks climb after trillions wiped from market values",
+      "d": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "u": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-06T19:37:10+00:00"
+    },
+    {
+      "h": "vVardis targets IPO at up to $24 per share",
+      "es": "vVardis targets IPO at up to $24 per share",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/vvardis-targets-ipo-at-up-to-24-per-share-432SI-5009047",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published": "2026-11-06T19:28:02+00:00"
+    },
+    {
+      "h": "Outside groups urge congressional Dems to target corporate interests over Trump",
+      "es": "Outside groups urge congressional Dems to target corporate interests over Trump",
+      "d": "Groups and strategists advising Democrats are warning them to use their investigative tools on corporate interests, rather than on President Donald Trump.",
+      "u": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:18:32+00:00"
+    },
+    {
+      "h": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
+      "es": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
+      "d": "Binance lost more than $6 billion in a hack partly caused by fake job interviews. Here's what job seekers can learn from it, and tips to avoid job search scams.",
+      "u": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T19:09:56+00:00"
+    },
+    {
+      "h": "Rosenblatt names top semiconductor stock",
+      "es": "Rosenblatt names top semiconductor stock",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/rosenblatt-names-top-semiconductor-stock-5009040",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEL4R12O_L.jpg",
+      "published": "2026-11-06T19:09:07+00:00"
+    },
+    {
+      "h": "Tesla and Arista Networks among market cap stock movers on Friday",
+      "es": "Tesla and Arista Networks among market cap stock movers on Friday",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-and-arista-networks-among-market-cap-stock-movers-on-friday-93CH-5009029",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE2Q1PK_M.jpg",
+      "published": "2026-11-06T19:05:20+00:00"
+    },
+    {
+      "h": "Fed speakers and Treasury auctions highlight Monday’s economic calendar",
+      "es": "Fed speakers and Treasury auctions highlight Monday’s economic calendar",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-06T19:00:34+00:00"
+    },
     {
       "h": "Data center double-down: Hassett says blue wave won't stop AI build-out",
       "es": "Data center double-down: Hassett says blue wave won't stop AI build-out",
@@ -171,105 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-51974080",
       "published": "2026-11-06T18:03:00+00:00"
-    },
-    {
-      "h": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "es": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "d": "Math may be cold and unemotional — but finances are not.",
-      "u": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75770443",
-      "published": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "h": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "es": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "d": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
-      "u": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78248485",
-      "published": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "h": "Risk-off mood sweeps European stocks as AI concerns deepen",
-      "es": "Risk-off mood sweeps European stocks as AI concerns deepen",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/european-shares-set-to-fall-as-global-ai-rout-gathers-pace-5006641",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50IE_L.jpg",
-      "published": "2026-11-06T17:54:32+00:00"
-    },
-    {
-      "h": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
-      "es": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51S2_L.jpg",
-      "published": "2026-11-06T17:54:18+00:00"
-    },
-    {
-      "h": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-      "es": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-      "d": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
-      "u": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-01470070",
-      "published": "2026-11-06T17:51:00+00:00"
-    },
-    {
-      "h": "Tesla to pull the plug on Cybertruck after years of poor sales",
-      "es": "Tesla to pull the plug on Cybertruck after years of poor sales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50GZ_L.jpg",
-      "published": "2026-11-06T17:48:19+00:00"
-    },
-    {
-      "h": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "es": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "d": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T17:48:16+00:00"
-    },
-    {
-      "h": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
-      "es": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/oracle-falls-4-as-microsoft-reportedly-winds-down-ai-cloud-capacity-deal-5008936",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM241CI_L.jpg",
-      "published": "2026-11-06T17:47:18+00:00"
-    },
-    {
-      "h": "What’s next for your portfolio after the decline in Big Tech stocks?",
-      "es": "What’s next for your portfolio after the decline in Big Tech stocks?",
-      "d": "Also in Weekend Reads: Ideas for generating investment income, new tax brackets, buying a home with cash and advice from the Moneyist.",
-      "u": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-71826749",
-      "published": "2026-11-06T17:47:00+00:00"
-    },
-    {
-      "h": "Why is Hims & Hers Health stock rallying today?",
-      "es": "Why is Hims & Hers Health stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hims--hers-health-stock-rallying-today-93CH-5008943",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Olumiant_800x533_L_1790686437.jpg",
-      "published": "2026-11-06T17:46:42+00:00"
-    },
-    {
-      "h": "Why is X Energy stock surging today?",
-      "es": "Why is X Energy stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-x-energy-stock-surging-today-93CH-5008942",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB050EH_M.jpg",
-      "published": "2026-11-06T17:46:39+00:00"
     }
   ],
   "sources": [
