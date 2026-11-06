@@ -1,6 +1,114 @@
 {
-  "updated": "2026-11-06T21:23:13.871522+00:00",
+  "updated": "2026-11-06T22:05:03.147056+00:00",
   "news": [
+    {
+      "h": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "es": "Elon Musk parece señalar el final del camino para Cybertruck",
+      "d": "Musk dijo que iba a dejar espacio para la producción de sus Cybercabs, taxis autónomos sin conductor.",
+      "u": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-06T21:49:50+00:00"
+    },
+    {
+      "h": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "es": "“No tengo red de seguridad financiera”: tengo 66 años, dependo del Seguro Social y sólo tengo $500 en ahorros. ¿Qué esperanza tengo?",
+      "d": "\"A veces me pregunto si los estadounidenses más ricos deberían intercambiar lugares con personas como yo\".",
+      "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-91335118",
+      "published": "2026-11-06T21:45:00+00:00"
+    },
+    {
+      "h": "Elon Musk opens the door for a big SpaceX acquisition",
+      "es": "Elon Musk abre la puerta a una gran adquisición de SpaceX",
+      "d": "La empresa de Internet por satélite y cohetes busca desafiar a los gigantes de las telecomunicaciones.",
+      "u": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63491767",
+      "published": "2026-11-06T21:45:00+00:00"
+    },
+    {
+      "h": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "es": "Los centros de datos funcionan con deuda. Ese fue un problema para los bonos este año, y sólo va a empeorar.",
+      "d": "La emisión de deuda de IA este año abrumó las carteras de los inversores y ha decepcionado desde una perspectiva de rendimiento. La necesidad de financiación no mejorará si los demócratas controlan el Congreso.",
+      "u": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-27823796",
+      "published": "2026-11-06T21:37:00+00:00"
+    },
+    {
+      "h": "Democrats planning flood of AI bills when they take control of Congress",
+      "es": "Los demócratas planean una avalancha de proyectos de ley sobre IA cuando tomen el control del Congreso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress-5007213",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50WS_L.jpg",
+      "published": "2026-11-06T21:36:24+00:00"
+    },
+    {
+      "h": "Meta’s Muse app adds customizable spaces feature",
+      "es": "La aplicación Muse de Meta agrega la función de espacios personalizables",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEE7S0V8_M.jpg",
+      "published": "2026-11-06T21:36:14+00:00"
+    },
+    {
+      "h": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.36%",
+      "es": "Las bolsas de México cierran al alza; S&P/BMV IPC sube 0,36%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-036-5009204",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg",
+      "published": "2026-11-06T21:30:04+00:00"
+    },
+    {
+      "h": "TSX ends higher as tech stocks recover, Celestica gains 2% after global selloff",
+      "es": "TSX termina al alza a medida que las acciones tecnológicas se recuperan, Celestica gana un 2% después de la liquidación global",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsx-futures-edged-lower-amid-fallout-from-aidriven-stock-rout-5007774",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEG130YM-OCABS_L.jpg",
+      "published": "2026-11-06T21:25:22+00:00"
+    },
+    {
+      "h": "Colombia stocks higher at close of trade; COLCAP up 0.07%",
+      "es": "Las bolsas de Colombia cierran al alza; COLCAP sube 0,07%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-007-5009200",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg",
+      "published": "2026-11-06T21:25:06+00:00"
+    },
+    {
+      "h": "US approves potential $1.08 billion Black Hawk helicopter sale to Mexico",
+      "es": "Estados Unidos aprueba la posible venta de helicópteros Black Hawk a México por valor de 1.080 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-approves-potential-108-billion-black-hawk-helicopter-sale-to-mexico-5009198",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51ZP_L.jpg",
+      "published": "2026-11-06T21:24:38+00:00"
+    },
+    {
+      "h": "Russia stocks higher at close of trade; MOEX Russia Index up 0.42%",
+      "es": "Las bolsas de Rusia cierran al alza; El índice MOEX Rusia sube un 0,42%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-042-5009185",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC602WR_M.jpg",
+      "published": "2026-11-06T21:20:03+00:00"
+    },
+    {
+      "h": "OpenAI secures $11 billion funding at $1.25 trillion valuation, Bloomberg News reports",
+      "es": "OpenAI obtiene una financiación de 11.000 millones de dólares con una valoración de 1,25 billones de dólares, informa Bloomberg News",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports-5009182",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51ZA_L.jpg",
+      "published": "2026-11-06T21:18:51+00:00"
+    },
     {
       "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
       "es": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -18,6 +126,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-88923729",
       "published": "2026-11-06T21:15:00+00:00"
+    },
+    {
+      "h": "Galapagos cuts 9% of staff as AI push drives efficiency, Bloomberg reports",
+      "es": "Galápagos recorta un 9% de su personal a medida que la IA impulsa la eficiencia, informa Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/galapagos-cuts-9-of-staff-as-ai-push-drives-efficiency-bloomberg-reports-5009170",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
+      "published": "2026-11-06T21:14:07+00:00"
     },
     {
       "h": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/Amazon_800x533_L_1630575692.jpg",
       "published": "2026-11-06T19:54:48+00:00"
-    },
-    {
-      "h": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "es": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "d": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
-      "u": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-78248485",
-      "published": "2026-11-06T19:52:00+00:00"
-    },
-    {
-      "h": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "es": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "d": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
-      "u": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:51:29+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "es": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "d": "Saudi national Abdulrahman Alfozan is charged in an indictment with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "u": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:51:07+00:00"
-    },
-    {
-      "h": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-      "es": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-      "d": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-      "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:49:09+00:00"
-    },
-    {
-      "h": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-      "es": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-      "d": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black.",
-      "u": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:44:33+00:00"
-    },
-    {
-      "h": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
-      "es": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
-      "d": "With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.",
-      "u": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:42:36+00:00"
-    },
-    {
-      "h": "AI stocks climb after trillions wiped from market values",
-      "es": "AI stocks climb after trillions wiped from market values",
-      "d": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "u": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-11-06T19:37:10+00:00"
-    },
-    {
-      "h": "Nasdaq rebounds but remains on track for fourth straight weekly decline",
-      "es": "Nasdaq rebounds but remains on track for fourth straight weekly decline",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50ON_L.jpg",
-      "published": "2026-11-06T19:36:46+00:00"
-    },
-    {
-      "h": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "es": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-      "d": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:36:12+00:00"
-    },
-    {
-      "h": "vVardis targets IPO at up to $24 per share",
-      "es": "vVardis targets IPO at up to $24 per share",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vvardis-targets-ipo-at-up-to-24-per-share-432SI-5009047",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-06T19:28:02+00:00"
-    },
-    {
-      "h": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
-      "es": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity-bloomberg-news-reports-5008946",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51S2_L.jpg",
-      "published": "2026-11-06T19:18:37+00:00"
-    },
-    {
-      "h": "Outside groups urge congressional Dems to target corporate interests over Trump",
-      "es": "Outside groups urge congressional Dems to target corporate interests over Trump",
-      "d": "Groups and strategists advising Democrats are warning them to use their investigative tools on corporate interests, rather than on President Donald Trump.",
-      "u": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:18:32+00:00"
-    },
-    {
-      "h": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
-      "es": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
-      "d": "Binance lost more than $6 billion in a hack partly caused by fake job interviews. Here's what job seekers can learn from it, and tips to avoid job search scams.",
-      "u": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T19:09:56+00:00"
     }
   ],
   "sources": [
