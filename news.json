@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-06T06:38:48.184157+00:00",
+  "updated": "2026-11-06T07:55:23.119112+00:00",
   "news": [
+    {
+      "h": "Firms told to publish salaries in job adverts ahead of new law",
+      "es": "Firms told to publish salaries in job adverts ahead of new law",
+      "d": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "u": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
+      "published": "2026-11-06T07:36:41+00:00"
+    },
+    {
+      "h": "UK house prices fall 0.6% in October, sharpest monthly drop in a year",
+      "es": "UK house prices fall 0.6% in October, sharpest monthly drop in a year",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/uk-house-prices-fall-06-in-october-sharpest-monthly-drop-in-a-year-5006655",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-06T07:33:49+00:00"
+    },
+    {
+      "h": "European shares set to fall as global AI rout gathers pace",
+      "es": "European shares set to fall as global AI rout gathers pace",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-set-to-fall-as-global-ai-rout-gathers-pace-5006641",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50IE_L.jpg",
+      "published": "2026-11-06T07:30:21+00:00"
+    },
+    {
+      "h": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "es": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "d": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "u": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+      "published": "2026-11-06T07:27:26+00:00"
+    },
+    {
+      "h": "Tesla to wind down Cybertruck production at Texas gigafactory next year, Musk says",
+      "es": "Tesla to wind down Cybertruck production at Texas gigafactory next year, Musk says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-to-wind-down-cybertruck-production-at-texas-gigafactory-next-year-musk-says-5006624",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50GZ_L.jpg",
+      "published": "2026-11-06T07:06:25+00:00"
+    },
+    {
+      "h": "Japan stocks lower at close of trade; Nikkei 225 down 6.04%",
+      "es": "Japan stocks lower at close of trade; Nikkei 225 down 6.04%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-604-5006620",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB5O08F_M.jpg",
+      "published": "2026-11-06T07:00:05+00:00"
+    },
+    {
+      "h": "Goldman Sachs weighs in on three Australian gold stocks",
+      "es": "Goldman Sachs weighs in on three Australian gold stocks",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-weighs-in-on-three-australian-gold-stocks-5006619",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA610DS_M.jpg",
+      "published": "2026-11-06T06:58:48+00:00"
+    },
+    {
+      "h": "Singapore Airlines unveils $1.6 bln cabin upgrade plan",
+      "es": "Singapore Airlines unveils $1.6 bln cabin upgrade plan",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/singapore-airlines-unveils-16-bln-cabin-upgrade-plan-93CH-5006618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-06T06:49:50+00:00"
+    },
+    {
+      "h": "Japan’s GPIF posts $33.3 bln Q2 loss as global bond selloff hits foreign holdings",
+      "es": "Japan’s GPIF posts $33.3 bln Q2 loss as global bond selloff hits foreign holdings",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japans-gpif-posts-333-bln-q2-loss-as-global-bond-selloff-hits-foreign-holdings-5006616",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4K000_L.jpg",
+      "published": "2026-11-06T06:48:28+00:00"
+    },
+    {
+      "h": "Analysts and investors react to AI market rout",
+      "es": "Analysts and investors react to AI market rout",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysts-and-investors-react-to-ai-market-rout-5006243",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA5033_L.jpg",
+      "published": "2026-11-06T06:48:21+00:00"
+    },
     {
       "h": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
       "es": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
@@ -180,96 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEH1L0L7_L.jpg",
       "published": "2026-11-06T03:48:38+00:00"
-    },
-    {
-      "h": "Why is SoftBank stock tumbling today?",
-      "es": "Why is SoftBank stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-5006386",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-06T03:43:31+00:00"
-    },
-    {
-      "h": "Bottler Coca-Cola HBC says no notification from Russia on asset changes",
-      "es": "Bottler Coca-Cola HBC says no notification from Russia on asset changes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/bottler-cocacola-hbc-says-no-notification-from-russia-on-asset-changes-5006376",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA5084_L.jpg",
-      "published": "2026-11-06T03:30:18+00:00"
-    },
-    {
-      "h": "Why is Nintendo stock sliding today?",
-      "es": "Why is Nintendo stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nintendo-stock-sliding-today-93CH-5006370",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-11-06T03:23:48+00:00"
-    },
-    {
-      "h": "Why is Li Ning stock rallying today?",
-      "es": "Why is Li Ning stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-li-ning-stock-rallying-today-93CH-5006369",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-11-06T03:23:44+00:00"
-    },
-    {
-      "h": "Japan Tobacco shares face 19% slump after Kremlin seizes Russian assets",
-      "es": "Japan Tobacco shares face 19% slump after Kremlin seizes Russian assets",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-face-19-slump-after-kremlin-seizes-russian-assets-5006368",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECAS0JP_M.jpg",
-      "published": "2026-11-06T03:21:27+00:00"
-    },
-    {
-      "h": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-      "es": "Tesla y SpaceX de Elon Musk pierden más de 420 mil millones de dólares en capitalización de mercado combinada después de las elecciones intermedias",
-      "d": "Tesla y SpaceX de Elon Musk pierden 420 mil millones de dólares en capitalización de mercado combinada después de las elecciones intermedias",
-      "u": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T03:20:43+00:00"
-    },
-    {
-      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
-      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
-      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-26708039",
-      "published": "2026-11-06T03:15:00+00:00"
-    },
-    {
-      "h": "Asia stocks tumble as AI rout batters Japan, S. Korea",
-      "es": "Las bolsas asiáticas caen mientras la derrota de la IA golpea a Japón y Corea del Sur",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-tumble-as-ai-rout-batters-japan-s-korea-5006358",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB5F0CM_M.jpg",
-      "published": "2026-11-06T03:12:50+00:00"
-    },
-    {
-      "h": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "es": "“Mi vida podría verse truncada”: tengo 55 años, estoy casado y tengo un tumor cerebral. ¿Debería gastar dinero en un Porsche de 210.000 dólares?",
-      "d": "\"También quiero preservar la oportunidad de dejar un legado significativo a mis dos hijos\".",
-      "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49119290",
-      "published": "2026-11-06T03:00:00+00:00"
-    },
-    {
-      "h": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
-      "es": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
-      "d": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
-      "u": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T02:58:02+00:00"
     }
   ],
   "sources": [
