@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-06T07:55:23.119112+00:00",
+  "updated": "2026-11-06T08:49:05.962375+00:00",
   "news": [
+    {
+      "h": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.18%",
+      "es": "Las bolsas de Indonesia cierran al alza; El índice compuesto IDX sube un 0,18%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-018-5006741",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC7N1OQ_M.jpg",
+      "published": "2026-11-06T08:30:04+00:00"
+    },
+    {
+      "h": "FTSE 100 today: Stocks slump as global tech rout deepens",
+      "es": "FTSE 100 hoy: Las acciones se desploman a medida que se profundiza la caída tecnológica global",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slump-as-global-tech-rout-deepens-5006735",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECA10LL_M.jpg",
+      "published": "2026-11-06T08:28:08+00:00"
+    },
+    {
+      "h": "Why is International Consolidated Airlines stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de International Consolidated Airlines hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-international-consolidated-airlines-stock-climbing-today-93CH-5006724",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB3F0KS_M.jpg",
+      "published": "2026-11-06T08:24:22+00:00"
+    },
+    {
+      "h": "Why is Airbus stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Airbus hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-airbus-stock-sliding-today-93CH-5006723",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA630EU_M.jpg",
+      "published": "2026-11-06T08:24:04+00:00"
+    },
+    {
+      "h": "Europe stocks drop on tech drag;  STOXX 600 overtakes S&P 500 in YTD gains",
+      "es": "Las acciones europeas caen por el freno tecnológico;  El STOXX 600 supera al S&P 500 en ganancias hasta la fecha",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/europe-stocks-drop-on-tech-drag--stoxx-600-overtakes-sp-500-in-ytd-gains-5006627",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6D0DC_M.jpg",
+      "published": "2026-11-06T08:10:24+00:00"
+    },
+    {
+      "h": "Getlink reports October traffic growth across key segments",
+      "es": "Getlink informa un crecimiento del tráfico en octubre en segmentos clave",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/getlink-reports-october-traffic-growth-across-key-segments-93CH-5006676",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-11-06T08:07:24+00:00"
+    },
+    {
+      "h": "Goldman Sachs downgrades Kuehne & Nagel to Neutral as relative upside narrows",
+      "es": "Goldman Sachs rebaja la calificación de Kuehne & Nagel a Neutral a medida que se reduce el alza relativa",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/goldman-sachs-downgrades-kuehne--nagel-to-neutral-as-relative-upside-narrows-5006675",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "published": "2026-11-06T08:05:11+00:00"
+    },
     {
       "h": "Firms told to publish salaries in job adverts ahead of new law",
       "es": "Firms told to publish salaries in job adverts ahead of new law",
@@ -36,6 +99,15 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
       "published": "2026-11-06T07:27:26+00:00"
+    },
+    {
+      "h": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+      "es": "Equinix apunta a instalaciones más pequeñas a medida que crece el escrutinio de la construcción de centros de datos en EE. UU.",
+      "d": "Equinix dice que los centros de datos más pequeños pueden estar menos expuestos a las restricciones de Estados Unidos a medida que crece el escrutinio de la infraestructura de IA.",
+      "u": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T07:23:02+00:00"
     },
     {
       "h": "Tesla to wind down Cybertruck production at Texas gigafactory next year, Musk says",
@@ -198,78 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-06T05:36:10+00:00"
-    },
-    {
-      "h": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-      "es": "La renovada tensión entre Estados Unidos e Irán podría hacer que el petróleo supere los 100 dólares: Rapidan Energy",
-      "d": "Bob McNally predice que los futuros de Brent y West Texas Intermediate saltarán por encima de los 100 dólares.",
-      "u": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T05:27:24+00:00"
-    },
-    {
-      "h": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
-      "es": "Los precios del petróleo suben mientras los inversores sopesan los nuevos riesgos del conflicto entre Estados Unidos e Irán después de las elecciones de mitad de período",
-      "d": "Los precios del petróleo subieron el viernes mientras los inversores sopesaban el riesgo de una nueva escalada militar entre Estados Unidos e Irán después de las elecciones intermedias, junto con las perspectivas de un avance diplomático.",
-      "u": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T05:06:56+00:00"
-    },
-    {
-      "h": "Lotte Rental shares hit 52-week high as TPG launches $613 million tender offer",
-      "es": "Las acciones de Lotte Rental alcanzaron el máximo de 52 semanas cuando TPG lanza una oferta pública de 613 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/lotte-rental-shares-hit-52week-high-as-tpg-launches-613-million-tender-offer-5006473",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N180_L.jpg",
-      "published": "2026-11-06T05:01:13+00:00"
-    },
-    {
-      "h": "Texas governor-elect Hinojosa touts data center protection laws",
-      "es": "Hinojosa, gobernador electo de Texas, promociona las leyes de protección de centros de datos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/texas-governorelect-hinojosa-touts-data-center-protection-laws-93CH-5006463",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-11-06T04:53:21+00:00"
-    },
-    {
-      "h": "What does a Democrat-controlled Congress bode for Bitcoin?",
-      "es": "¿Qué augura para Bitcoin un Congreso controlado por los demócratas?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/what-does-a-democratcontrolled-congress-bode-for-bitcoin-93CH-5006430",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
-      "published": "2026-11-06T04:19:34+00:00"
-    },
-    {
-      "h": "Why is Lotte Rental stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Lotte Rental hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-lotte-rental-stock-surging-today-93CH-5006426",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-06T04:18:33+00:00"
-    },
-    {
-      "h": "Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say",
-      "es": "Exclusive-China’s top flash memory chipmaker targets more homegrown tools for new factory, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivechinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-for-new-factory-sources-say-5006408",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA5096_L.jpg",
-      "published": "2026-11-06T04:06:38+00:00"
-    },
-    {
-      "h": "S. Korea eases margin trading rules to stem forced stock sales",
-      "es": "S. Korea eases margin trading rules to stem forced stock sales",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/s-korea-eases-margin-trading-rules-to-stem-forced-stock-sales-5006397",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEH1L0L7_L.jpg",
-      "published": "2026-11-06T03:48:38+00:00"
     }
   ],
   "sources": [
