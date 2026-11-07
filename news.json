@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T08:56:37.599354+00:00",
+  "updated": "2026-11-07T11:52:27.920888+00:00",
   "news": [
+    {
+      "h": "Who is Paraguay’s new president Pedro Alliana?",
+      "es": "Who is Paraguay’s new president Pedro Alliana?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/who-is-paraguays-new-president-pedro-alliana-5009830",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA6096_L.jpg",
+      "published": "2026-11-07T11:07:01+00:00"
+    },
     {
       "h": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
       "es": "Trump dice que Estados Unidos llevó a cabo “ataques menores” contra Irán mientras misiles impactaban en la isla de Qeshm",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51ZA_L.jpg",
       "published": "2026-11-06T21:18:51+00:00"
-    },
-    {
-      "h": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "es": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "d": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "u": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T21:15:47+00:00"
     }
   ],
   "sources": [
