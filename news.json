@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T07:08:37.987469+00:00",
+  "updated": "2026-11-07T08:56:37.599354+00:00",
   "news": [
+    {
+      "h": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+      "es": "Trump dice que Estados Unidos llevó a cabo “ataques menores” contra Irán mientras misiles impactaban en la isla de Qeshm",
+      "d": "Trump dijo que Estados Unidos llevó a cabo “ataques menores” contra Irán después de que los medios iraníes informaran que dos misiles impactaron en la isla de Qeshm, cerca del Estrecho de Ormuz.",
+      "u": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T07:37:36+00:00"
+    },
     {
       "h": "Environmental groups embrace AI, even as they warn of data center impacts",
       "es": "Environmental groups embrace AI, even as they warn of data center impacts",
@@ -9,6 +18,33 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA6058_L.jpg",
       "published": "2026-11-07T06:12:24+00:00"
+    },
+    {
+      "h": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+      "es": "Por qué está resultando tan difícil para las autoridades de aviación europeas contener una ola de amenazas de bomba",
+      "d": "El \"punto más débil de la aviación es atacarla en vuelo\", dicen los analistas, pero cualquier cambio en los procedimientos será un proceso largo.",
+      "u": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T06:00:01+00:00"
+    },
+    {
+      "h": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+      "es": "Ha comenzado la carrera para construir la primera planta de energía de fusión, y Europa busca ayuda en Japón",
+      "d": "La energía de fusión tiene el potencial de proporcionar energía limpia y abundante. Ahora, ha comenzado la carrera para desarrollar la primera planta comercial del mundo.",
+      "u": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T06:00:01+00:00"
+    },
+    {
+      "h": "Inside the card-grading empire shaping the price of Pokémon cards",
+      "es": "Dentro del imperio de calificación de cartas que determina el precio de las cartas Pokémon",
+      "d": "La prima de reventa, la cartera de pedidos y el dominio del mercado de calificaciones de PSA determinan lo que pagan los coleccionistas y cuánto pueden alcanzar sus tarjetas Pokémon.",
+      "u": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T02:00:01+00:00"
     },
     {
       "h": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
@@ -234,42 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-06T21:15:47+00:00"
-    },
-    {
-      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "es": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "d": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-26708039",
-      "published": "2026-11-06T21:15:00+00:00"
-    },
-    {
-      "h": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "es": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "d": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-      "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-88923729",
-      "published": "2026-11-06T21:15:00+00:00"
-    },
-    {
-      "h": "Galapagos cuts 9% of staff as AI push drives efficiency, Bloomberg reports",
-      "es": "Galápagos recorta un 9% de su personal a medida que la IA impulsa la eficiencia, informa Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/galapagos-cuts-9-of-staff-as-ai-push-drives-efficiency-bloomberg-reports-5009170",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg",
-      "published": "2026-11-06T21:14:07+00:00"
-    },
-    {
-      "h": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "es": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "d": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
-      "u": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T21:07:07+00:00"
     }
   ],
   "sources": [
