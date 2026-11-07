@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-07T21:34:50.810071+00:00",
+  "updated": "2026-11-07T22:15:21.011227+00:00",
   "news": [
+    {
+      "h": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "es": "El riesgo de una escalada de la guerra con Irán sigue siendo alto a pesar de la victoria demócrata en las elecciones intermedias de Estados Unidos",
+      "d": "Estados Unidos e Irán están en curso de colisión mientras las tensiones en el Medio Oriente aumentan a fuego lento.",
+      "u": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T22:10:40+00:00"
+    },
+    {
+      "h": "Ipswich Town's new club shop 'here to stay'",
+      "es": "La nueva tienda del club de Ipswich Town 'llegó para quedarse'",
+      "d": "Los aficionados y jugadores están encantados con el nuevo \"espacio de activación\" en el centro de la ciudad.",
+      "u": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ba/live/5fa987d0-daf3-11f1-827e-c7e7ee102257.jpg",
+      "published": "2026-11-07T21:40:32+00:00"
+    },
+    {
+      "h": "Can New Zealand's new government win over disillusioned voters?",
+      "es": "¿Podrá el nuevo gobierno de Nueva Zelanda ganarse a los votantes desilusionados?",
+      "d": "Las encuestas muestran que el estado de ánimo entre los kiwis es bajo, y la confianza en la política es aún menor, y los votantes abandonan los principales partidos en las urnas.",
+      "u": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-07T21:36:16+00:00"
+    },
     {
       "h": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
       "es": "Las bolsas de Rusia cierran a la baja; Índice MOEX Rusia sin cambios",
@@ -243,33 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-91335118",
       "published": "2026-11-07T15:41:00+00:00"
-    },
-    {
-      "h": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-      "es": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-      "d": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
-      "u": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-02492931",
-      "published": "2026-11-07T15:35:00+00:00"
-    },
-    {
-      "h": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "es": "Berkshire Hathaway duplica con creces las recompras en el tercer trimestre a medida que disminuyen las ganancias",
-      "d": "Berkshire Hathaway dijo el sábado que aceleró sus recompras de acciones durante el tercer trimestre, ya que las ganancias operativas y generales se vieron afectadas.",
-      "u": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-07T15:23:46+00:00"
-    },
-    {
-      "h": "Trump’s Iran war has changed the future of Social Security",
-      "es": "Trump’s Iran war has changed the future of Social Security",
-      "d": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-      "u": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-62220862",
-      "published": "2026-11-07T15:18:00+00:00"
     }
   ],
   "sources": [
