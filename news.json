@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T02:44:41.856687+00:00",
+  "updated": "2026-11-07T03:30:38.389621+00:00",
   "news": [
     {
       "h": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
@@ -117,6 +117,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA50ON_L.jpg",
       "published": "2026-11-06T21:42:33+00:00"
+    },
+    {
+      "h": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+      "es": "El senador Chris Murphy es dado de alta del hospital después de un derrame cerebral y se perderá las votaciones durante \"varias semanas\" mientras se rehabilita",
+      "d": "El demócrata de Connecticut Murphy ha sido discutido como posible candidato a la Casa Blanca en 2028.",
+      "u": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-06T21:40:09+00:00"
     },
     {
       "h": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
@@ -261,15 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
       "published": "2026-11-06T21:06:25+00:00"
-    },
-    {
-      "h": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-      "es": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-      "d": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
-      "u": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-84938354",
-      "published": "2026-11-06T20:58:00+00:00"
     }
   ],
   "sources": [
