@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-07T00:59:00.986223+00:00",
+  "updated": "2026-11-07T02:44:41.856687+00:00",
   "news": [
+    {
+      "h": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "es": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "d": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "u": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png",
+      "published": "2026-11-07T01:41:36+00:00"
+    },
+    {
+      "h": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "es": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg",
+      "published": "2026-11-07T01:00:53+00:00"
+    },
     {
       "h": "Goldman raises global data center capacity forecast to 273 GW by 2030",
       "es": "Goldman raises global data center capacity forecast to 273 GW by 2030",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-84938354",
       "published": "2026-11-06T20:58:00+00:00"
-    },
-    {
-      "h": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "es": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "d": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
-      "u": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-06T20:53:13+00:00"
-    },
-    {
-      "h": "Onsemi and Czech ministry cancel $2 billion chip facility expansion",
-      "es": "Onsemi and Czech ministry cancel $2 billion chip facility expansion",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/onsemi-and-czech-ministry-cancel-2-billion-chip-facility-expansion-5009119",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/ONSemiconductor_800x533_L_1762946593.jpg",
-      "published": "2026-11-06T20:47:36+00:00"
     }
   ],
   "sources": [
