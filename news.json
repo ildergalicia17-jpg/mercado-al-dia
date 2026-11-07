@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-07T11:52:27.920888+00:00",
+  "updated": "2026-11-07T12:31:41.952293+00:00",
   "news": [
+    {
+      "h": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+      "es": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+      "d": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+      "u": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-07T12:00:01+00:00"
+    },
     {
       "h": "Who is Paraguay’s new president Pedro Alliana?",
       "es": "Who is Paraguay’s new president Pedro Alliana?",
@@ -261,15 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEC602WR_M.jpg",
       "published": "2026-11-06T21:20:03+00:00"
-    },
-    {
-      "h": "OpenAI secures $11 billion funding at $1.25 trillion valuation, Bloomberg News reports",
-      "es": "OpenAI obtiene una financiación de 11.000 millones de dólares con una valoración de 1,25 billones de dólares, informa Bloomberg News",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports-5009182",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA51ZA_L.jpg",
-      "published": "2026-11-06T21:18:51+00:00"
     }
   ],
   "sources": [
