@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-08T14:29:02.025670+00:00",
+  "updated": "2026-11-08T15:13:03.312767+00:00",
   "news": [
+    {
+      "h": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+      "es": "Las cifras de beneficios de las empresas estadounidenses apenas superan las expectativas de Wall Street",
+      "d": "Las ganancias de las empresas del S&P 500 están superando en su mayoría las estimaciones de los analistas, pero por el margen más estrecho en aproximadamente cuatro años.",
+      "u": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-547915",
+      "published": "2026-11-08T15:00:00+00:00"
+    },
+    {
+      "h": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "es": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "d": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+      "u": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T14:15:00+00:00"
+    },
+    {
+      "h": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "es": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "d": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
+      "u": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T14:14:11+00:00"
+    },
     {
       "h": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
       "es": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-07T22:10:40+00:00"
-    },
-    {
-      "h": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "es": "El director de estrategia de Meta, Dave Wehner, se marcha para unirse a Fireworks, la startup de infraestructura de inteligencia artificial, como director financiero",
-      "d": "Dave Wehner, director de estrategia de Meta, dejará la empresa para convertirse en director financiero de Fireworks, la startup de infraestructura de inteligencia artificial valorada en 17.500 millones de dólares en julio.",
-      "u": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-07T22:01:17+00:00"
-    },
-    {
-      "h": "Ipswich Town's new club shop 'here to stay'",
-      "es": "La nueva tienda del club de Ipswich Town 'llegó para quedarse'",
-      "d": "Los aficionados y jugadores están encantados con el nuevo \"espacio de activación\" en el centro de la ciudad.",
-      "u": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ba/live/5fa987d0-daf3-11f1-827e-c7e7ee102257.jpg",
-      "published": "2026-11-07T21:40:32+00:00"
-    },
-    {
-      "h": "Can New Zealand's new government win over disillusioned voters?",
-      "es": "¿Podrá el nuevo gobierno de Nueva Zelanda ganarse a los votantes desilusionados?",
-      "d": "Las encuestas muestran que el estado de ánimo entre los kiwis es bajo, y la confianza en la política es aún menor, y los votantes abandonan los principales partidos en las urnas.",
-      "u": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-11-07T21:36:16+00:00"
     }
   ],
   "sources": [
