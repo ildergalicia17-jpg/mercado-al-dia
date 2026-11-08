@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-08T17:46:37.166064+00:00",
+  "updated": "2026-11-08T18:19:50.792716+00:00",
   "news": [
+    {
+      "h": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "es": "El director ejecutivo de Nvidia, Jensen Huang, se enfrenta al escrutinio bipartidista del Congreso por el supuesto vínculo de espionaje con China",
+      "d": "Los legisladores quieren interrogar al director ejecutivo de Nvidia, Jensen Huang, tras los informes sobre su relación con un presunto activo de inteligencia chino.",
+      "u": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T18:18:30+00:00"
+    },
+    {
+      "h": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "es": "“Parece extraño”: tenemos 80 años y 950.000 dólares en cuentas IRA tradicionales. ¿Por qué nuestro asesor impulsa las conversiones Roth?",
+      "d": "\"Nuestros gastos básicos de subsistencia están cubiertos por 110.000 dólares en pensiones anuales y la Seguridad Social\".",
+      "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-26708039",
+      "published": "2026-11-08T18:00:00+00:00"
+    },
+    {
+      "h": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "es": "Los grupos ambientalistas adoptan la IA, incluso cuando advierten sobre los impactos en los centros de datos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-5010279",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA6058_L.jpg",
+      "published": "2026-11-08T17:48:23+00:00"
+    },
+    {
+      "h": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "es": "Estas son las dos cosas importantes que veremos en el mercado de valores durante la próxima semana",
+      "d": "Los datos de inflación y ganancias de CoreWeave ocuparán un lugar central.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T17:40:15+00:00"
+    },
     {
       "h": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
       "es": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
@@ -234,42 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
       "published": "2026-11-08T11:36:02+00:00"
-    },
-    {
-      "h": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
-      "es": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/buy-the-dip-or-wait-bofa-maps-out-3-scenarios-for-chip-stocks-and-top-picks-5010206",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL3F0GL_L.jpg",
-      "published": "2026-11-08T11:27:01+00:00"
-    },
-    {
-      "h": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "es": "El gobierno \"está considerando seriamente\" prohibir la entrada de menores de 16 años a Vinted y eBay",
-      "d": "El secretario de cultura confirma los informes que podrían estar en la lista de plataformas que serán prohibidas el próximo marzo.",
-      "u": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
-      "published": "2026-11-08T10:44:42+00:00"
-    },
-    {
-      "h": "India stocks lower at close of trade; Nifty 50 down 0.18%",
-      "es": "Las Bolsas de India cierran a la baja; Nifty 50 bajó un 0,18%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-018-5010190",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED4H0E4_M.jpg",
-      "published": "2026-11-08T10:30:05+00:00"
-    },
-    {
-      "h": "Street Calls of The Week",
-      "es": "Llamadas callejeras de la semana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-5009979",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/Smartphone_M_1440049602.jpg",
-      "published": "2026-11-08T10:05:02+00:00"
     }
   ],
   "sources": [
