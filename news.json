@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T12:09:27.645309+00:00",
+  "updated": "2026-11-08T12:59:22.149342+00:00",
   "news": [
+    {
+      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.78%",
+      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 0,78%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-078-5010219",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/SaudiArabiaStockExchange_800x533_L_1617193438.jpg",
+      "published": "2026-11-08T12:45:03+00:00"
+    },
     {
       "h": "This market signal called the tech selloff. Now it’s sending another warning.",
       "es": "This market signal called the tech selloff. Now it’s sending another warning.",
@@ -137,6 +146,15 @@
       "published": "2026-11-07T23:02:35+00:00"
     },
     {
+      "h": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+      "es": "El director financiero de Binance, Kaiser, dimite y Justin Yek es nombrado nuevo director financiero",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA60JD_L.jpg",
+      "published": "2026-11-07T22:48:56+00:00"
+    },
+    {
       "h": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
       "es": "El riesgo de una escalada de la guerra con Irán sigue siendo alto a pesar de la victoria demócrata en las elecciones intermedias de Estados Unidos",
       "d": "Estados Unidos e Irán están en curso de colisión mientras las tensiones en el Medio Oriente aumentan a fuego lento.",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-97735735",
       "published": "2026-11-07T18:36:00+00:00"
-    },
-    {
-      "h": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "es": "El director de estrategia de Meta, Dave Wehner, se marcha para unirse a Fireworks, la startup de infraestructura de inteligencia artificial, como director financiero",
-      "d": "Dave Wehner, director de estrategia de Meta, dejará la empresa para convertirse en director financiero de Fireworks, la startup de infraestructura de inteligencia artificial valorada en 17.500 millones de dólares en julio.",
-      "u": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-07T17:51:16+00:00"
-    },
-    {
-      "h": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-      "es": "La gran victoria electoral de los demócratas revive una difícil cuestión de la Seguridad Social: ¿quién paga?",
-      "d": "Hay muchas ideas para salvar el Seguro Social. Todos ellos dolerán.",
-      "u": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-68489722",
-      "published": "2026-11-07T17:43:00+00:00"
     }
   ],
   "sources": [
