@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-08T19:14:03.115221+00:00",
+  "updated": "2026-11-08T21:14:31.316505+00:00",
   "news": [
+    {
+      "h": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "es": "Nvidia investiga la relación del CEO Jensen Huang con el presunto espía chino",
+      "d": "",
+      "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T21:09:07+00:00"
+    },
+    {
+      "h": "Nvidia CEO Jensen Huang admits to affair, apologises to employees",
+      "es": "El director ejecutivo de Nvidia, Jensen Huang, admite su aventura y se disculpa con los empleados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM130GP_1200_L.jpg",
+      "published": "2026-11-08T20:54:01+00:00"
+    },
+    {
+      "h": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+      "es": "Nvidia lanza una investigación tras el informe de que el CEO Huang fue blanco de inteligencia extranjera",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70K4_L.jpg",
+      "published": "2026-11-08T20:18:25+00:00"
+    },
     {
       "h": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
       "es": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
@@ -243,33 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-08T13:00:01+00:00"
-    },
-    {
-      "h": "Brands are sponsoring IRL communities. Some experts say that could spell their end",
-      "es": "Las marcas patrocinan comunidades IRL. Algunos expertos dicen que eso podría significar su fin.",
-      "d": "Las marcas están patrocinando clubes de lectura y otros grupos locales, lo que brinda a los organizadores nuevos ingresos y al mismo tiempo plantea dudas sobre la confianza y la comunidad.",
-      "u": "https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-08T13:00:01+00:00"
-    },
-    {
-      "h": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.78%",
-      "es": "Las bolsas de Arabia Saudí cierran a la baja; Tadawul All Share bajó un 0,78%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-078-5010219",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/SaudiArabiaStockExchange_800x533_L_1617193438.jpg",
-      "published": "2026-11-08T12:45:03+00:00"
-    },
-    {
-      "h": "This market signal called the tech selloff. Now it’s sending another warning.",
-      "es": "This market signal called the tech selloff. Now it’s sending another warning.",
-      "d": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
-      "u": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-68677954",
-      "published": "2026-11-08T12:00:00+00:00"
     }
   ],
   "sources": [
