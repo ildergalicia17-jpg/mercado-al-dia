@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-08T18:19:50.792716+00:00",
+  "updated": "2026-11-08T19:14:03.115221+00:00",
   "news": [
+    {
+      "h": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "es": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "d": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+      "u": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-08T18:57:56+00:00"
+    },
     {
       "h": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
       "es": "El director ejecutivo de Nvidia, Jensen Huang, se enfrenta al escrutinio bipartidista del Congreso por el supuesto vínculo de espionaje con China",
@@ -99,6 +108,15 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
       "published": "2026-11-08T15:50:25+00:00"
+    },
+    {
+      "h": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "es": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "d": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "u": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+      "published": "2026-11-08T15:37:25+00:00"
     },
     {
       "h": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
@@ -252,24 +270,6 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-68677954",
       "published": "2026-11-08T12:00:00+00:00"
-    },
-    {
-      "h": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-      "es": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-      "d": "Three dividend-paying stocks that are highlighted by Wall Street’s top pros, as tracked by TipRanks.",
-      "u": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-08T11:47:24+00:00"
-    },
-    {
-      "h": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-      "es": "Anthropic reportedly strikes $3.4 billion deal for gas-fired power at data centres",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg",
-      "published": "2026-11-08T11:36:02+00:00"
     }
   ],
   "sources": [
