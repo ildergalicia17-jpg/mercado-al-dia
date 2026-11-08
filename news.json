@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-08T22:30:56.640956+00:00",
+  "updated": "2026-11-08T23:47:56.238414+00:00",
   "news": [
+    {
+      "h": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "es": "Este profesor jubilado se ha reinventado a sí mismo como académico de Taylor Swift",
+      "d": "Su sobrina lo convenció de pasar su retiro analizando las letras de Taylor Swift. Ahora es un podcaster exitoso a sus 72 años.",
+      "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-69887372",
+      "published": "2026-11-08T23:35:00+00:00"
+    },
+    {
+      "h": "You follow the rules for smart stock trading. But are they the right rules?",
+      "es": "Sigue las reglas para el comercio de acciones inteligente. ¿Pero son las reglas correctas?",
+      "d": "Aplique la sabiduría de los profesionales de la inversión para desarrollar su propia metodología consistente.",
+      "u": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-93264190",
+      "published": "2026-11-08T23:15:00+00:00"
+    },
+    {
+      "h": "National Australia Bank names Ian Saines as next chair",
+      "es": "El Banco Nacional de Australia nombra a Ian Saines como próximo presidente",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/national-australia-bank-names-ian-saines-as-next-chair-5010345",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70ON_L.jpg",
+      "published": "2026-11-08T23:00:23+00:00"
+    },
     {
       "h": "Could HBF be the solution to the Memory bottleneck?",
       "es": "Could HBF be the solution to the Memory bottleneck?",
@@ -243,33 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70B8_L.jpg",
       "published": "2026-11-08T15:00:24+00:00"
-    },
-    {
-      "h": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "es": "Las cifras de beneficios de las empresas estadounidenses apenas superan las expectativas de Wall Street",
-      "d": "Las ganancias de las empresas del S&P 500 están superando en su mayoría las estimaciones de los analistas, pero por el margen más estrecho en aproximadamente cuatro años.",
-      "u": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-547915",
-      "published": "2026-11-08T15:00:00+00:00"
-    },
-    {
-      "h": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-      "es": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-      "d": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
-      "u": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-08T14:15:00+00:00"
-    },
-    {
-      "h": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "es": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "d": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
-      "u": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-08T14:14:11+00:00"
     }
   ],
   "sources": [
