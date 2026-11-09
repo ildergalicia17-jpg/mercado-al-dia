@@ -1,6 +1,231 @@
 {
-  "updated": "2026-11-09T13:44:15.040998+00:00",
+  "updated": "2026-11-09T15:40:34.844129+00:00",
   "news": [
+    {
+      "h": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "es": "Trump cuestiona los resultados de las elecciones intermedias y revive la conspiración sobre las máquinas de votación",
+      "d": "El cuestionamiento del presidente Trump sobre la legitimidad de su derrota en las elecciones de 2020 culminó con un ataque al Capitolio de Estados Unidos por parte de una turba de sus partidarios.",
+      "u": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T15:39:30+00:00"
+    },
+    {
+      "h": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+      "es": "Cómo SpaceX pudo evitar uno de los mayores temores del mercado sobre sus acciones",
+      "d": "A algunos inversores les preocupaba que las volátiles acciones de SpaceX tuvieran un impacto extremo en los índices, pero el calendario escalonado de bloqueos de la compañía ha mitigado este problema.",
+      "u": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-63500950",
+      "published": "2026-11-09T15:35:00+00:00"
+    },
+    {
+      "h": "Civil servant who juggled five jobs found guilty of fraud",
+      "es": "Funcionario que hacía malabarismos con cinco trabajos declarado culpable de fraude",
+      "d": "Kashim Chowdhury había ocupado en secreto múltiples empleos en el sector público con salarios de tiempo completo.",
+      "u": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
+      "published": "2026-11-09T15:33:35+00:00"
+    },
+    {
+      "h": "Caterpillar stock support and resistance levels after 5.8% rebound",
+      "es": "Niveles de soporte y resistencia de las acciones de Caterpillar después de un rebote del 5,8%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/caterpillar-stock-support-and-resistance-levels-after-58-rebound-93CH-5012776",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED301WM_L.jpg",
+      "published": "2026-11-09T15:32:24+00:00"
+    },
+    {
+      "h": "Weekend trading of Nvidia scandal shines light on new financial products",
+      "es": "El comercio de fin de semana del escándalo de Nvidia arroja luz sobre nuevos productos financieros",
+      "d": "El escándalo de Nvidia arroja luz sobre el creciente uso de futuros perpetuos y otros productos comerciales",
+      "u": "https://www.cnbc.com/2026/11/09/weekend-trading-of-nvidia-scandal-shines-light-on-new-financial-products.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T15:31:32+00:00"
+    },
+    {
+      "h": "Bon Secours affiliate sweetens bid for Surgery Partners to up to $6 billion",
+      "es": "La filial de Bon Secours eleva la oferta por Surgery Partners hasta 6.000 millones de dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/bon-secours-affiliate-sweetens-bid-for-surgery-partners-to-up-to-6-billion-5012485",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA819N_L.jpg",
+      "published": "2026-11-09T15:31:03+00:00"
+    },
+    {
+      "h": "US FDA orders new eye risk warnings for Ozempic, Zepbound",
+      "es": "La FDA de EE. UU. ordena nuevas advertencias de riesgo ocular para Ozempic y Zepbound",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound-5012770",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Omvoh_800x533_L_1761662745.jpg",
+      "published": "2026-11-09T15:30:48+00:00"
+    },
+    {
+      "h": "Turkey stocks higher at close of trade; BIST 100 up 2.00%",
+      "es": "Las bolsas de Turquía cierran al alza; BIST 100 subió un 2,00%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-200-5012766",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEG9S0WT-ORUBS_L.jpg",
+      "published": "2026-11-09T15:30:04+00:00"
+    },
+    {
+      "h": "MRNA support and resistance levels to watch",
+      "es": "Niveles de soporte y resistencia del ARNm a tener en cuenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mrna-support-and-resistance-levels-to-watch-93CH-5012765",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/Moderna_800x533_L_1597823733.jpg",
+      "published": "2026-11-09T15:29:43+00:00"
+    },
+    {
+      "h": "PLTR support and resistance levels to watch",
+      "es": "Niveles de soporte y resistencia de PLTR a tener en cuenta",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pltr-support-and-resistance-levels-to-watch-93CH-5012763",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL730SQ_L.jpg",
+      "published": "2026-11-09T15:27:18+00:00"
+    },
+    {
+      "h": "Why is WSP Global stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de WSP Global hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-wsp-global-stock-climbing-today-93CH-5012762",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-11-09T15:26:24+00:00"
+    },
+    {
+      "h": "Why is Ferguson Enterprises stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Ferguson Enterprises hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ferguson-enterprises-stock-surging-today-93CH-5012761",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-09T15:25:23+00:00"
+    },
+    {
+      "h": "Why is Ocular Therapeutix stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Ocular Therapeutix hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-ocular-therapeutix-stock-sliding-today-93CH-5012760",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published": "2026-11-09T15:25:19+00:00"
+    },
+    {
+      "h": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "es": "Un ensayo fallido de un medicamento para el corazón ensombrece a los rivales que desarrollan terapias similares",
+      "d": "Los datos completos del ensayo clínico observado de cerca mostraron que el fármaco no tenía ningún beneficio cardiovascular a pesar de que reducía los niveles de Lp(a).",
+      "u": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-68814981",
+      "published": "2026-11-09T15:16:00+00:00"
+    },
+    {
+      "h": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "es": "“Mi vida podría verse truncada”: tengo 55 años, estoy casado y tengo un tumor cerebral. ¿Debería gastar dinero en un Porsche de 210.000 dólares?",
+      "d": "\"También quiero preservar la oportunidad de dejar un legado significativo a mis dos hijos\".",
+      "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-49119290",
+      "published": "2026-11-09T15:00:00+00:00"
+    },
+    {
+      "h": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
+      "es": "El director ejecutivo de Goodyear Tire, Mark Stewart, dimite mientras la empresa continúa con su plan de recuperación",
+      "d": "Goodyear Tire & Rubber nombró director ejecutivo y presidente interino a Roger Wood, miembro de la junta directiva, en sustitución de Mark Stewart mientras el fabricante de neumáticos continúa con su plan de recuperación.",
+      "u": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T14:56:47+00:00"
+    },
+    {
+      "h": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+      "es": "Mientras caen las acciones de Nvidia, esto es lo que Wall Street tiene que decir sobre el escándalo de Jensen Huang",
+      "d": "Las consecuencias de la nueva investigación de la junta podrían convertirse en \"un problema más duradero para la empresa\", dicen los analistas.",
+      "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-03911341",
+      "published": "2026-11-09T14:45:00+00:00"
+    },
+    {
+      "h": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
+      "es": "La píldora para la obesidad Foundayo de Eli Lilly alivia la apnea del sueño en un ensayo de última etapa, allanando el camino para su aprobación",
+      "d": "Lilly planea solicitar antes de fin de año la aprobación en Estados Unidos de la píldora diaria para la apnea obstructiva del sueño de moderada a grave en adultos con obesidad.",
+      "u": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T14:30:01+00:00"
+    },
+    {
+      "h": "‘She can always change her mind’: Should a widow leave the family home to her stepchildren?",
+      "es": "“Ella siempre puede cambiar de opinión”: ¿Debería una viuda dejar la casa familiar a sus hijastros?",
+      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
+      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06068042",
+      "published": "2026-11-09T14:30:00+00:00"
+    },
+    {
+      "h": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "es": "El robot doméstico Astro de Amazon tiene fans, pero parece destinado al \"montón de basura\". ¿Por qué lo está intentando de nuevo?",
+      "d": "Amazon ha formado un nuevo equipo de robótica doméstica y está contratando para un \"producto robótico nuevo en el mundo\", según el análisis de puestos de trabajo de CNBC.",
+      "u": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T14:24:34+00:00"
+    },
+    {
+      "h": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
+      "es": "A medida que el comercio de IA flaquea, Goldman Sachs dice que esta región rezagada ahora está posicionada para obtener mejores resultados",
+      "d": "Precisamente porque durante mucho tiempo han estado paralizadas por mercados laborales rígidos y una regulación excesiva, las acciones europeas pueden, paradójicamente, ser mayores beneficiarias de la revolución de la IA en términos de mayor productividad y reducción de costos que sus contrapartes estadounidenses.",
+      "u": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-35644964",
+      "published": "2026-11-09T14:16:00+00:00"
+    },
+    {
+      "h": "Why tech workers are flocking to NYC",
+      "es": "Por qué los trabajadores tecnológicos están acudiendo en masa a Nueva York",
+      "d": "La ciudad de Nueva York ahora tiene más empleados tecnológicos que el Área de la Bahía. He aquí por qué los trabajadores (y las empresas) están acudiendo en masa a la ciudad.",
+      "u": "https://www.cnbc.com/make-it/2026/11/09/new-york-city-tech-workers-jobs.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T14:15:02+00:00"
+    },
+    {
+      "h": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "es": "“Tuvimos la peor pelea”: quiero que mi marido se jubile a los 65 años, pero no quiero perder su salario de 280.000 dólares. ¿Es eso irrazonable?",
+      "d": "\"Tenemos 2,6 millones de dólares, la mayor parte en su 401(k) y en sus cuentas IRA, más 450.000 dólares en una cuenta de corretaje\".",
+      "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-41887542",
+      "published": "2026-11-09T14:15:00+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "es": "Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el lunes",
+      "d": "Hoy todo gira en torno a Jensen Huang de Nvidia.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T14:11:35+00:00"
+    },
+    {
+      "h": "Home listings pile up in October, but sellers won't slash prices",
+      "es": "Los listados de viviendas se acumulan en octubre, pero los vendedores no bajarán los precios",
+      "d": "Después de un mes difícil en septiembre, el mercado inmobiliario permaneció congelado en octubre a medida que se acumulaban las ofertas. Los vendedores todavía se muestran reacios a bajar los precios.",
+      "u": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-09T13:54:29+00:00"
+    },
     {
       "h": "Rising cost of living tests UK's net zero ambitions",
       "es": "El aumento del coste de vida pone a prueba las ambiciones netas cero del Reino Unido",
@@ -45,231 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA814W_L.jpg",
       "published": "2026-11-09T13:30:19+00:00"
-    },
-    {
-      "h": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "es": "Mi padre, de 93 años, cambió su testamento en el último momento, dejando a mi hermano todo su patrimonio de 500.000 dólares. ¿Puedo desafiarlo?",
-      "d": "“Mi hermano no tenía trabajo y necesitaba un lugar donde vivir”.",
-      "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04902439",
-      "published": "2026-11-09T13:30:00+00:00"
-    },
-    {
-      "h": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
-      "es": "La jubilación es ahora parte de la crisis de asequibilidad. Los políticos deberían prestar atención.",
-      "d": "Los estadounidenses están más preocupados que nunca por la jubilación y algunos de sus mayores temores no pueden solucionarse únicamente con el comportamiento individual.",
-      "u": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-29541599",
-      "published": "2026-11-09T13:30:00+00:00"
-    },
-    {
-      "h": "CorMedix stock gains as Heron deal adds four products",
-      "es": "CorMedix stock gains as Heron deal adds four products",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/cormedix-stock-gains-as-heron-deal-adds-four-products-5012105",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
-      "published": "2026-11-09T13:29:51+00:00"
-    },
-    {
-      "h": "JPMorgan drops Alphabet from focus list, adds Meta on AI advertising gains",
-      "es": "JPMorgan elimina a Alphabet de la lista de enfoque y agrega Meta a las ganancias publicitarias de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jpmorgan-drops-alphabet-from-focus-list-adds-meta-on-ai-advertising-gains-5012087",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N129_L.jpg",
-      "published": "2026-11-09T13:29:01+00:00"
-    },
-    {
-      "h": "Why is NRG Energy stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de NRG Energy hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-nrg-energy-stock-surging-today-93CH-5012090",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/oil_2_M_1440047844.jpg",
-      "published": "2026-11-09T13:28:00+00:00"
-    },
-    {
-      "h": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
-      "es": "¿Podrían los suplementos ser la próxima gran oportunidad en el auge de los medicamentos para bajar de peso GLP-1?",
-      "d": "Novonesis está explorando si los suplementos para la salud intestinal podrían beneficiar a los pacientes que toman medicamentos para bajar de peso GLP-1, abriendo un nuevo mercado potencialmente lucrativo.",
-      "u": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T13:27:57+00:00"
-    },
-    {
-      "h": "Why is Eli Lilly stock climbing today?",
-      "es": "¿Por qué están subiendo las acciones de Eli Lilly hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-eli-lilly-stock-climbing-today-93CH-5012089",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEF150TG_M.jpg",
-      "published": "2026-11-09T13:27:57+00:00"
-    },
-    {
-      "h": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "es": "La agitación del CEO de Nvidia da a los demócratas recién empoderados nuevas municiones en su búsqueda de la supervisión",
-      "d": "La relación extramatrimonial del director ejecutivo de Nvidia, Jensen Huang, con un presunto espía chino se produce cuando la compañía ya está a punto de enfrentar un mayor escrutinio.",
-      "u": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T13:13:52+00:00"
-    },
-    {
-      "h": "Citigroup downgrades US equities to ’neutral’ on AI concerns",
-      "es": "Citigroup rebaja la calificación de las acciones estadounidenses a \"neutrales\" por preocupaciones sobre la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/citigroup-downgrades-us-equities-to-neutral-on-ai-concerns-5012010",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA814I_L.jpg",
-      "published": "2026-11-09T13:13:02+00:00"
-    },
-    {
-      "h": "Disney, Adobe to co-develop custom AI models tailored for media giant",
-      "es": "Disney y Adobe desarrollarán conjuntamente modelos de IA personalizados para el gigante de los medios",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/disney-adobe-to-codevelop-custom-ai-models-tailored-for-media-giant-5012009",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA814M_L.jpg",
-      "published": "2026-11-09T13:12:44+00:00"
-    },
-    {
-      "h": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "es": "Lo que sabemos hasta ahora sobre el romance de Jensen Huang con el presunto espía chino",
-      "d": "El multimillonario ejecutivo tecnológico se ve envuelto en un escándalo de seguridad personal y nacional.",
-      "u": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-11-09T13:10:32+00:00"
-    },
-    {
-      "h": "These states are offering extra ACA premium subsidies in 2027",
-      "es": "Estos estados ofrecen subsidios adicionales para las primas de la ACA en 2027",
-      "d": "Aproximadamente una docena de estados están ofreciendo cierta asistencia en las primas para los afiliados a Obamacare, luego de la expiración de los subsidios federales mejorados a fines de 2025.",
-      "u": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T13:00:01+00:00"
-    },
-    {
-      "h": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy",
-      "es": "Un nuevo revés para el comercio de IA: la junta directiva de Nvidia está investigando la relación del CEO Huang con un presunto espía",
-      "d": "Jensen Huang permanecerá en su cargo y cooperará con la investigación, aunque los analistas dicen que el asunto podría nublar las acciones de Nvidia durante algún tiempo.",
-      "u": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-62932554",
-      "published": "2026-11-09T12:26:00+00:00"
-    },
-    {
-      "h": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "es": "“Parece como si estuviera construyendo silenciosamente una vida separada”: mi marido heredó 500.000 dólares, pero se niega a gastarlos en nuestra casa",
-      "d": "\"Nuestra cocina data del año 1999 y el horno sólo funciona si se golpea la puerta de cierta manera\".",
-      "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-88923729",
-      "published": "2026-11-09T12:15:00+00:00"
-    },
-    {
-      "h": "Why is Airbus stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Airbus hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-airbus-stock-rallying-today-93CH-5011563",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEDB520A_M.jpg",
-      "published": "2026-11-09T12:14:03+00:00"
-    },
-    {
-      "h": "Why is SCHOTT Pharma stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de SCHOTT Pharma hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-schott-pharma-stock-sliding-today-93CH-5011561",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-11-09T12:13:31+00:00"
-    },
-    {
-      "h": "Why is Greenfire Resources stock surging today?",
-      "es": "¿Por qué están aumentando las acciones de Greenfire Resources hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-greenfire-resources-stock-surging-today-93CH-5011560",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-09T12:13:28+00:00"
-    },
-    {
-      "h": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
-      "es": "¿Puede el comercio de IA tomar un respiro? Nvidia, Anthropic y CoreWeave pueden tener voz y voto.",
-      "d": "Después de una dura racha para las acciones tecnológicas, los inversores enfrentan nuevas preguntas sobre el liderazgo, las valoraciones y el costo del auge de la IA. Además, un bis de Taylor Swift para un jubilado de 72 años.",
-      "u": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86527348",
-      "published": "2026-11-09T12:08:00+00:00"
-    },
-    {
-      "h": "Government's EV targets expected to be reduced this week",
-      "es": "Se espera que los objetivos de vehículos eléctricos del gobierno se reduzcan esta semana",
-      "d": "Los coches nuevos de gasolina o diésel se eliminarán progresivamente de aquí a 2030 y, de aquí a 2035, todos los coches nuevos deberán tener cero emisiones.",
-      "u": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
-      "published": "2026-11-09T12:06:22+00:00"
-    },
-    {
-      "h": "NRG Energy stock surges 4.2% on $4 billion asset sale",
-      "es": "Las acciones de NRG Energy suben un 4,2% con la venta de activos por 4.000 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nrg-energy-stock-surges-42-on-4-billion-asset-sale-93CH-5011465",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEA760SZ_M.jpg",
-      "published": "2026-11-09T12:00:14+00:00"
-    },
-    {
-      "h": "Restaurant chains refocus on food quality to bring back diners",
-      "es": "Las cadenas de restaurantes vuelven a centrarse en la calidad de los alimentos para recuperar a los comensales",
-      "d": "Wendy's, Burger King, Chipotle y otras cadenas están mejorando los elementos básicos del menú a medida que los restaurantes buscan más allá de los descuentos para recuperar a los comensales.",
-      "u": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T12:00:01+00:00"
-    },
-    {
-      "h": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-      "es": "CoreWeave se enfrenta a la narrativa del 'ciclo fatal' mientras el riesgo crediticio de la neonube eclipsa el crecimiento",
-      "d": "Las principales neonubes CoreWeave y Nebius han perdido aproximadamente la mitad de su valor en el último mes mientras se preparan para los informes de ganancias de esta semana.",
-      "u": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T12:00:01+00:00"
-    },
-    {
-      "h": "Faeth Therapeutics reports positive Phase 2 results for endometrial cancer drug",
-      "es": "Faeth Therapeutics informa resultados positivos de fase 2 para un fármaco contra el cáncer de endometrio",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/faeth-therapeutics-reports-positive-phase-2-results-for-endometrial-cancer-drug-5011462",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/green1_b._M_1440048373.jpg",
-      "published": "2026-11-09T12:00:00+00:00"
-    },
-    {
-      "h": "Why is Axon Enterprise stock rebounding today?",
-      "es": "¿Por qué las acciones de Axon Enterprise se están recuperando hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-axon-enterprise-stock-rebounding-today-93CH-5011449",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-11-09T11:56:51+00:00"
-    },
-    {
-      "h": "HSBC says tech selloff appears overdone amid AI regulation concerns",
-      "es": "HSBC dice que la venta masiva de tecnología parece exagerada en medio de preocupaciones sobre la regulación de la IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-says-tech-selloff-appears-overdone-amid-ai-regulation-concerns-93CH-5011446",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-09T11:55:07+00:00"
     }
   ],
   "sources": [
