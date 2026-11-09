@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-09T06:53:19.379911+00:00",
+  "updated": "2026-11-09T08:14:29.125356+00:00",
   "news": [
+    {
+      "h": "Is it the end of free school milk?",
+      "es": "Is it the end of free school milk?",
+      "d": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
+      "u": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a537/live/98c8c400-da02-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-09T08:12:30+00:00"
+    },
+    {
+      "h": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "es": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "d": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "u": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+      "published": "2026-11-09T08:10:25+00:00"
+    },
+    {
+      "h": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
+      "es": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tesla-to-refund-many-cybertruck-deposits-as-demand-exceeds-production-musk-says-5010643",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA80J8_L.jpg",
+      "published": "2026-11-09T07:42:21+00:00"
+    },
+    {
+      "h": "Argenx to acquire biotech firm Unnatural Products for $1.15 billion",
+      "es": "Argenx to acquire biotech firm Unnatural Products for $1.15 billion",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/argenx-to-acquire-biotech-firm-unnatural-products-for-115-billion-5010644",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB0509U_M.jpg",
+      "published": "2026-11-09T07:36:57+00:00"
+    },
+    {
+      "h": "Airbus kicks off €5 bln buyback with first €800 mln tranche",
+      "es": "Airbus kicks off €5 bln buyback with first €800 mln tranche",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/airbus-kicks-off-5-bln-buyback-with-first-800-mln-tranche-5010628",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC9C188_M.jpg",
+      "published": "2026-11-09T07:24:36+00:00"
+    },
+    {
+      "h": "DNO Bidco’s cash offer for Capricorn Energy lapses after deadline miss",
+      "es": "DNO Bidco’s cash offer for Capricorn Energy lapses after deadline miss",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/dno-bidcos-cash-offer-for-capricorn-energy-lapses-after-deadline-miss-5010620",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
+      "published": "2026-11-09T07:13:42+00:00"
+    },
+    {
+      "h": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "es": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "d": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "u": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0343/live/157fc790-dc0c-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-09T07:10:11+00:00"
+    },
+    {
+      "h": "Japan stocks higher at close of trade; Nikkei 225 up 2.51%",
+      "es": "Japan stocks higher at close of trade; Nikkei 225 up 2.51%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-251-5010591",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE18057_M.jpg",
+      "published": "2026-11-09T07:00:04+00:00"
+    },
+    {
+      "h": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
+      "es": "Explainer-What we know about Nvidia’s probe into CEO Jensen Huang",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA80GI_L.jpg",
+      "published": "2026-11-09T06:54:27+00:00"
+    },
+    {
+      "h": "Nordex wins 84 MW Verbund order for Albania’s first wind farm",
+      "es": "Nordex wins 84 MW Verbund order for Albania’s first wind farm",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nordex-wins-84-mw-verbund-order-for-albanias-first-wind-farm-93CH-5010555",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published": "2026-11-09T06:38:52+00:00"
+    },
     {
       "h": "Cicor secures two defense contracts worth CHF 20 mln in 2027",
       "es": "Cicor secures two defense contracts worth CHF 20 mln in 2027",
@@ -180,96 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/TaiwanStockExchange_800x533_L_1659429835.jpg",
       "published": "2026-11-09T04:30:31+00:00"
-    },
-    {
-      "h": "Trump says he wants UFC chief Dana White for White House press secretary",
-      "es": "Trump says he wants UFC chief Dana White for White House press secretary",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary-5010447",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA60KY_L.jpg",
-      "published": "2026-11-09T04:30:27+00:00"
-    },
-    {
-      "h": "Trump calls Nvidia’s Huang ‘honorable,’ says yet to discuss China allegations",
-      "es": "Trump calls Nvidia’s Huang ‘honorable,’ says yet to discuss China allegations",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-yet-to-discuss-china-allegations-5010441",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6U19A_L.jpg",
-      "published": "2026-11-09T04:14:51+00:00"
-    },
-    {
-      "h": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
-      "es": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB2N008_M.jpg",
-      "published": "2026-11-09T03:55:52+00:00"
-    },
-    {
-      "h": "Why is ANZ stock sliding today?",
-      "es": "Why is ANZ stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-anz-stock-sliding-today-93CH-5010436",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-11-09T03:53:17+00:00"
-    },
-    {
-      "h": "Nvidia falls about 3% in after-hours and perpetual futures trade",
-      "es": "Nvidia cae alrededor del 3% en el comercio de futuros perpetuos y fuera de horario",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-falls-about-3-in-afterhours-and-perpetual-futures-trade-5010425",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA807J_L.jpg",
-      "published": "2026-11-09T03:06:20+00:00"
-    },
-    {
-      "h": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
-      "es": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mitsui-chemicals-to-buy-chip-materials-maker-jsr-for-11-bln-5010413",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM4K000_L.jpg",
-      "published": "2026-11-09T02:29:07+00:00"
-    },
-    {
-      "h": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "es": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "d": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
-      "u": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T02:28:50+00:00"
-    },
-    {
-      "h": "This cancer-testing stock is BTIG’s top pick after another major earnings beat",
-      "es": "This cancer-testing stock is BTIG’s top pick after another major earnings beat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/this-cancertesting-stock-is-btigs-top-pick-after-another-major-earnings-beat-5010410",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg",
-      "published": "2026-11-09T02:08:17+00:00"
-    },
-    {
-      "h": "RBA’s Hunter sees limited AI productivity gains so far",
-      "es": "RBA’s Hunter sees limited AI productivity gains so far",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/rbas-hunter-sees-limited-ai-productivity-gains-so-far-93CH-5010406",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published": "2026-11-09T01:47:53+00:00"
-    },
-    {
-      "h": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "es": "“Mi vida podría verse truncada”: tengo 55 años, estoy casado y tengo un tumor cerebral. ¿Debería gastar dinero en un Porsche de 210.000 dólares?",
-      "d": "\"También quiero preservar la oportunidad de dejar un legado significativo a mis dos hijos\".",
-      "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49119290",
-      "published": "2026-11-09T01:21:00+00:00"
     }
   ],
   "sources": [
