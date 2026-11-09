@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-08T23:47:56.238414+00:00",
+  "updated": "2026-11-09T00:24:08.436930+00:00",
   "news": [
+    {
+      "h": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "es": "Nvidia inicia una investigación sobre el romance del CEO con un presunto espía chino",
+      "d": "Jensen Huang también admitió haber sido \"infiel\" a su esposa y dice que cooperará con una investigación de seguridad.",
+      "u": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+      "published": "2026-11-09T00:16:49+00:00"
+    },
+    {
+      "h": "Doing these things now will help you save money at Christmas",
+      "es": "Hacer estas cosas ahora te ayudará a ahorrar dinero en Navidad",
+      "d": "Las pequeñas decisiones que se toman ahora pueden marcar una gran diferencia en sus finanzas navideñas, dicen las organizaciones benéficas, por lo que a continuación se ofrecen algunos consejos.",
+      "u": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
+      "published": "2026-11-09T00:09:14+00:00"
+    },
+    {
+      "h": "Japan Tobacco says all JT Group entities in Russia under temporary administration",
+      "es": "Japan Tobacco dice que todas las entidades del Grupo JT en Rusia están bajo administración temporal",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/japan-tobacco-says-all-jt-group-entities-in-russia-under-temporary-administration-5010361",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70QF_L.jpg",
+      "published": "2026-11-09T00:00:24+00:00"
+    },
+    {
+      "h": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+      "es": "Trump llama \"honorable\" a Huang de Nvidia y dice que no ha discutido las acusaciones con él",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70PK_L.jpg",
+      "published": "2026-11-08T23:54:21+00:00"
+    },
+    {
+      "h": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "es": "¿Cuántas conversiones Roth se pueden hacer en 2027 con los nuevos tramos impositivos?",
+      "d": "En realidad, las matemáticas deberían comenzar con \"si\", no con \"cuánto\".",
+      "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-58357605",
+      "published": "2026-11-08T23:50:00+00:00"
+    },
+    {
+      "h": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "es": "Tengo 65 años y valgo más de 5,6 millones de dólares. ¿Puedo permitirme una caravana de 200.000 dólares?",
+      "d": "Las matemáticas pueden ser frías y carentes de emociones, pero las finanzas no.",
+      "u": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-75770443",
+      "published": "2026-11-08T23:49:00+00:00"
+    },
     {
       "h": "This retired professor has reinvented himself — as a Taylor Swift scholar",
       "es": "Este profesor jubilado se ha reinventado a sí mismo como académico de Taylor Swift",
@@ -191,21 +245,21 @@
       "published": "2026-11-08T16:17:11+00:00"
     },
     {
-      "h": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "es": "Las funerarias están encontrando nueva vida albergando bodas y salidas de golf, a medida que el negocio funerario tradicional se extingue",
-      "d": "\"No es mi funeral, es el tuyo, así que hazlo como quieras\", dice el operador de una funeraria.",
-      "u": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-20210681",
-      "published": "2026-11-08T16:00:00+00:00"
-    },
-    {
       "h": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
       "es": "“Parece como si estuviera construyendo silenciosamente una vida separada”: mi marido heredó 500.000 dólares, pero se niega a gastarlos en nuestra casa",
       "d": "\"Nuestra cocina data del año 1999 y el horno sólo funciona si se golpea la puerta de cierta manera\".",
       "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-88923729",
+      "published": "2026-11-08T16:00:00+00:00"
+    },
+    {
+      "h": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "es": "Las funerarias están encontrando nueva vida albergando bodas y salidas de golf, a medida que el negocio funerario tradicional se extingue",
+      "d": "\"No es mi funeral, es el tuyo, así que hazlo como quieras\", dice el operador de una funeraria.",
+      "u": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-20210681",
       "published": "2026-11-08T16:00:00+00:00"
     },
     {
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
       "published": "2026-11-08T15:50:25+00:00"
-    },
-    {
-      "h": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "es": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "d": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "u": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
-      "published": "2026-11-08T15:37:25+00:00"
-    },
-    {
-      "h": "How Democrats will try to end Trump's tariffs",
-      "es": "How Democrats will try to end Trump's tariffs",
-      "d": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-      "u": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-08T15:36:39+00:00"
-    },
-    {
-      "h": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "es": "“No tengo red de seguridad financiera”: tengo 66 años, dependo del Seguro Social y sólo tengo $500 en ahorros. ¿Qué esperanza tengo?",
-      "d": "\"A veces me pregunto si los estadounidenses más ricos deberían intercambiar lugares con personas como yo\".",
-      "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-91335118",
-      "published": "2026-11-08T15:30:00+00:00"
-    },
-    {
-      "h": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "es": "Mi padre, de 93 años, cambió su testamento en el último momento, dejando a mi hermano todo su patrimonio de 500.000 dólares. ¿Puedo desafiarlo?",
-      "d": "“Mi hermano no tenía trabajo y necesitaba un lugar donde vivir”.",
-      "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04902439",
-      "published": "2026-11-08T15:16:00+00:00"
-    },
-    {
-      "h": "As AI trade tires, BCA calls for European stocks to beat Wall Street",
-      "es": "Mientras el comercio de IA se cansa, BCA pide que las acciones europeas superen a Wall Street",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/as-ai-trade-tires-bca-calls-for-european-stocks-to-beat-wall-street-5010247",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
-      "published": "2026-11-08T15:01:06+00:00"
-    },
-    {
-      "h": "Private equity firm BC Partners seeks to take control of LIV Golf from Saudi wealth fund, FT reports",
-      "es": "La firma de capital privado BC Partners busca tomar el control de LIV Golf del fondo saudita, informa FT",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA70B8_L.jpg",
-      "published": "2026-11-08T15:00:24+00:00"
     }
   ],
   "sources": [
