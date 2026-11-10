@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-10T00:21:28.014194+00:00",
+  "updated": "2026-11-10T01:32:06.382538+00:00",
   "news": [
+    {
+      "h": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
+      "es": "Las acciones de SoftBank Group suben un 11% mientras las acciones tecnológicas asiáticas suben tras el repunte de Wall Street",
+      "d": "Una fuerte caída en los precios del petróleo impulsó la confianza, mientras que las renovadas compras de nombres de semiconductores durante la noche se extendieron a Asia, luego de la fuerte liquidación de la semana pasada.",
+      "u": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T01:26:53+00:00"
+    },
+    {
+      "h": "Nvidia faces increased chip export controls amid Huang scandal- The Information",
+      "es": "Nvidia enfrenta mayores controles de exportación de chips en medio del escándalo de Huang- The Information",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-faces-increased-chip-export-controls-amid-huang-scandal-the-information-93CH-5013845",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE141FU_M.jpg",
+      "published": "2026-11-10T01:11:16+00:00"
+    },
+    {
+      "h": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+      "es": "El vendedor en corto que vio señales del escándalo de Nvidia en China hace meses afirma que Megaspeed no es la única empresa que ayuda a China a acceder a chips.",
+      "d": "\"Al principio teníamos confianza en la investigación y todavía tenemos confianza en ella ahora\", dice Christian Lamarco, fundador de Culper Research.",
+      "u": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-44995532",
+      "published": "2026-11-10T00:48:00+00:00"
+    },
+    {
+      "h": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+      "es": "Trump dice que Jensen Huang le dijo el lunes que no sabía que su amante \"era una espía\"",
+      "d": "El presidente Donald Trump sugirió que se había enterado recientemente de las acusaciones de que Alice Huang era una espía china.",
+      "u": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T00:17:02+00:00"
+    },
     {
       "h": "U.S. stock futures steady after tech-led rebound; CPI in focus",
       "es": "Los futuros de las acciones estadounidenses se mantienen estables tras el repunte liderado por la tecnología; IPC en foco",
@@ -63,6 +99,24 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-09T23:31:17+00:00"
+    },
+    {
+      "h": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "es": "Skydance describe sus 6 mil millones de dólares en ahorros de costos planificados. Aquí está el desglose",
+      "d": "Las actualizaciones llegaron junto con un informe de ganancias del tercer trimestre del legado Paramount Skydance.",
+      "u": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-09T23:14:38+00:00"
+    },
+    {
+      "h": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+      "es": "Lucid no cumple con las expectativas de ganancias de Wall Street y amplía el préstamo del fondo de Arabia Saudita",
+      "d": "Los resultados trimestrales son los primeros desde que el director ejecutivo de Lucid, Silvio Napoli, que comenzó a dirigir la empresa en junio, anunció un plan de reestructuración.",
+      "u": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-09T23:05:53+00:00"
     },
     {
       "h": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
@@ -216,60 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
       "published": "2026-11-09T22:11:36+00:00"
-    },
-    {
-      "h": "Why is Sanmina stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de Sanmina hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sanmina-stock-surging-today-93CH-5013460",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-11-09T22:08:16+00:00"
-    },
-    {
-      "h": "Why is AST SpaceMobile stock rallying today?",
-      "es": "¿Por qué las acciones de AST SpaceMobile están subiendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-rallying-today-93CH-5013458",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "published": "2026-11-09T22:07:44+00:00"
-    },
-    {
-      "h": "House Democratic leader says lawmakers need answers on Nvidia, wants China chip restrictions",
-      "es": "El líder demócrata de la Cámara de Representantes dice que los legisladores necesitan respuestas sobre Nvidia y quiere restricciones a los chips de China",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/house-democratic-leader-says-lawmakers-need-answers-on-nvidia-wants-china-chip-restrictions-5013456",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81X1_L.jpg",
-      "published": "2026-11-09T22:07:08+00:00"
-    },
-    {
-      "h": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-      "es": "Los estrechos vínculos de Trump con Huang de Nvidia son examinados después de preocupaciones de inteligencia extranjera",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81PD_L.jpg",
-      "published": "2026-11-09T22:06:54+00:00"
-    },
-    {
-      "h": "Why is Occidental Petroleum stock slipping today?",
-      "es": "¿Por qué están cayendo las acciones de Occidental Petroleum hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-slipping-today-93CH-5013442",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/0f3bf25e0e9280bb78ece6969d4383cb_M.jpg",
-      "published": "2026-11-09T22:01:47+00:00"
-    },
-    {
-      "h": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "es": "Mientras caen las acciones de Nvidia, esto es lo que Wall Street tiene que decir sobre el escándalo de Jensen Huang",
-      "d": "Las consecuencias de la nueva investigación de la junta podrían convertirse en \"un problema más duradero para la empresa\", dicen los analistas.",
-      "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-03911341",
-      "published": "2026-11-09T21:55:00+00:00"
     }
   ],
   "sources": [
