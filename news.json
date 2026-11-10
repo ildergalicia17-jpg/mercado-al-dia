@@ -1,275 +1,275 @@
 {
-  "updated": "2026-11-10T12:18:40.106690+00:00",
+  "updated": "2026-11-10T15:18:51.058002+00:00",
   "news": [
     {
-      "h": "Anthropic’s IPO: A close look at AI frontrunner’s rapid growth, spiraling costs",
-      "es": "Anthropic’s IPO: A close look at AI frontrunner’s rapid growth, spiraling costs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-5015034",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1EY_L.jpg",
-      "published": "2026-11-10T12:06:41+00:00"
-    },
-    {
-      "h": "Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus",
-      "es": "Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90WK_L.jpg",
-      "published": "2026-11-10T12:02:41+00:00"
-    },
-    {
-      "h": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-      "es": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90D0_L.jpg",
-      "published": "2026-11-10T12:01:20+00:00"
-    },
-    {
-      "h": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-      "es": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches toward Nasdaq",
-      "d": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
-      "u": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "h": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+      "es": "El CEO de Rivian dice que el nuevo SUV R2 y la autonomía hacen de 2027 un 'año de inflexión', ya que el fabricante de vehículos eléctricos cumple cinco años desde su salida a bolsa",
+      "d": "El director ejecutivo de Rivian, RJ Scaringe, dice que 2027 será un “año de inflexión” a medida que el fabricante de vehículos eléctricos escale R2 e invierta en autonomía.",
+      "u": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-11-10T12:01:06+00:00"
+      "published": "2026-11-10T15:11:48+00:00"
     },
     {
-      "h": "What we know about Megaspeed, Singapore-based customer of Nvidia",
-      "es": "What we know about Megaspeed, Singapore-based customer of Nvidia",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxwhat-we-know-about-megaspeed-singaporebased-customer-of-nvidia-5014126",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90DQ_L.jpg",
-      "published": "2026-11-10T12:01:02+00:00"
-    },
-    {
-      "h": "Anthropic’s path from AI startup to industry-defining IPO",
-      "es": "Anthropic’s path from AI startup to industry-defining IPO",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropics-path-from-ai-startup-to-industrydefining-ipo-5014991",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA914E_L.jpg",
-      "published": "2026-11-10T12:00:47+00:00"
-    },
-    {
-      "h": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-      "es": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-      "d": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-      "u": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T12:00:01+00:00"
-    },
-    {
-      "h": "Amazon faces potential trial in Italy over Chinese imports - Reuters",
-      "es": "Amazon faces potential trial in Italy over Chinese imports - Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/amazon-faces-potential-trial-in-italy-over-chinese-imports--reuters-93CH-5014964",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ6I0AP_L.jpg",
-      "published": "2026-11-10T11:59:21+00:00"
-    },
-    {
-      "h": "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu Dhabi talks",
-      "es": "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu Dhabi talks",
-      "d": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks on Tuesday in Abu Dhabi.",
-      "u": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T11:52:54+00:00"
-    },
-    {
-      "h": "Deutsche Bank cuts Hugo Boss on falling sales, distribution reset",
-      "es": "Deutsche Bank cuts Hugo Boss on falling sales, distribution reset",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/deutsche-bank-cuts-hugo-boss-on-falling-sales-distribution-reset-5014925",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPECAF0Q0_M.jpg",
-      "published": "2026-11-10T11:45:53+00:00"
-    },
-    {
-      "h": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "es": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "d": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "u": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "h": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "es": "Miles de hogares 'fuera de la red' elegibles para £ 250 para ayudar con las facturas de calefacción",
+      "d": "Se beneficiarán los hogares que dependen del gasóleo para calefacción o del GLP y que tienen derecho a una reducción del impuesto municipal.",
+      "u": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
       "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726d/live/0839b390-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
-      "published": "2026-11-10T11:43:06+00:00"
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e428/live/92c07690-dcee-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-10T15:01:50+00:00"
     },
     {
-      "h": "Why is Sanmina stock surging today?",
-      "es": "Why is Sanmina stock surging today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sanmina-stock-surging-today-93CH-5014898",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published": "2026-11-10T11:40:07+00:00"
-    },
-    {
-      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
-      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
-      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-06068042",
-      "published": "2026-11-10T11:15:00+00:00"
-    },
-    {
-      "h": "Analysis-Nvidia’s clubby board faces a sticky ’honey pot’ test",
-      "es": "Análisis: la junta directiva de Nvidia se enfrenta a una difícil prueba de \"bote de miel\"",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysisnvidias-clubby-board-faces-a-sticky-honey-pot-test-5014779",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90ZQ_L.jpg",
-      "published": "2026-11-10T11:13:03+00:00"
-    },
-    {
-      "h": "Exclusive-Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
-      "es": "EXCLUSIVA-Microsoft presiona a Trump para que desbarate la esperada prohibición de la tecnología de centros de datos chinos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90Z9_L.jpg",
-      "published": "2026-11-10T11:12:43+00:00"
-    },
-    {
-      "h": "Analysis-AI debt faces pressure as Democrats prepare to take over Congress",
-      "es": "Análisis: la deuda de AI enfrenta presión mientras los demócratas se preparan para tomar el Congreso",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA910B_L.jpg",
-      "published": "2026-11-10T11:07:28+00:00"
-    },
-    {
-      "h": "Tesla Cybertruck is EV pickup market’s latest casualty",
-      "es": "Tesla Cybertruck es la última víctima del mercado de camionetas eléctricas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/teslacybertruck-is-ev-pickup-markets-latest-casualty-5014733",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA910C_L.jpg",
-      "published": "2026-11-10T11:07:11+00:00"
-    },
-    {
-      "h": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
-      "es": "Los sucesores de Trump en 2028 ya están peleando sobre a quién culpar por la eliminación del Partido Republicano en las elecciones intermedias",
-      "d": "JD Vance, Marco Rubio y Ron DeSantis ofrecen explicaciones contradictorias sobre la derrota del Partido Republicano en las elecciones intermedias, mientras Trump mantiene a sus posibles sucesores en vilo.",
-      "u": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+      "h": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+      "es": "Las ganancias de CoreWeave ponen bajo escrutinio el desarrollo de IA impulsada por la deuda",
+      "d": "Las ganancias de CoreWeave después de la campana podrían calmar los temores sobre su desarrollo de IA impulsado por la deuda, o avivar más temores.",
+      "u": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-11-10T11:00:01+00:00"
+      "published": "2026-11-10T15:01:21+00:00"
     },
     {
-      "h": "Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows - Reuters",
-      "es": "La OPI de Anthropic recaudará hasta 64.400 millones de dólares, según muestra el último borrador del prospecto - Reuters",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows--reuters-432SI-5014664",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-10T10:59:03+00:00"
-    },
-    {
-      "h": "Exclusive-Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows",
-      "es": "La oferta pública inicial de Exclusive-Anthropic recaudará hasta 64.400 millones de dólares, según muestra el último borrador del prospecto",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows-5014665",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90XZ_L.jpg",
-      "published": "2026-11-10T10:48:19+00:00"
-    },
-    {
-      "h": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
-      "es": "Anthropic supuestamente retracta los términos de la OPI enviados a los bancos por error, exponiendo el nerviosismo sobre las inversiones en IA",
-      "d": "Según se informa, el lunes por la noche Anthropic envió una copia de una presentación de valores a los banqueros para una oferta pública inicial que recaudaría hasta 69.300 millones de dólares antes de decir que era un error.",
-      "u": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "h": "Forget happy hour. ‘Money parties’ are having a moment.",
+      "es": "Olvídate de la hora feliz. Las “fiestas del dinero” están teniendo un momento.",
+      "d": "Existe evidencia que demuestra que hablar sobre finanzas con tus amigos puede ayudarte a ahorrar dinero.",
+      "u": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
       "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-30894465",
-      "published": "2026-11-10T10:48:00+00:00"
+      "img": "https://images.mktw.net/im-14269692",
+      "published": "2026-11-10T14:58:00+00:00"
     },
     {
-      "h": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "es": "“Estoy harto de volar”: pagué el embarque prioritario, pero los compartimentos superiores estaban llenos. ¿Me engañaron?",
-      "d": "“Quizás la próxima vez intente el otro enfoque: abordaré cuando me apetezca y dejaré mi maleta en la primera ranura abierta que vea”.",
-      "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-62799282",
-      "published": "2026-11-10T10:45:00+00:00"
-    },
-    {
-      "h": "Why is AAON stock surging today?",
-      "es": "¿Por qué están subiendo las acciones de AAON hoy?",
+      "h": "Why is Sally Beauty stock climbing today?",
+      "es": "¿Por qué están subiendo las acciones de Sally Beauty hoy?",
       "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-aaon-stock-surging-today-93CH-5014639",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-sally-beauty-stock-climbing-today-93CH-5016057",
       "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published": "2026-11-10T10:44:40+00:00"
+      "img": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published": "2026-11-10T14:55:03+00:00"
     },
     {
-      "h": "Why is Hims & Hers Health stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Hims & Hers Health hoy?",
+      "h": "RenTech sidesteps market turmoil with 6% October gain, Bloomberg reports",
+      "es": "RenTech evita las turbulencias del mercado con una ganancia del 6% en octubre, informa Bloomberg",
       "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-hims--hers-health-stock-sliding-today-93CH-5014638",
+      "u": "https://www.investing.com/news/stock-market-news/rentech-sidesteps-market-turmoil-with-6-october-gain-bloomberg-reports-5016047",
       "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-10T10:44:19+00:00"
+      "img": "https://content-media.investing.com/news/LYNXMPEM502AK_1200_L.jpg",
+      "published": "2026-11-10T14:52:40+00:00"
     },
     {
-      "h": "Why is Rocket Lab stock sliding today?",
-      "es": "¿Por qué las acciones de Rocket Lab están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-rocket-lab-stock-sliding-today-93CH-5014637",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published": "2026-11-10T10:43:56+00:00"
-    },
-    {
-      "h": "Embraer raises 2026 revenue forecast after strong third quarter",
-      "es": "Embraer eleva previsión de ingresos para 2026 tras sólido tercer trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/embraer-raises-2026-revenue-forecast-after-strong-third-quarter-5014558",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90VY_L.jpg",
-      "published": "2026-11-10T10:42:32+00:00"
-    },
-    {
-      "h": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-      "es": "El crudo Brent cae por debajo de los 90 dólares por primera vez desde agosto por las esperanzas de reducir la escalada de la guerra con Irán",
-      "d": "El presidente Trump dijo el lunes que pensaba que el conflicto \"iba a terminar bastante pronto\", pero algunos analistas todavía ven pocas posibilidades de un acuerdo de paz duradero.",
-      "u": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+      "h": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "es": "Los precios al consumo subieron un 0,4% en octubre, más de lo esperado, lo que complica la lucha contra la inflación de la Fed",
+      "d": "El informe llega en un momento crítico para la Reserva Federal mientras considera su próximo paso con respecto a las tasas de interés.",
+      "u": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-11-10T10:38:49+00:00"
+      "published": "2026-11-10T14:50:03+00:00"
     },
     {
-      "h": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-      "es": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-      "d": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
-      "u": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "h": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "es": "Pete Hegseth condena el impulso de juicio político y defiende el manejo de la guerra de Irán",
+      "d": "El representante republicano Thomas Massie, que se ha enfrentado con el presidente Donald Trump, inició la lucha por el juicio político a Hegseth días después de una elección de mitad de período de gran éxito.",
+      "u": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-11-10T10:24:13+00:00"
+      "published": "2026-11-10T14:48:34+00:00"
     },
     {
-      "h": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "es": "“La idea de vivir hasta los 100 años me aterroriza”: ¿Es la Seguridad Social un esquema Ponzi gigante?",
-      "d": "Ya hay una “carrera” demográfica en la Seguridad Social.",
-      "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "h": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "es": "Anthropic se dirige a una valoración inferior a la esperada de 1,3 billones de dólares en su debut en el mercado de valores",
+      "d": "La empresa de inteligencia artificial detrás del chatbot Claude ofrecerá sus acciones a entre 70 y 78 dólares.",
+      "u": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-10T14:46:50+00:00"
+    },
+    {
+      "h": "Microsoft warns proposed Chinese transceiver ban threatens U.S. AI edge - Reuters",
+      "es": "Microsoft advierte que la propuesta de prohibición de transceptores chinos amenaza la ventaja de la IA de EE.UU. - Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/microsoft-warns-proposed-chinese-transceiver-ban-threatens-us-ai-edge--reuters-5016023",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPED0P1G8_M.jpg",
+      "published": "2026-11-10T14:46:19+00:00"
+    },
+    {
+      "h": "US inflation higher than expected in October - here's what is happening with prices",
+      "es": "Inflación estadounidense más alta de lo esperado en octubre: esto es lo que está sucediendo con los precios",
+      "d": "Los precios aumentaron un 0,4% durante el mes, impulsados ​​por los aumentos en los costos de vivienda, alimentos y energía.",
+      "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+      "published": "2026-11-10T14:45:46+00:00"
+    },
+    {
+      "h": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "es": "La FDA advierte sobre el riesgo de pérdida de visión relacionado con medicamentos populares GLP-1 como Wegovy y Zepbound",
+      "d": "La agencia ha encontrado evidencia de un posible aumento del riesgo de una rara afección ocular relacionada con el uso de medicamentos GLP-1 utilizados para el control del peso y la diabetes.",
+      "u": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T14:43:30+00:00"
+    },
+    {
+      "h": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "es": "Las 10 principales cosas a tener en cuenta en el mercado de valores de Jim Cramer el martes",
+      "d": "Los futuros están a la baja después de que un índice de precios al consumo superior a lo esperado esta mañana avivara las preocupaciones sobre la inflación.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T14:43:06+00:00"
+    },
+    {
+      "h": "Nvidia extends losses on report of further chip export controls amid Huang scandal",
+      "es": "Nvidia amplía sus pérdidas tras el informe de nuevos controles a la exportación de chips en medio del escándalo de Huang",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-faces-increased-chip-export-controls-amid-huang-scandal-the-information-93CH-5013845",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE141FU_M.jpg",
+      "published": "2026-11-10T14:39:32+00:00"
+    },
+    {
+      "h": "DraftKings hit with another downgrade as Predictions ’shifts the investment case’",
+      "es": "DraftKings sufre otra rebaja a medida que Predictions 'cambia el caso de inversión'",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/draftkings-hit-with-another-downgrade-as-predictions-shifts-the-investment-case-5015987",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEHA90NB_L.jpg",
+      "published": "2026-11-10T14:37:32+00:00"
+    },
+    {
+      "h": "Wall St opens lower after October’s hot inflation print",
+      "es": "Wall St abre a la baja tras la elevada inflación de octubre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-after-octobers-hot-inflation-print-5015986",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA91HD_L.jpg",
+      "published": "2026-11-10T14:37:31+00:00"
+    },
+    {
+      "h": "J&J eyes US nod for Caplyta in bipolar mania after second trial win",
+      "es": "J&J espera el visto bueno de Estados Unidos para Caplyta en manía bipolar después de la segunda victoria en la prueba",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jj-eyes-us-nod-for-caplyta-in-bipolar-mania-after-second-trial-win-5015930",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA91FK_L.jpg",
+      "published": "2026-11-10T14:37:03+00:00"
+    },
+    {
+      "h": "Hims & Hers to offer unapproved peptides after US eases curbs",
+      "es": "Hims & Hers ofrecerá péptidos no aprobados después de que EE. UU. alivie las restricciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hims--hers-narrows-2026-revenue-forecast-as-margins-contract-5013239",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81YO_L.jpg",
+      "published": "2026-11-10T14:36:48+00:00"
+    },
+    {
+      "h": "Wall Street opens lower after hot CPI data, hawkish comments from Fed’s Waller",
+      "es": "Wall Street abre a la baja tras los buenos datos del IPC y los comentarios agresivos de Waller de la Fed",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techled-rebound-cpi-in-focus-5013763",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "published": "2026-11-10T14:35:28+00:00"
+    },
+    {
+      "h": "Does anyone feel safe from layoffs right now?",
+      "es": "¿Alguien se siente a salvo de los despidos en este momento?",
+      "d": "Los temores sobre la IA y un mercado laboral mediocre están alimentando la preocupación inminente de que los despidos estén a la vuelta de la esquina, incluso si haces bien tu trabajo.",
+      "u": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T14:30:56+00:00"
+    },
+    {
+      "h": "How much you can make in 2027 and still pay 0% capital gains tax",
+      "es": "¿Cuánto puede ganar en 2027 y aún pagar el 0% de impuesto sobre las ganancias de capital?",
+      "d": "El IRS ha anunciado tramos impositivos más altos sobre las ganancias de capital a largo plazo para 2027. Esto es lo que los inversores necesitan saber.",
+      "u": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T14:12:02+00:00"
+    },
+    {
+      "h": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "es": "Así es como Bernie Sanders quiere mantener la solvencia de la Seguridad Social \"durante generaciones\"",
+      "d": "El senador de Vermont pretende eliminar el máximo imponible, haciendo que los ricos paguen más impuestos",
+      "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
       "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49247042",
-      "published": "2026-11-10T10:15:00+00:00"
+      "img": "https://images.mktw.net/im-95193263",
+      "published": "2026-11-10T14:10:00+00:00"
     },
     {
-      "h": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy",
-      "es": "Las acciones de Nvidia suben mientras los inversores sopesan las posibles consecuencias del romance del CEO con el presunto espía",
-      "d": "Los inversores siguen sopesando las posibles consecuencias del romance del director ejecutivo Jensen Huang con un presunto espía chino.",
-      "u": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "h": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+      "es": "Francia culpa a Irán de los ciberataques a los frigoríficos de los supermercados y sopesa las sanciones",
+      "d": "Francia dijo que la unidad cibernética del Cuerpo de la Guardia Revolucionaria Islámica de Irán llevó a cabo una \"campaña sin precedentes\" que causó daños por millones de euros.",
+      "u": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
       "s": "CNBC",
       "img": "",
-      "published": "2026-11-10T10:02:23+00:00"
+      "published": "2026-11-10T13:43:38+00:00"
+    },
+    {
+      "h": "New regulation for heating oil market, but no price controls",
+      "es": "Nueva regulación para el mercado del gasóleo para calefacción, pero sin controles de precios",
+      "d": "La Autoridad de Mercados y Competencia ha investigado el mercado del combustible para calefacción en Irlanda del Norte y otras partes del Reino Unido.",
+      "u": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de49/live/b3588da0-b739-11f1-aa9c-3d062fa3aea7.jpg",
+      "published": "2026-11-10T13:42:29+00:00"
+    },
+    {
+      "h": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "es": "El presidente del panel de China, Moolenaar, exige respuestas sobre el presunto romance del CEO de Nvidia con un espía chino",
+      "d": "El representante John Moolenaar, republicano por Michigan, es el presidente del Comité Selecto sobre China y dijo a CNBC que espera respuestas sobre la relación de Jensen Huang.",
+      "u": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T13:41:57+00:00"
+    },
+    {
+      "h": "Fed’s Waller puts half-point rate hike into the mix for December",
+      "es": "Waller de la Fed prevé una subida de tipos de medio punto para diciembre",
+      "d": "El funcionario del banco central de Estados Unidos había incluido una discusión de medio punto en la mezcla antes de los datos del Departamento de Trabajo, que resultaron tan candentes como se temía.",
+      "u": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-30624857",
+      "published": "2026-11-10T13:41:00+00:00"
+    },
+    {
+      "h": "Civil servant who secretly held five jobs found guilty of fraud",
+      "es": "Un funcionario que ejerció en secreto cinco empleos declarado culpable de fraude",
+      "d": "Kashim Chowdhury había ocupado en secreto múltiples empleos en el sector público con salarios de tiempo completo.",
+      "u": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
+      "published": "2026-11-10T13:39:28+00:00"
+    },
+    {
+      "h": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
+      "es": "Elon Musk tenía parte de razón en su comentario de la semana pasada sobre el retroceso de SoftBank en un pedido de turbinas de gas.",
+      "d": "Elon Musk, en una publicación en las redes sociales la semana pasada, dijo que SoftBank “incumplió” un pedido de turbinas de gas. La verdad, revelada el martes en las ganancias del segundo trimestre de la compañía de inversiones japonesa, no estaba muy lejos.",
+      "u": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-96202299",
+      "published": "2026-11-10T13:32:00+00:00"
+    },
+    {
+      "h": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "es": "Ring de Amazon presenta un dron y un robot voladores para patrullar hogares y negocios",
+      "d": "La Ring Drone Cam de Amazon, de 250 dólares, vuela de una habitación a otra para investigar actividades sospechosas y puede capturar imágenes por la noche.",
+      "u": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T13:30:01+00:00"
+    },
+    {
+      "h": "Bridgepoint sees opportunity in 're-rated' real estate",
+      "es": "Bridgepoint ve una oportunidad en el sector inmobiliario 'recalificado'",
+      "d": "Si bien las tasas de interés más altas están ahuyentando a muchos inversores del sector inmobiliario, Bridgepoint Group ve oportunidades en rincones del mercado inmobiliario que se pasan por alto.",
+      "u": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T13:30:01+00:00"
     }
   ],
   "sources": [
