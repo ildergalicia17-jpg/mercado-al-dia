@@ -1,6 +1,231 @@
 {
-  "updated": "2026-11-10T01:32:06.382538+00:00",
+  "updated": "2026-11-10T08:36:07.764537+00:00",
   "news": [
+    {
+      "h": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "es": "La FDA advierte sobre el riesgo de pérdida de visión relacionado con medicamentos populares GLP-1 como Wegovy y Zepbound",
+      "d": "La agencia ha encontrado evidencia de un posible aumento del riesgo de una rara afección ocular relacionada con el uso de medicamentos GLP-1 utilizados para el control del peso y la diabetes.",
+      "u": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T08:22:49+00:00"
+    },
+    {
+      "h": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+      "es": "SoftBank sufre una pérdida neta de 7 mil millones de dólares en el segundo trimestre mientras la venta masiva de tecnología pesa sobre los resultados",
+      "d": "SoftBank Group anuncia los resultados fiscales del segundo trimestre para el año que finaliza el 31 de marzo de 2027.",
+      "u": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-10T08:11:44+00:00"
+    },
+    {
+      "h": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "es": "Faisal Islam: Lo que Jensen Huang me dijo sobre China, la seguridad nacional y cómo persuadir a Trump",
+      "d": "Huang, que ahora está siendo investigado por un romance con un presunto espía chino, es mucho más importante para el futuro del orden mundial que otros jefes tecnológicos.",
+      "u": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+      "published": "2026-11-10T08:07:16+00:00"
+    },
+    {
+      "h": "Scandic Hotels’ Q3 profit rises 22% on Dalata fees",
+      "es": "El beneficio de Scandic Hotels en el tercer trimestre aumenta un 22% gracias a las tarifas de Dalata",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/scandic-hotels-q3-profit-rises-22-on-dalata-fees-93CH-5014325",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-11-10T08:06:39+00:00"
+    },
+    {
+      "h": "Honda raises full-year outlook despite second-quarter profit slump",
+      "es": "Honda eleva perspectivas para todo el año pese a caída de beneficios en segundo trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/honda-raises-fullyear-outlook-despite-secondquarter-profit-slump-5014315",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEL2G0RY_L.jpg",
+      "published": "2026-11-10T07:57:43+00:00"
+    },
+    {
+      "h": "Watches of Switzerland lifts outlook floor as US, UK demand stays strong",
+      "es": "Las observaciones de Suiza elevan el nivel mínimo de perspectivas mientras la demanda de EE.UU. y el Reino Unido se mantiene fuerte",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/watches-of-switzerland-lifts-outlook-floor-as-us-uk-demand-stays-strong-5014314",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90MP_L.jpg",
+      "published": "2026-11-10T07:54:39+00:00"
+    },
+    {
+      "h": "US sues Lyft, alleges discrimination against disabled riders",
+      "es": "Estados Unidos demanda a Lyft y alega discriminación contra pasajeros discapacitados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-sues-lyft-alleges-it-denied-rides-to-passengers-with-service-dogs-and-wheelchairs-5013896",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA905O_L.jpg",
+      "published": "2026-11-10T07:49:07+00:00"
+    },
+    {
+      "h": "Hims & Hers to offer unapproved peptides after US eases curbs",
+      "es": "Hims & Hers ofrecerá péptidos no aprobados después de que EE. UU. alivie las restricciones",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/hims--hers-narrows-2026-revenue-forecast-as-margins-contract-5013239",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81YO_L.jpg",
+      "published": "2026-11-10T07:48:56+00:00"
+    },
+    {
+      "h": "Jefferies upgrades Renault, cuts Mercedes-Benz as outlook for European autos diver",
+      "es": "Jefferies mejora Renault y recorta Mercedes-Benz como perspectiva para el buzo de automóviles europeo",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-renault-cuts-mercedesbenz-as-outlook-for-european-autos-diver-5014298",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK310PH_L.jpg",
+      "published": "2026-11-10T07:41:46+00:00"
+    },
+    {
+      "h": "Honda raises full-year profit outlook, books $3 billion in EV-linked costs in Q2",
+      "es": "Honda eleva las perspectivas de ganancias para todo el año y registra $ 3 mil millones en costos relacionados con vehículos eléctricos en el segundo trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/honda-raises-fullyear-profit-outlook-books-3-billion-in-evlinked-costs-in-q2-5014292",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90GW_L.jpg",
+      "published": "2026-11-10T07:30:31+00:00"
+    },
+    {
+      "h": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "es": "Europa puede competir en robótica e inteligencia artificial física, afirman los directores ejecutivos de los principales fabricantes de chips",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/europe-can-compete-in-robotics-and-physical-ai-topchipmaker-ceossay-5014280",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90KE_L.jpg",
+      "published": "2026-11-10T07:24:36+00:00"
+    },
+    {
+      "h": "What we know about Megaspeed, Singapore-based customer of Nvidia",
+      "es": "Lo que sabemos sobre Megaspeed, cliente de Nvidia con sede en Singapur",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/factboxwhat-we-know-about-megaspeed-singaporebased-customer-of-nvidia-5014126",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90DQ_L.jpg",
+      "published": "2026-11-10T07:18:55+00:00"
+    },
+    {
+      "h": "Australia regulator rejects warning of internet safety bill chilling free speech",
+      "es": "El regulador australiano rechaza la advertencia sobre un proyecto de ley de seguridad en Internet que obstaculiza la libertad de expresión",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/australia-regulator-rejects-warning-of-internet-safety-bill-chilling-free-speech-5014257",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90HX_L.jpg",
+      "published": "2026-11-10T07:00:39+00:00"
+    },
+    {
+      "h": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+      "es": "Trump dice que la guerra con Irán terminará \"bastante pronto\" y minimiza las perspectivas de nuevos ataques",
+      "d": "“Irán militarmente está efectivamente acabado”, dijo Trump, citando la destrucción de su armada y la creciente inflación que, según dijo, ha vaciado la economía de Teherán.",
+      "u": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T07:00:02+00:00"
+    },
+    {
+      "h": "Independent bookshop closing after rise in bills",
+      "es": "Cierra librería independiente tras aumento de facturas",
+      "d": "The Chicken and Frog en Brentwood dice que las tarifas comerciales y las facturas de electricidad han aumentado dramáticamente.",
+      "u": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e5/live/f9225030-d9f0-11f1-bb10-cdca6001fbcf.jpg",
+      "published": "2026-11-10T06:22:52+00:00"
+    },
+    {
+      "h": "Holiday hunger bill to face final Stormont hurdle",
+      "es": "El proyecto de ley sobre el hambre navideña enfrentará el último obstáculo en Stormont",
+      "d": "La nueva ley ayudaría a las familias más pobres a cubrir los costos de los alimentos durante las vacaciones escolares.",
+      "u": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/059e/live/1ea6c070-dc5d-11f1-8fe6-5becaee5408f.jpg",
+      "published": "2026-11-10T06:21:02+00:00"
+    },
+    {
+      "h": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
+      "es": "La llamada de Trump a C-SPAN marca la última aparición sorpresa posterior a la mitad de período",
+      "d": "Trump llamó al nuevo programa en horario estelar de C-SPAN sin previo aviso después de una sorpresa en la sala de reuniones informativa y las apariciones en salones de baile de la Casa Blanca.",
+      "u": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T06:19:09+00:00"
+    },
+    {
+      "h": "New chief outlines main issues facing Isle of Man",
+      "es": "El nuevo jefe describe los principales problemas que enfrenta la Isla de Man",
+      "d": "El primer ministro dice que la conectividad y el almacenamiento de alimentos estaban entre sus principales prioridades gubernamentales.",
+      "u": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1002/live/e64feac0-dc44-11f1-95cf-a38331e6cb4b.jpg",
+      "published": "2026-11-10T06:09:01+00:00"
+    },
+    {
+      "h": "TSMC's October sales jump as global chip boom rolls on",
+      "es": "Las ventas de octubre de TSMC aumentan a medida que avanza el auge mundial de los chips",
+      "d": "TSMC informa sus cifras de ventas mensuales de octubre el martes.",
+      "u": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T05:42:42+00:00"
+    },
+    {
+      "h": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "es": "Australia considera sanciones penales para la IA deshonesta tras el hackeo de OpenAI",
+      "d": "También se creará un regulador de seguridad de la IA después de que un agente deshonesto de OpenAI pirateara sitios web gubernamentales.",
+      "u": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
+      "published": "2026-11-10T05:22:39+00:00"
+    },
+    {
+      "h": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+      "es": "Las importaciones mensuales de China crecen al ritmo más rápido en cinco años y el superávit superará el billón de dólares en 2026",
+      "d": "Las exportaciones de bienes se dispararon un 35,2% el mes pasado respecto al año anterior, superando las expectativas de un aumento del 33,5% en una encuesta de Reuters y desacelerándose desde un aumento del 36,3% en septiembre.",
+      "u": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T05:03:55+00:00"
+    },
+    {
+      "h": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+      "es": "Trump ve una \"fuerte inclinación\" a poner fin a la guerra entre Rusia y Ucrania antes de las conversaciones de paz mediadas por Estados Unidos",
+      "d": "El presidente Trump expresó optimismo sobre el fin de la guerra de Rusia en Ucrania antes de las conversaciones de negociación trilateral que comenzarán hoy en Abu Dhabi.",
+      "u": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T04:46:37+00:00"
+    },
+    {
+      "h": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "es": "“Tuvimos la peor pelea”: quiero que mi marido se jubile a los 65 años, pero no quiero perder su salario de 280.000 dólares. ¿Es eso irrazonable?",
+      "d": "\"Tenemos 2,6 millones de dólares, la mayor parte en su 401(k) y en sus cuentas IRA, más 450.000 dólares en una cuenta de corretaje\".",
+      "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-41887542",
+      "published": "2026-11-10T03:38:00+00:00"
+    },
+    {
+      "h": "Californians reject wealth tax for billionaires",
+      "es": "Los californianos rechazan el impuesto a la riqueza para los multimillonarios",
+      "d": "La Propuesta 40 apuntaba a los multimillonarios californianos con un impuesto del 5% sobre su riqueza total, incluidos activos como acciones e ingresos.",
+      "u": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df3/live/53f86970-d7b4-11f1-9092-abeae3cab3b1.jpg",
+      "published": "2026-11-10T03:34:46+00:00"
+    },
+    {
+      "h": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "es": "Qantas subcontratará 850 puestos de trabajo locales y la mayoría de los puestos se trasladarán a la India",
+      "d": "La aerolínea australiana dijo que la medida tenía como objetivo modernizar sus sistemas de TI y destacó el impacto de la IA.",
+      "u": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+      "published": "2026-11-10T01:55:22+00:00"
+    },
     {
       "h": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
       "es": "Las acciones de SoftBank Group suben un 11% mientras las acciones tecnológicas asiáticas suben tras el repunte de Wall Street",
@@ -29,6 +254,15 @@
       "published": "2026-11-10T00:48:00+00:00"
     },
     {
+      "h": "I took Vinted to court to get my money back",
+      "es": "Llevé a Vinted a los tribunales para recuperar mi dinero",
+      "d": "La BBC escucha a vendedores de Vinted que describen dificultades para acceder al dinero que tienen en sus billeteras en línea.",
+      "u": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-11-10T00:27:37+00:00"
+    },
+    {
       "h": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
       "es": "Trump dice que Jensen Huang le dijo el lunes que no sabía que su amante \"era una espía\"",
       "d": "El presidente Donald Trump sugirió que se había enterado recientemente de las acusaciones de que Alice Huang era una espía china.",
@@ -36,240 +270,6 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-10T00:17:02+00:00"
-    },
-    {
-      "h": "U.S. stock futures steady after tech-led rebound; CPI in focus",
-      "es": "Los futuros de las acciones estadounidenses se mantienen estables tras el repunte liderado por la tecnología; IPC en foco",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techled-rebound-cpi-in-focus-5013763",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "published": "2026-11-10T00:13:42+00:00"
-    },
-    {
-      "h": "Headteachers say families will struggle after another rise in school dinner prices",
-      "es": "Los directores dicen que las familias tendrán dificultades tras otro aumento en los precios de las cenas escolares",
-      "d": "El precio de una cena escolar en una escuela primaria habrá aumentado de £2,60 a £3,40 desde principios de 2026.",
-      "u": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca3/live/100121b0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
-      "published": "2026-11-10T00:00:22+00:00"
-    },
-    {
-      "h": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "es": "Trump dice que el FBI investiga el romance del jefe de Nvidia con un presunto espía chino",
-      "d": "El presidente estadounidense dijo que habló con Jensen Huang el lunes y le preguntó sobre el romance con el presunto espía.",
-      "u": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-11-09T23:59:50+00:00"
-    },
-    {
-      "h": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "es": "Este profesor jubilado se ha reinventado a sí mismo como académico de Taylor Swift",
-      "d": "Su sobrina lo convenció de pasar su jubilación analizando las letras de Taylor Swift. Ahora es un podcaster exitoso a sus 72 años.",
-      "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-69887372",
-      "published": "2026-11-09T23:52:00+00:00"
-    },
-    {
-      "h": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "es": "Lo que sabemos hasta ahora sobre el romance de Jensen Huang con el presunto espía chino",
-      "d": "El multimillonario ejecutivo tecnológico se ve envuelto en un escándalo de seguridad personal y nacional.",
-      "u": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-11-09T23:51:22+00:00"
-    },
-    {
-      "h": "White House nominates Palantir’s LoSapio to lead Homeland Security’s cyber agency",
-      "es": "La Casa Blanca nomina a LoSapio de Palantir para dirigir la agencia cibernética de Seguridad Nacional",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/white-house-nominates-palantirslosapio-to-lead-homeland-securitys-cyber-agency-5013714",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "published": "2026-11-09T23:36:08+00:00"
-    },
-    {
-      "h": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "es": "PepsiCo recortará unos 1.000 puestos de trabajo mientras las empresas norteamericanas luchan",
-      "d": "PepsiCo planea eliminar alrededor de 1.000 puestos de trabajo en América del Norte a medida que racionaliza sus operaciones y trabaja para reactivar las ventas en su mercado local.",
-      "u": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T23:31:17+00:00"
-    },
-    {
-      "h": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-      "es": "Skydance describe sus 6 mil millones de dólares en ahorros de costos planificados. Aquí está el desglose",
-      "d": "Las actualizaciones llegaron junto con un informe de ganancias del tercer trimestre del legado Paramount Skydance.",
-      "u": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-09T23:14:38+00:00"
-    },
-    {
-      "h": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-      "es": "Lucid no cumple con las expectativas de ganancias de Wall Street y amplía el préstamo del fondo de Arabia Saudita",
-      "d": "Los resultados trimestrales son los primeros desde que el director ejecutivo de Lucid, Silvio Napoli, que comenzó a dirigir la empresa en junio, anunció un plan de reestructuración.",
-      "u": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-09T23:05:53+00:00"
-    },
-    {
-      "h": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-      "es": "Boletín The China Connection de CNBC: Wall Street vuelve a caer. ¿Qué tiene que salir bien?",
-      "d": "Tras la última cumbre Trump-Xi, China prometió una mayor apertura de su mercado financiero a empresas de todos los países, incluido Estados Unidos.",
-      "u": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T23:00:02+00:00"
-    },
-    {
-      "h": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "es": "El asunto Jensen Huang pone en riesgo el futuro de Nvidia, sin un sucesor claro para el renombrado CEO",
-      "d": "Jensen Huang es prácticamente sinónimo de Nvidia, el fabricante de chips que cofundó en 1993 y convirtió en una de las empresas más valiosas del planeta.",
-      "u": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T22:56:39+00:00"
-    },
-    {
-      "h": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "es": "Las acciones de Rocket Lab caen después de que el trimestre \"definitorio\" de la compañía no da en el blanco",
-      "d": "La empresa de lanzamiento de cohetes acaba de registrar una pérdida mayor de lo que esperaban los analistas.",
-      "u": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-29972515",
-      "published": "2026-11-09T22:49:00+00:00"
-    },
-    {
-      "h": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "es": "Así es como Bernie Sanders quiere mantener la solvencia de la Seguridad Social \"durante generaciones\"",
-      "d": "El senador de Vermont pretende eliminar el máximo imponible, haciendo que los ricos paguen más impuestos",
-      "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-95193263",
-      "published": "2026-11-09T22:49:00+00:00"
-    },
-    {
-      "h": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-      "es": "Nvidia y el CEO Huang demandados por revelaciones relacionadas con presunto espía chino",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy-5013619",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA8205_L.jpg",
-      "published": "2026-11-09T22:48:26+00:00"
-    },
-    {
-      "h": "Hegseth impeachment articles introduced by Rep. Massie",
-      "es": "Artículos de acusación de Hegseth presentados por el representante Massie",
-      "d": "Es probable que la Cámara vote esta semana sobre los artículos de juicio político contra el secretario de Defensa, Pete Hegseth, presentados por el representante republicano Thomas Masie.",
-      "u": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T22:41:12+00:00"
-    },
-    {
-      "h": "Trump questions midterm election results, revives voting-machine conspiracy",
-      "es": "Trump cuestiona los resultados de las elecciones intermedias y revive la conspiración sobre las máquinas de votación",
-      "d": "El cuestionamiento del presidente Trump sobre la legitimidad de su derrota en las elecciones de 2020 culminó con un ataque al Capitolio de Estados Unidos por parte de una turba de sus partidarios.",
-      "u": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T22:40:09+00:00"
-    },
-    {
-      "h": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-      "es": "Los vínculos de Nvidia con Trump generan escrutinio después de informes de que Huang fue atacado por la inteligencia china",
-      "d": "La relación extramarital del director ejecutivo de Nvidia, Jensen Huang, con un presunto espía chino se produce cuando la compañía ya está a punto de enfrentar un mayor escrutinio.",
-      "u": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T22:40:04+00:00"
-    },
-    {
-      "h": "Boeing to cut 5% of commercial jet workforce amid production struggles",
-      "es": "Boeing recortará el 5% de su fuerza laboral en aviones comerciales en medio de problemas de producción",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/boeing-to-cut-5-of-planemaking-divisions-workforce-seattle-times-reports-5012939",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81NK_L.jpg",
-      "published": "2026-11-09T22:36:59+00:00"
-    },
-    {
-      "h": "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs",
-      "es": "Honda construirá una nueva planta de automóviles de 3.000 millones de dólares en Ohio y creará 2.000 puestos de trabajo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/honda-to-build-new-3-billion-auto-plant-in-ohio-adding-2000-jobs-5012838",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81HY_L.jpg",
-      "published": "2026-11-09T22:36:46+00:00"
-    },
-    {
-      "h": "Companies risk fines of 6% global turnover for unfair digital trade practices, EU draft law shows",
-      "es": "Las empresas corren el riesgo de recibir multas equivalentes al 6 % de su facturación global por prácticas comerciales digitales desleales, según muestra un proyecto de ley de la UE",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/companies-risk-fines-of-6-global-turnover-for-unfair-digital-trade-practices-eu-draft-law-shows-5012950",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81NS_L.jpg",
-      "published": "2026-11-09T22:24:41+00:00"
-    },
-    {
-      "h": "Trump says Nvidia CEO told him he did not know the woman linked to him was a spy",
-      "es": "Trump dice que el director ejecutivo de Nvidia le dijo que no sabía que la mujer vinculada a él era una espía",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/trump-says-nvidia-ceo-told-him-he-did-not-know-the-woman-linked-to-him-was-a-spy-5013538",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA821U_L.jpg",
-      "published": "2026-11-09T22:24:25+00:00"
-    },
-    {
-      "h": "3 unexpected reasons the October jobs report was so strong",
-      "es": "Tres razones inesperadas por las que el informe de empleo de octubre fue tan sólido",
-      "d": "El informe de empleo de octubre superó las previsiones de los economistas. Aquí hay tres razones.",
-      "u": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-09T22:23:56+00:00"
-    },
-    {
-      "h": "Why is JBS stock sliding today?",
-      "es": "¿Por qué las acciones de JBS están cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-jbs-stock-sliding-today-93CH-5013513",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published": "2026-11-09T22:16:27+00:00"
-    },
-    {
-      "h": "Why is Casella Waste stock sliding today?",
-      "es": "¿Por qué el stock de Casella Waste está cayendo hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-casella-waste-stock-sliding-today-93CH-5013509",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-09T22:15:32+00:00"
-    },
-    {
-      "h": "Why is Xenon Pharmaceuticals stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Xenon Pharmaceuticals hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-xenon-pharmaceuticals-stock-sliding-today-93CH-5013494",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-11-09T22:13:28+00:00"
-    },
-    {
-      "h": "Why is Definium Therapeutics stock gaining today?",
-      "es": "¿Por qué están ganando las acciones de Definium Therapeutics hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-definium-therapeutics-stock-gaining-today-93CH-5013484",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published": "2026-11-09T22:11:36+00:00"
     }
   ],
   "sources": [
