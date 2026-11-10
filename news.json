@@ -1,6 +1,240 @@
 {
-  "updated": "2026-11-10T08:36:07.764537+00:00",
+  "updated": "2026-11-10T11:25:13.755637+00:00",
   "news": [
+    {
+      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
+      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
+      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06068042",
+      "published": "2026-11-10T11:15:00+00:00"
+    },
+    {
+      "h": "Analysis-Nvidia’s clubby board faces a sticky ’honey pot’ test",
+      "es": "Análisis: la junta directiva de Nvidia se enfrenta a una difícil prueba de \"bote de miel\"",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysisnvidias-clubby-board-faces-a-sticky-honey-pot-test-5014779",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90ZQ_L.jpg",
+      "published": "2026-11-10T11:13:03+00:00"
+    },
+    {
+      "h": "Exclusive-Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
+      "es": "EXCLUSIVA-Microsoft presiona a Trump para que desbarate la esperada prohibición de la tecnología de centros de datos chinos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90Z9_L.jpg",
+      "published": "2026-11-10T11:12:43+00:00"
+    },
+    {
+      "h": "Analysis-AI debt faces pressure as Democrats prepare to take over Congress",
+      "es": "Análisis: la deuda de AI enfrenta presión mientras los demócratas se preparan para tomar el Congreso",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA910B_L.jpg",
+      "published": "2026-11-10T11:07:28+00:00"
+    },
+    {
+      "h": "Tesla Cybertruck is EV pickup market’s latest casualty",
+      "es": "Tesla Cybertruck es la última víctima del mercado de camionetas eléctricas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/teslacybertruck-is-ev-pickup-markets-latest-casualty-5014733",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA910C_L.jpg",
+      "published": "2026-11-10T11:07:11+00:00"
+    },
+    {
+      "h": "Trump's 2028 successors are already fighting over who to blame for GOP midterm wipeout",
+      "es": "Los sucesores de Trump en 2028 ya están peleando sobre a quién culpar por la eliminación del Partido Republicano en las elecciones intermedias",
+      "d": "JD Vance, Marco Rubio y Ron DeSantis ofrecen explicaciones contradictorias sobre la derrota del Partido Republicano en las elecciones intermedias, mientras Trump mantiene a sus posibles sucesores en vilo.",
+      "u": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T11:00:01+00:00"
+    },
+    {
+      "h": "Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows - Reuters",
+      "es": "La OPI de Anthropic recaudará hasta 64.400 millones de dólares, según muestra el último borrador del prospecto - Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows--reuters-432SI-5014664",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-10T10:59:03+00:00"
+    },
+    {
+      "h": "Exclusive-Anthropic IPO to raise as much as $64.4 billion, latest draft prospectus shows",
+      "es": "La oferta pública inicial de Exclusive-Anthropic recaudará hasta 64.400 millones de dólares, según muestra el último borrador del prospecto",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-to-raise-as-much-as-644-billion-latest-draft-prospectus-shows-5014665",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90XZ_L.jpg",
+      "published": "2026-11-10T10:48:19+00:00"
+    },
+    {
+      "h": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
+      "es": "Anthropic supuestamente retracta los términos de la OPI enviados a los bancos por error, exponiendo el nerviosismo sobre las inversiones en IA",
+      "d": "Según se informa, el lunes por la noche Anthropic envió una copia de una presentación de valores a los banqueros para una oferta pública inicial que recaudaría hasta 69.300 millones de dólares antes de decir que era un error.",
+      "u": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-30894465",
+      "published": "2026-11-10T10:48:00+00:00"
+    },
+    {
+      "h": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "es": "“Estoy harto de volar”: pagué el embarque prioritario, pero los compartimentos superiores estaban llenos. ¿Me engañaron?",
+      "d": "“Quizás la próxima vez intente el otro enfoque: abordaré cuando me apetezca y dejaré mi maleta en la primera ranura abierta que vea”.",
+      "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-62799282",
+      "published": "2026-11-10T10:45:00+00:00"
+    },
+    {
+      "h": "Why is AAON stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de AAON hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-aaon-stock-surging-today-93CH-5014639",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "published": "2026-11-10T10:44:40+00:00"
+    },
+    {
+      "h": "Why is Hims & Hers Health stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Hims & Hers Health hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-hims--hers-health-stock-sliding-today-93CH-5014638",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-11-10T10:44:19+00:00"
+    },
+    {
+      "h": "Why is Rocket Lab stock sliding today?",
+      "es": "¿Por qué las acciones de Rocket Lab están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-rocket-lab-stock-sliding-today-93CH-5014637",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "published": "2026-11-10T10:43:56+00:00"
+    },
+    {
+      "h": "Embraer raises 2026 revenue forecast after strong third quarter",
+      "es": "Embraer eleva previsión de ingresos para 2026 tras sólido tercer trimestre",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/embraer-raises-2026-revenue-forecast-after-strong-third-quarter-5014558",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90VY_L.jpg",
+      "published": "2026-11-10T10:42:32+00:00"
+    },
+    {
+      "h": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
+      "es": "El crudo Brent cae por debajo de los 90 dólares por primera vez desde agosto por las esperanzas de reducir la escalada de la guerra con Irán",
+      "d": "El presidente Trump dijo el lunes que pensaba que el conflicto \"iba a terminar bastante pronto\", pero algunos analistas todavía ven pocas posibilidades de un acuerdo de paz duradero.",
+      "u": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T10:38:49+00:00"
+    },
+    {
+      "h": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "es": "“La idea de vivir hasta los 100 años me aterroriza”: ¿Es la Seguridad Social un esquema Ponzi gigante?",
+      "d": "Ya hay una “carrera” demográfica en la Seguridad Social.",
+      "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-49247042",
+      "published": "2026-11-10T10:15:00+00:00"
+    },
+    {
+      "h": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy",
+      "es": "Las acciones de Nvidia suben mientras los inversores sopesan las posibles consecuencias del romance del CEO con el presunto espía",
+      "d": "Los inversores siguen sopesando las posibles consecuencias del romance del director ejecutivo Jensen Huang con un presunto espía chino.",
+      "u": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T10:02:23+00:00"
+    },
+    {
+      "h": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
+      "es": "La estrella de los N.Y. Knicks, Josh Hart, vuelve a poner en venta su casa en Florida por 5,7 millones de dólares",
+      "d": "La estrella de los New York Knicks, Josh Hart, ha vuelto a poner en venta su extensa mansión en Florida por 5,69 millones de dólares, apenas un año después de retirar la casa del bloque de venta.",
+      "u": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-09639772",
+      "published": "2026-11-10T10:01:00+00:00"
+    },
+    {
+      "h": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville",
+      "es": "El actor Justin Baldoni vendió silenciosamente su casa en Los Ángeles por 2,1 millones de dólares después de mudarse a Nashville",
+      "d": "El actor Justin Baldoni se deshizo discretamente de su antigua casa de Los Ángeles meses después de mudarse a Nashville, Tennessee, para “comenzar de nuevo”.",
+      "u": "https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-25610054",
+      "published": "2026-11-10T09:58:00+00:00"
+    },
+    {
+      "h": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "es": "Skims de Kim Kardashian ofrece reembolsos por un calendario de adviento de 148 dólares tras una reacción violenta",
+      "d": "El contenido del calendario, incluidas pinzas para el cabello y llaveros, ha sido ampliamente criticado en las redes sociales.",
+      "u": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
+      "published": "2026-11-10T09:57:49+00:00"
+    },
+    {
+      "h": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "es": "Miles de hogares 'fuera de la red' elegibles para £ 250 para ayudar con las facturas de calefacción",
+      "d": "Se beneficiarán los hogares que dependen del gasóleo para calefacción o del GLP y que tienen derecho a una reducción del impuesto municipal.",
+      "u": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e428/live/92c07690-dcee-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-10T09:57:29+00:00"
+    },
+    {
+      "h": "Fed’s Waller puts half-point rate hike into the mix for December",
+      "es": "Waller de la Fed prevé una subida de tipos de medio punto para diciembre",
+      "d": "El gobernador de la Reserva Federal, Chris Waller, planteó el martes la posibilidad de una subida de tipos de medio punto, dependiendo de qué tan buenos sean los datos de precios al consumo de octubre.",
+      "u": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-30624857",
+      "published": "2026-11-10T09:45:00+00:00"
+    },
+    {
+      "h": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+      "es": "Francia culpa a Irán de los ciberataques a los frigoríficos de los supermercados y sopesa las sanciones",
+      "d": "Francia dijo que la unidad cibernética del Cuerpo de la Guardia Revolucionaria Islámica de Irán llevó a cabo una \"campaña sin precedentes\" que causó daños por millones de euros.",
+      "u": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T09:34:24+00:00"
+    },
+    {
+      "h": "Headteachers say families will struggle after another rise in school dinner prices",
+      "es": "Los directores dicen que las familias tendrán dificultades tras otro aumento en los precios de las cenas escolares",
+      "d": "El precio de una cena escolar en una escuela primaria habrá aumentado de £2,60 a £3,40 desde principios de 2026.",
+      "u": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca3/live/100121b0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
+      "published": "2026-11-10T09:13:30+00:00"
+    },
+    {
+      "h": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "es": "El gobernador de la Fed, Waller, ve probable el aumento de diciembre y abre la puerta a un posible aumento de medio punto",
+      "d": "El funcionario dijo que \"se está inclinando hacia\" un aumento de tasas en diciembre y que podría apoyar un aumento de medio punto dependiendo de los datos de inflación.",
+      "u": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-10T09:00:01+00:00"
+    },
+    {
+      "h": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "es": "Trump dice que el FBI investiga el romance del jefe de Nvidia con un presunto espía chino",
+      "d": "El presidente estadounidense dijo que habló con Jensen Huang el lunes y le preguntó sobre el romance con el presunto espía.",
+      "u": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+      "published": "2026-11-10T08:23:21+00:00"
+    },
     {
       "h": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
       "es": "La FDA advierte sobre el riesgo de pérdida de visión relacionado con medicamentos populares GLP-1 como Wegovy y Zepbound",
@@ -36,240 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
       "published": "2026-11-10T08:06:39+00:00"
-    },
-    {
-      "h": "Honda raises full-year outlook despite second-quarter profit slump",
-      "es": "Honda eleva perspectivas para todo el año pese a caída de beneficios en segundo trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/honda-raises-fullyear-outlook-despite-secondquarter-profit-slump-5014315",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEL2G0RY_L.jpg",
-      "published": "2026-11-10T07:57:43+00:00"
-    },
-    {
-      "h": "Watches of Switzerland lifts outlook floor as US, UK demand stays strong",
-      "es": "Las observaciones de Suiza elevan el nivel mínimo de perspectivas mientras la demanda de EE.UU. y el Reino Unido se mantiene fuerte",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/watches-of-switzerland-lifts-outlook-floor-as-us-uk-demand-stays-strong-5014314",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90MP_L.jpg",
-      "published": "2026-11-10T07:54:39+00:00"
-    },
-    {
-      "h": "US sues Lyft, alleges discrimination against disabled riders",
-      "es": "Estados Unidos demanda a Lyft y alega discriminación contra pasajeros discapacitados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-sues-lyft-alleges-it-denied-rides-to-passengers-with-service-dogs-and-wheelchairs-5013896",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA905O_L.jpg",
-      "published": "2026-11-10T07:49:07+00:00"
-    },
-    {
-      "h": "Hims & Hers to offer unapproved peptides after US eases curbs",
-      "es": "Hims & Hers ofrecerá péptidos no aprobados después de que EE. UU. alivie las restricciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hims--hers-narrows-2026-revenue-forecast-as-margins-contract-5013239",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA81YO_L.jpg",
-      "published": "2026-11-10T07:48:56+00:00"
-    },
-    {
-      "h": "Jefferies upgrades Renault, cuts Mercedes-Benz as outlook for European autos diver",
-      "es": "Jefferies mejora Renault y recorta Mercedes-Benz como perspectiva para el buzo de automóviles europeo",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-renault-cuts-mercedesbenz-as-outlook-for-european-autos-diver-5014298",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEK310PH_L.jpg",
-      "published": "2026-11-10T07:41:46+00:00"
-    },
-    {
-      "h": "Honda raises full-year profit outlook, books $3 billion in EV-linked costs in Q2",
-      "es": "Honda eleva las perspectivas de ganancias para todo el año y registra $ 3 mil millones en costos relacionados con vehículos eléctricos en el segundo trimestre",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/honda-raises-fullyear-profit-outlook-books-3-billion-in-evlinked-costs-in-q2-5014292",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90GW_L.jpg",
-      "published": "2026-11-10T07:30:31+00:00"
-    },
-    {
-      "h": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
-      "es": "Europa puede competir en robótica e inteligencia artificial física, afirman los directores ejecutivos de los principales fabricantes de chips",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/europe-can-compete-in-robotics-and-physical-ai-topchipmaker-ceossay-5014280",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90KE_L.jpg",
-      "published": "2026-11-10T07:24:36+00:00"
-    },
-    {
-      "h": "What we know about Megaspeed, Singapore-based customer of Nvidia",
-      "es": "Lo que sabemos sobre Megaspeed, cliente de Nvidia con sede en Singapur",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/factboxwhat-we-know-about-megaspeed-singaporebased-customer-of-nvidia-5014126",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90DQ_L.jpg",
-      "published": "2026-11-10T07:18:55+00:00"
-    },
-    {
-      "h": "Australia regulator rejects warning of internet safety bill chilling free speech",
-      "es": "El regulador australiano rechaza la advertencia sobre un proyecto de ley de seguridad en Internet que obstaculiza la libertad de expresión",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/australia-regulator-rejects-warning-of-internet-safety-bill-chilling-free-speech-5014257",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90HX_L.jpg",
-      "published": "2026-11-10T07:00:39+00:00"
-    },
-    {
-      "h": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-      "es": "Trump dice que la guerra con Irán terminará \"bastante pronto\" y minimiza las perspectivas de nuevos ataques",
-      "d": "“Irán militarmente está efectivamente acabado”, dijo Trump, citando la destrucción de su armada y la creciente inflación que, según dijo, ha vaciado la economía de Teherán.",
-      "u": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T07:00:02+00:00"
-    },
-    {
-      "h": "Independent bookshop closing after rise in bills",
-      "es": "Cierra librería independiente tras aumento de facturas",
-      "d": "The Chicken and Frog en Brentwood dice que las tarifas comerciales y las facturas de electricidad han aumentado dramáticamente.",
-      "u": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e5/live/f9225030-d9f0-11f1-bb10-cdca6001fbcf.jpg",
-      "published": "2026-11-10T06:22:52+00:00"
-    },
-    {
-      "h": "Holiday hunger bill to face final Stormont hurdle",
-      "es": "El proyecto de ley sobre el hambre navideña enfrentará el último obstáculo en Stormont",
-      "d": "La nueva ley ayudaría a las familias más pobres a cubrir los costos de los alimentos durante las vacaciones escolares.",
-      "u": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/059e/live/1ea6c070-dc5d-11f1-8fe6-5becaee5408f.jpg",
-      "published": "2026-11-10T06:21:02+00:00"
-    },
-    {
-      "h": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
-      "es": "La llamada de Trump a C-SPAN marca la última aparición sorpresa posterior a la mitad de período",
-      "d": "Trump llamó al nuevo programa en horario estelar de C-SPAN sin previo aviso después de una sorpresa en la sala de reuniones informativa y las apariciones en salones de baile de la Casa Blanca.",
-      "u": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T06:19:09+00:00"
-    },
-    {
-      "h": "New chief outlines main issues facing Isle of Man",
-      "es": "El nuevo jefe describe los principales problemas que enfrenta la Isla de Man",
-      "d": "El primer ministro dice que la conectividad y el almacenamiento de alimentos estaban entre sus principales prioridades gubernamentales.",
-      "u": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1002/live/e64feac0-dc44-11f1-95cf-a38331e6cb4b.jpg",
-      "published": "2026-11-10T06:09:01+00:00"
-    },
-    {
-      "h": "TSMC's October sales jump as global chip boom rolls on",
-      "es": "Las ventas de octubre de TSMC aumentan a medida que avanza el auge mundial de los chips",
-      "d": "TSMC informa sus cifras de ventas mensuales de octubre el martes.",
-      "u": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T05:42:42+00:00"
-    },
-    {
-      "h": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "es": "Australia considera sanciones penales para la IA deshonesta tras el hackeo de OpenAI",
-      "d": "También se creará un regulador de seguridad de la IA después de que un agente deshonesto de OpenAI pirateara sitios web gubernamentales.",
-      "u": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
-      "published": "2026-11-10T05:22:39+00:00"
-    },
-    {
-      "h": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
-      "es": "Las importaciones mensuales de China crecen al ritmo más rápido en cinco años y el superávit superará el billón de dólares en 2026",
-      "d": "Las exportaciones de bienes se dispararon un 35,2% el mes pasado respecto al año anterior, superando las expectativas de un aumento del 33,5% en una encuesta de Reuters y desacelerándose desde un aumento del 36,3% en septiembre.",
-      "u": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T05:03:55+00:00"
-    },
-    {
-      "h": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-      "es": "Trump ve una \"fuerte inclinación\" a poner fin a la guerra entre Rusia y Ucrania antes de las conversaciones de paz mediadas por Estados Unidos",
-      "d": "El presidente Trump expresó optimismo sobre el fin de la guerra de Rusia en Ucrania antes de las conversaciones de negociación trilateral que comenzarán hoy en Abu Dhabi.",
-      "u": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T04:46:37+00:00"
-    },
-    {
-      "h": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "es": "“Tuvimos la peor pelea”: quiero que mi marido se jubile a los 65 años, pero no quiero perder su salario de 280.000 dólares. ¿Es eso irrazonable?",
-      "d": "\"Tenemos 2,6 millones de dólares, la mayor parte en su 401(k) y en sus cuentas IRA, más 450.000 dólares en una cuenta de corretaje\".",
-      "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-41887542",
-      "published": "2026-11-10T03:38:00+00:00"
-    },
-    {
-      "h": "Californians reject wealth tax for billionaires",
-      "es": "Los californianos rechazan el impuesto a la riqueza para los multimillonarios",
-      "d": "La Propuesta 40 apuntaba a los multimillonarios californianos con un impuesto del 5% sobre su riqueza total, incluidos activos como acciones e ingresos.",
-      "u": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df3/live/53f86970-d7b4-11f1-9092-abeae3cab3b1.jpg",
-      "published": "2026-11-10T03:34:46+00:00"
-    },
-    {
-      "h": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "es": "Qantas subcontratará 850 puestos de trabajo locales y la mayoría de los puestos se trasladarán a la India",
-      "d": "La aerolínea australiana dijo que la medida tenía como objetivo modernizar sus sistemas de TI y destacó el impacto de la IA.",
-      "u": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
-      "published": "2026-11-10T01:55:22+00:00"
-    },
-    {
-      "h": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
-      "es": "Las acciones de SoftBank Group suben un 11% mientras las acciones tecnológicas asiáticas suben tras el repunte de Wall Street",
-      "d": "Una fuerte caída en los precios del petróleo impulsó la confianza, mientras que las renovadas compras de nombres de semiconductores durante la noche se extendieron a Asia, luego de la fuerte liquidación de la semana pasada.",
-      "u": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T01:26:53+00:00"
-    },
-    {
-      "h": "Nvidia faces increased chip export controls amid Huang scandal- The Information",
-      "es": "Nvidia enfrenta mayores controles de exportación de chips en medio del escándalo de Huang- The Information",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-faces-increased-chip-export-controls-amid-huang-scandal-the-information-93CH-5013845",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE141FU_M.jpg",
-      "published": "2026-11-10T01:11:16+00:00"
-    },
-    {
-      "h": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
-      "es": "El vendedor en corto que vio señales del escándalo de Nvidia en China hace meses afirma que Megaspeed no es la única empresa que ayuda a China a acceder a chips.",
-      "d": "\"Al principio teníamos confianza en la investigación y todavía tenemos confianza en ella ahora\", dice Christian Lamarco, fundador de Culper Research.",
-      "u": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-44995532",
-      "published": "2026-11-10T00:48:00+00:00"
-    },
-    {
-      "h": "I took Vinted to court to get my money back",
-      "es": "Llevé a Vinted a los tribunales para recuperar mi dinero",
-      "d": "La BBC escucha a vendedores de Vinted que describen dificultades para acceder al dinero que tienen en sus billeteras en línea.",
-      "u": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
-      "published": "2026-11-10T00:27:37+00:00"
-    },
-    {
-      "h": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-      "es": "Trump dice que Jensen Huang le dijo el lunes que no sabía que su amante \"era una espía\"",
-      "d": "El presidente Donald Trump sugirió que se había enterado recientemente de las acusaciones de que Alice Huang era una espía china.",
-      "u": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T00:17:02+00:00"
     }
   ],
   "sources": [
