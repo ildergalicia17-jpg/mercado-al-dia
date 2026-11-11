@@ -1,6 +1,222 @@
 {
-  "updated": "2026-11-11T19:34:40.358433+00:00",
+  "updated": "2026-11-11T21:04:53.201314+00:00",
   "news": [
+    {
+      "h": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "es": "Las acciones de Nvidia se recuperan mientras Jensen Huang se enfrenta al escrutinio antes de las ganancias",
+      "d": "Los inversores están evaluando si el asunto del CEO Jensen Huang tendrá efectos indirectos en el negocio de Nvidia.",
+      "u": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T21:03:11+00:00"
+    },
+    {
+      "h": "Costco is giving shareholders a big, early holiday gift. How to make sure you get it",
+      "es": "Costco está dando a los accionistas un gran regalo navideño anticipado. Cómo asegurarse de conseguirlo",
+      "d": "Costco anunció un dividendo especial y no es demasiado tarde para entrar en acción.",
+      "u": "https://www.cnbc.com/investingclub/2026/11/11/costco-is-giving-shareholders-a-big-early-holiday-gift-how-to-make-sure-you-get-it.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T20:59:32+00:00"
+    },
+    {
+      "h": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
+      "es": "No es “Medicare para todos”, sino “Medicare para más”. Lo que esto podría significar para los trabajadores mayores de 50 años.",
+      "d": "Un nuevo proyecto de ley reduciría la edad de Medicare a 50 años, ampliando la cobertura a 60 millones de adultos adicionales",
+      "u": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-17509627",
+      "published": "2026-11-11T20:53:00+00:00"
+    },
+    {
+      "h": "Clashes erupt in Barcelona as thousands join Spain general strike",
+      "es": "Estallan enfrentamientos en Barcelona mientras miles de personas se unen a la huelga general en España",
+      "d": "Decenas de miles de personas han participado en la huelga, convocada por los principales sindicatos del país por la vivienda y el alto coste de la vida.",
+      "u": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-11T20:52:52+00:00"
+    },
+    {
+      "h": "The trillion-dollar mistake corporate America is making about retirement",
+      "es": "El error de un billón de dólares que están cometiendo las empresas estadounidenses con respecto a la jubilación",
+      "d": "El mercado está subestimando drásticamente el impacto económico de los estadounidenses de 50 años o más.",
+      "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-43763907",
+      "published": "2026-11-11T20:46:00+00:00"
+    },
+    {
+      "h": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "es": "“Tuvimos la peor pelea”: quiero que mi marido se jubile a los 65 años, pero no quiero perder su salario de 280.000 dólares. ¿Es eso irrazonable?",
+      "d": "\"Tenemos 2,6 millones de dólares, la mayor parte en su 401(k) y en sus cuentas IRA, más 450.000 dólares en una cuenta de corretaje\".",
+      "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-41887542",
+      "published": "2026-11-11T20:45:00+00:00"
+    },
+    {
+      "h": "Bloom Energy’s stock is rallying as data-center jitters subside",
+      "es": "Las acciones de Bloom Energy se recuperan a medida que disminuye el nerviosismo en los centros de datos",
+      "d": "La perspectiva optimista de CoreWeave ayudó a calmar los nervios en torno a la empresa de energía.",
+      "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-16106411",
+      "published": "2026-11-11T20:43:00+00:00"
+    },
+    {
+      "h": "JetBlue debuts BlueFirst, the key to its return-to-profitability goal",
+      "es": "JetBlue estrena BlueFirst, la clave para su objetivo de retorno a la rentabilidad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jetblue-debuts-bluefirst-the-key-to-its-returntoprofitability-goal-5019802",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1VC_L.jpg",
+      "published": "2026-11-11T20:42:19+00:00"
+    },
+    {
+      "h": "Canadian AI-buildout stocks: hardware, power, engineering and software",
+      "es": "Acciones canadienses de desarrollo de IA: hardware, energía, ingeniería y software",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/canadian-aibuildout-stocks-hardware-power-engineering-and-software-93CH-5019807",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg",
+      "published": "2026-11-11T20:41:35+00:00"
+    },
+    {
+      "h": "Anthropic Bankers Mull Raising IPO Valuation To Min. $1.5T - FT",
+      "es": "Los banqueros antrópicos consideran aumentar la valoración de la oferta pública inicial al mínimo. 1,5 billones de dólares - pies cuadrados",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-bankers-mull-raising-ipo-valuation-to-min-15t--ft-432SI-5019795",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-11-11T20:40:02+00:00"
+    },
+    {
+      "h": "US auto workers union urges Congress to keep its eye on Chinese automakers",
+      "es": "El sindicato de trabajadores automotrices de EE. UU. insta al Congreso a vigilar a los fabricantes de automóviles chinos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-auto-workers-union-urges-congress-to-keep-its-eye-on-chinese-automakers-5019803",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1V8_L.jpg",
+      "published": "2026-11-11T20:36:39+00:00"
+    },
+    {
+      "h": "JetBlue unveils new first-class seats to bring back profits",
+      "es": "JetBlue presenta nuevos asientos de primera clase para recuperar ganancias",
+      "d": "JetBlue dará a los periodistas un vistazo a sus nuevos asientos de primera clase el miércoles.",
+      "u": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T20:35:45+00:00"
+    },
+    {
+      "h": "Semiconductor equipment stocks: fundamentals, fair value, and the top pick",
+      "es": "Acciones de equipos semiconductores: fundamentos, valor razonable y la mejor opción",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/semiconductor-equipment-stocks-fundamentals-fair-value-and-the-top-pick-93CH-5019801",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
+      "published": "2026-11-11T20:30:35+00:00"
+    },
+    {
+      "h": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+      "es": "El embajador de Canadá advierte que los aranceles de Trump están elevando los costos y amenazando la inversión estadounidense",
+      "d": "Las tensiones comerciales entre Estados Unidos y Canadá persisten mientras los aranceles de Trump aumentan los costos, amenazan la inversión y complican las negociaciones entre los dos países.",
+      "u": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T20:30:23+00:00"
+    },
+    {
+      "h": "Brazil stocks higher at close of trade; Bovespa up 0.58%",
+      "es": "Las bolsas de Brasil cierran al alza; Bovespa sube un 0,58%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-058-5019797",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ6K0IE_L.jpg",
+      "published": "2026-11-11T20:30:04+00:00"
+    },
+    {
+      "h": "Sandisk’s stock is soaring, and these three trends could send it even higher",
+      "es": "Las acciones de Sandisk se están disparando y estas tres tendencias podrían hacerlas subir aún más",
+      "d": "Varios “cambios estructurales” que están en marcha en la industria de la memoria podrían ayudar a que las acciones de Sandisk se dupliquen a partir de aquí, según un analista de Evercore.",
+      "u": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-75636714",
+      "published": "2026-11-11T20:25:00+00:00"
+    },
+    {
+      "h": "Crunch Fitness seeks $800 million from franchise-backed bonds - Bloomberg",
+      "es": "Crunch Fitness busca 800 millones de dólares de bonos respaldados por franquicias - Bloomberg",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/crunch-fitness-seeks-800-million-from-franchisebacked-bonds--bloomberg-93CH-5019781",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-11-11T20:13:39+00:00"
+    },
+    {
+      "h": "Five US states join FTC suit against Hims & Hers over privacy practices",
+      "es": "Cinco estados de EE. UU. se unen a la demanda de la FTC contra Hims & Hers por prácticas de privacidad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/five-us-states-join-ftc-suit-over-alleged-hims--hers-unlawful-practices-5016982",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA923A_L.jpg",
+      "published": "2026-11-11T20:12:25+00:00"
+    },
+    {
+      "h": "United Airlines moves to block AI agents from its platform over security concerns",
+      "es": "United Airlines toma medidas para bloquear a los agentes de inteligencia artificial de su plataforma por preocupaciones de seguridad",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-5019752",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1SJ_L.jpg",
+      "published": "2026-11-11T20:06:44+00:00"
+    },
+    {
+      "h": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
+      "es": "México dice que las medidas enérgicas contra los envíos de acero asiáticos están dando sus frutos a medida que avanzan las conversaciones arancelarias con EE.UU.",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/mexico-says-crackdown-on-asian-steel-shipments-is-paying-off-as-us-tariff-talks-advance-5019780",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1UC_L.jpg",
+      "published": "2026-11-11T20:06:27+00:00"
+    },
+    {
+      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
+      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
+      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06068042",
+      "published": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "h": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+      "es": "Senado de Mississippi: Scott Colom supera a Hyde-Smith con más de 4.400 votos",
+      "d": "El martes vencía la fecha límite para que se resolvieran las boletas provisionales en Mississippi y la fecha límite para recibir las boletas de voto ausente enviadas por correo.",
+      "u": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T19:55:39+00:00"
+    },
+    {
+      "h": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+      "es": "La Seguridad Social podría pagar todos los beneficios hasta 2059 si la nómina sujeta a impuestos se mantuviera a la par del PIB: informe de AARP",
+      "d": "El envejecimiento de la fuerza laboral no es la única razón por la que los fondos fiduciarios del Seguro Social ahora tienen un déficit inminente, según una investigación del Instituto de Políticas Públicas de AARP.",
+      "u": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T19:54:27+00:00"
+    },
+    {
+      "h": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "es": "Tengo 63 años y gasto $95,000 en una terraza para mi casa de $500,000. ¿Estoy siendo extravagante?",
+      "d": "\"Tengo un patrimonio neto de 2,3 millones de dólares y mi única deuda es una hipoteca a 15 años\".",
+      "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-83882608",
+      "published": "2026-11-11T19:41:00+00:00"
+    },
     {
       "h": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
       "es": "Análisis: ¿Nvidia es demasiado grande para fracasar? Su red de financiación de IA aumenta las apuestas",
@@ -18,6 +234,15 @@
       "s": "CNBC",
       "img": "",
       "published": "2026-11-11T19:16:23+00:00"
+    },
+    {
+      "h": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "es": "'No es la respuesta': los parlamentarios laboristas se pronuncian contra Rosebank mientras se avecina una decisión",
+      "d": "Existe una expectativa creciente entre altos cargos laboristas de que se dé luz verde a la perforación en el campo petrolero.",
+      "u": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+      "published": "2026-11-11T19:15:45+00:00"
     },
     {
       "h": "Micron Tech, Oracle among market cap stock movers on Wednesday",
@@ -45,231 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB7H0C5_M.jpg",
       "published": "2026-11-11T19:01:33+00:00"
-    },
-    {
-      "h": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-      "es": "El metajefe de infraestructura se marchará y será reemplazado por el ex ejecutivo de la nube de AWS",
-      "d": "El jefe de infraestructura y codirector de ingeniería de Meta, Santosh Janardhan, se marchará en 2027 y el ex vicepresidente senior de AWS, David Brown, asumirá el cargo.",
-      "u": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T18:57:38+00:00"
-    },
-    {
-      "h": "How Democrats could snarl Trump administration stakes in private sector companies",
-      "es": "Cómo los demócratas podrían enredar las participaciones de la administración Trump en empresas del sector privado",
-      "d": "La administración Trump había establecido algún tipo de posición accionaria en 41 empresas hasta noviembre, según el recuento del Instituto CATO.",
-      "u": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T18:55:39+00:00"
-    },
-    {
-      "h": "Michael Burry buys back into Lululemon, adds to other positions",
-      "es": "Michael Burry vuelve a comprar Lululemon y amplía otras posiciones",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/michael-burry-buys-back-into-lululemon-adds-to-other-positions-5019715",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE070NK_M.jpg",
-      "published": "2026-11-11T18:54:55+00:00"
-    },
-    {
-      "h": "Apple's record run ignites options flurry — Watch Options Action live",
-      "es": "La racha récord de Apple enciende una ráfaga de opciones: vea la acción de opciones en vivo",
-      "d": "La resistencia de Apple sigue atrayendo la atención de los operadores de opciones que buscan un puerto seguro en la tecnología.",
-      "u": "https://www.cnbc.com/2026/11/11/apples-record-run-ignites-options-flurry-watch-options-action-live.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T18:53:03+00:00"
-    },
-    {
-      "h": "Expedia and Booking shares rise after United Airlines blocks AI booking",
-      "es": "Las acciones de Expedia y Booking suben después de que United Airlines bloqueara las reservas con IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/expedia-and-booking-shares-rise-after-united-airlines-blocks-ai-booking-5019714",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPED7T1RC_M.jpg",
-      "published": "2026-11-11T18:51:00+00:00"
-    },
-    {
-      "h": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "es": "Poundland tendrá más tiempo para asegurar un acuerdo de rescate mientras continúan las conversaciones de emergencia",
-      "d": "La BBC entiende que a la cadena de descuentos, que se ha estado acercando a la administración, se le dará más tiempo para encontrar un comprador.",
-      "u": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-      "published": "2026-11-11T18:48:19+00:00"
-    },
-    {
-      "h": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-      "es": "Nvidia está gastando más que nunca en cabildeo en Washington. Puede que esto no impida que el Congreso limite ahora las ventas de chips en China.",
-      "d": "\"No hay duda de que el Congreso va a impulsar una prohibición total de la venta de semiconductores avanzados en China\", dice un ex embajador de Estados Unidos en Beijing",
-      "u": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-77037954",
-      "published": "2026-11-11T18:48:00+00:00"
-    },
-    {
-      "h": "Nasdaq soars over 2% as upbeat CoreWeave outlook reignites AI trade",
-      "es": "Nasdaq sube más del 2% mientras las perspectivas optimistas de CoreWeave reavivan el comercio de IA",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-11-11T18:47:51+00:00"
-    },
-    {
-      "h": "Meta’s longtime infrastructure head Janardhan to depart in early 2027",
-      "es": "Janardhan, antiguo jefe de infraestructura de Meta, partirá a principios de 2027",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/metas-longtime-infrastructure-headjanardhan-to-depart-in-early-2027-5019662",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1NF_L.jpg",
-      "published": "2026-11-11T18:36:23+00:00"
-    },
-    {
-      "h": "iHeartMedia shares jump on report of podcast unit sale exploration",
-      "es": "Las acciones de iHeartMedia saltan tras el informe de exploración de venta de unidades de podcasts",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/iheartmedia-shares-jump-on-report-of-podcast-unit-sale-exploration-5019705",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/green3_b._M_1440048377.jpg",
-      "published": "2026-11-11T18:32:36+00:00"
-    },
-    {
-      "h": "Bouncing Wynn Shares might be primed for the 'wheel strategy'",
-      "es": "Las acciones rebotantes de Wynn podrían estar preparadas para la 'estrategia de la rueda'",
-      "d": "Desde el punto de vista de la valoración, WYNN cotiza muy cerca de sus promedios históricos de cinco años en métricas clave. Entonces, ¿cómo deberían los traders utilizar esta configuración?",
-      "u": "https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T18:24:53+00:00"
-    },
-    {
-      "h": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
-      "es": "Las acciones de Oracle son totalmente incomprendidas y deberían ser una opción de IA, dice este analista",
-      "d": "Un analista de Bernstein cree que pronto desaparecerán dos preocupaciones clave de los inversores.",
-      "u": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-37217183",
-      "published": "2026-11-11T18:13:00+00:00"
-    },
-    {
-      "h": "Ternium weighs more anti-dumping cases as steel snarls trade talks with US",
-      "es": "Ternium sopesa más casos antidumping mientras el acero obstaculiza las negociaciones comerciales con EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ternium-weighs-more-antidumping-cases-as-steel-snarls-trade-talks-with-us-5018353",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA0XG_L.jpg",
-      "published": "2026-11-11T18:12:56+00:00"
-    },
-    {
-      "h": "Poundland founder writes to King for help",
-      "es": "El fundador de Poundland le escribe a King pidiéndole ayuda",
-      "d": "Poundland ha presentado un aviso de intención de nombrar administradores, lo que le protege de los acreedores hasta el jueves.",
-      "u": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c3/live/68229c90-ddf9-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-11-11T17:59:35+00:00"
-    },
-    {
-      "h": "Brad Friedel on Shrewsbury Town takeover",
-      "es": "Brad Friedel sobre la adquisición de Shrewsbury Town",
-      "d": "Entrevista exclusiva con BBC Radio Shropshire, Brad Friedel sobre la adquisición de Shrewsbury Town.",
-      "u": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a9/live/f1201bf0-ddf7-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-11-11T17:55:43+00:00"
-    },
-    {
-      "h": "Wachtell, Nvidia’s pick for Huang probe, built reputation in boardroom battles",
-      "es": "Wachtell, la elección de Nvidia para la investigación de Huang, se ganó la reputación en las batallas en las salas de juntas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/wachtell-nvidias-pick-for-huang-probe-built-reputation-in-boardroom-battles-5019665",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1O5_L.jpg",
-      "published": "2026-11-11T17:48:48+00:00"
-    },
-    {
-      "h": "CoreWeave soars 26% as CEO reaffirms AI compute demand after strong Q3 report",
-      "es": "CoreWeave se dispara un 26% mientras el CEO reafirma la demanda de computación de IA después del sólido informe del tercer trimestre",
-      "d": "Las neonubes como CoreWeave, Nebius e IREN han sido objeto de escrutinio este mes mientras los inversores evaluaban la sostenibilidad del comercio de IA.",
-      "u": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-11T17:38:34+00:00"
-    },
-    {
-      "h": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-      "es": "American Airlines trae alimentos frescos a la primera clase de Nueva York-Chicago por primera vez desde 2019",
-      "d": "Las opciones de comida de primera clase de American Airlines incluyen sándwiches, frutas y tazones de chía.",
-      "u": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T17:34:18+00:00"
-    },
-    {
-      "h": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
-      "es": "¿Nvidia se ha acercado demasiado al sol? Un analista advierte que se avecina un mayor escrutinio.",
-      "d": "Un analista de Baird ya no recomienda comprar acciones del fabricante de chips a medida que aumentan sus problemas.",
-      "u": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-89576474",
-      "published": "2026-11-11T17:13:00+00:00"
-    },
-    {
-      "h": "Need money for a down payment? More employers are offering to help.",
-      "es": "¿Necesita dinero para un pago inicial? Más empleadores se ofrecen a ayudar.",
-      "d": "El aumento de la ayuda de los empleadores para la compra de viviendas \"dice mucho sobre lo difícil que se ha vuelto comprar una vivienda, incluso para las personas con empleos estables\".",
-      "u": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-55718088",
-      "published": "2026-11-11T17:06:00+00:00"
-    },
-    {
-      "h": "Workers across Spain stage first general strike in 14 years",
-      "es": "Los trabajadores de toda España realizan la primera huelga general en 14 años",
-      "d": "La gente en toda España está en huelga, principalmente por los costes de la vivienda.",
-      "u": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b36/live/846543e0-ddee-11f1-93e1-3b657b665bcf.jpg",
-      "published": "2026-11-11T17:01:07+00:00"
-    },
-    {
-      "h": "Bessent moved to military base amid 'growing threats' from Iran",
-      "es": "Bessent se trasladó a una base militar en medio de \"crecientes amenazas\" de Irán",
-      "d": "El papel de Bessent al frente de la Operación Paria Económica lo ha convertido en uno de los principales objetivos de las amenazas iraníes de la administración Trump, informó The New York Times.",
-      "u": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T16:59:18+00:00"
-    },
-    {
-      "h": "Jim Cramer's plan for our Intel position. Plus, a rotation loser to buy here",
-      "es": "El plan de Jim Cramer para nuestra posición en Intel. Además, un perdedor de rotación para comprar aquí.",
-      "d": "El Club de Inversiones celebra su \"reunión matutina\" todos los días laborables a las 10:20 a. m., hora del Este.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-plan-for-our-intel-position-plus-a-rotation-loser-to-buy-here.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T16:59:10+00:00"
-    },
-    {
-      "h": "Protesters gather in Spain for first general strike in 14 years",
-      "es": "Manifestantes se reúnen en España para la primera huelga general en 14 años",
-      "d": "Miles de personas están protestando en toda España por la vivienda y el alto coste de la vida.",
-      "u": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a0/live/8584f370-dde8-11f1-a701-fddedf244c16.jpg",
-      "published": "2026-11-11T16:12:12+00:00"
-    },
-    {
-      "h": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
-      "es": "¿Estás cansado de perder tiempo arreglando la IA de otras personas en el trabajo? Cómo hablar con ellos al respecto",
-      "d": "La entrenadora ejecutiva Melody Wilding comparte cuatro formas de abordar el trabajo adicional que llega a su plato sin que la conversación se convierta en una confrontación.",
-      "u": "https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T16:05:01+00:00"
     }
   ],
   "sources": [
