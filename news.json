@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-11T05:32:25.257233+00:00",
+  "updated": "2026-11-11T06:34:08.998400+00:00",
   "news": [
+    {
+      "h": "Electricity bills to rise by 2.5% from March",
+      "es": "Las facturas de electricidad aumentarán un 2,5% desde marzo",
+      "d": "El aumento agregará poco más de £1 por semana para una casa típica totalmente eléctrica, dice Jersey Electricity.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x292elgnm5o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d97/live/86cad140-dd35-11f1-ab86-698de9f28d28.png",
+      "published": "2026-11-11T06:24:15+00:00"
+    },
+    {
+      "h": "China’s Singles Day shopping festival puts AI selling power to the test",
+      "es": "El festival de compras del Día de los Solteros de China pone a prueba el poder de venta de la IA",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/chinas-singles-day-shopping-festival-puts-ai-selling-power-to-the-test-5017773",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA0DM_L.jpg",
+      "published": "2026-11-11T06:18:23+00:00"
+    },
+    {
+      "h": "Nomura considers rebuilding Hong Kong equity capital markets unit- Reuters",
+      "es": "Nomura considera reconstruir la unidad de mercados de capitales de Hong Kong- Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nomura-considers-rebuilding-hong-kong-equity-capital-markets-unit-reuters-93CH-5017765",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-11T06:14:09+00:00"
+    },
+    {
+      "h": "China optical stocks rally as Microsoft challenges proposed U.S. import curbs",
+      "es": "Las acciones de productos ópticos de China suben a medida que Microsoft desafía las restricciones a las importaciones propuestas por Estados Unidos",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-optical-stocks-rally-as-microsoft-challenges-proposed-us-import-curbs-5017749",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB640AZ_M.jpg",
+      "published": "2026-11-11T06:00:31+00:00"
+    },
+    {
+      "h": "Taiwan stocks higher at close of trade; Taiwan Weighted up 3.11%",
+      "es": "Las bolsas de Taiwán cierran al alza; Taiwán ponderó un 3,11%",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-311-5017744",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEE0O0L4_M.jpg",
+      "published": "2026-11-11T06:00:05+00:00"
+    },
+    {
+      "h": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+      "es": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+      "d": "Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.",
+      "u": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T06:00:01+00:00"
+    },
+    {
+      "h": "Ganfeng Lithium says battery metal prices harder to predict",
+      "es": "Ganfeng Lithium dice que los precios de los metales para baterías son más difíciles de predecir",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ganfeng-lithium-says-battery-metal-prices-harder-to-predict-93CH-5017740",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-11-11T05:53:15+00:00"
+    },
+    {
+      "h": "China PLA-linked university bought Nvidia H200 chips despite U.S. curbs - Reuters",
+      "es": "Universidad china vinculada al PLA compró chips Nvidia H200 a pesar de las restricciones de Estados Unidos - Reuters",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-plalinked-university-bought-nvidia-h200-chips-despite-us-curbs--reuters-5017739",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK1J0CD_L.jpg",
+      "published": "2026-11-11T05:51:02+00:00"
+    },
+    {
+      "h": "Why is TSMC stock rallying today?",
+      "es": "¿Por qué las acciones de TSMC están subiendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-rallying-today-93CH-5017738",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-11-11T05:50:46+00:00"
+    },
+    {
+      "h": "TSMC board approves $1 bln  investment in Anthropic, OpenAI; shares rise",
+      "es": "La junta de TSMC aprueba una inversión de mil millones de dólares en Anthropic, OpenAI; las acciones suben",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tsmc-board-approves-1-bln--investment-in-anthropic-openai-shares-rise-93CH-5017730",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-11T05:48:35+00:00"
+    },
+    {
+      "h": "Why is PEXA stock sliding today?",
+      "es": "¿Por qué las acciones de PEXA están cayendo hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-pexa-stock-sliding-today-93CH-5017725",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-11-11T05:43:20+00:00"
+    },
     {
       "h": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
       "es": "Estados Unidos y China no deberían “hacerse ilusiones” mientras cooperan y compiten en IA, dice Bessent",
@@ -171,105 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA923A_L.jpg",
       "published": "2026-11-11T01:48:34+00:00"
-    },
-    {
-      "h": "What could drive India’s Nifty higher? BofA outlines key risks",
-      "es": "What could drive India’s Nifty higher? BofA outlines key risks",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/what-could-drive-indias-nifty-higher-bofa-outlines-key-risks-5017483",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEC4Q0AP_L.jpg",
-      "published": "2026-11-11T01:37:47+00:00"
-    },
-    {
-      "h": "US lawmakers push China chip rules after Nvidia CEO allegations",
-      "es": "US lawmakers push China chip rules after Nvidia CEO allegations",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA91WF_L.jpg",
-      "published": "2026-11-11T01:18:53+00:00"
-    },
-    {
-      "h": "SoftBank shares tumble after $7 bln quarterly loss",
-      "es": "SoftBank shares tumble after $7 bln quarterly loss",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/softbank-shares-tumble-after-7-bln-quarterly-loss-5017452",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBA30AJ_M.jpg",
-      "published": "2026-11-11T01:14:08+00:00"
-    },
-    {
-      "h": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "es": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "d": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-      "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04728199",
-      "published": "2026-11-11T01:12:00+00:00"
-    },
-    {
-      "h": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
-      "es": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90Z9_L.jpg",
-      "published": "2026-11-11T01:06:40+00:00"
-    },
-    {
-      "h": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
-      "es": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-      "published": "2026-11-11T00:42:41+00:00"
-    },
-    {
-      "h": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
-      "es": "Wall St cierra a la baja mientras los datos de inflación y los comentarios de la Fed aumentan las preocupaciones sobre las tasas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90WK_L.jpg",
-      "published": "2026-11-11T00:31:10+00:00"
-    },
-    {
-      "h": "Russia shoots down 92 drones over Leningrad region",
-      "es": "Rusia derriba 92 drones sobre la región de Leningrado",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/russia-shoots-down-92-drones-over-leningrad-region-5017399",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-11T00:30:58+00:00"
-    },
-    {
-      "h": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "es": "“Tuvimos la peor pelea”: quiero que mi marido se jubile a los 65 años, pero no quiero perder su salario de 280.000 dólares. ¿Es eso irrazonable?",
-      "d": "\"Tenemos 2,6 millones de dólares, la mayor parte en su 401(k) y en sus cuentas IRA, más 450.000 dólares en una cuenta de corretaje\".",
-      "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-41887542",
-      "published": "2026-11-11T00:30:00+00:00"
-    },
-    {
-      "h": "Robot vessels take on the dangerous work of mine hunting",
-      "es": "Naves robóticas asumen el peligroso trabajo de cazar minas",
-      "d": "El conflicto en el Golfo es una oportunidad para que Estados Unidos pruebe sus sistemas autónomos de caza de minas.",
-      "u": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
-      "published": "2026-11-11T00:19:13+00:00"
-    },
-    {
-      "h": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-      "es": "Las pegatinas y los juegos de construcción ayudan a impulsar las ventas de juguetes antes de la temporada navideña",
-      "d": "Un año excelente hasta ahora para las ventas de juguetes se produce a medida que se intensifica el debate sobre el tiempo frente a la pantalla y la conectividad tecnológica.",
-      "u": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
-      "published": "2026-11-11T00:16:44+00:00"
     }
   ],
   "sources": [
