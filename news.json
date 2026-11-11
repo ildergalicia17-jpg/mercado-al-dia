@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-11T01:51:29.187878+00:00",
+  "updated": "2026-11-11T03:31:52.916256+00:00",
   "news": [
+    {
+      "h": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "es": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "d": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "u": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T03:08:17+00:00"
+    },
+    {
+      "h": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "es": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "d": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+      "u": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T02:46:56+00:00"
+    },
+    {
+      "h": "Why is SoftBank Group stock tumbling today?",
+      "es": "Why is SoftBank Group stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-5017528",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-11-11T02:25:50+00:00"
+    },
+    {
+      "h": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "es": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "d": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+      "u": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T01:52:56+00:00"
+    },
     {
       "h": "What could drive India’s Nifty higher? BofA outlines key risks",
       "es": "What could drive India’s Nifty higher? BofA outlines key risks",
@@ -234,42 +270,6 @@
       "s": "CNBC Markets",
       "img": "",
       "published": "2026-11-10T22:41:19+00:00"
-    },
-    {
-      "h": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-      "es": "El CEO de Fossil dice que la recuperación está por delante de lo planeado a medida que las ventas vuelven a crecer",
-      "d": "El relojero Fossil dijo el martes que la compañía está recuperando el crecimiento de las ganancias y las ventas en los primeros signos de su estrategia de recuperación.",
-      "u": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-10T22:39:30+00:00"
-    },
-    {
-      "h": "House begins voting on Hegseth impeachment measure",
-      "es": "La Cámara comienza a votar sobre la medida de juicio político a Hegseth",
-      "d": "El representante republicano Thomas Massie, que se ha enfrentado con el presidente Donald Trump, inició la lucha por el juicio político a Hegseth días después de una elección de mitad de período de ola azul.",
-      "u": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T22:38:14+00:00"
-    },
-    {
-      "h": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "es": "Las acciones de AMD se desvanecen mientras los inversores sopesan si la agitación de Nvidia significará victorias duraderas",
-      "d": "Una cosa es que el dinero cambie entre acciones, pero otra es que los clientes cambien sus relaciones con los proveedores.",
-      "u": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-86112590",
-      "published": "2026-11-10T22:37:00+00:00"
-    },
-    {
-      "h": "Five US states join FTC lawsuit alleging Hims & Hers engaged in unlawful privacy practices",
-      "es": "Cinco estados de EE. UU. se unen a la demanda de la FTC que alega que Hims & Hers participaron en prácticas ilegales de privacidad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/five-us-states-join-ftc-suit-over-alleged-hims--hers-unlawful-practices-5016982",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA923A_L.jpg",
-      "published": "2026-11-10T22:30:26+00:00"
     }
   ],
   "sources": [
