@@ -1,6 +1,204 @@
 {
-  "updated": "2026-11-11T21:04:53.201314+00:00",
+  "updated": "2026-11-11T23:01:14.116189+00:00",
   "news": [
+    {
+      "h": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "es": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "d": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+      "u": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T22:58:11+00:00"
+    },
+    {
+      "h": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "es": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "d": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T22:52:14+00:00"
+    },
+    {
+      "h": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "es": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "d": "Nvidia’s board of directors could reportedly meet as soon as today to determine the CEO’s fate.",
+      "u": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-16739210",
+      "published": "2026-11-11T22:47:00+00:00"
+    },
+    {
+      "h": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "es": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "d": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+      "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T22:46:29+00:00"
+    },
+    {
+      "h": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
+      "es": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports-5019992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1ZH_L.jpg",
+      "published": "2026-11-11T22:43:02+00:00"
+    },
+    {
+      "h": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+      "es": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1ZO_L.jpg",
+      "published": "2026-11-11T22:42:28+00:00"
+    },
+    {
+      "h": "NVIDIA expected to oust Jensen Huang  - report",
+      "es": "NVIDIA expected to oust Jensen Huang  - report",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-expected-to-oust-jensen-huang---report-5020001",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPELBA0UL_L.jpg",
+      "published": "2026-11-11T22:40:04+00:00"
+    },
+    {
+      "h": "Fitch cuts BlackRock TCP to ’BB-’ on asset quality woes and strategic uncertainty",
+      "es": "Fitch cuts BlackRock TCP to ’BB-’ on asset quality woes and strategic uncertainty",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/fitch-cuts-blackrock-tcp-to-bb-on-asset-quality-woes-and-strategic-uncertainty-5019978",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6L1HO_L.jpg",
+      "published": "2026-11-11T22:29:56+00:00"
+    },
+    {
+      "h": "Moody’s cuts Builders FirstSource to Ba2 on housing slump and rising leverage",
+      "es": "Moody’s cuts Builders FirstSource to Ba2 on housing slump and rising leverage",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/moodys-cuts-builders-firstsource-to-ba2-on-housing-slump-and-rising-leverage-5019976",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
+      "published": "2026-11-11T22:26:40+00:00"
+    },
+    {
+      "h": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "es": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "d": "American Airlines' first-class food options include sandwiches, fruit and chia bowls",
+      "u": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T22:20:58+00:00"
+    },
+    {
+      "h": "Pfizer secures up to $1.5 billion from Blackstone for obesity drug development",
+      "es": "Pfizer secures up to $1.5 billion from Blackstone for obesity drug development",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/pfizer-secures-up-to-15-billion-from-blackstone-for-obesity-drug-development-5019917",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1XP_L.jpg",
+      "published": "2026-11-11T22:12:57+00:00"
+    },
+    {
+      "h": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "es": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "d": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "u": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+      "published": "2026-11-11T22:08:56+00:00"
+    },
+    {
+      "h": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
+      "es": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nvidia-shares-slip-in-afterhours-trading-on-fresh-allegations-of-ceo-relationship-5019943",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEMA90ZP_L.jpg",
+      "published": "2026-11-11T22:07:02+00:00"
+    },
+    {
+      "h": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+      "es": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+      "d": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+      "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-19395705",
+      "published": "2026-11-11T22:05:00+00:00"
+    },
+    {
+      "h": "Why is Corteva stock sliding today?",
+      "es": "Why is Corteva stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-sliding-today-93CH-5019932",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published": "2026-11-11T22:00:13+00:00"
+    },
+    {
+      "h": "CareTrust REIT stock falls on 17 million share offering",
+      "es": "CareTrust REIT stock falls on 17 million share offering",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/caretrust-reit-stock-falls-on-17-million-share-offering-5019927",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18R_L.jpg",
+      "published": "2026-11-11T21:59:20+00:00"
+    },
+    {
+      "h": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "es": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "d": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-87023125",
+      "published": "2026-11-11T21:55:00+00:00"
+    },
+    {
+      "h": "Digi International falls on weak revenue guidance despite Q4 beat",
+      "es": "Digi International falls on weak revenue guidance despite Q4 beat",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/digi-international-falls-on-weak-revenue-guidance-despite-q4-beat-5019921",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
+      "published": "2026-11-11T21:53:46+00:00"
+    },
+    {
+      "h": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "es": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "d": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+      "u": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-79106008",
+      "published": "2026-11-11T21:42:00+00:00"
+    },
+    {
+      "h": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "es": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "d": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+      "u": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-51599311",
+      "published": "2026-11-11T21:21:00+00:00"
+    },
+    {
+      "h": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "es": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "d": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "u": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-11T21:13:41+00:00"
+    },
+    {
+      "h": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+      "es": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+      "d": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+      "u": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-11T21:11:26+00:00"
+    },
     {
       "h": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
       "es": "Las acciones de Nvidia se recuperan mientras Jensen Huang se enfrenta al escrutinio antes de las ganancias",
@@ -72,204 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1VC_L.jpg",
       "published": "2026-11-11T20:42:19+00:00"
-    },
-    {
-      "h": "Canadian AI-buildout stocks: hardware, power, engineering and software",
-      "es": "Acciones canadienses de desarrollo de IA: hardware, energía, ingeniería y software",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/canadian-aibuildout-stocks-hardware-power-engineering-and-software-93CH-5019807",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg",
-      "published": "2026-11-11T20:41:35+00:00"
-    },
-    {
-      "h": "Anthropic Bankers Mull Raising IPO Valuation To Min. $1.5T - FT",
-      "es": "Los banqueros antrópicos consideran aumentar la valoración de la oferta pública inicial al mínimo. 1,5 billones de dólares - pies cuadrados",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-bankers-mull-raising-ipo-valuation-to-min-15t--ft-432SI-5019795",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-11T20:40:02+00:00"
-    },
-    {
-      "h": "US auto workers union urges Congress to keep its eye on Chinese automakers",
-      "es": "El sindicato de trabajadores automotrices de EE. UU. insta al Congreso a vigilar a los fabricantes de automóviles chinos",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/us-auto-workers-union-urges-congress-to-keep-its-eye-on-chinese-automakers-5019803",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1V8_L.jpg",
-      "published": "2026-11-11T20:36:39+00:00"
-    },
-    {
-      "h": "JetBlue unveils new first-class seats to bring back profits",
-      "es": "JetBlue presenta nuevos asientos de primera clase para recuperar ganancias",
-      "d": "JetBlue dará a los periodistas un vistazo a sus nuevos asientos de primera clase el miércoles.",
-      "u": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T20:35:45+00:00"
-    },
-    {
-      "h": "Semiconductor equipment stocks: fundamentals, fair value, and the top pick",
-      "es": "Acciones de equipos semiconductores: fundamentos, valor razonable y la mejor opción",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/semiconductor-equipment-stocks-fundamentals-fair-value-and-the-top-pick-93CH-5019801",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
-      "published": "2026-11-11T20:30:35+00:00"
-    },
-    {
-      "h": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-      "es": "El embajador de Canadá advierte que los aranceles de Trump están elevando los costos y amenazando la inversión estadounidense",
-      "d": "Las tensiones comerciales entre Estados Unidos y Canadá persisten mientras los aranceles de Trump aumentan los costos, amenazan la inversión y complican las negociaciones entre los dos países.",
-      "u": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T20:30:23+00:00"
-    },
-    {
-      "h": "Brazil stocks higher at close of trade; Bovespa up 0.58%",
-      "es": "Las bolsas de Brasil cierran al alza; Bovespa sube un 0,58%",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-058-5019797",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEJ6K0IE_L.jpg",
-      "published": "2026-11-11T20:30:04+00:00"
-    },
-    {
-      "h": "Sandisk’s stock is soaring, and these three trends could send it even higher",
-      "es": "Las acciones de Sandisk se están disparando y estas tres tendencias podrían hacerlas subir aún más",
-      "d": "Varios “cambios estructurales” que están en marcha en la industria de la memoria podrían ayudar a que las acciones de Sandisk se dupliquen a partir de aquí, según un analista de Evercore.",
-      "u": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-75636714",
-      "published": "2026-11-11T20:25:00+00:00"
-    },
-    {
-      "h": "Crunch Fitness seeks $800 million from franchise-backed bonds - Bloomberg",
-      "es": "Crunch Fitness busca 800 millones de dólares de bonos respaldados por franquicias - Bloomberg",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/crunch-fitness-seeks-800-million-from-franchisebacked-bonds--bloomberg-93CH-5019781",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-11-11T20:13:39+00:00"
-    },
-    {
-      "h": "Five US states join FTC suit against Hims & Hers over privacy practices",
-      "es": "Cinco estados de EE. UU. se unen a la demanda de la FTC contra Hims & Hers por prácticas de privacidad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/five-us-states-join-ftc-suit-over-alleged-hims--hers-unlawful-practices-5016982",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA923A_L.jpg",
-      "published": "2026-11-11T20:12:25+00:00"
-    },
-    {
-      "h": "United Airlines moves to block AI agents from its platform over security concerns",
-      "es": "United Airlines toma medidas para bloquear a los agentes de inteligencia artificial de su plataforma por preocupaciones de seguridad",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/united-airlines-moves-to-block-ai-agents-from-its-platform-over-security-concerns-5019752",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1SJ_L.jpg",
-      "published": "2026-11-11T20:06:44+00:00"
-    },
-    {
-      "h": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
-      "es": "México dice que las medidas enérgicas contra los envíos de acero asiáticos están dando sus frutos a medida que avanzan las conversaciones arancelarias con EE.UU.",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/mexico-says-crackdown-on-asian-steel-shipments-is-paying-off-as-us-tariff-talks-advance-5019780",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1UC_L.jpg",
-      "published": "2026-11-11T20:06:27+00:00"
-    },
-    {
-      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
-      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
-      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-06068042",
-      "published": "2026-11-11T20:00:00+00:00"
-    },
-    {
-      "h": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-      "es": "Senado de Mississippi: Scott Colom supera a Hyde-Smith con más de 4.400 votos",
-      "d": "El martes vencía la fecha límite para que se resolvieran las boletas provisionales en Mississippi y la fecha límite para recibir las boletas de voto ausente enviadas por correo.",
-      "u": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T19:55:39+00:00"
-    },
-    {
-      "h": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-      "es": "La Seguridad Social podría pagar todos los beneficios hasta 2059 si la nómina sujeta a impuestos se mantuviera a la par del PIB: informe de AARP",
-      "d": "El envejecimiento de la fuerza laboral no es la única razón por la que los fondos fiduciarios del Seguro Social ahora tienen un déficit inminente, según una investigación del Instituto de Políticas Públicas de AARP.",
-      "u": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T19:54:27+00:00"
-    },
-    {
-      "h": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-      "es": "Tengo 63 años y gasto $95,000 en una terraza para mi casa de $500,000. ¿Estoy siendo extravagante?",
-      "d": "\"Tengo un patrimonio neto de 2,3 millones de dólares y mi única deuda es una hipoteca a 15 años\".",
-      "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-83882608",
-      "published": "2026-11-11T19:41:00+00:00"
-    },
-    {
-      "h": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "es": "Análisis: ¿Nvidia es demasiado grande para fracasar? Su red de financiación de IA aumenta las apuestas",
-      "d": "La red de vínculos del gigante tecnológico con otras empresas está planteando la posibilidad de que pueda causar daños económicos y financieros de gran alcance.",
-      "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T19:17:19+00:00"
-    },
-    {
-      "h": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "es": "Los mercados de predicción vinculados a ensayos clínicos y aprobaciones de medicamentos provocan la ira de los legisladores",
-      "d": "Los senadores Angela Alsobrooks y Ron Wyden preguntan qué medidas ha tomado el Departamento de Salud y Servicios Humanos para mitigar los riesgos de los mercados.",
-      "u": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T19:16:23+00:00"
-    },
-    {
-      "h": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "es": "'No es la respuesta': los parlamentarios laboristas se pronuncian contra Rosebank mientras se avecina una decisión",
-      "d": "Existe una expectativa creciente entre altos cargos laboristas de que se dé luz verde a la perforación en el campo petrolero.",
-      "u": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-      "published": "2026-11-11T19:15:45+00:00"
-    },
-    {
-      "h": "Micron Tech, Oracle among market cap stock movers on Wednesday",
-      "es": "Micron Tech y Oracle entre los impulsores de la capitalización de mercado el miércoles",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/micron-tech-oracle-among-market-cap-stock-movers-on-wednesday-93CH-5019727",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEE6414U_M.jpg",
-      "published": "2026-11-11T19:07:08+00:00"
-    },
-    {
-      "h": "Polymarket cuts staff as part of company restructuring",
-      "es": "Polymarket recorta personal como parte de la reestructuración de la empresa",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/polymarket-cuts-staff-as-part-of-company-restructuring-5019722",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7U0OQ_L.jpg",
-      "published": "2026-11-11T19:01:52+00:00"
-    },
-    {
-      "h": "Jobless claims, existing home sales, and oil inventories due Thursday",
-      "es": "Las solicitudes de desempleo, las ventas de viviendas usadas y los inventarios de petróleo vencen el jueves",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/jobless-claims-existing-home-sales-and-oil-inventories-due-thursday-93CH-5019721",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7H0C5_M.jpg",
-      "published": "2026-11-11T19:01:33+00:00"
     }
   ],
   "sources": [
