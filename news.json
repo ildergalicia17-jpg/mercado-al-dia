@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-11T04:33:31.143612+00:00",
+  "updated": "2026-11-11T05:32:25.257233+00:00",
   "news": [
+    {
+      "h": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+      "es": "Estados Unidos y China no deberían “hacerse ilusiones” mientras cooperan y compiten en IA, dice Bessent",
+      "d": "Durante la visita de Xi en septiembre, Washington y Beijing acordaron iniciar un diálogo sobre IA con un canal de comunicaciones para ayudar a desactivar incidentes graves.",
+      "u": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T05:15:50+00:00"
+    },
+    {
+      "h": "KeyBanc names top consumer hardlines stock",
+      "es": "KeyBanc nombra las principales acciones de consumo de línea dura",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/keybanc-names-top-consumer-hardlines-stock-5017677",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEM3T1AG_1200_L.jpg",
+      "published": "2026-11-11T04:46:26+00:00"
+    },
+    {
+      "h": "Why is IIFL Finance stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de IIFL Finance hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-iifl-finance-stock-surging-today-93CH-5017662",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "published": "2026-11-11T04:33:14+00:00"
+    },
     {
       "h": "Why is Mitsui Kinzoku stock falling today?",
       "es": "Why is Mitsui Kinzoku stock falling today?",
@@ -108,6 +135,24 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
       "published": "2026-11-11T02:25:50+00:00"
+    },
+    {
+      "h": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "es": "“La idea de vivir hasta los 100 años me aterroriza”: ¿Es la Seguridad Social un esquema Ponzi gigante?",
+      "d": "Ya hay una “carrera” demográfica en la Seguridad Social.",
+      "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-49247042",
+      "published": "2026-11-11T02:15:00+00:00"
+    },
+    {
+      "h": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "es": "¿Una de las razones por las que Children's Place se declara en quiebra? No hay suficientes niños.",
+      "d": "La cadena ha estado lidiando con tasas de natalidad en caída, consumidores cautelosos, dura competencia y 881 millones de dólares en deuda.",
+      "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-03873300",
+      "published": "2026-11-11T01:54:00+00:00"
     },
     {
       "h": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
@@ -225,51 +270,6 @@
       "s": "BBC Business",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
       "published": "2026-11-11T00:16:44+00:00"
-    },
-    {
-      "h": "Petrobras Q3 profit rises 34% but misses expectations",
-      "es": "El beneficio de Petrobras en el tercer trimestre aumenta un 34% pero no cumple con las expectativas",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/petrobras-q3-profit-rises-34-but-misses-expectations-93CH-5017371",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-11-11T00:09:32+00:00"
-    },
-    {
-      "h": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
-      "es": "OpenAI registra grandes pérdidas incluso cuando los ingresos trimestrales aumentan a 10 mil millones de dólares, informa el WSJ",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA928B_L.jpg",
-      "published": "2026-11-11T00:06:26+00:00"
-    },
-    {
-      "h": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-      "es": "Poundland espera un acuerdo de rescate de último minuto para evitar el colapso",
-      "d": "La BBC entiende que a la cadena de descuentos, que se ha estado acercando a la administración, se le dará más tiempo para encontrar un comprador.",
-      "u": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-      "published": "2026-11-11T00:02:07+00:00"
-    },
-    {
-      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
-      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
-      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-06068042",
-      "published": "2026-11-11T00:00:00+00:00"
-    },
-    {
-      "h": "Hegseth impeachment effort torpedoed in House",
-      "es": "Hegseth impeachment effort torpedoed in House",
-      "d": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-      "u": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-10T23:46:41+00:00"
     }
   ],
   "sources": [
