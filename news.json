@@ -1,6 +1,186 @@
 {
-  "updated": "2026-11-11T10:44:50.341106+00:00",
+  "updated": "2026-11-11T12:41:12.942596+00:00",
   "news": [
+    {
+      "h": "Why is Direxion Daily Semiconductor Bull 3X Shares ETF surging today?",
+      "es": "¿Por qué está aumentando el ETF de Direxion Daily Semiconductor Bull 3X Shares hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-etf-surging-today-93CH-5018686",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "published": "2026-11-11T12:35:03+00:00"
+    },
+    {
+      "h": "Why is Hagerty stock sliding today?",
+      "es": "¿Por qué están cayendo las acciones de Hagerty hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-11-11T12:34:01+00:00"
+    },
+    {
+      "h": "Why is Neuronetics stock tumbling today?",
+      "es": "¿Por qué están cayendo las acciones de Neuronetics hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-neuronetics-stock-tumbling-today-93CH-5018682",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published": "2026-11-11T12:33:40+00:00"
+    },
+    {
+      "h": "Keep Jensen Huang at Nvidia — but end the one-man show",
+      "es": "Mantenga a Jensen Huang en Nvidia, pero ponga fin al espectáculo unipersonal",
+      "d": "Nvidia no puede permitirse el lujo de perder a su director ejecutivo, pero es hora de que la empresa crezca y se tome en serio la gestión.",
+      "u": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-16595571",
+      "published": "2026-11-11T12:30:00+00:00"
+    },
+    {
+      "h": "Jefferies Backs Two European Oil Stocks, Lifts 2027 Brent Call to $82.5",
+      "es": "Jefferies respalda dos acciones petroleras europeas y eleva la opción de compra del Brent para 2027 a 82,5 dólares",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/jefferies-backs-two-european-oil-stocks-lifts-2027-brent-call-to-825-5018661",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC1P0OY_M.jpg",
+      "published": "2026-11-11T12:29:05+00:00"
+    },
+    {
+      "h": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+      "es": "Los consumidores están mostrando signos de tensión incluso mientras siguen gastando, muestra CNBC/NRF Retail Monitor",
+      "d": "Las ventas minoristas aumentaron en octubre a su ritmo más lento en casi un año, ya que los consumidores estadounidenses mostraron señales de tensión por los altos precios.",
+      "u": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T12:27:47+00:00"
+    },
+    {
+      "h": "Why is FormFactor stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de FormFactor hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-formfactor-stock-surging-today-93CH-5018646",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-11-11T12:25:36+00:00"
+    },
+    {
+      "h": "Meta, TikTok join Google to push back on Indonesia’s planned AI copyright law revisions",
+      "es": "Meta y TikTok se unen a Google para rechazar las revisiones planificadas de la ley de derechos de autor de IA en Indonesia",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/meta-tiktok-join-google-to-push-back-on-indonesias-planned-ai-copyright-law-revisions-5018609",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA13J_L.jpg",
+      "published": "2026-11-11T12:25:13+00:00"
+    },
+    {
+      "h": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "es": "Tribunal electoral de Brasil multa a Meta, no ve sesgo electoral deliberado",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias-5018632",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA13R_L.jpg",
+      "published": "2026-11-11T12:24:39+00:00"
+    },
+    {
+      "h": "Why is Teradyne stock surging today?",
+      "es": "¿Por qué están subiendo las acciones de Teradyne hoy?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-teradyne-stock-surging-today-93CH-5018627",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-11T12:21:37+00:00"
+    },
+    {
+      "h": "Should you own vertical software stocks into 2027? Jefferies weighs in",
+      "es": "¿Debería poseer acciones de software verticales hasta 2027? Jefferies interviene",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/should-you-own-vertical-software-stocks-into-2027-jefferies-weighs-in-5018614",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXMPEM7D101_L.jpg",
+      "published": "2026-11-11T12:20:19+00:00"
+    },
+    {
+      "h": "Why is Applied Aerospace and Defense stock sliding today?",
+      "es": "¿Por qué están cayendo hoy las acciones de Applied Aerospace and Defense?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-applied-aerospace-and-defense-stock-sliding-today-93CH-5018613",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-11-11T12:19:51+00:00"
+    },
+    {
+      "h": "Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?",
+      "es": "La valoración de Nvidia cae a su nivel más bajo en 15 años. ¿Una ganga o un cuchillo que cae?",
+      "d": "El gigante de la IA ahora cotiza con un descuento respecto al S&P 500, en una medida. Además, la respuesta de CoreWeave a su problema de deuda y un respiro para los bonos en el Día de los Veteranos.",
+      "u": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-39553593",
+      "published": "2026-11-11T12:16:00+00:00"
+    },
+    {
+      "h": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "es": "¿Debería una viuda dejar la casa de su difunto compañero a sus hijastros o cortar el contacto con ellos?",
+      "d": "\"Sería un paso menos drástico que vender la casa ahora y dividir las ganancias\".",
+      "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-06068042",
+      "published": "2026-11-11T12:15:00+00:00"
+    },
+    {
+      "h": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+      "es": "Zelenskyy advierte que Ucrania \"no es un bien inmobiliario\", mientras los expertos dicen que un acuerdo de paz con Rusia sigue siendo difícil de alcanzar",
+      "d": "El presidente Zelenskyy advirtió el martes que su país \"no era un sector inmobiliario\", mientras comenzaba el segundo y último día de conversaciones de paz mediadas por Estados Unidos.",
+      "u": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T12:12:48+00:00"
+    },
+    {
+      "h": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
+      "es": "Cientos de escuelas en Italia y el Reino Unido fueron evacuadas por amenazas de bomba \"falsas\"",
+      "d": "Cientos de escuelas en toda Europa fueron evacuadas el miércoles después de recibir amenazas de bomba, dicen las fuerzas policiales, en medio de crecientes preocupaciones sobre amenazas híbridas.",
+      "u": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T12:03:28+00:00"
+    },
+    {
+      "h": "Bessent reportedly moved to military base over Iranian threats on his life",
+      "es": "Bessent habría sido trasladado a una base militar por las amenazas iraníes a su vida.",
+      "d": "La medida se produce cuando el Departamento de Justicia dijo el martes por la noche que tres ciudadanos iraníes han sido acusados ​​de cargos relacionados con el terrorismo.",
+      "u": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T12:02:36+00:00"
+    },
+    {
+      "h": "Measles is surging in the U.S. — and outbreaks can cost millions",
+      "es": "El sarampión está aumentando en los EE. UU. y los brotes pueden costar millones",
+      "d": "Una nueva herramienta desarrollada por investigadores de Johns Hopkins estima que el brote de sarampión de 2025 en Estados Unidos tuvo un costo económico de más de 37 millones de dólares.",
+      "u": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T12:00:01+00:00"
+    },
+    {
+      "h": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "es": "La angustia del mercado está impulsando a los inversores hacia acciones de baja volatilidad a medida que el comercio de IA tropieza",
+      "d": "La ansiedad en el mercado de valores estadounidense ha aumentado en medio de una fuerte liquidación de nombres de inteligencia artificial y rendimientos de bonos obstinadamente altos.",
+      "u": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-13574872",
+      "published": "2026-11-11T12:00:00+00:00"
+    },
+    {
+      "h": "How Democrats could snarl Trump administration stakes in private-sector companies",
+      "es": "Cómo los demócratas podrían enredar las participaciones de la administración Trump en empresas del sector privado",
+      "d": "La administración Trump había establecido algún tipo de posición accionaria en 41 empresas hasta noviembre, según el recuento del Instituto CATO.",
+      "u": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T11:00:01+00:00"
+    },
     {
       "h": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
       "es": "Por qué Goldman Sachs está cambiando ahora su previsión de tipos de interés de la Reserva Federal",
@@ -90,186 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPED0P0DD_M.jpg",
       "published": "2026-11-11T10:06:05+00:00"
-    },
-    {
-      "h": "We told you first: these AI-picked small-cap stocks are up +49% and +28% MTD",
-      "es": "Te lo dijimos primero: estas acciones de pequeña capitalización seleccionadas por IA subieron un +49% y un +28% MTD",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-smallcap-stocks-are-up-49-and-28-mtd-5018176",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg",
-      "published": "2026-11-11T10:05:15+00:00"
-    },
-    {
-      "h": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "es": "Las acciones de CoreWeave suben a medida que el nuevo manual de financiación alivia las preocupaciones sobre la deuda",
-      "d": "Un aumento de los ingresos del tercer trimestre y 9 mil millones de dólares en pagos anticipados planificados dieron a los inversores una confianza renovada en el negocio de CoreWeave.",
-      "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04728199",
-      "published": "2026-11-11T10:05:00+00:00"
-    },
-    {
-      "h": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "es": "Poundland tendrá más tiempo para asegurar un acuerdo de rescate mientras continúan las conversaciones de emergencia",
-      "d": "La BBC entiende que a la cadena de descuentos, que se ha estado acercando a la administración, se le dará más tiempo para encontrar un comprador.",
-      "u": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-      "published": "2026-11-11T10:03:34+00:00"
-    },
-    {
-      "h": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
-      "es": "Las acciones de Nvidia se recuperan un 4% mientras Huang se enfrenta al escrutinio antes de sus resultados",
-      "d": "Los inversores están evaluando si el asunto del CEO Jensen Huang tendrá efectos indirectos en el negocio de Nvidia.",
-      "u": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T10:03:29+00:00"
-    },
-    {
-      "h": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
-      "es": "Tiger Woods tiene en proceso otro destino privado de golf de 18 hoyos: este en la Costa Dorada de Long Island.",
-      "d": "La leyenda del golf Tiger Woods dirige un nuevo destino de golf privado en la costa norte de Long Island en Brookville, Nueva York.",
-      "u": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-18896198",
-      "published": "2026-11-11T10:03:00+00:00"
-    },
-    {
-      "h": "The Global Story",
-      "es": "La historia mundial",
-      "d": "Rastreando a los hombres que han ganado mucho dinero con la pornografía en Internet.",
-      "u": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmdhrq.jpg",
-      "published": "2026-11-11T10:00:00+00:00"
-    },
-    {
-      "h": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
-      "es": "Entre los SUV de tamaño completo, vale la pena echarle un vistazo a la Ford Expedition 2027 por sus asientos espaciosos y su potente motor.",
-      "d": "La Ford Expedition tiene tecnología moderna, una gran tercera fila, características inteligentes y un motor potente, lo que la convierte en nuestra SUV de tamaño completo favorita.",
-      "u": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-50326826",
-      "published": "2026-11-11T09:59:00+00:00"
-    },
-    {
-      "h": "Why is Spirax-Sarco Engineering stock rallying today?",
-      "es": "¿Por qué están subiendo las acciones de Spirax-Sarco Engineering hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-spiraxsarco-engineering-stock-rallying-today-93CH-5018161",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-11T09:53:02+00:00"
-    },
-    {
-      "h": "Hapag-Lloyd raises outlook for third time on strong freight rates",
-      "es": "Hapag-Lloyd eleva sus perspectivas por tercera vez debido a las fuertes tarifas de fletes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hapaglloyd-raises-outlook-for-third-time-on-strong-freight-rates-5018157",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA0R8_L.jpg",
-      "published": "2026-11-11T09:48:20+00:00"
-    },
-    {
-      "h": "UK watchdog flags competition concerns in AkzoNobel-Axalta deal",
-      "es": "El organismo de control del Reino Unido señala preocupaciones sobre competencia en el acuerdo AkzoNobel-Axalta",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/uk-watchdog-flags-competition-concerns-in-akzonobelaxalta-deal-93CH-5018152",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "published": "2026-11-11T09:46:55+00:00"
-    },
-    {
-      "h": "VW China EV venture has no new models planned for 2027, 2028 - report",
-      "es": "La empresa VW China EV no tiene nuevos modelos previstos para 2027 y 2028: informe",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/vw-china-ev-venture-has-no-new-models-planned-for-2027-2028--report-93CH-5018148",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC2D1A3_M.jpg",
-      "published": "2026-11-11T09:45:14+00:00"
-    },
-    {
-      "h": "American soldier arrested on suspicion of spying for Russia",
-      "es": "American soldier arrested on suspicion of spying for Russia",
-      "d": "The 41-year-old man is being detained in London under the U.K.'s National Security Act.",
-      "u": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T08:30:43+00:00"
-    },
-    {
-      "h": "Why is Vestas Wind stock sliding today?",
-      "es": "Why is Vestas Wind stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-sliding-today-93CH-5017995",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "published": "2026-11-11T08:15:52+00:00"
-    },
-    {
-      "h": "Why is Brenntag stock sliding today?",
-      "es": "Why is Brenntag stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-brenntag-stock-sliding-today-93CH-5017994",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-11-11T08:15:22+00:00"
-    },
-    {
-      "h": "Why is ICG stock rallying today?",
-      "es": "Why is ICG stock rallying today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-icg-stock-rallying-today-93CH-5017992",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "published": "2026-11-11T08:14:00+00:00"
-    },
-    {
-      "h": "FTSE 100 climbs as oil rebounds ahead of UK GDP test",
-      "es": "FTSE 100 climbs as oil rebounds ahead of UK GDP test",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/ftse-100-climbs-as-oil-rebounds-ahead-of-uk-gdp-test-5017989",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7900S_M.jpg",
-      "published": "2026-11-11T08:12:46+00:00"
-    },
-    {
-      "h": "Exclusive-Volkswagen’s China EV venture has no new models planned for next two years, sources say",
-      "es": "Exclusive-Volkswagen’s China EV venture has no new models planned for next two years, sources say",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/exclusivevolkswagens-china-ev-venture-has-no-new-models-planned-for-next-two-years-sources-say-5017991",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA0KF_L.jpg",
-      "published": "2026-11-11T08:12:45+00:00"
-    },
-    {
-      "h": "Why is Taylor Wimpey stock sliding today?",
-      "es": "Why is Taylor Wimpey stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-taylor-wimpey-stock-sliding-today-93CH-5017990",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-      "published": "2026-11-11T08:12:40+00:00"
-    },
-    {
-      "h": "Why is Softwareone stock climbing today?",
-      "es": "Why is Softwareone stock climbing today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-softwareone-stock-climbing-today-93CH-5017988",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published": "2026-11-11T08:12:05+00:00"
-    },
-    {
-      "h": "Why is ITV stock sliding today?",
-      "es": "Why is ITV stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-itv-stock-sliding-today-93CH-5017987",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "published": "2026-11-11T08:11:36+00:00"
     }
   ],
   "sources": [
