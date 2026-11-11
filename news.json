@@ -1,6 +1,123 @@
 {
-  "updated": "2026-11-11T06:34:08.998400+00:00",
+  "updated": "2026-11-11T08:48:51.459717+00:00",
   "news": [
+    {
+      "h": "American soldier arrested on suspicion of spying for Russia",
+      "es": "American soldier arrested on suspicion of spying for Russia",
+      "d": "The 41-year-old man is being detained in London under the U.K.'s National Security Act.",
+      "u": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T08:30:43+00:00"
+    },
+    {
+      "h": "Why is Vestas Wind stock sliding today?",
+      "es": "Why is Vestas Wind stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-sliding-today-93CH-5017995",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "published": "2026-11-11T08:15:52+00:00"
+    },
+    {
+      "h": "Why is Brenntag stock sliding today?",
+      "es": "Why is Brenntag stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-brenntag-stock-sliding-today-93CH-5017994",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-11-11T08:15:22+00:00"
+    },
+    {
+      "h": "Why is ICG stock rallying today?",
+      "es": "Why is ICG stock rallying today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-icg-stock-rallying-today-93CH-5017992",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-11-11T08:14:00+00:00"
+    },
+    {
+      "h": "FTSE 100 climbs as oil rebounds ahead of UK GDP test",
+      "es": "FTSE 100 climbs as oil rebounds ahead of UK GDP test",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/ftse-100-climbs-as-oil-rebounds-ahead-of-uk-gdp-test-5017989",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB7900S_M.jpg",
+      "published": "2026-11-11T08:12:46+00:00"
+    },
+    {
+      "h": "Exclusive-Volkswagen’s China EV venture has no new models planned for next two years, sources say",
+      "es": "Exclusive-Volkswagen’s China EV venture has no new models planned for next two years, sources say",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusivevolkswagens-china-ev-venture-has-no-new-models-planned-for-next-two-years-sources-say-5017991",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA0KF_L.jpg",
+      "published": "2026-11-11T08:12:45+00:00"
+    },
+    {
+      "h": "Why is Taylor Wimpey stock sliding today?",
+      "es": "Why is Taylor Wimpey stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-taylor-wimpey-stock-sliding-today-93CH-5017990",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-11T08:12:40+00:00"
+    },
+    {
+      "h": "Why is Softwareone stock climbing today?",
+      "es": "Why is Softwareone stock climbing today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-softwareone-stock-climbing-today-93CH-5017988",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "published": "2026-11-11T08:12:05+00:00"
+    },
+    {
+      "h": "Why is ITV stock sliding today?",
+      "es": "Why is ITV stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-itv-stock-sliding-today-93CH-5017987",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "published": "2026-11-11T08:11:36+00:00"
+    },
+    {
+      "h": "Why is Siemens Energy stock surging today?",
+      "es": "Why is Siemens Energy stock surging today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-surging-today-93CH-5017986",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/CrudeOil_800x533_L_1758715558.jpg",
+      "published": "2026-11-11T08:11:05+00:00"
+    },
+    {
+      "h": "European shares near record high as earnings absorb tech volatility",
+      "es": "European shares near record high as earnings absorb tech volatility",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/european-shares-near-record-high-as-earnings-absorb-tech-volatility-5017971",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1606143994.jpg",
+      "published": "2026-11-11T08:08:02+00:00"
+    },
+    {
+      "h": "Christmas toy rush being driven by squishies and building sets",
+      "es": "Christmas toy rush being driven by squishies and building sets",
+      "d": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "u": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-11T07:52:05+00:00"
+    },
+    {
+      "h": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "es": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "d": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "u": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-11T07:44:24+00:00"
+    },
     {
       "h": "Electricity bills to rise by 2.5% from March",
       "es": "Las facturas de electricidad aumentarán un 2,5% desde marzo",
@@ -153,123 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAA09B_L.jpg",
       "published": "2026-11-11T04:18:42+00:00"
-    },
-    {
-      "h": "Why is Suzuki Motor stock sliding today?",
-      "es": "Why is Suzuki Motor stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-suzuki-motor-stock-sliding-today-93CH-5017650",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "published": "2026-11-11T04:17:09+00:00"
-    },
-    {
-      "h": "Asian AI stocks rise as CoreWeave jumps 13% after earnings beat",
-      "es": "Asian AI stocks rise as CoreWeave jumps 13% after earnings beat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-ai-stocks-rise-as-coreweave-jumps-13-after-earnings-beat-5017648",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED220BB_M.jpg",
-      "published": "2026-11-11T04:16:15+00:00"
-    },
-    {
-      "h": "Bessent reportedly moved to military base over Iranian threats on his life",
-      "es": "Bessent reportedly moved to military base over Iranian threats on his life",
-      "d": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
-      "u": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T04:06:47+00:00"
-    },
-    {
-      "h": "Billionaire tax measure on California ballot defeated",
-      "es": "Billionaire tax measure on California ballot defeated",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/billionaire-tax-measure-on-california-ballot-defeated-5014025",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA90AR_L.jpg",
-      "published": "2026-11-11T04:06:24+00:00"
-    },
-    {
-      "h": "Asian stocks mixed as CoreWeave lifts chipmakers; hot U.S. inflation weighs",
-      "es": "Asian stocks mixed as CoreWeave lifts chipmakers; hot U.S. inflation weighs",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-coreweave-lifts-chipmakers-hot-us-inflation-weighs-5017621",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEHAF0F2_L.jpg",
-      "published": "2026-11-11T03:56:58+00:00"
-    },
-    {
-      "h": "Why is Honda Motor stock sliding today?",
-      "es": "Why is Honda Motor stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-honda-motor-stock-sliding-today-93CH-5017618",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPED150IJ_M.jpg",
-      "published": "2026-11-11T03:52:40+00:00"
-    },
-    {
-      "h": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "es": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "d": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-      "u": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T03:08:17+00:00"
-    },
-    {
-      "h": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-      "es": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-      "d": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
-      "u": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T02:46:56+00:00"
-    },
-    {
-      "h": "Why is SoftBank Group stock tumbling today?",
-      "es": "Why is SoftBank Group stock tumbling today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-5017528",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "published": "2026-11-11T02:25:50+00:00"
-    },
-    {
-      "h": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "es": "“La idea de vivir hasta los 100 años me aterroriza”: ¿Es la Seguridad Social un esquema Ponzi gigante?",
-      "d": "Ya hay una “carrera” demográfica en la Seguridad Social.",
-      "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49247042",
-      "published": "2026-11-11T02:15:00+00:00"
-    },
-    {
-      "h": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "es": "¿Una de las razones por las que Children's Place se declara en quiebra? No hay suficientes niños.",
-      "d": "La cadena ha estado lidiando con tasas de natalidad en caída, consumidores cautelosos, dura competencia y 881 millones de dólares en deuda.",
-      "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-03873300",
-      "published": "2026-11-11T01:54:00+00:00"
-    },
-    {
-      "h": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-      "es": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-      "d": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
-      "u": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-11T01:52:56+00:00"
-    },
-    {
-      "h": "Five US states join FTC suit against Hims & Hers over privacy practices",
-      "es": "Five US states join FTC suit against Hims & Hers over privacy practices",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/five-us-states-join-ftc-suit-over-alleged-hims--hers-unlawful-practices-5016982",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMA923A_L.jpg",
-      "published": "2026-11-11T01:48:34+00:00"
     }
   ],
   "sources": [
