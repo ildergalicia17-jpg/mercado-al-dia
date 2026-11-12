@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-11T23:49:31.684553+00:00",
+  "updated": "2026-11-12T00:43:04.092356+00:00",
   "news": [
+    {
+      "h": "Why is NVIDIA stock tumbling after hours today?",
+      "es": "Why is NVIDIA stock tumbling after hours today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-tumbling-after-hours-today-93CH-5020104",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+      "published": "2026-11-12T00:15:31+00:00"
+    },
+    {
+      "h": "Why is Strategy stock falling after hours today?",
+      "es": "Why is Strategy stock falling after hours today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-falling-after-hours-today-93CH-5020096",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
+      "published": "2026-11-12T00:11:01+00:00"
+    },
+    {
+      "h": "From Paris to DC - why offices are being turned into apartments",
+      "es": "From Paris to DC - why offices are being turned into apartments",
+      "d": "Office buildings with low occupancy rates are being transformed into flats.",
+      "u": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
+      "published": "2026-11-12T00:05:40+00:00"
+    },
+    {
+      "h": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+      "es": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+      "d": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
+      "u": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-11T23:57:38+00:00"
+    },
     {
       "h": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
       "es": "Vista instantánea: Nvidia se está preparando para destituir al director ejecutivo Jensen Huang, informa WSJ",
@@ -36,6 +72,15 @@
       "s": "MarketWatch",
       "img": "https://images.mktw.net/im-60359613",
       "published": "2026-11-11T23:30:00+00:00"
+    },
+    {
+      "h": "Some under-25s should get less benefits, Milburn review to say",
+      "es": "Some under-25s should get less benefits, Milburn review to say",
+      "d": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "u": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-11T23:22:04+00:00"
     },
     {
       "h": "CoreWeave plans $4 billion high-grade loan, Bloomberg reports",
@@ -218,58 +263,13 @@
       "published": "2026-11-11T22:08:56+00:00"
     },
     {
-      "h": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
-      "es": "Nvidia shares slip in after-hours trading on fresh allegations of CEO relationship",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nvidia-shares-slip-in-afterhours-trading-on-fresh-allegations-of-ceo-relationship-5019943",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEMA90ZP_L.jpg",
-      "published": "2026-11-11T22:07:02+00:00"
-    },
-    {
-      "h": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-      "es": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-      "d": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
-      "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-19395705",
-      "published": "2026-11-11T22:05:00+00:00"
-    },
-    {
-      "h": "Why is Corteva stock sliding today?",
-      "es": "Why is Corteva stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-sliding-today-93CH-5019932",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "published": "2026-11-11T22:00:13+00:00"
-    },
-    {
-      "h": "CareTrust REIT stock falls on 17 million share offering",
-      "es": "CareTrust REIT stock falls on 17 million share offering",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/caretrust-reit-stock-falls-on-17-million-share-offering-5019927",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18R_L.jpg",
-      "published": "2026-11-11T21:59:20+00:00"
-    },
-    {
-      "h": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-      "es": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-      "d": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-      "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-87023125",
-      "published": "2026-11-11T21:55:00+00:00"
-    },
-    {
-      "h": "Digi International falls on weak revenue guidance despite Q4 beat",
-      "es": "Digi International falls on weak revenue guidance despite Q4 beat",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/digi-international-falls-on-weak-revenue-guidance-despite-q4-beat-5019921",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
-      "published": "2026-11-11T21:53:46+00:00"
+      "h": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "es": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "d": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "u": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+      "published": "2026-11-11T22:07:37+00:00"
     }
   ],
   "sources": [
