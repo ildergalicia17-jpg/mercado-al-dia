@@ -1,6 +1,222 @@
 {
-  "updated": "2026-11-16T22:53:20.961879+00:00",
+  "updated": "2026-11-17T04:57:02.779887+00:00",
   "news": [
+    {
+      "h": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+      "es": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+      "d": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+      "u": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-17T04:50:19+00:00"
+    },
+    {
+      "h": "U.S. Commerce Dept, DOJ say they investigated Nvidia partner Megaspeed in 2024",
+      "es": "U.S. Commerce Dept, DOJ say they investigated Nvidia partner Megaspeed in 2024",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEK1J0CD_L.jpg",
+      "published": "2026-11-17T04:48:34+00:00"
+    },
+    {
+      "h": "U.S. tightens rules to restrict China’s access to advanced AI chips overseas",
+      "es": "U.S. tightens rules to restrict China’s access to advanced AI chips overseas",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/TaiwanStockExchange_800x533_L_1659429835.jpg",
+      "published": "2026-11-17T04:44:24+00:00"
+    },
+    {
+      "h": "US air travel recovery stumbles on United pause as funding fight brews",
+      "es": "US air travel recovery stumbles on United pause as funding fight brews",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-transport-chief-urges-congress-to-quickly-pass-air-traffic-telecom-funding-5030069",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAF19U_L.jpg",
+      "published": "2026-11-17T04:42:41+00:00"
+    },
+    {
+      "h": "US AI chip curbs threaten Southeast Asia data centre boom,  shares tumble",
+      "es": "US AI chip curbs threaten Southeast Asia data centre boom,  shares tumble",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble-5031618",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAG09P_L.jpg",
+      "published": "2026-11-17T04:42:25+00:00"
+    },
+    {
+      "h": "US probes why a router installation sparked mass flight grounding",
+      "es": "US probes why a router installation sparked mass flight grounding",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/us-probes-why-a-router-installation-sparked-mass-flight-grounding-5030697",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAF1RH_L.jpg",
+      "published": "2026-11-17T04:30:34+00:00"
+    },
+    {
+      "h": "Why is Advantest stock sliding today?",
+      "es": "Why is Advantest stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-sliding-today-93CH-5031584",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-17T04:07:37+00:00"
+    },
+    {
+      "h": "Asia stocks slide as U.S. tightens AI chip curbs ahead of Nvidia results",
+      "es": "Asia stocks slide as U.S. tightens AI chip curbs ahead of Nvidia results",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-us-tightens-ai-chip-curbs-ahead-of-nvidia-results-5031571",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEA7D0QX_M.jpg",
+      "published": "2026-11-17T03:55:58+00:00"
+    },
+    {
+      "h": "How Trump and Xi went from tariff war to trade truce",
+      "es": "How Trump and Xi went from tariff war to trade truce",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/how-trump-and-xi-went-from-tariff-war-to-trade-truce-5031569",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAG086_L.jpg",
+      "published": "2026-11-17T03:54:23+00:00"
+    },
+    {
+      "h": "Nvidia rules out Huang comeback as campaign for his return grows",
+      "es": "Nvidia rules out Huang comeback as campaign for his return grows",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAF18K_L.jpg",
+      "published": "2026-11-17T03:42:21+00:00"
+    },
+    {
+      "h": "Novartis wins FDA approval for Cosentyx in polymyalgia rheumatica",
+      "es": "Novartis wins FDA approval for Cosentyx in polymyalgia rheumatica",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/novartis-wins-fda-approval-for-cosentyx-in-polymyalgia-rheumatica-5031556",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPECAD0W5_M.jpg",
+      "published": "2026-11-17T03:37:39+00:00"
+    },
+    {
+      "h": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "es": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "d": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "u": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "published": "2026-11-17T02:37:53+00:00"
+    },
+    {
+      "h": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "es": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "d": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-29241577",
+      "published": "2026-11-17T02:30:00+00:00"
+    },
+    {
+      "h": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "es": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "d": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+      "u": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-17T00:42:33+00:00"
+    },
+    {
+      "h": "Customers report service outages at major US banks",
+      "es": "Customers report service outages at major US banks",
+      "d": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "u": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+      "published": "2026-11-17T00:18:01+00:00"
+    },
+    {
+      "h": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "es": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "d": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "u": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+      "published": "2026-11-17T00:00:03+00:00"
+    },
+    {
+      "h": "We couldn't afford a house alone, so we bought one with strangers",
+      "es": "We couldn't afford a house alone, so we bought one with strangers",
+      "d": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "u": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+      "published": "2026-11-17T00:00:02+00:00"
+    },
+    {
+      "h": "United Airlines resolves system outage that delayed flights Monday",
+      "es": "United Airlines resolves system outage that delayed flights Monday",
+      "d": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+      "u": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-45073447",
+      "published": "2026-11-16T23:42:00+00:00"
+    },
+    {
+      "h": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "es": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "d": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
+      "u": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-878137",
+      "published": "2026-11-16T23:28:00+00:00"
+    },
+    {
+      "h": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+      "es": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+      "d": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
+      "u": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-16T23:23:47+00:00"
+    },
+    {
+      "h": "California sues OpenAI over Hugging Face attack",
+      "es": "California sues OpenAI over Hugging Face attack",
+      "d": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "u": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+      "published": "2026-11-16T23:12:24+00:00"
+    },
+    {
+      "h": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+      "es": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+      "d": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+      "u": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-16T23:05:12+00:00"
+    },
+    {
+      "h": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+      "es": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+      "d": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+      "u": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-44598991",
+      "published": "2026-11-16T23:04:00+00:00"
+    },
+    {
+      "h": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+      "es": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+      "d": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+      "u": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-16T23:00:01+00:00"
+    },
     {
       "h": "United Airlines reports system outage affecting departing flights",
       "es": "United Airlines reports system outage affecting departing flights",
@@ -54,222 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/moved_LYNXNPEM9T1B5_L.jpg",
       "published": "2026-11-16T22:38:44+00:00"
-    },
-    {
-      "h": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "es": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "d": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-      "u": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T22:37:45+00:00"
-    },
-    {
-      "h": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "es": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "d": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
-      "u": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-96950195",
-      "published": "2026-11-16T22:33:00+00:00"
-    },
-    {
-      "h": "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
-      "es": "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/moved_LYNXMPEM6N11W_1200_L.jpg",
-      "published": "2026-11-16T22:32:35+00:00"
-    },
-    {
-      "h": "Aon completes $17 billion acquisition of USI Insurance Services",
-      "es": "Aon completes $17 billion acquisition of USI Insurance Services",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/aon-completes-17-billion-acquisition-of-usi-insurance-services-93CH-5031161",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "published": "2026-11-16T22:31:12+00:00"
-    },
-    {
-      "h": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "es": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "d": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-61252759",
-      "published": "2026-11-16T22:30:00+00:00"
-    },
-    {
-      "h": "Why is Omeros stock sliding today?",
-      "es": "Why is Omeros stock sliding today?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-omeros-stock-sliding-today-93CH-5031151",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-11-16T22:29:49+00:00"
-    },
-    {
-      "h": "SiteOne Landscape Supply jumps 7% on S&P SmallCap 600 inclusion",
-      "es": "SiteOne Landscape Supply jumps 7% on S&P SmallCap 600 inclusion",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/siteone-landscape-supply-jumps-7-on-sp-smallcap-600-inclusion-5031150",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXMPEM3Q0HO_1200_L.jpg",
-      "published": "2026-11-16T22:27:33+00:00"
-    },
-    {
-      "h": "L’Oreal US settles hair relaxer cancer cases during first trial",
-      "es": "L’Oreal US settles hair relaxer cancer cases during first trial",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/loreal-us-settles-hair-relaxer-cancer-cases-during-first-trial-5031132",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAF20L_L.jpg",
-      "published": "2026-11-16T22:24:41+00:00"
-    },
-    {
-      "h": "United Airlines says technology issue affecting departing flights",
-      "es": "United Airlines says technology issue affecting departing flights",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/united-airlines-says-technology-issue-affecting-departing-flights-5031142",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAF20E_L.jpg",
-      "published": "2026-11-16T22:24:26+00:00"
-    },
-    {
-      "h": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "es": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "d": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-      "u": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T22:22:52+00:00"
-    },
-    {
-      "h": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "es": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "d": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-      "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T22:19:02+00:00"
-    },
-    {
-      "h": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "es": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "d": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-      "u": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T22:14:47+00:00"
-    },
-    {
-      "h": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "es": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "d": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
-      "u": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T22:11:09+00:00"
-    },
-    {
-      "h": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-      "es": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-      "d": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
-      "u": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T21:54:18+00:00"
-    },
-    {
-      "h": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-      "es": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-      "d": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-      "u": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-76010631",
-      "published": "2026-11-16T21:53:00+00:00"
-    },
-    {
-      "h": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "es": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "d": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-      "u": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T21:51:43+00:00"
-    },
-    {
-      "h": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
-      "es": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
-      "d": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
-      "u": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-12638385",
-      "published": "2026-11-16T21:49:00+00:00"
-    },
-    {
-      "h": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "es": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "d": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-04093243",
-      "published": "2026-11-16T21:45:00+00:00"
-    },
-    {
-      "h": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
-      "es": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
-      "d": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
-      "u": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-02956348",
-      "published": "2026-11-16T21:40:00+00:00"
-    },
-    {
-      "h": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "es": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "d": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-      "u": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T21:26:42+00:00"
-    },
-    {
-      "h": "Kalshi plans to launch stock trading soon",
-      "es": "Kalshi plans to launch stock trading soon",
-      "d": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
-      "u": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T21:23:34+00:00"
-    },
-    {
-      "h": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
-      "es": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
-      "d": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
-      "u": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-32310675",
-      "published": "2026-11-16T21:18:00+00:00"
-    },
-    {
-      "h": "Robert Pattinson cast as next James Bond",
-      "es": "Robert Pattinson cast as next James Bond",
-      "d": "Pattinson has been in major films this year, including Christopher Nolan's \"The Odyssey,\" and will soon appear in \"Dune: Part Three.\"",
-      "u": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T21:03:36+00:00"
-    },
-    {
-      "h": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-      "es": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-      "d": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-16T20:07:46+00:00"
     }
   ],
   "sources": [
