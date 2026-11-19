@@ -1,6 +1,240 @@
 {
-  "updated": "2026-11-19T02:05:55.027039+00:00",
+  "updated": "2026-11-19T10:15:14.757008+00:00",
   "news": [
+    {
+      "h": "The real beneficiary of the AI tech revolution fueled by Anthropic may surprise you",
+      "es": "The real beneficiary of the AI tech revolution fueled by Anthropic may surprise you",
+      "d": "India has a huge tech-savvy population and its relative backwardness in many sectors of the economy like health care, education and agriculture, may prove a real advantage in terms of the productivity gains it cam nake.",
+      "u": "https://www.marketwatch.com/story/the-real-beneficiary-of-the-ai-tech-revolution-fueled-by-anthropic-may-surprise-you-6fa098b2?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-71200898",
+      "published": "2026-11-19T10:04:00+00:00"
+    },
+    {
+      "h": "Former Fox News anchor Maria Bartiromo sells $7 million N.Y.C. townhouse",
+      "es": "Former Fox News anchor Maria Bartiromo sells $7 million N.Y.C. townhouse",
+      "d": "Former Fox News host Maria Bartiromo has offloaded her Upper East Side townhouse for $7 million, according to property records.",
+      "u": "https://www.marketwatch.com/story/former-fox-news-anchor-maria-bartiromo-sells-7-million-n-y-c-townhouse-ef993dbb?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-66731197",
+      "published": "2026-11-19T10:03:00+00:00"
+    },
+    {
+      "h": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
+      "es": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
+      "d": "The drugmaker cited strong demand for its blockbuster drugs as it upgraded peak sales forecasts for multiple sclerosis, leukemia, and cholesterol medicines.",
+      "u": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T09:57:53+00:00"
+    },
+    {
+      "h": "Tereos cuts profit outlook after poor French sugar beet harvest",
+      "es": "Tereos cuts profit outlook after poor French sugar beet harvest",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/tereos-cuts-profit-outlook-after-poor-french-sugar-beet-harvest-93CH-5038200",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "published": "2026-11-19T09:42:29+00:00"
+    },
+    {
+      "h": "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover",
+      "es": "Exclusive-UniCredit and Germany reach broad agreement on Commerzbank takeover",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAH298_L.jpg",
+      "published": "2026-11-19T09:42:20+00:00"
+    },
+    {
+      "h": "Close Brothers shares plunge 10% on margin pressure warning",
+      "es": "Close Brothers shares plunge 10% on margin pressure warning",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/close-brothers-shares-plunge-10-on-margin-pressure-warning-5038189",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-11-19T09:36:08+00:00"
+    },
+    {
+      "h": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+      "es": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+      "d": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
+      "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T09:34:17+00:00"
+    },
+    {
+      "h": "Nasdaq futures jump as Anthropic’s record IPO pricing fuels hopes for strong debut",
+      "es": "Nasdaq futures jump as Anthropic’s record IPO pricing fuels hopes for strong debut",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAI0TV_L.jpg",
+      "published": "2026-11-19T09:30:25+00:00"
+    },
+    {
+      "h": "Anthropic secures $81 billion in record IPO, valuing it at about $1.5 trillion",
+      "es": "Anthropic secures $81 billion in record IPO, valuing it at about $1.5 trillion",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-weighs-ipo-pricing-of-8085-a-share-bloomberg-reports-5036963",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/moved_LYNXNPEMAG1HB_L.jpg",
+      "published": "2026-11-19T09:30:10+00:00"
+    },
+    {
+      "h": "Why is PayPoint stock tumbling today?",
+      "es": "Why is PayPoint stock tumbling today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-paypoint-stock-tumbling-today-93CH-5038175",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "published": "2026-11-19T09:27:28+00:00"
+    },
+    {
+      "h": "Why is Medios stock sliding today?",
+      "es": "Why is Medios stock sliding today?",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/why-is-medios-stock-sliding-today-93CH-5038174",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-11-19T09:26:41+00:00"
+    },
+    {
+      "h": "Medios shares jump 8% after new buyback program announced",
+      "es": "Medios shares jump 8% after new buyback program announced",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/medios-shares-jump-8-after-new-buyback-program-announced-93CH-5038173",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published": "2026-11-19T09:20:43+00:00"
+    },
+    {
+      "h": "Here’s the precise moment when cyberattacks started increasing exponentially",
+      "es": "Here’s the precise moment when cyberattacks started increasing exponentially",
+      "d": "One of the world’s top hedge funds has identified the exact moment of time when cyber incidents have started to surge.",
+      "u": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04281841",
+      "published": "2026-11-19T09:13:00+00:00"
+    },
+    {
+      "h": "Anthropic IPO to mint thousands of millionaires",
+      "es": "Anthropic IPO to mint thousands of millionaires",
+      "d": "",
+      "u": "https://www.investing.com/news/stock-market-news/anthropic-ipo-to-mint-thousands-ofmillionaires-5036941",
+      "s": "Investing.com",
+      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAH22L_L.jpg",
+      "published": "2026-11-19T09:13:00+00:00"
+    },
+    {
+      "h": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+      "es": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+      "d": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T09:02:00+00:00"
+    },
+    {
+      "h": "This closely-watched guru just sold everything",
+      "es": "This closely-watched guru just sold everything",
+      "d": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim Klement has effectively had his personal retirement portfolio 100% invested in stocks for many years.",
+      "u": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-94115378",
+      "published": "2026-11-19T08:25:00+00:00"
+    },
+    {
+      "h": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "es": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "d": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+      "u": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T07:38:29+00:00"
+    },
+    {
+      "h": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "es": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "d": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
+      "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T07:32:56+00:00"
+    },
+    {
+      "h": "Increase in direct cremations since pandemic",
+      "es": "Increase in direct cremations since pandemic",
+      "d": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
+      "u": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
+      "published": "2026-11-19T06:23:22+00:00"
+    },
+    {
+      "h": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+      "es": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+      "d": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+      "u": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T06:07:29+00:00"
+    },
+    {
+      "h": "Leftover pumpkins help deliver 1,000th free meal",
+      "es": "Leftover pumpkins help deliver 1,000th free meal",
+      "d": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+      "u": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+      "s": "BBC Business",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/0f7739c0-e3df-11f1-95b9-4f56547154ff.jpg",
+      "published": "2026-11-19T06:04:30+00:00"
+    },
+    {
+      "h": "Walmart is set to report earnings before the bell. Here's what to expect",
+      "es": "Walmart is set to report earnings before the bell. Here's what to expect",
+      "d": "Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience.",
+      "u": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "s": "CNBC Markets",
+      "img": "",
+      "published": "2026-11-19T05:01:01+00:00"
+    },
+    {
+      "h": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "es": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "d": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-04093243",
+      "published": "2026-11-19T03:45:00+00:00"
+    },
+    {
+      "h": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "es": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "d": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "u": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "s": "MarketWatch",
+      "img": "https://images.mktw.net/im-72281427",
+      "published": "2026-11-19T03:45:00+00:00"
+    },
+    {
+      "h": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "es": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "d": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
+      "u": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T03:43:38+00:00"
+    },
+    {
+      "h": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "es": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "d": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+      "u": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "s": "CNBC",
+      "img": "",
+      "published": "2026-11-19T02:49:35+00:00"
+    },
     {
       "h": "Elon Musk says record spending on US midterms was 'pretty foolish'",
       "es": "Elon Musk dice que el gasto récord en las elecciones intermedias de Estados Unidos fue \"bastante tonto\"",
@@ -36,240 +270,6 @@
       "s": "Investing.com",
       "img": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
       "published": "2026-11-19T01:37:29+00:00"
-    },
-    {
-      "h": "Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age",
-      "es": "Las acciones de Palo Alto aumentan a medida que todos los signos apuntan a la importancia de la ciberseguridad en la era de la IA",
-      "d": "La necesidad de plataformas de ciberseguridad integrales y de respuesta rápida nunca ha sido mayor.",
-      "u": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-19T01:29:06+00:00"
-    },
-    {
-      "h": "Who are the investors ready to jump on Anthropic?",
-      "es": "¿Quiénes son los inversores dispuestos a apostar por Anthropic?",
-      "d": "Samira Hussain, de la BBC, habla con un inversor minorista que espera ansiosamente que las acciones de la empresa de inteligencia artificial entren en funcionamiento el jueves.",
-      "u": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg",
-      "published": "2026-11-19T01:22:38+00:00"
-    },
-    {
-      "h": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "es": "Las acciones de Palo Alto Networks reciben un nuevo impulso gracias a las ganancias impulsadas por la IA",
-      "d": "La compañía mejora sus perspectivas ante el “entorno de amenazas actual y la demanda que vemos por delante”.",
-      "u": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-839193",
-      "published": "2026-11-19T01:02:00+00:00"
-    },
-    {
-      "h": "Musk says he felt ’pretty foolish’ about scale of midterm spending after Republican rout",
-      "es": "Musk dice que se sintió \"bastante tonto\" por la escala del gasto de mitad de período después de la derrota republicana",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout-5037471",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published": "2026-11-19T01:00:37+00:00"
-    },
-    {
-      "h": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "es": "“He sido ama de casa”: tengo 50 años y una enfermedad crónica. Mi marido perdió su trabajo. ¿Debería atacar su 401(k)?",
-      "d": "\"Nuestra situación financiera y sanitaria se ha vuelto cada vez más preocupante\".",
-      "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-96657818",
-      "published": "2026-11-19T01:00:00+00:00"
-    },
-    {
-      "h": "Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute",
-      "es": "Palo Alto eleva el pronóstico anual y firma un acuerdo de 4.500 millones de dólares para Applied Compute",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/palo-alto-raises-annual-forecast-signs-45-billion-deal-for-applied-compute-5037460",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAI023_L.jpg",
-      "published": "2026-11-19T00:48:22+00:00"
-    },
-    {
-      "h": "KPMG Canada confirms cyber incident, unauthorized access to some clients’ tax documents",
-      "es": "KPMG Canadá confirma incidente cibernético y acceso no autorizado a los documentos fiscales de algunos clientes",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/client-files-at-kpmg-canada-compromised-in-data-breach-the-globe-and-mail-reports-5037148",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAH25D_L.jpg",
-      "published": "2026-11-19T00:42:54+00:00"
-    },
-    {
-      "h": "NSA outage hits Georgia facility supporting Middle East operations- CNN",
-      "es": "Un apagón de la NSA afecta a unas instalaciones de Georgia que apoyan las operaciones en Oriente Medio - CNN",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/nsa-outage-hits-georgia-facility-supporting-middle-east-operations-cnn-93CH-5037450",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "published": "2026-11-19T00:40:26+00:00"
-    },
-    {
-      "h": "Anthropic clinches biggest IPO ever with $81 billion offering",
-      "es": "Anthropic logra la mayor oferta pública inicial de su historia con una oferta de 81.000 millones de dólares",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAH24H_L.jpg",
-      "published": "2026-11-19T00:36:55+00:00"
-    },
-    {
-      "h": "Why is Sunrise Energy Metals stock sliding today?",
-      "es": "¿Por qué están cayendo las acciones de Sunrise Energy Metals hoy?",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/why-is-sunrise-energy-metals-stock-sliding-today-93CH-5037444",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/news/LYNXNPEC0Q0D0_M.jpg",
-      "published": "2026-11-19T00:36:48+00:00"
-    },
-    {
-      "h": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
-      "es": "Uno de los mares más disputados del mundo está resultando demasiado difícil de resolver para los líderes de Asia",
-      "d": "La cumbre de la ASEAN en Filipinas no logró concluir el Código de Conducta para el Mar Meridional de China a pesar de que Manila prometió que esto sucedería este año.",
-      "u": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-19T00:31:00+00:00"
-    },
-    {
-      "h": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-      "es": "“La agitación de Nvidia me tiene asustado”: ​​¿debería vender mis acciones y comprar bienes raíces o capear la tormenta?",
-      "d": "¿Está tentado a deshacerse de las acciones por propiedades o CD? Respire profundamente antes de realizar cualquier movimiento brusco.",
-      "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-49247042",
-      "published": "2026-11-19T00:30:00+00:00"
-    },
-    {
-      "h": "Sanofi’s pill becomes first US-approved drug for rare neurological disorder",
-      "es": "La píldora de Sanofi se convierte en el primer fármaco aprobado en EE. UU. para un trastorno neurológico poco común",
-      "d": "",
-      "u": "https://www.investing.com/news/stock-market-news/sanofis-pill-becomes-first-usapproved-drug-for-rare-neurological-disorder-5037428",
-      "s": "Investing.com",
-      "img": "https://content-media.investing.com/trkd-images/LYNXNPEMAH230_L.jpg",
-      "published": "2026-11-19T00:24:49+00:00"
-    },
-    {
-      "h": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "es": "Kash Patel se salta la audiencia de la Cámara después de la gala de Mar-a-Lago con acceso de 50.000 dólares",
-      "d": "Kash Patel se perdió una audiencia en el Congreso después de aparecer la noche anterior en una gala de Mar-a-Lago que ofrecía a los donantes de 50.000 dólares acceso a altos funcionarios.",
-      "u": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-19T00:08:14+00:00"
-    },
-    {
-      "h": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-      "es": "Palo Alto firma un acuerdo de 4.500 millones de dólares para la startup de IA Applied Compute, las acciones suben un 7% gracias a las ganancias",
-      "d": "Palo Alto Networks ha ido adquiriendo empresas de manera constante para capitalizar la demanda de herramientas cibernéticas para luchar contra la IA.",
-      "u": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-      "s": "CNBC Markets",
-      "img": "",
-      "published": "2026-11-19T00:07:06+00:00"
-    },
-    {
-      "h": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-      "es": "Boletín Inside India: Los flujos extranjeros ayudaron a que el mercado se recuperara. Ahora enfrenta la prueba de la inflación",
-      "d": "La inflación de la India, que ha estado aumentando durante 12 meses consecutivos, se está convirtiendo en un riesgo para el crecimiento y para la reversión de las entradas de capitales extranjeros.",
-      "u": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-19T00:01:23+00:00"
-    },
-    {
-      "h": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "es": "Abuso sexual en McDonald's: 'Estaban esperando que las chicas más jóvenes cumplieran 18 años'",
-      "d": "Un ex trabajador de McDonald's pide a la empresa que \"cambie la forma en que tratan a los empleados más jóvenes\", mientras un juez dictamina que un caso legal contra la cadena puede seguir adelante.",
-      "u": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
-      "published": "2026-11-19T00:00:59+00:00"
-    },
-    {
-      "h": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "es": "¿Por qué Waymo ha retirado todos sus coches sin conductor de las autopistas estadounidenses?",
-      "d": "Los vehículos operan actualmente en 15 ciudades de Estados Unidos, aunque los viajes por autopista sólo se ofrecen en unas pocas, incluidas San Francisco y Los Ángeles.",
-      "u": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
-      "published": "2026-11-18T23:47:46+00:00"
-    },
-    {
-      "h": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "es": "Anthropic, creador de Claude, se prepara para debutar en bolsa por más de 1,4 billones de dólares",
-      "d": "Anthropic comenzó hace apenas cinco años y ahora es uno de los nombres más importantes en inteligencia artificial.",
-      "u": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-      "published": "2026-11-18T23:44:27+00:00"
-    },
-    {
-      "h": "The seven Anthropic founders who are about to become multi-billionaires",
-      "es": "Los siete fundadores de Anthropic que están a punto de convertirse en multimillonarios",
-      "d": "La empresa de inteligencia artificial detrás de Claude está a punto de vender sus acciones en el mercado de valores estadounidense, enriqueciendo así a sus fundadores.",
-      "u": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "published": "2026-11-18T23:42:07+00:00"
-    },
-    {
-      "h": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-      "es": "Las grandes apuestas contra la deuda de IA, desde CoreWeave hasta Oracle y Mag 7, pronto podrían llegar al mercado de ETF",
-      "d": "Los temores de los inversores sobre los balances y la deuda de la IA están aumentando, especialmente en el caso de las neonubes. Están llegando los ETF dirigidos a los swaps de incumplimiento crediticio de los emisores de IA.",
-      "u": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-18T23:38:55+00:00"
-    },
-    {
-      "h": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-      "es": "Qué significa la \"cruz de la muerte\" en las acciones de pequeña capitalización para el resto del mercado",
-      "d": "El patrón gráfico negativo confirma la debilidad del Russell 2000 y de la amplitud general del mercado.",
-      "u": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-10621369",
-      "published": "2026-11-18T23:12:00+00:00"
-    },
-    {
-      "h": "How copper’s plunge could hurt the AI buildout",
-      "es": "Cómo la caída del cobre podría perjudicar el desarrollo de la IA",
-      "d": "Es posible que el mundo no pueda extraer suficiente cobre para satisfacer la demanda de IA en los próximos años.",
-      "u": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-00878096",
-      "published": "2026-11-18T23:02:00+00:00"
-    },
-    {
-      "h": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "es": "Gilts versus kilts: ¿Qué está pasando con los bonos del gobierno escocés?",
-      "d": "¿Los MSP han escuchado los pros y los contras del plan del gobierno de lanzar su primer bono al mercado?",
-      "u": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-      "s": "BBC Business",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-      "published": "2026-11-18T23:01:09+00:00"
-    },
-    {
-      "h": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-      "es": "El mercado de valores está siendo sacudido por la mayor sacudida en una generación a medida que la tecnología se queda atrás",
-      "d": "Las acciones tecnológicas parecen baratas, mientras que los sectores defensivos, como los de consumo básico, se consideran caros.",
-      "u": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "s": "MarketWatch",
-      "img": "https://images.mktw.net/im-28661518",
-      "published": "2026-11-18T22:53:00+00:00"
-    },
-    {
-      "h": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-      "es": "El entusiasmo de los inversores minoristas por la oferta pública inicial de Anthropic rivalizará con el debut de SpaceX",
-      "d": "Anthropic se está preparando para una oferta pública inicial de gran éxito esta semana, y el entusiasmo entre los inversores minoristas parece estar fuera de serie.",
-      "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-      "s": "CNBC",
-      "img": "",
-      "published": "2026-11-18T22:37:00+00:00"
     }
   ],
   "sources": [
