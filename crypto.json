@@ -1,97 +1,97 @@
 {
   "provider": "CoinGecko",
   "currency": "USD",
-  "updated": "2026-11-24T05:33:42.371276+00:00",
+  "updated": "2026-11-24T16:21:08.495344+00:00",
   "coins": [
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "price": 60676.0,
-      "change24h": -1.14839,
-      "high24h": 64446.0,
-      "low24h": 59467.0,
-      "volume24h": 38550503350.0
+      "price": 59507.0,
+      "change24h": -5.06257,
+      "high24h": 62196.0,
+      "low24h": 59380.0,
+      "volume24h": 32280467182.0
     },
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "price": 1706.61,
-      "change24h": -1.21711,
-      "high24h": 1838.36,
-      "low24h": 1672.41,
-      "volume24h": 15253358281.0
+      "price": 1668.93,
+      "change24h": -5.70511,
+      "high24h": 1767.68,
+      "low24h": 1670.83,
+      "volume24h": 12174330346.0
     },
     {
       "name": "BNB",
       "symbol": "BNB",
-      "price": 554.8,
-      "change24h": -0.75323,
-      "high24h": 585.9,
-      "low24h": 545.36,
-      "volume24h": 791338183.0
+      "price": 544.36,
+      "change24h": -4.15395,
+      "high24h": 565.85,
+      "low24h": 543.18,
+      "volume24h": 561157579.0
     },
     {
       "name": "Solana",
       "symbol": "SOL",
-      "price": 71.69,
-      "change24h": 0.11847,
-      "high24h": 78.28,
-      "low24h": 70.29,
-      "volume24h": 3663615026.0
+      "price": 68.83,
+      "change24h": -8.33915,
+      "high24h": 74.58,
+      "low24h": 68.64,
+      "volume24h": 2891577433.0
     },
     {
       "name": "XRP",
       "symbol": "XRP",
-      "price": 0.955162,
-      "change24h": 2.19612,
-      "high24h": 1.024,
-      "low24h": 0.932674,
-      "volume24h": 2347013597.0
+      "price": 0.911785,
+      "change24h": -7.5629,
+      "high24h": 0.972831,
+      "low24h": 0.910283,
+      "volume24h": 1901306546.0
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
-      "price": 0.149246,
-      "change24h": 2.71092,
-      "high24h": 0.15607,
-      "low24h": 0.14493,
-      "volume24h": 365420597.0
+      "price": 0.14295,
+      "change24h": -7.08345,
+      "high24h": 0.153237,
+      "low24h": 0.142752,
+      "volume24h": 262038719.0
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "price": 0.056681,
-      "change24h": 2.07313,
-      "high24h": 0.060101,
-      "low24h": 0.055313,
-      "volume24h": 637298892.0
+      "price": 0.054469,
+      "change24h": -6.90827,
+      "high24h": 0.058212,
+      "low24h": 0.054505,
+      "volume24h": 510082860.0
     },
     {
       "name": "Chainlink",
       "symbol": "LINK",
-      "price": 9.1,
-      "change24h": 1.92187,
-      "high24h": 9.53,
-      "low24h": 8.86,
-      "volume24h": 326116137.0
+      "price": 8.75,
+      "change24h": -5.14032,
+      "high24h": 9.24,
+      "low24h": 8.75,
+      "volume24h": 304539282.0
     },
     {
       "name": "Avalanche",
       "symbol": "AVAX",
-      "price": 6.83,
-      "change24h": 2.28035,
-      "high24h": 7.21,
-      "low24h": 6.68,
-      "volume24h": 211890326.0
+      "price": 6.49,
+      "change24h": -7.5213,
+      "high24h": 6.98,
+      "low24h": 6.49,
+      "volume24h": 201230660.0
     },
     {
       "name": "TRON",
       "symbol": "TRX",
-      "price": 0.309214,
-      "change24h": 1.2171,
+      "price": 0.307553,
+      "change24h": -1.13115,
       "high24h": 0.312162,
-      "low24h": 0.304807,
-      "volume24h": 414104299.0
+      "low24h": 0.306853,
+      "volume24h": 340410740.0
     }
   ]
 }
